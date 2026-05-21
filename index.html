@@ -1,0 +1,715 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NewJeans — Official Retro-Futuristic Club</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="images/hanni.png" />
+  </head>
+  <body>
+    <div class="cursor-glow" id="cursorGlow"></div>
+
+    <canvas id="cometCanvas"></canvas>
+
+    <nav class="navbar" id="navbar">
+      <div class="nav-inner">
+        <a href="#home" class="nav-brand">
+          <span class="brand-text">NEWJEANS</span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="#home" class="nav-link active">Home</a></li>
+          <li><a href="#tracks" class="nav-link">Tracks</a></li>
+          <li><a href="#schedule" class="nav-link">Schedule</a></li>
+          <li><a href="#gallery" class="nav-link">Gallery</a></li>
+          <li><a href="#about" class="nav-link">About</a></li>
+          <li><a href="#discography" class="nav-link">Discography</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a href="#discography" class="btn btn-nav">Stream Club</a>
+        </div>
+      </div>
+    </nav>
+
+    <section id="home" class="hero">
+      <div class="hero-bg-overlay"></div>
+      <div class="hero-inner">
+        <div class="hero-tag" data-reveal="scale">THE NEW ERA OF POP</div>
+        <div class="hero-logo-wrap" data-reveal="up">
+          <img
+            src="images/logo.png"
+            alt="NewJeans Official Logo"
+            class="hero-logo-img" />
+        </div>
+        <p class="hero-subtitle" data-reveal="up">
+          Breaking the boundaries of time and space with retro Y2K aesthetics
+          and addictive futuristic rhythms.
+        </p>
+        <div class="hero-ctas" data-reveal="up">
+          <a href="#tracks" class="btn btn-glitch">
+            <span class="btn-text">Listen Now</span>
+            <span class="btn-icon">&rarr;</span>
+          </a>
+          <a href="#schedule" class="btn btn-secondary">See Schedule</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="marquee-container">
+      <div class="marquee-track">
+        <span
+          >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
+          SUPERNATURAL * BUBBLE GUM *
+        </span>
+        <span
+          >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
+          SUPERNATURAL * BUBBLE GUM *
+        </span>
+      </div>
+    </div>
+
+    <section id="tracks" class="sec tracks-sec">
+      <div class="container">
+        <div class="sec-header center">
+          <h2 class="sec-title center" data-reveal>Top 3 Tracks</h2>
+          <p class="sec-desc center" data-reveal>
+            Three iconic masterpieces that dominated global charts and captured
+            the hearts of millions of Bunnies worldwide.
+          </p>
+        </div>
+
+        <div class="carousel-wrap" data-reveal="scale">
+          <div class="carousel-stage">
+            <div class="carousel-track" id="tracksCarousel">
+              <div class="track-card">
+                <div class="track-art-wrap">
+                  <img
+                    src="images/get-up.jpg"
+                    alt="Get Up cover"
+                    class="track-art" />
+                  <span class="track-number">01</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">MINI ALBUM</p>
+                  <h3 class="track-name">Super Shy</h3>
+                  <p class="track-info">Get Up - 2023</p>
+                  <div class="track-links">
+                    <a href="#" class="plat spotify">Spotify</a>
+                    <a href="#" class="plat apple">Apple</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="track-card">
+                <div class="track-art-wrap">
+                  <img
+                    src="images/get-up.jpg"
+                    alt="Get Up cover"
+                    class="track-art" />
+                  <span class="track-number">02</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">MINI ALBUM</p>
+                  <h3 class="track-name">ETA</h3>
+                  <p class="track-info">Get Up - 2023</p>
+                  <div class="track-links">
+                    <a href="#" class="plat spotify">Spotify</a>
+                    <a href="#" class="plat apple">Apple</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="track-card">
+                <div class="track-art-wrap">
+                  <img
+                    src="images/newjeans.jpg"
+                    alt="NewJeans cover"
+                    class="track-art" />
+                  <span class="track-number">03</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">DEBUT MINI ALBUM</p>
+                  <h3 class="track-name">Hype Boy</h3>
+                  <p class="track-info">NewJeans - 2022</p>
+                  <div class="track-links">
+                    <a href="#" class="plat spotify">Spotify</a>
+                    <a href="#" class="plat apple">Apple</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-controls">
+            <button
+              class="carousel-btn prev"
+              id="carouselPrev"
+              aria-label="Previous Track">
+              &larr;
+            </button>
+            <div class="carousel-dots" id="carouselDots">
+              <span class="cdot active" data-idx="0"></span>
+              <span class="cdot" data-idx="1"></span>
+              <span class="cdot" data-idx="2"></span>
+            </div>
+            <button
+              class="carousel-btn next"
+              id="carouselNext"
+              aria-label="Next Track">
+              &rarr;
+            </button>
+          </div>
+        </div>
+
+        <div class="tracks-actions" data-reveal>
+          <a href="#discography" class="btn btn-outline">Explore All Tracks</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="schedule" class="sec schedule-sec">
+      <div class="container">
+        <div class="schedule-layout">
+          <div class="schedule-left">
+            <span class="sec-badge" data-reveal="left">LIVE EVENT</span>
+            <h2 class="sec-title" data-reveal="left">Upcoming Schedule</h2>
+            <p class="sec-desc" data-reveal="left">
+              Catch the magical moments of NewJeans performing live on grand
+              international stages.
+            </p>
+
+            <div class="sched-list" data-stagger>
+              <div class="sched-item">
+                <div class="sched-date-box">
+                  <span class="sched-month">AUG</span>
+                  <span class="sched-day">15</span>
+                </div>
+                <div class="sched-info">
+                  <p class="sched-name">NewJeans World Tour 2026</p>
+                  <p class="sched-loc">Seoul Olympic Stadium, Korea</p>
+                  <span class="sched-tag available">Tickets Available</span>
+                </div>
+              </div>
+              <div class="sched-item">
+                <div class="sched-date-box">
+                  <span class="sched-month">SEP</span>
+                  <span class="sched-day">03</span>
+                </div>
+                <div class="sched-info">
+                  <p class="sched-name">How Sweet Fan Concert</p>
+                  <p class="sched-loc">Tokyo Dome, Japan</p>
+                  <span class="sched-tag soldout">Sold Out</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="sched-actions" data-reveal="left">
+              <a href="#" class="btn btn-primary">Book Official Tickets</a>
+            </div>
+          </div>
+          <div class="schedule-right" data-reveal="right">
+            <div class="sched-visual-container">
+              <div
+                class="placeholder-grad sched-visual"
+                style="--c1: #0f172a; --c2: #1e3a5f">
+                <div class="visual-overlay-logo">NJ</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="gallery" class="sec gallery-sec">
+      <div class="container">
+        <div class="sec-header center">
+          <span class="sec-badge" data-reveal>VISUAL ARCHIVE</span>
+          <h2 class="sec-title center" data-reveal>Gallery Highlight</h2>
+        </div>
+
+        <div class="gallery-grid" data-stagger>
+          <div class="gallery-card">
+            <div class="gallery-img-container">
+              <div
+                class="placeholder-grad gallery-img"
+                style="--c1: #0ea5e9; --c2: #8b5cf6"></div>
+              <div class="gallery-hover-overlay"><span>Zoom In</span></div>
+            </div>
+            <div class="gallery-meta">
+              <div>
+                <p class="gmeta-tag">2026 . MV SHOOT</p>
+                <p class="gmeta-by">NewJeans Official</p>
+              </div>
+              <div class="gmeta-icons"><span>View</span></div>
+            </div>
+          </div>
+
+          <div class="gallery-card">
+            <div class="gallery-img-container">
+              <div
+                class="placeholder-grad gallery-img"
+                style="--c1: #f43f5e; --c2: #f97316"></div>
+              <div class="gallery-hover-overlay"><span>Zoom In</span></div>
+            </div>
+            <div class="gallery-meta">
+              <div>
+                <p class="gmeta-tag">2026 . FAN MEETING</p>
+                <p class="gmeta-by">NewJeans Official</p>
+              </div>
+              <div class="gmeta-icons"><span>View</span></div>
+            </div>
+          </div>
+
+          <div class="gallery-card">
+            <div class="gallery-img-container">
+              <div
+                class="placeholder-grad gallery-img"
+                style="--c1: #10b981; --c2: #3b82f6"></div>
+              <div class="gallery-hover-overlay"><span>Zoom In</span></div>
+            </div>
+            <div class="gallery-meta">
+              <div>
+                <p class="gmeta-tag">2025 . CONCEPT PHOTO</p>
+                <p class="gmeta-by">NewJeans Official</p>
+              </div>
+              <div class="gmeta-icons"><span>View</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="gallery-cta-strip" data-reveal="up">
+          <p>
+            Explore aesthetic memories, behind-the-scenes music video shoots,
+            and exclusive Y2K concept photos.
+          </p>
+          <a href="#" class="btn btn-primary">View Full Gallery</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="sec about-sec">
+      <div class="container">
+        <div class="history-stagger" data-stagger>
+          <div class="history-block pos-left" data-reveal="left">
+            <div class="hb-num">01</div>
+            <h3 class="hb-title">The Beginning</h3>
+            <p class="hb-text">
+              NewJeans disrupted the K-Pop industry with natural charm,
+              delivering a breath of fresh air with pure retro-pop and kitsch
+              musical transitions.
+            </p>
+          </div>
+          <div class="history-block pos-right" data-reveal="right">
+            <div class="hb-num">02</div>
+            <h3 class="hb-title">Growing Together</h3>
+            <p class="hb-text">
+              Every release is a visual concept revolution. Global
+              collaborations, strong character, and freedom of expression are
+              our main pillars.
+            </p>
+          </div>
+          <div class="history-block pos-left" data-reveal="left">
+            <div class="hb-num">03</div>
+            <h3 class="hb-title">A Sound That Stays Close</h3>
+            <p class="hb-text">
+              Just like a pair of timeless jeans, our music is designed to
+              accompany your daily life and stay in your heart forever.
+            </p>
+          </div>
+        </div>
+
+        <div class="section-heading-block">
+          <span class="sec-badge" data-reveal>THE INCEPTION</span>
+          <h2 class="sec-title center" data-reveal>Group History</h2>
+        </div>
+
+        <div class="group-photo-wrap" data-reveal="up">
+          <div
+            class="group-photo placeholder-grad"
+            style="--c1: #0f172a; --c2: #1e3a5f">
+            <div class="photo-core-logo">NEWJEANS</div>
+          </div>
+          <p class="group-photo-caption">
+            "We are NewJeans! A harmony of togetherness defining the music of a
+            new generation."
+          </p>
+        </div>
+
+        <div class="section-heading-block mt-xl">
+          <span class="sec-badge" data-reveal>INDIVIDUAL IDENTITIES</span>
+          <h2 class="sec-title center" data-reveal>Member Profiles</h2>
+          <p class="sec-desc center" data-reveal>
+            The unique touch of five extraordinary personas with their authentic
+            talents.
+          </p>
+        </div>
+
+        <div class="members-grid" data-stagger>
+          <div class="member-card" style="--mc: #7c3aed">
+            <div class="mc-sprite-frame">
+              <div class="mc-sprite">
+                <img
+                  src="images/minji-profile.jpg"
+                  alt="Minji Sprite"
+                  class="member-sprite" />
+              </div>
+            </div>
+            <div class="mc-info">
+              <h3 class="mc-name">Minji</h3>
+              <p class="mc-real">Kim Min-ji</p>
+              <p class="mc-dob">May 07, 2004 — Leader Aura</p>
+              <blockquote class="mc-quote">
+                "I want to be a sincere pillar of strength for everyone through
+                our work."
+              </blockquote>
+            </div>
+          </div>
+
+          <div class="member-card" style="--mc: #ec4899">
+            <div class="mc-sprite-frame">
+              <div class="mc-sprite">
+                <img
+                  src="images/hanni-profile.jpg"
+                  alt="Hanni profile"
+                  class="member-sprite" />
+              </div>
+            </div>
+            <div class="mc-info">
+              <h3 class="mc-name">Hanni</h3>
+              <p class="mc-real">Hanni Pham</p>
+              <p class="mc-dob">Oct 06, 2004 — Vocal Specialist</p>
+              <blockquote class="mc-quote">
+                "Music is my safest space to share love with every corner of the
+                world."
+              </blockquote>
+            </div>
+          </div>
+
+          <div class="member-card" style="--mc: #3b82f6">
+            <div class="mc-sprite-frame">
+              <div class="mc-sprite">
+                <img
+                  src="images/danielle-profile.jpg"
+                  alt="Danielle profile"
+                  class="member-sprite" />
+              </div>
+            </div>
+            <div class="mc-info">
+              <h3 class="mc-name">Danielle</h3>
+              <p class="mc-real">Danielle Marsh</p>
+              <p class="mc-dob">Apr 11, 2005 — Pure Energy</p>
+              <blockquote class="mc-quote">
+                "Every step on stage feels magical and thrilling, just like the
+                first adventure!"
+              </blockquote>
+            </div>
+          </div>
+
+          <div class="member-card" style="--mc: #10b981">
+            <div class="mc-sprite-frame">
+              <div class="mc-sprite">
+                <img
+                  src="images/haerin-profile.jpg"
+                  alt="Haerin profile"
+                  class="member-sprite" />
+              </div>
+            </div>
+            <div class="mc-info">
+              <h3 class="mc-name">Haerin</h3>
+              <p class="mc-real">Kang Hae-rin</p>
+              <p class="mc-dob">May 15, 2006 — Sharp Dancer</p>
+              <blockquote class="mc-quote">
+                "Let my eyes and body language tell the story of the deep
+                emotions behind the melody."
+              </blockquote>
+            </div>
+          </div>
+
+          <div class="member-card" style="--mc: #f59e0b">
+            <div class="mc-sprite-frame">
+              <div class="mc-sprite">
+                <img
+                  src="images/hyein-profile.jpg"
+                  alt="Hyein profile"
+                  class="member-sprite" />
+              </div>
+            </div>
+            <div class="mc-info">
+              <h3 class="mc-name">Hyein</h3>
+              <p class="mc-real">Lee Hye-in</p>
+              <p class="mc-dob">Apr 21, 2008 — Bold Maknae</p>
+              <blockquote class="mc-quote">
+                "Let's make a beautiful big wave together with the vibration of
+                our youth energy!"
+              </blockquote>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="discography" class="sec disco-sec">
+      <div class="container disco-container">
+        <div class="sec-header center">
+          <span class="sec-badge" data-reveal>DISCOGRAPHY CONTROLLER</span>
+          <h2 class="sec-title center" data-reveal>Music Discography</h2>
+        </div>
+
+        <div class="disco-chips" data-reveal>
+          <button class="chip active" data-filter="all">All Releases</button>
+          <button class="chip" data-filter="mini-album">Mini Album</button>
+          <button class="chip" data-filter="single">Single</button>
+          <button class="chip" data-filter="collab">Collaboration</button>
+        </div>
+
+        <div class="disco-control-grid" data-reveal>
+          <div class="control-box search-box">
+            <label class="dp-label" for="searchInput"
+              >Search Release Title</label
+            >
+            <div class="input-wrapper">
+              <input
+                class="search-input"
+                type="text"
+                id="searchInput"
+                placeholder="Type keywords (e.g., Ditto, OMG...)" />
+            </div>
+          </div>
+
+          <div class="control-box category-box">
+            <label class="dp-label" for="catSelect2">Release Category</label>
+            <select class="sort-select" id="catSelect2">
+              <option value="all">All Categories</option>
+              <option value="mini-album">Mini Album</option>
+              <option value="single">Single</option>
+              <option value="collab">Collaboration</option>
+            </select>
+          </div>
+
+          <div class="control-box sort-box">
+            <label class="dp-label" for="sortSelect">Sort By Year</label>
+            <select class="sort-select" id="sortSelect">
+              <option value="newest">Newest &rarr; Oldest</option>
+              <option value="oldest">Oldest &rarr; Newest</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="control-actions" data-reveal>
+          <button class="btn btn-reset" id="resetBtn">Reset Filters</button>
+          <button class="btn btn-apply" id="applyBtn">Apply Search</button>
+        </div>
+
+        <div class="release-list" id="releaseList" data-stagger>
+          <div class="release-row" data-type="mini-album" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/howsweet.jpg"
+                alt="How Sweet album cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">How Sweet</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: May 24, 2024</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> How Sweet
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Bubble Gum</li>
+                <li><span class="ti">03</span> Drowning</li>
+                <li><span class="ti">04</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat apple">Apple</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+         <div class="release-row" data-type="mini-album" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/get-up.jpg"
+                alt="Get Up Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Get Up</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Jul 21, 2023</p>
+              <ul class="rr-tracks">
+                <li><span class="ti">01</span> Super Shy <span class="title-flag">Title</span></li>
+                <li><span class="ti">02</span> New Jeans</li>
+                <li><span class="ti">03</span> ETA</li>
+                <li><span class="ti">04</span> Cool With You</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat apple">Apple</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="single" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/omg.jpg"
+                alt="OMG Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">OMG</h4>
+                <span class="rr-badge single">Single</span>
+              </div>
+              <p class="rr-date">Released: Jan 02, 2023</p>
+              <ul class="rr-tracks">
+                <li><span class="ti">01</span> OMG <span class="title-flag">Title</span></li>
+                <li><span class="ti">02</span> Ditto</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat apple">Apple</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="mini-album" data-year="2022">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/newjeans.jpg"
+                alt="NewJeans Debut Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">NewJeans (Debut)</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Aug 01, 2022</p>
+              <ul class="rr-tracks">
+                <li><span class="ti">01</span> Attention <span class="title-flag">Title</span></li>
+                <li><span class="ti">02</span> Hype Boy</li>
+                <li><span class="ti">03</span> Hurt</li>
+                <li><span class="ti">04</span> Cookie</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat apple">Apple</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="collab" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/supernatural.jpg"
+                alt="Supernatural Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Supernatural</h4>
+                <span class="rr-badge collab">Collaboration</span>
+              </div>
+              <p class="rr-date">Released: Jun 21, 2024</p>
+              <ul class="rr-tracks">
+                <li><span class="ti">01</span> Supernatural <span class="title-flag">Title</span></li>
+                <li><span class="ti">02</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat apple">Apple</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+        <div class="platform-row" data-reveal="up">
+          <div class="platform-main">
+            <h3 class="dp-heading">Global Streaming Portal</h3>
+            <p class="dp-sub">
+              Instant access across all official digitally licensed music
+              streaming platforms.
+            </p>
+          </div>
+          <div class="platform-rec">
+            <p class="dp-label">RECOMMENDED CLIENTS</p>
+            <div class="rec-dots">
+              <span
+                class="rec-dot"
+                style="background: #1db954"
+                title="Spotify"></span>
+              <span
+                class="rec-dot"
+                style="background: #fa5f55"
+                title="Apple Music"></span>
+              <span
+                class="rec-dot"
+                style="background: #ff4444"
+                title="YouTube Music"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <img
+            src="images/logo.png"
+            alt="NewJeans Branding Footer"
+            class="footer-logo" />
+          <p class="footer-nav">
+            Club Join . Privacy Policy . Distribution Terms . Contact Central
+          </p>
+          <p class="footer-sub">
+            &copy; 2026 NewJeans Fan Experience Hub. Engineered for advanced
+            fluid layout.
+          </p>
+        </div>
+        <p class="footer-tagline">
+          Made with love by Ahmad Zaki.
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
