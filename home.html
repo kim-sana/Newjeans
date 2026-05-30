@@ -1,0 +1,920 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - Website</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <video autoplay loop muted playsinline class="bg-video-global">
+      <source src="videos/mv.mp4" type="video/mp4" />
+    </video>
+
+    <nav class="navbar" id="dynamicNavbar">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Track</a></li>
+        <li><a href="#">Schedule</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#discography">Discography</a></li>
+        <li><a href="#">Members</a></li>
+      </ul>
+    </nav>
+
+    <section class="hero">
+      <div class="overlay"></div>
+      <img src="images/logo.png" alt="NewJeans Corner Logo" class="hero-logo" />
+    </section>
+
+    <section class="logo-section" id="logoSection">
+      <div class="overlay-dark"></div>
+
+      <div class="logo-container">
+        <img
+          src="images/logo.png"
+          alt="Logo Utama"
+          class="center-logo logo-shrunk" />
+      </div>
+
+      <div class="logo-actions-wrapper">
+        <button class="btn btn-primary">Listen Now</button>
+        <button class="btn btn-secondary">See Schedule</button>
+      </div>
+
+      <div class="marquee-container marquee-bottom">
+        <div class="marquee-track">
+          <span
+            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
+            SUPERNATURAL * BUBBLE GUM *
+          </span>
+          <span
+            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
+            SUPERNATURAL * BUBBLE GUM *
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <section class="tracks-section">
+      <div class="tracks-header">
+        <h2>Top 3 Tracks</h2>
+        <p>
+          Three iconic masterpieces that dominated global charts and captured
+          the hearts of millions of Bunnies worldwide.
+        </p>
+      </div>
+
+      <div class="carousel-wrap">
+        <div class="carousel-track" id="trackCarousel3D">
+          <div class="track-card pos-active">
+            <div class="track-art-wrap">
+              <div class="track-cd-wrap">
+                <img
+                  src="images/cd.webp"
+                  alt="Vinyl CD"
+                  class="track-cd-spin" />
+              </div>
+              <img src="images/newjeans.jpg" alt="Hype Boy" class="track-art" />
+              <span class="track-number">01</span>
+            </div>
+
+            <div class="track-body">
+              <div class="track-label">DEBUT MINI ALBUM</div>
+              <div class="track-name">Hype Boy</div>
+              <div class="track-info">NewJeans &bull; 2022</div>
+              <div class="track-links">
+                <a href="#" class="plat">SPOTIFY</a>
+                <a href="#" class="plat">YOUTUBE</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="track-card pos-next">
+            <div class="track-art-wrap">
+              <div class="track-cd-wrap">
+                <img
+                  src="images/cd.webp"
+                  alt="Vinyl CD"
+                  class="track-cd-spin" />
+              </div>
+              <img src="images/get-up.jpg" alt="Super Shy" class="track-art" />
+              <span class="track-number">02</span>
+            </div>
+
+            <div class="track-body">
+              <div class="track-label">MINI ALBUM</div>
+              <div class="track-name">Super Shy</div>
+              <div class="track-info">Get Up &bull; 2023</div>
+              <div class="track-links">
+                <a href="#" class="plat">SPOTIFY</a>
+                <a href="#" class="plat">YOUTUBE</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="track-card pos-prev">
+            <div class="track-art-wrap">
+              <div class="track-cd-wrap">
+                <img
+                  src="images/cd.webp"
+                  alt="Vinyl CD"
+                  class="track-cd-spin" />
+              </div>
+              <img src="images/get-up.jpg" alt="ETA" class="track-art" />
+              <span class="track-number">03</span>
+            </div>
+
+            <div class="track-body">
+              <div class="track-label">MINI ALBUM</div>
+              <div class="track-name">ETA</div>
+              <div class="track-info">Get Up &bull; 2023</div>
+              <div class="track-links">
+                <a href="#" class="plat">SPOTIFY</a>
+                <a href="#" class="plat">YOUTUBE</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-controls">
+          <button id="btnPrev3D" class="carousel-btn">&lt;</button>
+          <div class="carousel-dots">
+            <div class="cdot active" data-index="0"></div>
+            <div class="cdot" data-index="1"></div>
+            <div class="cdot" data-index="2"></div>
+          </div>
+          <button id="btnNext3D" class="carousel-btn">&gt;</button>
+        </div>
+      </div>
+
+      <div class="tracks-actions">
+        <button class="btn-explore">Explore All Tracks</button>
+      </div>
+    </section>
+
+    <section id="discography" class="sec disco-sec">
+      <div class="container disco-container">
+        <div class="sec-header center">
+          <h2 class="sec-title center" data-reveal>Music Discography</h2>
+        </div>
+
+        <div class="disco-chips" data-reveal>
+          <button class="chip active" data-filter="all">All Releases</button>
+          <button class="chip" data-filter="mini-album">Mini Album</button>
+          <button class="chip" data-filter="single">Single</button>
+          <button class="chip" data-filter="collab">Collaboration</button>
+        </div>
+
+        <div class="disco-control-grid" data-reveal>
+          <div class="control-box search-box">
+            <label class="dp-label" for="searchInput"
+              >Search Release Title</label
+            >
+            <div class="input-wrapper">
+              <input
+                class="search-input"
+                type="text"
+                id="searchInput"
+                placeholder="Type keywords (e.g., Ditto, OMG...)" />
+            </div>
+          </div>
+
+          <div class="control-box category-box">
+            <label class="dp-label" for="catSelect2">Release Category</label>
+            <select class="sort-select" id="catSelect2">
+              <option value="all">All Categories</option>
+              <option value="mini-album">Mini Album</option>
+              <option value="single">Single</option>
+              <option value="collab">Collaboration</option>
+            </select>
+          </div>
+
+          <div class="control-box sort-box">
+            <label class="dp-label" for="sortSelect">Sort By Year</label>
+            <select class="sort-select" id="sortSelect">
+              <option value="newest">Newest &rarr; Oldest</option>
+              <option value="oldest">Oldest &rarr; Newest</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="control-actions" data-reveal>
+          <button class="btn btn-reset" id="resetBtn">Reset Filters</button>
+          <button class="btn btn-apply" id="applyBtn">Apply Search</button>
+        </div>
+
+        <div class="release-list" id="releaseList" data-stagger>
+          <div class="release-row" data-type="mini-album" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/howsweet.jpg"
+                alt="How Sweet album cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">How Sweet</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: May 24, 2024</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> How Sweet
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Bubble Gum</li>
+                <li><span class="ti">03</span> Drowning</li>
+                <li><span class="ti">04</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="mini-album" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/get-up.jpg"
+                alt="Get Up Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Get Up</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Jul 21, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Super Shy
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> New Jeans</li>
+                <li><span class="ti">03</span> ETA</li>
+                <li><span class="ti">04</span> Cool With You</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="single" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/omg.jpg"
+                alt="OMG Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">OMG</h4>
+                <span class="rr-badge single">Single</span>
+              </div>
+              <p class="rr-date">Released: Jan 02, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> OMG
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Ditto</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="mini-album" data-year="2022">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/newjeans.jpg"
+                alt="NewJeans Debut Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">NewJeans (Debut)</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Aug 01, 2022</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Attention
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Hype Boy</li>
+                <li><span class="ti">03</span> Hurt</li>
+                <li><span class="ti">04</span> Cookie</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="collab" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/supernatural.jpg"
+                alt="Supernatural Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Supernatural</h4>
+                <span class="rr-badge collab">Collaboration</span>
+              </div>
+              <p class="rr-date">Released: Jun 21, 2024</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Supernatural
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="collab" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/gods.jpg"
+                alt="Gods Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Gods</h4>
+                <span class="rr-badge collab">Collaboration</span>
+              </div>
+              <p class="rr-date">Released: Oct 04, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Gods
+                  <span class="title-flag">Title</span>
+                </li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="single" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/zero.jpg"
+                alt="Zero Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Zero</h4>
+                <span class="rr-badge single">Single</span>
+              </div>
+              <p class="rr-date">Released: Apr 03, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Zero
+                  <span class="title-flag">Title</span>
+                </li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a>
+                <a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a>
+              <a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="gallery" class="gallery-section">
+      <div class="container gallery-container">
+        <div class="sec-header center">
+          <h2 class="sec-title center">Gallery</h2>
+        </div>
+
+        <div class="random-showcase" id="randomShowcase">
+          <div class="showcase-item">
+            <img src="images/gallery/gallery1.jpg" alt="NewJeans 1" />
+          </div>
+          <div class="showcase-item">
+            <img src="images/gallery/gallery2.jpg" alt="NewJeans 2" />
+          </div>
+          <div class="showcase-item">
+            <img src="images/gallery/gallery3.jpg" alt="NewJeans 3" />
+          </div>
+        </div>
+
+        <div class="masonry-wrapper" id="masonryWrapper">
+          <div class="masonry-grid">
+            <div class="masonry-item">
+              <img src="images/gallery/gallery1.jpg" alt="Gallery 1" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery2.jpg" alt="Gallery 2" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery3.jpg" alt="Gallery 3" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery4.jpg" alt="Gallery 4" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery5.jpg" alt="Gallery 5" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery6.jpg" alt="Gallery 6" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery7.jpg" alt="Gallery 7" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery8.jpg" alt="Gallery 8" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery9.jpg" alt="Gallery 9" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery10.jpg" alt="Gallery 10" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery11.jpg" alt="Gallery 11" />
+            </div>
+            <div class="masonry-item">
+              <img src="images/gallery/gallery12.jpg" alt="Gallery 12" />
+            </div>
+          </div>
+        </div>
+
+        <div class="gallery-actions">
+          <button id="expandGalleryBtn" class="btn btn-secondary">
+            View Full Gallery
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <div id="imageModal" class="image-modal">
+      <span class="close-modal" id="closeModal">&times;</span>
+
+      <button class="modal-nav-btn prev-btn" id="prevModalBtn">&lt;</button>
+      <img class="modal-content" id="modalImg" alt="Full View" />
+      <button class="modal-nav-btn next-btn" id="nextModalBtn">&gt;</button>
+    </div>
+
+    <script>
+      // === LOGIKA NAVBAR & HARD SCROLL BOUNDARY (SECTION 2) ===
+      document.addEventListener("DOMContentLoaded", () => {
+        const dynamicNavbar = document.getElementById("dynamicNavbar");
+        const logoSection = document.getElementById("logoSection");
+
+        let isAtSection2 = false;
+        let isLocked = false;
+        let lastScrollY = window.scrollY;
+
+        // Cegah roda mouse / usapan layar selama masa 'nyangkut'
+        function preventScroll(e) {
+          if (isLocked) {
+            e.preventDefault();
+          }
+        }
+        window.addEventListener("wheel", preventScroll, { passive: false });
+        window.addEventListener("touchmove", preventScroll, { passive: false });
+
+        // Gunakan event 'scroll' untuk pantauan real-time yang tidak bisa ditembus momentum
+        window.addEventListener("scroll", () => {
+          const currentScroll = window.scrollY;
+          const section2Top = logoSection.offsetTop;
+
+          // Hitung selisih jarak untuk mendeteksi arah dan kecepatan scroll
+          const scrollDiff = currentScroll - lastScrollY;
+
+          // DETEKSI CROSSING BOUNDARY (Melewati Garis Batas Atas Section 2)
+          // Syarat:
+          // 1. User scroll ke bawah (scrollDiff > 0)
+          // 2. Scroll alami, bukan hasil lompatan klik link navbar (scrollDiff < 1000)
+          // 3. Posisi frame sebelumnya di atas batas, tapi frame sekarang sudah melewati batas
+          if (
+            scrollDiff > 0 &&
+            scrollDiff < 1000 &&
+            lastScrollY < section2Top - 10 &&
+            currentScroll >= section2Top - 10 &&
+            !isLocked
+          ) {
+            isLocked = true;
+
+            // 1. HENTIKAN PAKSA MOMENTUM BROWSER!
+            document.body.style.overflow = "hidden";
+
+            // 2. Jepret layar agar pas di atas Section 2 persis
+            window.scrollTo({
+              top: section2Top,
+              behavior: "auto", // Menggunakan 'auto' (instan) agar menang melawan momentum
+            });
+
+            // 3. Munculkan Navbar otomatis
+            dynamicNavbar.classList.add("navbar-show");
+            isAtSection2 = true;
+
+            // 4. Tahan selama 1.2 detik, lalu lepaskan kuncinya
+            setTimeout(() => {
+              document.body.style.overflow = "";
+              isLocked = false;
+            }, 1200);
+          }
+
+          // --- Logika Navbar Auto-Show Biasa ---
+          if (!isLocked) {
+            // Jika posisi layar masih di area Section 2
+            if (
+              currentScroll >= section2Top - 50 &&
+              currentScroll <= section2Top + logoSection.offsetHeight / 2
+            ) {
+              isAtSection2 = true;
+              dynamicNavbar.classList.add("navbar-show");
+            } else {
+              isAtSection2 = false;
+              // Jika scroll ke tempat lain, sembunyikan navbar
+              if (currentScroll > 50) {
+                dynamicNavbar.classList.remove("navbar-show");
+              }
+            }
+          }
+
+          lastScrollY = currentScroll;
+        });
+
+        // --- Logika Hover Navbar (Saat tidak di Section 2) ---
+        window.addEventListener("mousemove", (e) => {
+          if (isAtSection2 || isLocked) return;
+
+          if (e.clientY < 80) {
+            dynamicNavbar.classList.add("navbar-show");
+          } else if (e.clientY > 150) {
+            dynamicNavbar.classList.remove("navbar-show");
+          }
+        });
+
+        dynamicNavbar.addEventListener("mouseenter", () => {
+          if (!isAtSection2 && !isLocked) {
+            dynamicNavbar.classList.add("navbar-show");
+          }
+        });
+      });
+
+      // === LOGIKA 3D CAROUSEL ===
+      const cards3D = document.querySelectorAll(".track-card");
+      const dots = document.querySelectorAll(".cdot");
+      const btnPrev = document.getElementById("btnPrev3D");
+      const btnNext = document.getElementById("btnNext3D");
+
+      let activeIndex = 0;
+      const totalCards = cards3D.length;
+      let autoPlayTimer;
+
+      function update3DCarousel() {
+        cards3D.forEach((card) => {
+          card.classList.remove(
+            "pos-active",
+            "pos-next",
+            "pos-prev",
+            "pos-hidden",
+          );
+        });
+        dots.forEach((dot) => dot.classList.remove("active"));
+
+        const prevIndex = (activeIndex - 1 + totalCards) % totalCards;
+        const nextIndex = (activeIndex + 1) % totalCards;
+
+        cards3D[activeIndex].classList.add("pos-active");
+        cards3D[prevIndex].classList.add("pos-prev");
+        cards3D[nextIndex].classList.add("pos-next");
+
+        dots[activeIndex].classList.add("active");
+      }
+
+      function nextSlide3D() {
+        activeIndex = (activeIndex + 1) % totalCards;
+        update3DCarousel();
+      }
+
+      function prevSlide3D() {
+        activeIndex = (activeIndex - 1 + totalCards) % totalCards;
+        update3DCarousel();
+      }
+
+      function startTimer() {
+        autoPlayTimer = setInterval(nextSlide3D, 4000);
+      }
+
+      function resetTimer() {
+        clearInterval(autoPlayTimer);
+        startTimer();
+      }
+
+      btnNext.addEventListener("click", () => {
+        nextSlide3D();
+        resetTimer();
+      });
+
+      btnPrev.addEventListener("click", () => {
+        prevSlide3D();
+        resetTimer();
+      });
+
+      dots.forEach((dot, index) => {
+        dot.addEventListener("click", () => {
+          activeIndex = index;
+          update3DCarousel();
+          resetTimer();
+        });
+      });
+
+      update3DCarousel();
+      startTimer();
+
+      // === LOGIKA DISCOGRAPHY FILTER ===
+      document.addEventListener("DOMContentLoaded", () => {
+        const releaseList = document.getElementById("releaseList");
+        const items = Array.from(
+          releaseList.getElementsByClassName("release-row"),
+        );
+        const chips = document.querySelectorAll(".disco-chips .chip");
+
+        const searchInput = document.getElementById("searchInput");
+        const catSelect = document.getElementById("catSelect2");
+        const sortSelect = document.getElementById("sortSelect");
+
+        const resetBtn = document.getElementById("resetBtn");
+        const applyBtn = document.getElementById("applyBtn");
+
+        function processDiscography() {
+          const searchTerm = searchInput.value.toLowerCase().trim();
+          const activeCategory = catSelect.value;
+          const activeSort = sortSelect.value;
+
+          items.forEach((item) => {
+            const title = item
+              .querySelector(".rr-title")
+              .innerText.toLowerCase();
+            const type = item.dataset.type;
+
+            const matchesSearch = title.includes(searchTerm);
+            const matchesCategory =
+              activeCategory === "all" || type === activeCategory;
+
+            if (matchesSearch && matchesCategory) {
+              item.style.display = "";
+            } else {
+              item.style.display = "none";
+            }
+          });
+
+          items.sort((a, b) => {
+            const yearA = parseInt(a.dataset.year);
+            const yearB = parseInt(b.dataset.year);
+
+            if (activeSort === "newest") {
+              return yearB - yearA;
+            } else {
+              return yearA - yearB;
+            }
+          });
+
+          items.forEach((item) => releaseList.appendChild(item));
+        }
+
+        chips.forEach((chip) => {
+          chip.addEventListener("click", function () {
+            chips.forEach((c) => c.classList.remove("active"));
+            this.classList.add("active");
+
+            catSelect.value = this.dataset.filter;
+            processDiscography();
+          });
+        });
+
+        catSelect.addEventListener("change", function () {
+          chips.forEach((c) => {
+            if (c.dataset.filter === this.value) {
+              c.classList.add("active");
+            } else {
+              c.classList.remove("active");
+            }
+          });
+        });
+
+        applyBtn.addEventListener("click", (e) => {
+          e.preventDefault();
+          processDiscography();
+        });
+
+        resetBtn.addEventListener("click", (e) => {
+          e.preventDefault();
+          searchInput.value = "";
+          catSelect.value = "all";
+          sortSelect.value = "newest";
+
+          chips.forEach((c) => {
+            if (c.dataset.filter === "all") {
+              c.classList.add("active");
+            } else {
+              c.classList.remove("active");
+            }
+          });
+
+          processDiscography();
+        });
+
+        processDiscography();
+      });
+
+      // === LOGIKA DYNAMIC 3 IMAGES, EXPAND GALLERY & MODAL ===
+      document.addEventListener("DOMContentLoaded", () => {
+        const expandBtn = document.getElementById("expandGalleryBtn");
+        const masonryWrapper = document.getElementById("masonryWrapper");
+        const randomShowcase = document.getElementById("randomShowcase");
+        const showcaseImages = document.querySelectorAll(".showcase-item img");
+
+        const totalGalleryImages = 12;
+        let randomInterval;
+
+        // Fungsi untuk mendapatkan 3 angka unik secara acak
+        function getUniqueRandomNumbers() {
+          let numbers = new Set();
+          while (numbers.size < 3) {
+            numbers.add(Math.floor(Math.random() * totalGalleryImages) + 1);
+          }
+          return Array.from(numbers);
+        }
+
+        // Fungsi untuk mengganti foto showcase dengan transisi fade
+        function updateShowcaseImages() {
+          const newImageNumbers = getUniqueRandomNumbers();
+
+          showcaseImages.forEach((img, index) => {
+            img.style.opacity = 0; // Efek fade out
+            setTimeout(() => {
+              img.src = `images/gallery/gallery${newImageNumbers[index]}.jpg`;
+              img.style.opacity = 1; // Efek fade in setelah src diganti
+            }, 500); // Tunggu 500ms saat gambar memudar
+          });
+        }
+
+        // Jalankan interval per 5 detik (5000ms)
+        randomInterval = setInterval(updateShowcaseImages, 5000);
+
+        // --- Logika Tombol Expand ---
+        expandBtn.addEventListener("click", () => {
+          // Toggle class animasi untuk kedua section
+          randomShowcase.classList.toggle("hide-showcase");
+          masonryWrapper.classList.toggle("expanded");
+
+          if (masonryWrapper.classList.contains("expanded")) {
+            // Kondisi saat membuka Full Gallery
+            clearInterval(randomInterval); // Hentikan animasi acak di latar belakang
+            expandBtn.textContent = "Show Less";
+          } else {
+            // Kondisi saat menutup Full Gallery
+            expandBtn.textContent = "View Full Gallery";
+
+            updateShowcaseImages(); // Acak foto baru saat kembali
+            randomInterval = setInterval(updateShowcaseImages, 5000); // Mulai timer lagi
+
+            // Scroll otomatis yang halus kembali ke judul Gallery
+            document
+              .getElementById("gallery")
+              .scrollIntoView({ behavior: "smooth" });
+          }
+        });
+
+        // --- Logika Modal Lightbox (Enhanced with Next/Prev) ---
+        const imageModal = document.getElementById("imageModal");
+        const modalImg = document.getElementById("modalImg");
+        const closeModal = document.getElementById("closeModal");
+        const gallerySection = document.getElementById("gallery");
+        const prevModalBtn = document.getElementById("prevModalBtn");
+        const nextModalBtn = document.getElementById("nextModalBtn");
+
+        let currentImageIndex = 1; // Menyimpan index aktif (1-12)
+
+        // Fungsi mengganti gambar modal dengan animasi fade yang halus
+        function updateModalImage(index) {
+          modalImg.classList.add("fade-transition"); // Memicu efek fade out gambar lama
+
+          setTimeout(() => {
+            modalImg.src = `images/gallery/gallery${index}.jpg`;
+
+            // Tunggu sampai gambar baru selesai di-load browser agar tidak berkedip putih
+            modalImg.onload = () => {
+              modalImg.classList.remove("fade-transition"); // Efek fade in gambar baru
+            };
+          }, 200);
+        }
+
+        // Deteksi klik pada gambar manapun di dalam area gallery (Showcase maupun Masonry)
+        gallerySection.addEventListener("click", (e) => {
+          if (e.target.tagName === "IMG") {
+            // Mengambil angka dari nama file src gambar (contoh: gallery5.jpg -> mengambil angka 5)
+            const match = e.target.src.match(/gallery(\d+)\.jpg/);
+            if (match) {
+              currentImageIndex = parseInt(match[1]);
+            }
+
+            // Langsung set src awal dan tampilkan modal
+            modalImg.src = `images/gallery/gallery${currentImageIndex}.jpg`;
+            imageModal.classList.add("show");
+          }
+        });
+
+        // Event Tombol Previous
+        prevModalBtn.addEventListener("click", (e) => {
+          e.stopPropagation(); // Mencegah modal tertutup karena event bubbling
+          currentImageIndex--;
+          if (currentImageIndex < 1) {
+            currentImageIndex = totalGalleryImages; // Jika tembus di bawah 1, balik ke foto 12
+          }
+          updateModalImage(currentImageIndex);
+        });
+
+        // Event Tombol Next
+        nextModalBtn.addEventListener("click", (e) => {
+          e.stopPropagation(); // Mencegah modal tertutup karena event bubbling
+          currentImageIndex++;
+          if (currentImageIndex > totalGalleryImages) {
+            currentImageIndex = 1; // Jika menembus foto 12, balik lagi ke foto 1
+          }
+          updateModalImage(currentImageIndex);
+        });
+
+        // Tutup modal ketika tombol X ditekan
+        closeModal.addEventListener("click", () => {
+          imageModal.classList.remove("show");
+        });
+
+        // Tutup modal ketika mengklik area gelap di luar foto/tombol navigasi
+        imageModal.addEventListener("click", (e) => {
+          if (e.target === imageModal) {
+            imageModal.classList.remove("show");
+          }
+        });
+
+        // FITUR TAMBAHAN ELEMEN DASAR: Navigasi Keyboard Arrow (Kiri / Kanan / Esc)
+        document.addEventListener("keydown", (e) => {
+          if (!imageModal.classList.contains("show")) return; // Hanya jalan jika modal terbuka
+
+          if (e.key === "ArrowLeft") {
+            prevModalBtn.click();
+          } else if (e.key === "ArrowRight") {
+            nextModalBtn.click();
+          } else if (e.key === "Escape") {
+            closeModal.click();
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
