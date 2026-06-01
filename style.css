@@ -13,13 +13,15 @@
   --f-head: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* --- Pengaturan Background Video Global --- */
@@ -68,6 +70,11 @@
   transition: opacity 0.3s ease;
 }
 
+.logo-navbar {
+  width: 130px;
+  filter: invert(100%) !important;
+}
+
 .hero-logo:hover {
   opacity: 1;
 }
@@ -78,6 +85,9 @@
   top: 0;
   left: 0;
   width: 100%;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
   transform: translateY(-100%); /* Sembunyikan navbar di atas layar */
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
   z-index: 999;
