@@ -114,35 +114,6 @@ body {
   overflow: hidden;
   pointer-events: none;
 }
-.shape {
-  position: absolute;
-  filter: blur(120px);
-  opacity: 0.15;
-  animation: floatBg 20s ease-in-out infinite alternate;
-}
-.shape-1 {
-  width: 400px;
-  height: 400px;
-  background: var(--brand-cyan);
-  top: -10%;
-  left: -10%;
-}
-.shape-2 {
-  width: 500px;
-  height: 500px;
-  background: var(--y2k-denim);
-  bottom: -20%;
-  right: -10%;
-  animation-delay: -5s;
-}
-.shape-3 {
-  width: 300px;
-  height: 300px;
-  background: var(--y2k-pink);
-  top: 40%;
-  left: 40%;
-  animation-delay: -10s;
-}
 
 @keyframes floatBg {
   0% {
@@ -267,13 +238,17 @@ nav#navbar .nav-links a:hover {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+/* Flexbox Implementation pengganti Grid */
 .about-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 24px;
-  align-items: start;
+  align-items: flex-start;
 }
+
 .about-card {
+  flex: 1 1 calc(50% - 12px); /* Pembagian 2 kolom via Flex */
   position: relative;
   height: 160px;
   background: var(--bg-glass);
@@ -284,6 +259,7 @@ nav#navbar .nav-links a:hover {
   cursor: pointer;
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
+
 .wf-view {
   position: absolute;
   top: 0;
@@ -439,13 +415,21 @@ nav#navbar .nav-links a:hover {
   color: var(--text-muted);
   margin-bottom: 80px;
 }
+
+/* Flexbox Implementation */
 .timeline {
-  display: grid;
-  grid-template-columns: 1fr 40px 1fr;
+  display: flex;
+  flex-wrap: wrap;
   align-items: stretch;
   text-align: left;
 }
+.tl-left,
+.tl-right {
+  flex: 1 1 calc(50% - 20px); /* Membagi rata dengan kalkulasi Flex */
+}
+
 .tl-line {
+  flex: 0 0 40px; /* Lebar garis tetap 40px */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -527,12 +511,15 @@ nav#navbar .nav-links a:hover {
   text-align: center;
   margin-bottom: 60px;
 }
+
+/* Flexbox Implementation pengganti Grid */
 .members-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 32px;
 }
 .member-card {
+  flex: 1 1 calc(50% - 16px);
   position: relative;
   height: 450px;
   border: 1px solid var(--border-color);
@@ -743,7 +730,7 @@ footer {
   transform: translateY(0);
 }
 
-/* Responsive Rules */
+/* Responsive Rules Flexbox Update */
 @media (max-width: 768px) {
   .hero-row {
     flex-direction: column;
@@ -756,22 +743,23 @@ footer {
     border-top: 2px solid var(--border-color);
     padding-top: 20px;
   }
-  .about-grid {
-    grid-template-columns: 1fr;
+  .about-card,
+  .member-card {
+    flex: 1 1 100%; /* Memaksa tampilan 1 kolom via Flex di Mobile */
   }
   .about-card:hover {
     height: 400px;
   }
   .timeline {
-    grid-template-columns: 30px 1fr;
+    flex-direction: column;
   }
   .tl-left,
   .tl-right {
-    grid-column: 2;
+    flex: 1 1 100%;
+    width: 100%;
   }
   .tl-line {
-    grid-column: 1;
-    grid-row: span 2;
+    display: none;
   }
   .tl-card {
     padding: 0 0 40px 20px;
@@ -779,9 +767,6 @@ footer {
   .tl-left .tl-card:hover,
   .tl-card:hover {
     transform: translateX(5px);
-  }
-  .members-grid {
-    grid-template-columns: 1fr;
   }
   .footer-top {
     flex-direction: column;
@@ -807,11 +792,21 @@ footer {
   margin: 0 auto;
 }
 
-.footer-top {
-  display: grid;
-  grid-template-columns: 1.8fr 1fr 1fr 1fr;
+/* Flexbox Implementation pengganti Grid */
+.site-footer .footer-top {
+  display: flex;
+  flex-wrap: wrap;
   gap: 60px;
   margin-bottom: 60px;
+  border-bottom: none;
+}
+
+.site-footer .footer-brand {
+  flex: 1.8 1 200px;
+}
+
+.site-footer .footer-col {
+  flex: 1 1 120px;
 }
 
 .footer-brand img {

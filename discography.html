@@ -105,10 +105,6 @@
           <button id="btnNext3D" class="carousel-btn">&gt;</button>
         </div>
       </div>
-
-      <div class="tracks-actions">
-        <button class="btn-explore">Explore All Tracks</button>
-      </div>
     </section>
 
     <section id="discography" class="sec disco-sec">
@@ -474,16 +470,92 @@
           dynamicNavbar.classList.add("navbar-show");
         });
       });
-
-      // === 3D CAROUSEL ===
+      // === 3D CAROUSEL, AUDIO & OBSERVER LOGIC ===
       const cards3D = document.querySelectorAll(".track-card");
       const dots = document.querySelectorAll(".cdot");
       const btnPrev = document.getElementById("btnPrev3D");
       const btnNext = document.getElementById("btnNext3D");
 
+      const audioData = [
+        { audio: new Audio("/audio/Hype-Boy.mp3"), start: 53 },
+        { audio: new Audio("/audio/Super-Shy.mp3"), start: 51 },
+        { audio: new Audio("/audio/ETA.mp3"), start: 62 },
+      ];
+
       let activeIndex = 0;
       const totalCards = cards3D.length;
       let autoPlayTimer;
+      let isCarouselPaused = false; // Penanda jika carousel di-pause oleh observer
+
+      let activeAudioIndex = null;
+      let fadeOutInterval = null;
+      let fadeInInterval = null;
+
+      // 1. PENGATURAN VOLUME MAKSIMAL (0.0 sampai 1.0)
+      const MAX_VOLUME = 0.3; // 0.3 artinya 30% dari volume asli
+
+      function fadeOut(audioObj) {
+        clearInterval(fadeOutInterval);
+        let vol = audioObj.volume;
+
+        fadeOutInterval = setInterval(() => {
+          if (vol > 0.05) {
+            vol -= 0.05;
+            audioObj.volume = vol;
+          } else {
+            audioObj.volume = 0;
+            audioObj.pause();
+            clearInterval(fadeOutInterval);
+          }
+        }, 50);
+      }
+
+      // Tambahan parameter isResume agar lagu tidak mengulang dari awal saat di-scroll kembali
+      function fadeIn(audioObj, startTime, isResume = false) {
+        clearInterval(fadeInInterval);
+
+        if (!isResume) {
+          audioObj.currentTime = startTime;
+        }
+        audioObj.volume = 0;
+
+        const playPromise = audioObj.play();
+        if (playPromise !== undefined) {
+          playPromise
+            .then(() => {
+              let vol = 0;
+              fadeInInterval = setInterval(() => {
+                // Naikkan volume hanya sampai batas MAX_VOLUME
+                if (vol < MAX_VOLUME - 0.05) {
+                  vol += 0.05;
+                  audioObj.volume = vol;
+                } else {
+                  audioObj.volume = MAX_VOLUME;
+                  clearInterval(fadeInInterval);
+                }
+              }, 50);
+            })
+            .catch((error) => {
+              console.log(
+                "Browser menahan autoplay. Butuh interaksi klik.",
+                error,
+              );
+            });
+        }
+      }
+
+      function updateAudio() {
+        if (activeAudioIndex === activeIndex) return;
+
+        if (activeAudioIndex !== null) {
+          fadeOut(audioData[activeAudioIndex].audio);
+        }
+
+        const currentTrack = audioData[activeIndex];
+        fadeIn(currentTrack.audio, currentTrack.start);
+
+        activeAudioIndex = activeIndex;
+      }
 
       function update3DCarousel() {
         cards3D.forEach((card) =>
@@ -503,19 +575,27 @@
         cards3D[prevIndex].classList.add("pos-prev");
         cards3D[nextIndex].classList.add("pos-next");
         dots[activeIndex].classList.add("active");
+
+        updateAudio();
       }
 
       function nextSlide3D() {
         activeIndex = (activeIndex + 1) % totalCards;
         update3DCarousel();
       }
+
       function prevSlide3D() {
         activeIndex = (activeIndex - 1 + totalCards) % totalCards;
         update3DCarousel();
       }
+
       function startTimer() {
-        autoPlayTimer = setInterval(nextSlide3D, 4000);
+        // Hanya jalankan timer jika carousel tidak sedang di-pause oleh observer
+        if (!isCarouselPaused) {
+          autoPlayTimer = setInterval(nextSlide3D, 4000);
+        }
       }
+
       function resetTimer() {
         clearInterval(autoPlayTimer);
         startTimer();
@@ -537,6 +617,41 @@
         });
       });
 
+      // 2. INTERSECTION OBSERVER UNTUK SECTION DISCOGRAPHY
+      const discographySection = document.getElementById("discography");
+
+      const observerOptions = {
+        root: null,
+        // Angka 0.1 berarti observer akan bereaksi ketika 10% dari section discography muncul di layar
+        threshold: 0.1,
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            // Jika masuk ke area Discography: hentikan timer & matikan musik
+            isCarouselPaused = true;
+            clearInterval(autoPlayTimer);
+            if (activeAudioIndex !== null) {
+              fadeOut(audioData[activeAudioIndex].audio);
+            }
+          } else {
+            // Jika keluar dari area Discography (kembali ke atas): lanjutkan timer & musik
+            isCarouselPaused = false;
+            startTimer();
+            if (activeAudioIndex !== null) {
+              // isResume = true agar musik lanjut dari titik terakhir dimatikan, bukan dari awal detik lagu
+              fadeIn(audioData[activeAudioIndex].audio, 0, true);
+            }
+          }
+        });
+      }, observerOptions);
+
+      if (discographySection) {
+        observer.observe(discographySection);
+      }
+
+      // Init
       update3DCarousel();
       startTimer();
 
