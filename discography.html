@@ -4,13 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Home - NewJeans</title>
+    <title>Top Tracks & Discography - NewJeans</title>
   </head>
   <body>
-    <video autoplay loop muted playsinline class="bg-video-global">
-      <source src="videos/mv.mp4" type="video/mp4" />
-    </video>
-
     <nav class="navbar" id="dynamicNavbar">
       <img src="images/logo.png" alt="NewJeans Logo" class="logo-navbar" />
       <ul>
@@ -21,32 +17,6 @@
       </ul>
     </nav>
 
-    <!-- HERO: merged logo + buttons + marquee -->
-    <section class="hero" id="hero">
-      <div class="overlay"></div>
-
-      <img src="images/logo.png" alt="NewJeans Logo" class="hero-center-logo" />
-
-      <div class="hero-actions">
-        <button class="btn btn-primary">Listen Now</button>
-        <button class="btn btn-secondary">See Schedule</button>
-      </div>
-
-      <div class="marquee-container">
-        <div class="marquee-track">
-          <span
-            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
-            SUPERNATURAL * BUBBLE GUM *
-          </span>
-          <span
-            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
-            SUPERNATURAL * BUBBLE GUM *
-          </span>
-        </div>
-      </div>
-    </section>
-
-    <!-- TOP 3 TRACKS -->
     <section class="tracks-section" id="track-session">
       <div class="tracks-header">
         <h2>Top 3 Tracks</h2>
@@ -137,106 +107,284 @@
       </div>
 
       <div class="tracks-actions">
-        <a href="discography.html" class="btn-explore">Explore All Tracks</a>
+        <button class="btn-explore">Explore All Tracks</button>
       </div>
     </section>
 
-    <!-- GALLERY -->
-    <section id="gallery" class="gallery-section">
-      <div class="container gallery-container">
+    <section id="discography" class="sec disco-sec">
+      <div class="container disco-container">
         <div class="sec-header center">
-          <h2 class="sec-title center">Gallery</h2>
+          <h2 class="sec-title center" data-reveal>Music Discography</h2>
         </div>
 
-        <div class="random-showcase" id="randomShowcase">
-          <div class="showcase-item">
-            <img src="images/gallery/gallery1.jpg" alt="NewJeans 1" />
-          </div>
-          <div class="showcase-item">
-            <img src="images/gallery/gallery2.jpg" alt="NewJeans 2" />
-          </div>
-          <div class="showcase-item">
-            <img src="images/gallery/gallery3.jpg" alt="NewJeans 3" />
-          </div>
+        <div class="disco-chips" data-reveal>
+          <button class="chip active" data-filter="all">All Releases</button>
+          <button class="chip" data-filter="mini-album">Mini Album</button>
+          <button class="chip" data-filter="single">Single</button>
+          <button class="chip" data-filter="collab">Collaboration</button>
         </div>
 
-        <div class="masonry-wrapper" id="masonryWrapper">
-          <div class="masonry-grid">
-            <div class="masonry-item">
-              <img src="images/gallery/gallery1.jpg" alt="Gallery 1" />
+        <div class="disco-control-grid" data-reveal>
+          <div class="control-box search-box">
+            <label class="dp-label" for="searchInput"
+              >Search Release Title</label
+            >
+            <div class="input-wrapper">
+              <input
+                class="search-input"
+                type="text"
+                id="searchInput"
+                placeholder="Type keywords (e.g., Ditto, OMG...)" />
             </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery2.jpg" alt="Gallery 2" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery3.jpg" alt="Gallery 3" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery4.jpg" alt="Gallery 4" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery5.jpg" alt="Gallery 5" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery6.jpg" alt="Gallery 6" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery7.jpg" alt="Gallery 7" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery8.jpg" alt="Gallery 8" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery9.jpg" alt="Gallery 9" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery10.jpg" alt="Gallery 10" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery11.jpg" alt="Gallery 11" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery12.jpg" alt="Gallery 12" />
-            </div>
+          </div>
+          <div class="control-box category-box">
+            <label class="dp-label" for="catSelect2">Release Category</label>
+            <select class="sort-select" id="catSelect2">
+              <option value="all">All Categories</option>
+              <option value="mini-album">Mini Album</option>
+              <option value="single">Single</option>
+              <option value="collab">Collaboration</option>
+            </select>
+          </div>
+          <div class="control-box sort-box">
+            <label class="dp-label" for="sortSelect">Sort By Year</label>
+            <select class="sort-select" id="sortSelect">
+              <option value="newest">Newest &rarr; Oldest</option>
+              <option value="oldest">Oldest &rarr; Newest</option>
+            </select>
           </div>
         </div>
 
-        <div class="gallery-actions">
-          <button id="expandGalleryBtn" class="btn btn-secondary">
-            View Full Gallery
-          </button>
+        <div class="control-actions" data-reveal>
+          <button class="btn btn-reset" id="resetBtn">Reset Filters</button>
+          <button class="btn btn-apply" id="applyBtn">Apply Search</button>
+        </div>
+
+        <div class="release-list" id="releaseList" data-stagger>
+          <div class="release-row" data-type="mini-album" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/howsweet.jpg"
+                alt="How Sweet album cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">How Sweet</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: May 24, 2024</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> How Sweet
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Bubble Gum</li>
+                <li><span class="ti">03</span> Drowning</li>
+                <li><span class="ti">04</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="mini-album" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/get-up.jpg"
+                alt="Get Up Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Get Up</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Jul 21, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Super Shy
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> New Jeans</li>
+                <li><span class="ti">03</span> ETA</li>
+                <li><span class="ti">04</span> Cool With You</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="single" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/omg.jpg"
+                alt="OMG Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">OMG</h4>
+                <span class="rr-badge single">Single</span>
+              </div>
+              <p class="rr-date">Released: Jan 02, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> OMG
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Ditto</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="mini-album" data-year="2022">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/newjeans.jpg"
+                alt="NewJeans Debut Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">NewJeans (Debut)</h4>
+                <span class="rr-badge mini">Mini Album</span>
+              </div>
+              <p class="rr-date">Released: Aug 01, 2022</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Attention
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Hype Boy</li>
+                <li><span class="ti">03</span> Hurt</li>
+                <li><span class="ti">04</span> Cookie</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="collab" data-year="2024">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/supernatural.jpg"
+                alt="Supernatural Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Supernatural</h4>
+                <span class="rr-badge collab">Collaboration</span>
+              </div>
+              <p class="rr-date">Released: Jun 21, 2024</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Supernatural
+                  <span class="title-flag">Title</span>
+                </li>
+                <li><span class="ti">02</span> Right Now</li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="collab" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/gods.jpg"
+                alt="Gods Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Gods</h4>
+                <span class="rr-badge collab">Collaboration</span>
+              </div>
+              <p class="rr-date">Released: Oct 04, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Gods
+                  <span class="title-flag">Title</span>
+                </li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
+
+          <div class="release-row" data-type="single" data-year="2023">
+            <div class="rr-cover-wrap">
+              <img
+                src="images/zero.jpg"
+                alt="Zero Album Cover"
+                class="rr-cover" />
+            </div>
+            <div class="rr-body">
+              <div class="rr-header">
+                <h4 class="rr-title">Zero</h4>
+                <span class="rr-badge single">Single</span>
+              </div>
+              <p class="rr-date">Released: Apr 03, 2023</p>
+              <ul class="rr-tracks">
+                <li>
+                  <span class="ti">01</span> Zero
+                  <span class="title-flag">Title</span>
+                </li>
+              </ul>
+              <div class="rr-plat">
+                <a href="#" class="plat spotify">Spotify</a
+                ><a href="#" class="plat yt">YouTube</a>
+              </div>
+            </div>
+            <div class="rr-actions">
+              <a href="#" class="btn btn-primary sm">Stream</a
+              ><a href="#" class="btn btn-outline sm">Buy</a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
 
-    <!-- HIGHLIGHT NEWS -->
-    <section id="news" class="news-section">
-      <div class="news-inner">
-        <div class="news-header">
-          <div>
-            <p class="news-eyebrow">Latest Updates</p>
-            <h2 class="news-title">Highlight News</h2>
-          </div>
-          <a href="#" class="news-see-all">See All News</a>
-        </div>
-      </div>
-
-      <div class="news-track-outer">
-        <div class="news-track" id="newsTrack">
-          <!-- Cards injected by JS for seamless duplication -->
-        </div>
-      </div>
-    </section>
-
-    <!-- MODAL -->
-    <div id="imageModal" class="image-modal">
-      <span class="close-modal" id="closeModal">&times;</span>
-      <button class="modal-nav-btn prev-btn" id="prevModalBtn">&lt;</button>
-      <img class="modal-content" id="modalImg" alt="Full View" />
-      <button class="modal-nav-btn next-btn" id="nextModalBtn">&gt;</button>
-    </div>
-
-    <!-- FOOTER -->
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="footer-top">
@@ -464,187 +612,6 @@
         });
 
         processDiscography();
-      });
-
-      // === GALLERY EXPAND & MODAL ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const expandBtn = document.getElementById("expandGalleryBtn");
-        const masonryWrapper = document.getElementById("masonryWrapper");
-        const randomShowcase = document.getElementById("randomShowcase");
-        const showcaseImages = document.querySelectorAll(".showcase-item img");
-        const totalGalleryImages = 12;
-        let randomInterval;
-
-        function getUniqueRandomNumbers() {
-          let numbers = new Set();
-          while (numbers.size < 3)
-            numbers.add(Math.floor(Math.random() * totalGalleryImages) + 1);
-          return Array.from(numbers);
-        }
-
-        function updateShowcaseImages() {
-          const newImageNumbers = getUniqueRandomNumbers();
-          showcaseImages.forEach((img, index) => {
-            img.style.opacity = 0;
-            setTimeout(() => {
-              img.src = `images/gallery/gallery${newImageNumbers[index]}.jpg`;
-              img.style.opacity = 1;
-            }, 500);
-          });
-        }
-
-        randomInterval = setInterval(updateShowcaseImages, 5000);
-
-        expandBtn.addEventListener("click", () => {
-          randomShowcase.classList.toggle("hide-showcase");
-          masonryWrapper.classList.toggle("expanded");
-
-          if (masonryWrapper.classList.contains("expanded")) {
-            clearInterval(randomInterval);
-            expandBtn.textContent = "Show Less";
-          } else {
-            expandBtn.textContent = "View Full Gallery";
-            updateShowcaseImages();
-            randomInterval = setInterval(updateShowcaseImages, 5000);
-            document
-              .getElementById("gallery")
-              .scrollIntoView({ behavior: "smooth" });
-          }
-        });
-
-        // Modal
-        const imageModal = document.getElementById("imageModal");
-        const modalImg = document.getElementById("modalImg");
-        const closeModal = document.getElementById("closeModal");
-        const gallerySection = document.getElementById("gallery");
-        const prevModalBtn = document.getElementById("prevModalBtn");
-        const nextModalBtn = document.getElementById("nextModalBtn");
-        let currentImageIndex = 1;
-
-        function updateModalImage(index) {
-          modalImg.classList.add("fade-transition");
-          setTimeout(() => {
-            modalImg.src = `images/gallery/gallery${index}.jpg`;
-            modalImg.onload = () =>
-              modalImg.classList.remove("fade-transition");
-          }, 200);
-        }
-
-        gallerySection.addEventListener("click", (e) => {
-          if (e.target.tagName === "IMG") {
-            const match = e.target.src.match(/gallery(\d+)\.jpg/);
-            if (match) currentImageIndex = parseInt(match[1]);
-            modalImg.src = `images/gallery/gallery${currentImageIndex}.jpg`;
-            imageModal.classList.add("show");
-          }
-        });
-
-        prevModalBtn.addEventListener("click", (e) => {
-          e.stopPropagation();
-          currentImageIndex--;
-          if (currentImageIndex < 1) currentImageIndex = totalGalleryImages;
-          updateModalImage(currentImageIndex);
-        });
-
-        nextModalBtn.addEventListener("click", (e) => {
-          e.stopPropagation();
-          currentImageIndex++;
-          if (currentImageIndex > totalGalleryImages) currentImageIndex = 1;
-          updateModalImage(currentImageIndex);
-        });
-
-        closeModal.addEventListener("click", () =>
-          imageModal.classList.remove("show"),
-        );
-        imageModal.addEventListener("click", (e) => {
-          if (e.target === imageModal) imageModal.classList.remove("show");
-        });
-        document.addEventListener("keydown", (e) => {
-          if (!imageModal.classList.contains("show")) return;
-          if (e.key === "ArrowLeft") prevModalBtn.click();
-          else if (e.key === "ArrowRight") nextModalBtn.click();
-          else if (e.key === "Escape") closeModal.click();
-        });
-      });
-
-      // === HIGHLIGHT NEWS CAROUSEL ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const newsData = [
-          {
-            img: "images/gallery/gallery1.jpg",
-            tag: "Comeback",
-            headline: "NewJeans Announces Surprise Mini Album Drop This Summer",
-            date: "June 10, 2024",
-          },
-          {
-            img: "images/gallery/gallery2.jpg",
-            tag: "Tour",
-            headline: "Bunnies Camp World Tour 2024 — Full Venue List Revealed",
-            date: "May 28, 2024",
-          },
-          {
-            img: "images/gallery/gallery3.jpg",
-            tag: "Award",
-            headline: "NewJeans Sweep Melon Music Awards with 5 Trophies",
-            date: "May 15, 2024",
-          },
-          {
-            img: "images/gallery/gallery4.jpg",
-            tag: "Music Video",
-            headline: "How Sweet MV Hits 100 Million Views in Record Time",
-            date: "Apr 30, 2024",
-          },
-          {
-            img: "images/gallery/gallery5.jpg",
-            tag: "Collab",
-            headline: "NewJeans x Nike: Exclusive Limited Edition Collection",
-            date: "Apr 18, 2024",
-          },
-          {
-            img: "images/gallery/gallery6.jpg",
-            tag: "Live",
-            headline: "Behind the Scenes: OMG Live Stage at Inkigayo",
-            date: "Mar 22, 2024",
-          },
-          {
-            img: "images/gallery/gallery7.jpg",
-            tag: "Chart",
-            headline: "Super Shy Re-enters Top 10 on Billboard Global Chart",
-            date: "Mar 08, 2024",
-          },
-          {
-            img: "images/gallery/gallery8.jpg",
-            tag: "Feature",
-            headline:
-              "NewJeans Cover Story: Inside the Studio with the Members",
-            date: "Feb 14, 2024",
-          },
-          {
-            img: "images/gallery/gallery9.jpg",
-            tag: "Event",
-            headline: "Fan Meeting 'Bunnies Camp' Sold Out in Under 2 Minutes",
-            date: "Jan 31, 2024",
-          },
-        ];
-
-        const track = document.getElementById("newsTrack");
-
-        // Double the array for seamless infinite loop
-        const allCards = [...newsData, ...newsData];
-
-        allCards.forEach((item) => {
-          const card = document.createElement("div");
-          card.className = "news-card";
-          card.innerHTML = `
-          <img src="${item.img}" alt="${item.headline}" />
-          <div class="news-card-body">
-            <span class="news-card-tag">${item.tag}</span>
-            <p class="news-card-headline">${item.headline}</p>
-            <span class="news-card-date">${item.date}</span>
-          </div>
-        `;
-          track.appendChild(card);
-        });
       });
     </script>
   </body>

@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Schedule - NewJeans</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Background -->
+    <div class="y2k-bg">
+      <div class="shape shape-1"></div>
+      <div class="shape shape-2"></div>
+      <div class="shape shape-3"></div>
+    </div>
+
+    <!-- NAVBAR -->
+    <nav class="navbar" id="dynamicNavbar">
+      <img src="images/logo.png" alt="NewJeans Logo" class="logo-navbar" />
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="/discography.html">Discography</a></li>
+        <li><a href="/web-page/about.html">About</a></li>
+        <li><a href="/schedule.html">Schedule</a></li>
+      </ul>
+    </nav>
+
+    <!-- SCHEDULE SECTION -->
+    <div class="wf-container">
+      <h1 class="wf-title">Upcoming Schedule</h1>
+      <p class="wf-subtitle">
+        Upcoming events with date/time, location, and RSVP status.
+      </p>
+
+
+      <div class="wf-card glass-panel">
+        <div class="wf-card-square"><span>JUN</span><strong>28</strong></div>
+        <div class="wf-card-info">
+          <h4>SBS Inkigayo Pre-recording</h4>
+          <p class="wf-loc">SBS Prism Tower, Seoul</p>
+          <p class="wf-time">03:00 KST</p>
+        </div>
+      </div>
+
+      <div class="wf-card glass-panel">
+        <div class="wf-card-square"><span>JUN</span><strong>30</strong></div>
+        <div class="wf-card-info">
+          <h4>'Supernatural' Pop-Up Store</h4>
+          <p class="wf-loc">Line Friends Square, Shibuya</p>
+          <p class="wf-time">10:00 JST</p>
+        </div>
+      </div>
+
+      <div class="wf-card glass-panel">
+        <div class="wf-card-square"><span>JUL</span><strong>05</strong></div>
+        <div class="wf-card-info">
+          <h4>Global Fansign Event</h4>
+          <p class="wf-loc">Soundwave Store, Seoul</p>
+          <p class="wf-time">14:00 KST</p>
+        </div>
+      </div>
+
+      <div class="wf-card glass-panel">
+        <div class="wf-card-square"><span>JUL</span><strong>15</strong></div>
+        <div class="wf-card-info">
+          <h4>Bunnies Camp 2026: Fan Meeting</h4>
+          <p class="wf-loc">Tokyo Dome, Japan</p>
+          <p class="wf-time">18:00 JST</p>
+        </div>
+      </div>
+    </div>
+    <!-- End of wf-container -->
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="images/logo.png" alt="NewJeans" />
+            <p>
+              The official fan hub for NewJeans — bringing you the latest music,
+              schedules, galleries, and news from the Bunnies universe.
+            </p>
+            <div class="footer-socials">
+              <a href="#" class="footer-social-link" title="Instagram">IG</a>
+              <a href="#" class="footer-social-link" title="YouTube">YT</a>
+              <a href="#" class="footer-social-link" title="Twitter/X">X</a>
+              <a href="#" class="footer-social-link" title="TikTok">TK</a>
+            </div>
+          </div>
+
+          <div class="footer-col">
+            <h4>Navigate</h4>
+            <ul>
+              <li><a href="#hero">Home</a></li>
+              <li><a href="#track-session">Top Tracks</a></li>
+              <li><a href="#discography">Discography</a></li>
+              <li><a href="#gallery">Gallery</a></li>
+              <li><a href="#news">News</a></li>
+              <li><a href="/web-page/about.html">About</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Music</h4>
+            <ul>
+              <li><a href="#">Spotify</a></li>
+              <li><a href="#">Apple Music</a></li>
+              <li><a href="#">YouTube Music</a></li>
+              <li><a href="#">Melon</a></li>
+              <li><a href="#">Genie</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>More</h4>
+            <ul>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Members</a></li>
+              <li><a href="#">Schedule</a></li>
+              <li><a href="#">Fan Club</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p>
+            &copy; 2024 NewJeans Fan Site. All rights reserved. This is an
+            unofficial fan-made website.
+          </p>
+          <div class="footer-bottom-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Use</a>
+            <a href="#">Sitemap</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      // === NAVBAR ===
+      document.addEventListener("DOMContentLoaded", () => {
+        const dynamicNavbar = document.getElementById("dynamicNavbar");
+
+        window.addEventListener("scroll", () => {
+          if (window.scrollY > 80) {
+            dynamicNavbar.classList.remove("navbar-show");
+          }
+        });
+
+        window.addEventListener("mousemove", (e) => {
+          if (e.clientY < 80) {
+            dynamicNavbar.classList.add("navbar-show");
+          } else if (e.clientY > 150) {
+            dynamicNavbar.classList.remove("navbar-show");
+          }
+        });
+
+        dynamicNavbar.addEventListener("mouseenter", () => {
+          dynamicNavbar.classList.add("navbar-show");
+        });
+      });
+    </script>
+  </body>
+</html>
