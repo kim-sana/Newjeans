@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Schedule - NewJeans</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="schedule.css" />
   </head>
   <body>
     <!-- Background -->
@@ -25,49 +25,77 @@
       </ul>
     </nav>
 
+    <!-- HERO SECTION -->
+    <div class="wf-hero">
+      <img
+        src="/images/gallery/gallery10.jpg"
+        alt="NewJeans"
+        class="wf-hero-bg" />
+      <div class="wf-hero-overlay"></div>
+      <div class="wf-hero-content">
+        <span class="wf-hero-eyebrow">Upcoming Shows &amp; Events</span>
+        <h1 class="wf-hero-title">Schedule</h1>
+        <p class="wf-hero-breadcrumb">
+          <a href="index.html">Home</a> <span>•</span> <span>Schedule</span>
+        </p>
+      </div>
+    </div>
+
     <!-- SCHEDULE SECTION -->
     <div class="wf-container">
-      <h1 class="wf-title">Upcoming Schedule</h1>
       <p class="wf-subtitle">
         Upcoming events with date/time, location, and RSVP status.
       </p>
 
+      <!-- CONTROLS: Search & Sort -->
+      <div class="wf-controls glass-panel">
+        <div class="wf-search">
+          <svg
+            class="wf-search-icon"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <circle
+              cx="11"
+              cy="11"
+              r="7"
+              stroke="currentColor"
+              stroke-width="2" />
+            <path
+              d="M20 20L16.65 16.65"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round" />
+          </svg>
+          <input
+            type="text"
+            id="scheduleSearch"
+            placeholder="Search event title or location..."
+            autocomplete="off" />
+        </div>
 
-      <div class="wf-card glass-panel">
-        <div class="wf-card-square"><span>JUN</span><strong>28</strong></div>
-        <div class="wf-card-info">
-          <h4>SBS Inkigayo Pre-recording</h4>
-          <p class="wf-loc">SBS Prism Tower, Seoul</p>
-          <p class="wf-time">03:00 KST</p>
+        <div class="wf-sort">
+          <label for="scheduleSort">Sort by</label>
+          <select id="scheduleSort">
+            <option value="date-asc">Date (Earliest)</option>
+            <option value="date-desc">Date (Latest)</option>
+            <option value="month-asc">Month (A-Z)</option>
+            <option value="month-desc">Month (Z-A)</option>
+          </select>
         </div>
       </div>
 
-      <div class="wf-card glass-panel">
-        <div class="wf-card-square"><span>JUN</span><strong>30</strong></div>
-        <div class="wf-card-info">
-          <h4>'Supernatural' Pop-Up Store</h4>
-          <p class="wf-loc">Line Friends Square, Shibuya</p>
-          <p class="wf-time">10:00 JST</p>
-        </div>
+      <p class="wf-result-count" id="wfResultCount"></p>
+
+      <div class="wf-grid" id="wfGrid">
+        <!-- Cards are rendered dynamically by JS -->
       </div>
 
-      <div class="wf-card glass-panel">
-        <div class="wf-card-square"><span>JUL</span><strong>05</strong></div>
-        <div class="wf-card-info">
-          <h4>Global Fansign Event</h4>
-          <p class="wf-loc">Soundwave Store, Seoul</p>
-          <p class="wf-time">14:00 KST</p>
-        </div>
-      </div>
-
-      <div class="wf-card glass-panel">
-        <div class="wf-card-square"><span>JUL</span><strong>15</strong></div>
-        <div class="wf-card-info">
-          <h4>Bunnies Camp 2026: Fan Meeting</h4>
-          <p class="wf-loc">Tokyo Dome, Japan</p>
-          <p class="wf-time">18:00 JST</p>
-        </div>
-      </div>
+      <p class="wf-empty" id="wfEmpty" style="display: none">
+        No events match your search. Try a different keyword.
+      </p>
     </div>
     <!-- End of wf-container -->
 
@@ -139,6 +167,200 @@
     </footer>
 
     <script>
+      // === SCHEDULE DATA ===
+      const scheduleData = [
+        {
+          month: "JUN",
+          day: 28,
+          year: 2026,
+          title: "SBS Inkigayo Pre-recording",
+          location: "SBS Prism Tower, Seoul",
+          time: "03:00 KST",
+        },
+        {
+          month: "JUN",
+          day: 30,
+          year: 2026,
+          title: "'Supernatural' Pop-Up Store",
+          location: "Line Friends Square, Shibuya",
+          time: "10:00 JST",
+        },
+        {
+          month: "JUL",
+          day: 5,
+          year: 2026,
+          title: "Global Fansign Event",
+          location: "Soundwave Store, Seoul",
+          time: "14:00 KST",
+        },
+        {
+          month: "JUL",
+          day: 15,
+          year: 2026,
+          title: "Bunnies Camp 2026: Fan Meeting",
+          location: "Tokyo Dome, Japan",
+          time: "18:00 JST",
+        },
+        {
+          month: "JUL",
+          day: 22,
+          year: 2026,
+          title: "M Countdown Comeback Stage",
+          location: "CJ ENM Center, Seoul",
+          time: "16:00 KST",
+        },
+        {
+          month: "AUG",
+          day: 2,
+          year: 2026,
+          title: "Summer Showcase Concert",
+          location: "Olympic Gymnastics Arena, Seoul",
+          time: "19:00 KST",
+        },
+        {
+          month: "AUG",
+          day: 9,
+          year: 2026,
+          title: "Bunnies Radio Live Session",
+          location: "MBC Radio Studio, Seoul",
+          time: "20:00 KST",
+        },
+        {
+          month: "AUG",
+          day: 18,
+          year: 2026,
+          title: "Brand Ambassador Photo Shoot",
+          location: "Studio Lumina, Seoul",
+          time: "09:00 KST",
+        },
+        {
+          month: "AUG",
+          day: 27,
+          year: 2026,
+          title: "Asia Tour: Bangkok Stop",
+          location: "Impact Arena, Bangkok",
+          time: "19:30 ICT",
+        },
+        {
+          month: "SEP",
+          day: 3,
+          year: 2026,
+          title: "Music Bank Live Performance",
+          location: "KBS Hall, Seoul",
+          time: "17:00 KST",
+        },
+        {
+          month: "SEP",
+          day: 12,
+          year: 2026,
+          title: "Asia Tour: Jakarta Stop",
+          location: "Indonesia Arena, Jakarta",
+          time: "19:00 WIB",
+        },
+        {
+          month: "SEP",
+          day: 20,
+          year: 2026,
+          title: "Bunnies Camp Finale Livestream",
+          location: "Online Broadcast",
+          time: "21:00 KST",
+        },
+      ];
+
+      const monthOrder = [
+        "JAN",
+        "FEB",
+        "MAR",
+        "APR",
+        "MAY",
+        "JUN",
+        "JUL",
+        "AUG",
+        "SEP",
+        "OCT",
+        "NOV",
+        "DEC",
+      ];
+
+      // === SCHEDULE RENDER, SEARCH & SORT ===
+      document.addEventListener("DOMContentLoaded", () => {
+        const grid = document.getElementById("wfGrid");
+        const emptyState = document.getElementById("wfEmpty");
+        const resultCount = document.getElementById("wfResultCount");
+        const searchInput = document.getElementById("scheduleSearch");
+        const sortSelect = document.getElementById("scheduleSort");
+
+        function dateValue(item) {
+          const monthIndex = monthOrder.indexOf(item.month);
+          return new Date(item.year, monthIndex, item.day).getTime();
+        }
+
+        function renderCards(items) {
+          grid.innerHTML = "";
+
+          if (items.length === 0) {
+            emptyState.style.display = "block";
+            resultCount.textContent = "";
+            return;
+          }
+
+          emptyState.style.display = "none";
+          resultCount.textContent = `Showing ${items.length} event${items.length > 1 ? "s" : ""}`;
+
+          items.forEach((item) => {
+            const card = document.createElement("div");
+            card.className = "wf-card glass-panel";
+            card.innerHTML = `
+              <div class="wf-card-square"><span>${item.month}</span><strong>${item.day}</strong></div>
+              <div class="wf-card-info">
+                <h4>${item.title}</h4>
+                <p class="wf-loc">${item.location}</p>
+                <p class="wf-time">${item.time}</p>
+              </div>
+            `;
+            grid.appendChild(card);
+          });
+        }
+
+        function getFilteredAndSorted() {
+          const query = searchInput.value.trim().toLowerCase();
+          const sortMode = sortSelect.value;
+
+          let filtered = scheduleData.filter((item) => {
+            return (
+              item.title.toLowerCase().includes(query) ||
+              item.location.toLowerCase().includes(query)
+            );
+          });
+
+          filtered.sort((a, b) => {
+            switch (sortMode) {
+              case "date-asc":
+                return dateValue(a) - dateValue(b);
+              case "date-desc":
+                return dateValue(b) - dateValue(a);
+              case "month-asc":
+                return a.month.localeCompare(b.month) || a.day - b.day;
+              case "month-desc":
+                return b.month.localeCompare(a.month) || a.day - b.day;
+              default:
+                return 0;
+            }
+          });
+
+          return filtered;
+        }
+
+        function update() {
+          renderCards(getFilteredAndSorted());
+        }
+
+        searchInput.addEventListener("input", update);
+        sortSelect.addEventListener("change", update);
+
+        update();
+      });
+
       // === NAVBAR ===
       document.addEventListener("DOMContentLoaded", () => {
         const dynamicNavbar = document.getElementById("dynamicNavbar");
