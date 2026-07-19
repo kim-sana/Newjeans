@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
@@ -7,11 +7,24 @@
     <link rel="stylesheet" href="schedule.css" />
   </head>
   <body>
+    <div class="white">
+      <div class="squares">
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+        <div class="square"></div>
+      </div>
+    </div>
     <!-- Background -->
     <div class="y2k-bg">
       <div class="shape shape-1"></div>
       <div class="shape shape-2"></div>
-      <div class="shape shape-3"></div>
     </div>
 
     <!-- NAVBAR -->
@@ -19,16 +32,16 @@
       <img src="images/logo.png" alt="NewJeans Logo" class="logo-navbar" />
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="/discography.html">Discography</a></li>
-        <li><a href="/web-page/about.html">About</a></li>
-        <li><a href="/schedule.html">Schedule</a></li>
+        <li><a href="discography.html">Discography</a></li>
+        <li><a href="web-page/about.html">About</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
       </ul>
     </nav>
 
     <!-- HERO SECTION -->
     <div class="wf-hero">
       <img
-        src="/images/gallery/gallery10.jpg"
+        src="images/gallery/gallery10.jpg"
         alt="NewJeans"
         class="wf-hero-bg" />
       <div class="wf-hero-overlay"></div>
@@ -47,7 +60,19 @@
         Upcoming events with date/time, location, and RSVP status.
       </p>
 
-      <!-- CONTROLS: Search & Sort -->
+      <!-- NEXT EVENT COUNTDOWN BANNER -->
+      <div class="wf-countdown glass-panel" id="wfCountdown" aria-live="polite">
+        <div class="wf-countdown-left">
+          <span class="wf-countdown-label">Next Event</span>
+          <span class="wf-countdown-days" id="wfCountdownDays"></span>
+        </div>
+        <div class="wf-countdown-right">
+          <p class="wf-countdown-title" id="wfCountdownTitle"></p>
+          <p class="wf-countdown-date" id="wfCountdownDate"></p>
+        </div>
+      </div>
+
+      <!-- CONTROLS: Search, Month Chips & Sort -->
       <div class="wf-controls glass-panel">
         <div class="wf-search">
           <svg
@@ -56,23 +81,21 @@
             height="18"
             viewBox="0 0 24 24"
             fill="none"
+            aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg">
-            <circle
-              cx="11"
-              cy="11"
-              r="7"
-              stroke="currentColor"
-              stroke-width="2" />
+            <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
             <path
               d="M20 20L16.65 16.65"
               stroke="currentColor"
               stroke-width="2"
               stroke-linecap="round" />
           </svg>
+          <label for="scheduleSearch" class="sr-only">Search events</label>
           <input
             type="text"
             id="scheduleSearch"
             placeholder="Search event title or location..."
+            aria-label="Search events by title or location"
             autocomplete="off" />
         </div>
 
@@ -87,15 +110,31 @@
         </div>
       </div>
 
-      <p class="wf-result-count" id="wfResultCount"></p>
+      <!-- MONTH FILTER CHIPS -->
+      <div
+        class="wf-month-filters"
+        id="wfMonthFilters"
+        role="group"
+        aria-label="Filter by month">
+        <!-- Chips injected by JS -->
+      </div>
 
-      <div class="wf-grid" id="wfGrid">
+      <p class="wf-result-count" id="wfResultCount" aria-live="polite"></p>
+
+      <div class="wf-grid" id="wfGrid" aria-label="Schedule events">
         <!-- Cards are rendered dynamically by JS -->
       </div>
 
-      <p class="wf-empty" id="wfEmpty" style="display: none">
-        No events match your search. Try a different keyword.
-      </p>
+      <!-- EMPTY STATE -->
+      <div class="wf-empty" id="wfEmpty" style="display: none" role="status" aria-live="polite">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="1.5" opacity="0.4"/>
+          <path d="M20 20L16.65 16.65" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+          <path d="M8 11h6M11 8v6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+        </svg>
+        <p class="wf-empty-title">No events found</p>
+        <p class="wf-empty-sub">Try a different keyword or clear the month filter.</p>
+      </div>
     </div>
     <!-- End of wf-container -->
 
@@ -110,279 +149,58 @@
               schedules, galleries, and news from the Bunnies universe.
             </p>
             <div class="footer-socials">
-              <a href="#" class="footer-social-link" title="Instagram">IG</a>
-              <a href="#" class="footer-social-link" title="YouTube">YT</a>
-              <a href="#" class="footer-social-link" title="Twitter/X">X</a>
-              <a href="#" class="footer-social-link" title="TikTok">TK</a>
+              <a href="https://www.instagram.com/newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="Instagram">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+              </a>
+              <a href="https://www.youtube.com/@NewJeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="YouTube">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.96C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.96A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"/></svg>
+              </a>
+              <a href="https://x.com/NewJeans_ADOR" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="X (Twitter)">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.733-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              </a>
+              <a href="https://www.tiktok.com/@newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="TikTok">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.17 8.17 0 004.78 1.52V6.75a4.85 4.85 0 01-1.01-.06z"/></svg>
+              </a>
             </div>
           </div>
-
           <div class="footer-col">
-            <h4>Navigate</h4>
+            <h4>Navigation</h4>
             <ul>
-              <li><a href="#hero">Home</a></li>
-              <li><a href="#track-session">Top Tracks</a></li>
-              <li><a href="#discography">Discography</a></li>
-              <li><a href="#gallery">Gallery</a></li>
-              <li><a href="#news">News</a></li>
-              <li><a href="/web-page/about.html">About</a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="discography.html">Discography</a></li>
+              <li><a href="web-page/about.html">About</a></li>
+              <li><a href="schedule.html">Schedule</a></li>
             </ul>
           </div>
-
           <div class="footer-col">
-            <h4>Music</h4>
+            <h4>Explore</h4>
             <ul>
-              <li><a href="#">Spotify</a></li>
-              <li><a href="#">Apple Music</a></li>
-              <li><a href="#">YouTube Music</a></li>
-              <li><a href="#">Melon</a></li>
-              <li><a href="#">Genie</a></li>
-            </ul>
-          </div>
-
-          <div class="footer-col">
-            <h4>More</h4>
-            <ul>
-              <li><a href="#">About</a></li>
-              <li><a href="#">Members</a></li>
-              <li><a href="#">Schedule</a></li>
+              <li><a href="#">Gallery</a></li>
+              <li><a href="#">News</a></li>
               <li><a href="#">Fan Club</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="#">Merchandise</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>Legal</h4>
+            <ul>
+              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Terms of Use</a></li>
+              <li><a href="#">Cookie Policy</a></li>
             </ul>
           </div>
         </div>
-
         <div class="footer-bottom">
-          <p>
-            &copy; 2024 NewJeans Fan Site. All rights reserved. This is an
-            unofficial fan-made website.
-          </p>
+          <p>&copy; 2026 NewJeans Fan Hub. Not affiliated with ADOR or HYBE.</p>
           <div class="footer-bottom-links">
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
-            <a href="#">Sitemap</a>
+            <a href="#">Privacy</a>
+            <a href="#">Terms</a>
+            <a href="#">Contact</a>
           </div>
         </div>
       </div>
     </footer>
 
-    <script>
-      // === SCHEDULE DATA ===
-      const scheduleData = [
-        {
-          month: "JUN",
-          day: 28,
-          year: 2026,
-          title: "SBS Inkigayo Pre-recording",
-          location: "SBS Prism Tower, Seoul",
-          time: "03:00 KST",
-        },
-        {
-          month: "JUN",
-          day: 30,
-          year: 2026,
-          title: "'Supernatural' Pop-Up Store",
-          location: "Line Friends Square, Shibuya",
-          time: "10:00 JST",
-        },
-        {
-          month: "JUL",
-          day: 5,
-          year: 2026,
-          title: "Global Fansign Event",
-          location: "Soundwave Store, Seoul",
-          time: "14:00 KST",
-        },
-        {
-          month: "JUL",
-          day: 15,
-          year: 2026,
-          title: "Bunnies Camp 2026: Fan Meeting",
-          location: "Tokyo Dome, Japan",
-          time: "18:00 JST",
-        },
-        {
-          month: "JUL",
-          day: 22,
-          year: 2026,
-          title: "M Countdown Comeback Stage",
-          location: "CJ ENM Center, Seoul",
-          time: "16:00 KST",
-        },
-        {
-          month: "AUG",
-          day: 2,
-          year: 2026,
-          title: "Summer Showcase Concert",
-          location: "Olympic Gymnastics Arena, Seoul",
-          time: "19:00 KST",
-        },
-        {
-          month: "AUG",
-          day: 9,
-          year: 2026,
-          title: "Bunnies Radio Live Session",
-          location: "MBC Radio Studio, Seoul",
-          time: "20:00 KST",
-        },
-        {
-          month: "AUG",
-          day: 18,
-          year: 2026,
-          title: "Brand Ambassador Photo Shoot",
-          location: "Studio Lumina, Seoul",
-          time: "09:00 KST",
-        },
-        {
-          month: "AUG",
-          day: 27,
-          year: 2026,
-          title: "Asia Tour: Bangkok Stop",
-          location: "Impact Arena, Bangkok",
-          time: "19:30 ICT",
-        },
-        {
-          month: "SEP",
-          day: 3,
-          year: 2026,
-          title: "Music Bank Live Performance",
-          location: "KBS Hall, Seoul",
-          time: "17:00 KST",
-        },
-        {
-          month: "SEP",
-          day: 12,
-          year: 2026,
-          title: "Asia Tour: Jakarta Stop",
-          location: "Indonesia Arena, Jakarta",
-          time: "19:00 WIB",
-        },
-        {
-          month: "SEP",
-          day: 20,
-          year: 2026,
-          title: "Bunnies Camp Finale Livestream",
-          location: "Online Broadcast",
-          time: "21:00 KST",
-        },
-      ];
-
-      const monthOrder = [
-        "JAN",
-        "FEB",
-        "MAR",
-        "APR",
-        "MAY",
-        "JUN",
-        "JUL",
-        "AUG",
-        "SEP",
-        "OCT",
-        "NOV",
-        "DEC",
-      ];
-
-      // === SCHEDULE RENDER, SEARCH & SORT ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const grid = document.getElementById("wfGrid");
-        const emptyState = document.getElementById("wfEmpty");
-        const resultCount = document.getElementById("wfResultCount");
-        const searchInput = document.getElementById("scheduleSearch");
-        const sortSelect = document.getElementById("scheduleSort");
-
-        function dateValue(item) {
-          const monthIndex = monthOrder.indexOf(item.month);
-          return new Date(item.year, monthIndex, item.day).getTime();
-        }
-
-        function renderCards(items) {
-          grid.innerHTML = "";
-
-          if (items.length === 0) {
-            emptyState.style.display = "block";
-            resultCount.textContent = "";
-            return;
-          }
-
-          emptyState.style.display = "none";
-          resultCount.textContent = `Showing ${items.length} event${items.length > 1 ? "s" : ""}`;
-
-          items.forEach((item) => {
-            const card = document.createElement("div");
-            card.className = "wf-card glass-panel";
-            card.innerHTML = `
-              <div class="wf-card-square"><span>${item.month}</span><strong>${item.day}</strong></div>
-              <div class="wf-card-info">
-                <h4>${item.title}</h4>
-                <p class="wf-loc">${item.location}</p>
-                <p class="wf-time">${item.time}</p>
-              </div>
-            `;
-            grid.appendChild(card);
-          });
-        }
-
-        function getFilteredAndSorted() {
-          const query = searchInput.value.trim().toLowerCase();
-          const sortMode = sortSelect.value;
-
-          let filtered = scheduleData.filter((item) => {
-            return (
-              item.title.toLowerCase().includes(query) ||
-              item.location.toLowerCase().includes(query)
-            );
-          });
-
-          filtered.sort((a, b) => {
-            switch (sortMode) {
-              case "date-asc":
-                return dateValue(a) - dateValue(b);
-              case "date-desc":
-                return dateValue(b) - dateValue(a);
-              case "month-asc":
-                return a.month.localeCompare(b.month) || a.day - b.day;
-              case "month-desc":
-                return b.month.localeCompare(a.month) || a.day - b.day;
-              default:
-                return 0;
-            }
-          });
-
-          return filtered;
-        }
-
-        function update() {
-          renderCards(getFilteredAndSorted());
-        }
-
-        searchInput.addEventListener("input", update);
-        sortSelect.addEventListener("change", update);
-
-        update();
-      });
-
-      // === NAVBAR ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const dynamicNavbar = document.getElementById("dynamicNavbar");
-
-        window.addEventListener("scroll", () => {
-          if (window.scrollY > 80) {
-            dynamicNavbar.classList.remove("navbar-show");
-          }
-        });
-
-        window.addEventListener("mousemove", (e) => {
-          if (e.clientY < 80) {
-            dynamicNavbar.classList.add("navbar-show");
-          } else if (e.clientY > 150) {
-            dynamicNavbar.classList.remove("navbar-show");
-          }
-        });
-
-        dynamicNavbar.addEventListener("mouseenter", () => {
-          dynamicNavbar.classList.add("navbar-show");
-        });
-      });
-    </script>
+    <script src="schedule.js"></script>
   </body>
 </html>
