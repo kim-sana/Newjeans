@@ -1,0 +1,249 @@
+/* ==========================================================================
+   DISCOGRAPHY PAGE
+   ========================================================================== */
+
+.tracks-section {
+  padding-bottom: 72px;
+}
+
+.disco-section {
+  padding-top: 58px;
+}
+
+.disco-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-bottom: 22px;
+}
+
+.disco-control-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.control-box {
+  padding: 14px;
+  border: 1.5px solid var(--silver);
+  border-radius: 16px;
+  background: #fff;
+}
+
+.control-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-bottom: 32px;
+}
+
+/* Release rows ----------------------------------------------------------- */
+
+.release-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.release-row {
+  display: grid;
+  grid-template-columns: 148px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 22px;
+  padding: 20px;
+  border: var(--border-blue);
+  border-radius: var(--radius-card);
+  border-bottom-right-radius: 5px;
+  background: #fff;
+  box-shadow: 6px 7px 0 rgba(0, 91, 171, 0.08);
+  transition:
+    transform 0.25s var(--ease-spring),
+    box-shadow 0.25s ease;
+}
+
+.release-row:hover {
+  transform: translateY(-3px);
+  box-shadow: 9px 11px 0 rgba(0, 91, 171, 0.12);
+}
+
+.rr-cover-wrap {
+  width: 100%;
+}
+
+.rr-cover {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border: 1.5px solid var(--blue);
+  border-radius: 14px;
+  background: var(--blue-tint);
+}
+
+.rr-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.rr-title {
+  margin: 0;
+  color: var(--blue);
+  font-size: clamp(1.35rem, 2.2vw, 1.7rem);
+}
+
+.rr-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--blue-deep);
+}
+
+.rr-badge.mini {
+  background: var(--blue-tint);
+  color: var(--blue);
+}
+
+.rr-badge.single {
+  background: var(--lime);
+}
+
+.rr-badge.collab {
+  background: var(--pink);
+}
+
+.rr-date {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.rr-tracks {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 24px;
+  margin: 0 0 12px;
+  list-style: none;
+}
+
+.rr-tracks li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 0;
+  border-bottom: 1px solid var(--silver);
+  color: var(--ink);
+  font-size: 0.86rem;
+}
+
+.ti {
+  width: 20px;
+  color: var(--blue);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.68rem;
+}
+
+.title-flag {
+  margin-left: auto;
+  padding: 2px 7px;
+  border-radius: var(--radius-pill);
+  background: var(--blue-tint);
+  color: var(--blue);
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.rr-plat {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.rr-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 108px;
+}
+
+@media (max-width: 900px) {
+  .disco-control-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .search-box {
+    grid-column: 1 / -1;
+  }
+
+  .release-row {
+    grid-template-columns: 118px minmax(0, 1fr);
+    gap: 16px;
+    padding: 16px;
+  }
+
+  .rr-actions {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    min-width: 0;
+  }
+
+  .rr-actions .btn {
+    flex: 1;
+  }
+}
+
+@media (max-width: 640px) {
+  .disco-control-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .control-actions {
+    flex-direction: column;
+  }
+
+  .control-actions .btn {
+    width: 100%;
+  }
+
+  .release-row {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-cover-wrap {
+    width: min(190px, 62%);
+  }
+
+  .rr-tracks {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-actions {
+    grid-column: auto;
+  }
+}
+
+@media (max-width: 460px) {
+  .rr-cover-wrap {
+    width: 150px;
+  }
+
+  .rr-plat {
+    gap: 5px;
+  }
+
+  .rr-actions {
+    flex-direction: column;
+  }
+}

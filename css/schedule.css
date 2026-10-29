@@ -1,0 +1,473 @@
+/* ==========================================================================
+   SCHEDULE PAGE
+   ========================================================================== */
+
+.schedule-main {
+  padding-top: 56px;
+  padding-bottom: 88px;
+}
+
+/* Countdown ------------------------------------------------------------- */
+
+.wf-countdown {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 28px;
+  overflow: hidden;
+  margin-bottom: 26px;
+  padding: 26px 30px;
+  border: 2px solid var(--blue-deep);
+  border-radius: var(--radius-card);
+  border-bottom-right-radius: 5px;
+  background: var(--blue);
+  color: #fff;
+  box-shadow: 7px 8px 0 rgba(0, 58, 110, 0.14);
+}
+
+.wf-countdown::after {
+  content: "";
+  position: absolute;
+  top: -56px;
+  right: -44px;
+  width: 180px;
+  height: 180px;
+  border: 2px dashed rgba(255, 255, 255, 0.28);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.wf-countdown-left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-right: 28px;
+  border-right: 1.5px solid rgba(255, 255, 255, 0.28);
+}
+
+.wf-countdown-label {
+  color: var(--lime);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.68rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.wf-countdown-days {
+  color: #fff;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: clamp(2rem, 4.4vw, 3rem);
+  letter-spacing: -0.02em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.wf-countdown-right {
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+}
+
+.wf-countdown-title {
+  margin: 0 0 5px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: clamp(1.1rem, 2.2vw, 1.45rem);
+  line-height: 1.15;
+}
+
+.wf-countdown-date {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.85rem;
+}
+
+.wf-countdown.is-empty {
+  background: var(--blue-deep);
+}
+
+/* Controls -------------------------------------------------------------- */
+
+.wf-controls {
+  display: flex;
+  align-items: flex-end;
+  gap: 14px;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+
+.wf-search {
+  position: relative;
+  flex: 1;
+  max-width: 520px;
+}
+
+.wf-search-icon {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  color: var(--blue);
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.wf-search input {
+  width: 100%;
+  min-height: 50px;
+  padding: 12px 18px 12px 44px;
+  border: 1.5px solid var(--blue);
+  border-radius: var(--radius-pill);
+  background: #fff;
+  color: var(--ink);
+  font-size: 0.92rem;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.wf-search input::placeholder {
+  color: var(--muted);
+}
+
+.wf-search input:focus {
+  outline: none;
+  border-color: var(--blue-deep);
+  box-shadow: 0 0 0 4px rgba(0, 91, 171, 0.12);
+}
+
+.wf-sort {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 8px 7px 16px;
+  border: 1.5px solid var(--silver);
+  border-radius: var(--radius-pill);
+  background: #fff;
+}
+
+.wf-sort label {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--blue);
+  white-space: nowrap;
+}
+
+.wf-sort select {
+  min-height: 38px;
+  padding: 6px 30px 6px 12px;
+  border: 1.5px solid var(--silver);
+  border-radius: var(--radius-pill);
+  background-color: var(--blue-tint);
+  color: var(--blue-deep);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.wf-sort select:focus {
+  outline: none;
+  border-color: var(--blue);
+}
+
+.wf-month-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.wf-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 15px;
+  border: 1.5px solid var(--blue);
+  border-radius: var(--radius-pill);
+  background: #fff;
+  color: var(--blue);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.wf-chip:hover {
+  background: var(--blue-tint);
+  transform: translateY(-1px);
+}
+
+.wf-chip--active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #fff;
+}
+
+.wf-result-count {
+  margin: 0 0 20px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+/* Event cards ----------------------------------------------------------- */
+
+.wf-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 16px;
+}
+
+.wf-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 16px;
+  border: 1.5px solid var(--silver);
+  border-radius: 18px;
+  border-bottom-right-radius: 4px;
+  background: #fff;
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 0.5s ease var(--reveal-delay, 0ms),
+    transform 0.5s var(--ease-spring) var(--reveal-delay, 0ms),
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.wf-card--visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.wf-card:hover,
+.wf-card:focus-visible {
+  border-color: var(--blue);
+  box-shadow: 5px 6px 0 rgba(0, 91, 171, 0.1);
+}
+
+.wf-card:focus-visible {
+  outline: 3px solid rgba(184, 242, 76, 0.75);
+  outline-offset: 2px;
+}
+
+.wf-card-square {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 62px;
+  height: 66px;
+  border-radius: 14px;
+  border-bottom-right-radius: 4px;
+  background: var(--blue);
+  color: #fff;
+  text-align: center;
+}
+
+.wf-card-square span {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  line-height: 1;
+  opacity: 0.85;
+}
+
+.wf-card-square strong {
+  margin-top: 3px;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: 1.55rem;
+  line-height: 1;
+}
+
+.wf-card-info {
+  min-width: 0;
+}
+
+.wf-card-info h3 {
+  margin: 0 0 6px;
+  color: var(--blue-deep);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 1.02rem;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+.wf-loc {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin: 0 0 7px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.wf-loc::before {
+  content: "";
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  margin-top: 4px;
+  border-radius: 50%;
+  background: var(--pink);
+}
+
+.wf-time {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 4px 9px;
+  border-radius: var(--radius-pill);
+  background: var(--blue-tint);
+  color: var(--blue);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.wf-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 8px;
+  padding: 4px 9px;
+  border-radius: var(--radius-pill);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.wf-badge--past {
+  background: var(--silver);
+  color: var(--blue-deep);
+}
+
+.wf-card--past {
+  background: linear-gradient(180deg, #fff 0%, var(--blue-tint) 100%);
+}
+
+.wf-card--past .wf-card-square {
+  background: var(--blue-light);
+  color: var(--blue-deep);
+}
+
+.wf-card--past h3 {
+  color: var(--muted);
+}
+
+/* Empty state ----------------------------------------------------------- */
+
+.wf-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 56px 24px;
+  border: 2px dashed var(--silver);
+  border-radius: var(--radius-card);
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--muted);
+  text-align: center;
+}
+
+.wf-empty svg {
+  margin-bottom: 8px;
+  color: var(--blue);
+}
+
+.wf-empty-title {
+  margin: 0;
+  color: var(--blue-deep);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: 1.2rem;
+}
+
+.wf-empty-sub {
+  margin: 0;
+  font-size: 0.86rem;
+}
+
+@media (max-width: 760px) {
+  .wf-countdown {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    padding: 22px;
+  }
+
+  .wf-countdown-left {
+    flex-direction: row;
+    align-items: baseline;
+    gap: 10px;
+    padding-right: 0;
+    padding-bottom: 14px;
+    border-right: 0;
+    border-bottom: 1.5px solid rgba(255, 255, 255, 0.28);
+  }
+
+  .wf-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .wf-search {
+    max-width: none;
+  }
+
+  .wf-sort {
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 520px) {
+  .wf-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .wf-countdown-days {
+    white-space: normal;
+  }
+
+  .wf-card {
+    padding: 14px;
+    gap: 13px;
+  }
+
+  .wf-card-square {
+    width: 56px;
+    height: 60px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wf-card {
+    opacity: 1;
+    transform: none;
+  }
+}

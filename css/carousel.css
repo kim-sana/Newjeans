@@ -1,0 +1,322 @@
+/* ==========================================================================
+   SHARED 3D TRACK CAROUSEL
+   ========================================================================== */
+
+.tracks-section {
+  overflow: hidden;
+}
+
+.carousel-wrap {
+  position: relative;
+  width: 100%;
+  height: 470px;
+  margin-bottom: 12px;
+  perspective: 1200px;
+}
+
+.carousel-track {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.track-card {
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  display: grid;
+  grid-template-columns: 172px minmax(0, 1fr);
+  align-items: center;
+  gap: 24px;
+  width: min(560px, calc(100vw - 44px));
+  padding: 22px;
+  border: var(--border-blue);
+  border-radius: var(--radius-card);
+  border-bottom-right-radius: 5px;
+  background: #fff;
+  box-shadow: var(--shadow-card);
+  cursor: pointer;
+  will-change: transform, opacity;
+  transition:
+    transform 0.65s var(--ease-spring),
+    opacity 0.45s ease,
+    filter 0.45s ease,
+    box-shadow 0.3s ease;
+}
+
+.track-card.pos-active {
+  z-index: 10;
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(0.6deg) scale(1);
+}
+
+.track-card.pos-active:hover {
+  box-shadow: 12px 14px 0 rgba(0, 91, 171, 0.14);
+  transform: translate(-50%, -50%) rotate(0deg) scale(1.01);
+}
+
+.track-card.pos-prev {
+  z-index: 5;
+  opacity: 0.55;
+  filter: saturate(0.75);
+  transform: translate(calc(-50% - 280px), -50%) rotateY(12deg) scale(0.82);
+}
+
+.track-card.pos-next {
+  z-index: 5;
+  opacity: 0.55;
+  filter: saturate(0.75);
+  transform: translate(calc(-50% + 280px), -50%) rotateY(-12deg) scale(0.82);
+}
+
+.track-card.pos-hidden {
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%) scale(0.6);
+}
+
+.track-art-wrap {
+  position: relative;
+  width: 172px;
+  height: 172px;
+}
+
+.track-art {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 2px solid var(--blue);
+  border-radius: 10px;
+  box-shadow: 5px 6px 0 rgba(0, 91, 171, 0.14);
+}
+
+.track-cd-wrap {
+  position: absolute;
+  inset: 2%;
+  z-index: 1;
+  transition: transform 0.6s var(--ease-spring);
+}
+
+.track-cd-spin {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  animation: spin-cd 4s linear infinite;
+  animation-play-state: paused;
+}
+
+.track-card.pos-active:hover .track-cd-wrap {
+  transform: translateY(-56%);
+}
+
+.track-card.pos-active:hover .track-cd-spin {
+  animation-play-state: running;
+}
+
+@keyframes spin-cd {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.track-number {
+  position: absolute;
+  right: -20px;
+  bottom: -26px;
+  z-index: 3;
+  color: transparent;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: 4.2rem;
+  line-height: 1;
+  -webkit-text-stroke: 1.5px var(--blue);
+}
+
+.track-label {
+  margin: 0 0 6px;
+  color: var(--blue);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.track-name {
+  margin: 0 0 6px;
+  color: var(--blue);
+  font-size: clamp(1.7rem, 3.2vw, 2.35rem);
+  line-height: 0.95;
+}
+
+.track-info {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+.track-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.carousel-controls {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transform: translateX(-50%);
+}
+
+.carousel-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: 1.5px solid var(--blue);
+  border-radius: 50%;
+  background: #fff;
+  color: var(--blue);
+  font-family: var(--font-display);
+  font-weight: 900;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.carousel-btn:hover {
+  background: var(--blue);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.carousel-dots {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cdot {
+  width: 26px;
+  height: 5px;
+  padding: 0;
+  border: 0;
+  border-radius: 3px;
+  background: var(--silver);
+  transition: background 0.2s ease, width 0.2s ease;
+}
+
+.cdot.active {
+  width: 36px;
+  background: var(--blue);
+}
+
+.tracks-actions {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 1080px) {
+  .track-card.pos-prev {
+    transform: translate(calc(-50% - 235px), -50%) rotateY(12deg) scale(0.8);
+  }
+
+  .track-card.pos-next {
+    transform: translate(calc(-50% + 235px), -50%) rotateY(-12deg) scale(0.8);
+  }
+}
+
+@media (max-width: 760px) {
+  .track-card {
+    top: 43%;
+    grid-template-columns: 122px minmax(0, 1fr);
+    gap: 16px;
+    padding: 16px;
+  }
+
+  .track-art-wrap {
+    width: 122px;
+    height: 122px;
+  }
+
+  .track-number {
+    right: -12px;
+    bottom: -20px;
+    font-size: 3rem;
+  }
+
+  .track-name {
+    font-size: 1.55rem;
+  }
+
+  .track-label {
+    font-size: 0.6rem;
+  }
+
+  .track-info {
+    margin-bottom: 10px;
+    font-size: 0.76rem;
+  }
+
+  .track-card.pos-prev,
+  .track-card.pos-next {
+    opacity: 0;
+    pointer-events: none;
+    filter: none;
+  }
+
+  .track-card.pos-prev {
+    transform: translate(calc(-50% - 90px), -50%) scale(0.7);
+  }
+
+  .track-card.pos-next {
+    transform: translate(calc(-50% + 90px), -50%) scale(0.7);
+  }
+
+  .carousel-wrap {
+    height: 380px;
+  }
+}
+
+@media (max-width: 560px) {
+  .track-card {
+    grid-template-columns: 98px minmax(0, 1fr);
+    gap: 13px;
+    padding: 13px;
+  }
+
+  .track-art-wrap {
+    width: 98px;
+    height: 98px;
+  }
+
+  .track-name {
+    font-size: 1.35rem;
+  }
+
+  .track-number {
+    display: none;
+  }
+
+  .track-links .plat {
+    padding: 5px 8px;
+    font-size: 0.58rem;
+  }
+
+  .carousel-wrap {
+    height: 345px;
+  }
+}

@@ -1,276 +1,289 @@
 ﻿<!doctype html>
-<html lang="id">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Home - NewJeans</title>
+    <meta
+      name="description"
+      content="The NewJeans fan hub — music, discography, schedules, gallery and the latest news from the Bunnies universe."
+    />
+    <title>NewJeans — Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;1,700;1,800;1,900&family=Bagel+Fat+One&family=DM+Sans:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="images/hanni.png" />
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="stylesheet" href="css/carousel.css" />
+    <link rel="stylesheet" href="css/home.css" />
   </head>
   <body>
-    <div class="white">
-      <div class="squares">
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-        <div class="square"></div>
-      </div>
-    </div>
-    <video autoplay loop muted playsinline class="bg-video-global">
-      <source src="videos/mv.mp4" type="video/mp4" />
-    </video>
+    <a class="skip-link" href="#main">Skip to content</a>
 
-    <nav class="navbar" id="dynamicNavbar">
-      <img src="images/logo.png" alt="NewJeans Logo" class="logo-navbar" />
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="discography.html">Discography</a></li>
-        <li><a href="web-page/about.html">About</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
-      </ul>
+    <nav class="navbar" id="dynamicNavbar" aria-label="Main navigation">
+      <div class="navbar-inner">
+        <a class="brand" href="index.html" aria-label="NewJeans home">
+          <span class="brand-logo" role="img" aria-label="NewJeans"></span>
+        </a>
+        <ul class="nav-links" id="navLinks">
+          <li><a class="nav-link is-active" href="index.html" aria-current="page">Home</a></li>
+          <li><a class="nav-link" href="discography.html">Discography</a></li>
+          <li><a class="nav-link" href="schedule.html">Schedule</a></li>
+          <li><a class="nav-link" href="web-page/about.html">About</a></li>
+          <li><a class="nav-link" href="gallery-project/index.html">Gallery</a></li>
+        </ul>
+        <button
+          class="nav-toggle"
+          id="navToggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="navLinks"
+          aria-label="Toggle menu"
+        >
+          <span></span><span></span><span></span>
+        </button>
+      </div>
     </nav>
 
-    <!-- HERO: merged logo + buttons + marquee -->
-    <section class="hero" id="hero">
-      <div class="overlay"></div>
+    <main id="main">
+      <section class="hero dot-blue" id="hero" aria-labelledby="hero-title">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <span class="ribbon">Fan hub · since 2022</span>
+            <span class="brand-logo brand-logo--white hero-logo" role="img" aria-label="NewJeans"></span>
+            <h1 class="hero-title" id="hero-title">The new era<br />of pop.</h1>
+            <p class="hero-lead">
+              Breaking the boundaries of time and space with retro Y2K aesthetics
+              and addictive futuristic rhythms.
+            </p>
+            <div class="hero-actions">
+              <a href="discography.html" class="btn btn--primary btn--on-blue">Listen now</a>
+              <a href="schedule.html" class="btn btn--outline-light">See schedule</a>
+            </div>
+            <div class="hero-stickers" aria-hidden="true">
+              <span class="sticker sticker--pink">Est. 2022</span>
+              <span class="sticker sticker--lime sticker--rotate-right">Bunnies</span>
+            </div>
+          </div>
 
-      <img src="images/logo.png" alt="NewJeans Logo" class="hero-center-logo" />
-
-      <div class="hero-actions">
-        <a href="discography.html" class="btn btn-primary">Listen Now</a>
-        <a href="schedule.html" class="btn btn-secondary">See Schedule</a>
-      </div>
-
-      <div class="marquee-container">
-        <div class="marquee-track">
-          <span
-            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
-            SUPERNATURAL * BUBBLE GUM *
-          </span>
-          <span
-            >ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET *
-            SUPERNATURAL * BUBBLE GUM *
-          </span>
+          <div class="hero-media">
+            <figure class="video-card card--cut">
+              <video
+                autoplay
+                loop
+                muted
+                playsinline
+                preload="metadata"
+                poster="images/get-up.jpg"
+                aria-label="NewJeans music video preview"
+              >
+                <source src="videos/mv.mp4" type="video/mp4" />
+              </video>
+              <figcaption>
+                <span>Supernatural · Official MV</span>
+                <span class="video-card-dot" aria-hidden="true"></span>
+              </figcaption>
+            </figure>
+            <span class="sticker sticker--silver hero-sticker hero-sticker--one" aria-hidden="true">NewJeans</span>
+            <span class="sticker sticker--lime hero-sticker hero-sticker--two" aria-hidden="true">4 girls · 1 sound</span>
+          </div>
         </div>
-      </div>
-    </section>
 
-    <!-- TOP 3 TRACKS -->
-    <section class="tracks-section" id="track-session">
-      <div class="tracks-header">
-        <h2>Top 3 Tracks</h2>
-        <p>
-          Three iconic masterpieces that dominated global charts and captured
-          the hearts of millions of Bunnies worldwide.
-        </p>
-      </div>
+        <div class="marquee" aria-hidden="true">
+          <div class="marquee-track">
+            <span>ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET * SUPERNATURAL * BUBBLE GUM *</span>
+            <span>ATTENTION * DITTO * HYPE BOY * OMG * SUPER SHY * ETA * HOW SWEET * SUPERNATURAL * BUBBLE GUM *</span>
+          </div>
+        </div>
+      </section>
 
-      <div class="carousel-wrap">
-        <div class="carousel-track" id="trackCarousel3D">
-          <div class="track-card pos-active">
-            <div class="track-art-wrap">
-              <div class="track-cd-wrap">
-                <img
-                  src="images/cd.webp"
-                  alt="Vinyl CD"
-                  class="track-cd-spin" />
+      <section class="section tracks-section dot-paper" id="track-session">
+        <div class="container">
+          <div class="sec-head sec-head--center reveal">
+            <div>
+              <p class="eyebrow">Fan favourites</p>
+              <h2>Top 3 Tracks</h2>
+              <p class="sec-lead">
+                Three iconic masterpieces that dominated global charts and
+                captured the hearts of millions of Bunnies worldwide.
+              </p>
+            </div>
+          </div>
+
+          <div class="carousel-wrap">
+            <div class="carousel-track" id="trackCarousel3D">
+              <article class="track-card pos-active">
+                <div class="track-art-wrap">
+                  <div class="track-cd-wrap">
+                    <img src="images/cd.webp" alt="" class="track-cd-spin" />
+                  </div>
+                  <img src="images/newjeans.jpg" alt="Hype Boy cover" class="track-art" />
+                  <span class="track-number">01</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">Debut mini album</p>
+                  <h3 class="track-name">Hype Boy</h3>
+                  <p class="track-info">NewJeans &bull; 2022</p>
+                  <div class="track-links">
+                    <a href="https://open.spotify.com/track/0ziVKREENmUCGfYKqDmXek" target="_blank" rel="noopener noreferrer" class="plat">Spotify</a>
+                    <a href="https://www.youtube.com/watch?v=KwSHMc2VHtg" target="_blank" rel="noopener noreferrer" class="plat">YouTube</a>
+                  </div>
+                </div>
+              </article>
+
+              <article class="track-card pos-next">
+                <div class="track-art-wrap">
+                  <div class="track-cd-wrap">
+                    <img src="images/cd.webp" alt="" class="track-cd-spin" />
+                  </div>
+                  <img src="images/get-up.jpg" alt="Super Shy cover" class="track-art" />
+                  <span class="track-number">02</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">Mini album</p>
+                  <h3 class="track-name">Super Shy</h3>
+                  <p class="track-info">Get Up &bull; 2023</p>
+                  <div class="track-links">
+                    <a href="https://open.spotify.com/track/1OBU5GBUF0FCBM7IYPO5k3" target="_blank" rel="noopener noreferrer" class="plat">Spotify</a>
+                    <a href="https://www.youtube.com/watch?v=ArmDp-zijuc" target="_blank" rel="noopener noreferrer" class="plat">YouTube</a>
+                  </div>
+                </div>
+              </article>
+
+              <article class="track-card pos-prev">
+                <div class="track-art-wrap">
+                  <div class="track-cd-wrap">
+                    <img src="images/cd.webp" alt="" class="track-cd-spin" />
+                  </div>
+                  <img src="images/get-up.jpg" alt="ETA cover" class="track-art" />
+                  <span class="track-number">03</span>
+                </div>
+                <div class="track-body">
+                  <p class="track-label">Mini album</p>
+                  <h3 class="track-name">ETA</h3>
+                  <p class="track-info">Get Up &bull; 2023</p>
+                  <div class="track-links">
+                    <a href="https://open.spotify.com/track/3vkOIBnTfxVjzRwkRYoGLw" target="_blank" rel="noopener noreferrer" class="plat">Spotify</a>
+                    <a href="https://www.youtube.com/watch?v=GYNmOiXNpgk" target="_blank" rel="noopener noreferrer" class="plat">YouTube</a>
+                  </div>
+                </div>
+              </article>
+            </div>
+
+            <div class="carousel-controls">
+              <button id="btnPrev3D" class="carousel-btn" type="button" aria-label="Previous track">&lt;</button>
+              <div class="carousel-dots">
+                <button class="cdot active" type="button" data-index="0" aria-label="Show track 1"></button>
+                <button class="cdot" type="button" data-index="1" aria-label="Show track 2"></button>
+                <button class="cdot" type="button" data-index="2" aria-label="Show track 3"></button>
               </div>
-              <img src="images/newjeans.jpg" alt="Hype Boy" class="track-art" />
-              <span class="track-number">01</span>
-            </div>
-            <div class="track-body">
-              <div class="track-label">DEBUT MINI ALBUM</div>
-              <div class="track-name">Hype Boy</div>
-              <div class="track-info">NewJeans &bull; 2022</div>
-              <div class="track-links">
-                <a href="#" class="plat">SPOTIFY</a>
-                <a href="#" class="plat">YOUTUBE</a>
-              </div>
+              <button id="btnNext3D" class="carousel-btn" type="button" aria-label="Next track">&gt;</button>
             </div>
           </div>
 
-          <div class="track-card pos-next">
-            <div class="track-art-wrap">
-              <div class="track-cd-wrap">
-                <img
-                  src="images/cd.webp"
-                  alt="Vinyl CD"
-                  class="track-cd-spin" />
-              </div>
-              <img src="images/get-up.jpg" alt="Super Shy" class="track-art" />
-              <span class="track-number">02</span>
+          <div class="tracks-actions">
+            <a href="discography.html" class="btn">Explore all tracks</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="gallery" class="section gallery-section">
+        <div class="container">
+          <div class="sec-head sec-head--center reveal">
+            <div>
+              <p class="eyebrow">Visual archive</p>
+              <h2>Gallery</h2>
+              <p class="sec-lead">
+                A rotating look at stages, concept shoots and candid moments from
+                the Bunnies universe.
+              </p>
             </div>
-            <div class="track-body">
-              <div class="track-label">MINI ALBUM</div>
-              <div class="track-name">Super Shy</div>
-              <div class="track-info">Get Up &bull; 2023</div>
-              <div class="track-links">
-                <a href="#" class="plat">SPOTIFY</a>
-                <a href="#" class="plat">YOUTUBE</a>
-              </div>
+            <span class="sticker sticker--pink sticker--rotate-right">12 photos</span>
+          </div>
+
+          <div class="random-showcase" id="randomShowcase">
+            <div class="showcase-item">
+              <img src="images/gallery/gallery1.jpg" alt="NewJeans gallery 1" loading="lazy" />
+            </div>
+            <div class="showcase-item">
+              <img src="images/gallery/gallery2.jpg" alt="NewJeans gallery 2" loading="lazy" />
+            </div>
+            <div class="showcase-item">
+              <img src="images/gallery/gallery3.jpg" alt="NewJeans gallery 3" loading="lazy" />
             </div>
           </div>
 
-          <div class="track-card pos-prev">
-            <div class="track-art-wrap">
-              <div class="track-cd-wrap">
-                <img
-                  src="images/cd.webp"
-                  alt="Vinyl CD"
-                  class="track-cd-spin" />
-              </div>
-              <img src="images/get-up.jpg" alt="ETA" class="track-art" />
-              <span class="track-number">03</span>
+          <div class="masonry-wrapper" id="masonryWrapper">
+            <div class="masonry-grid">
+              <div class="masonry-item"><img src="images/gallery/gallery1.jpg" alt="Gallery 1" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery2.jpg" alt="Gallery 2" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery3.jpg" alt="Gallery 3" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery4.jpg" alt="Gallery 4" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery5.jpg" alt="Gallery 5" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery6.jpg" alt="Gallery 6" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery7.jpg" alt="Gallery 7" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery8.jpg" alt="Gallery 8" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery9.jpg" alt="Gallery 9" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery10.jpg" alt="Gallery 10" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery11.jpg" alt="Gallery 11" loading="lazy" /></div>
+              <div class="masonry-item"><img src="images/gallery/gallery12.jpg" alt="Gallery 12" loading="lazy" /></div>
             </div>
-            <div class="track-body">
-              <div class="track-label">MINI ALBUM</div>
-              <div class="track-name">ETA</div>
-              <div class="track-info">Get Up &bull; 2023</div>
-              <div class="track-links">
-                <a href="#" class="plat">SPOTIFY</a>
-                <a href="#" class="plat">YOUTUBE</a>
-              </div>
+          </div>
+
+          <div class="gallery-actions">
+            <button id="expandGalleryBtn" class="btn btn--ghost" type="button">
+              View full gallery
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section id="news" class="section news-section dot-paper">
+        <div class="container news-inner">
+          <div class="sec-head reveal">
+            <div>
+              <p class="eyebrow">Latest updates</p>
+              <h2>Highlight News</h2>
             </div>
+            <a href="#" class="news-see-all">See all news</a>
           </div>
         </div>
 
-        <div class="carousel-controls">
-          <button id="btnPrev3D" class="carousel-btn">&lt;</button>
-          <div class="carousel-dots">
-            <div class="cdot active" data-index="0"></div>
-            <div class="cdot" data-index="1"></div>
-            <div class="cdot" data-index="2"></div>
-          </div>
-          <button id="btnNext3D" class="carousel-btn">&gt;</button>
+        <div class="news-track-outer">
+          <div class="news-track" id="newsTrack"></div>
         </div>
+      </section>
+
+      <div id="imageModal" class="image-modal" role="dialog" aria-modal="true" aria-label="Gallery viewer">
+        <span class="close-modal" id="closeModal" role="button" tabindex="0" aria-label="Close gallery">&times;</span>
+        <button class="modal-nav-btn prev-btn" id="prevModalBtn" type="button" aria-label="Previous image">&lt;</button>
+        <img class="modal-content" id="modalImg" alt="Gallery image enlarged" />
+        <button class="modal-nav-btn next-btn" id="nextModalBtn" type="button" aria-label="Next image">&gt;</button>
       </div>
+    </main>
 
-      <div class="tracks-actions">
-        <a href="discography.html" class="btn-explore">Explore All Tracks</a>
-      </div>
-    </section>
-
-    <!-- GALLERY -->
-    <section id="gallery" class="gallery-section">
-      <div class="container gallery-container">
-        <div class="sec-header center">
-          <h2 class="sec-title center">Gallery</h2>
-        </div>
-
-        <div class="random-showcase" id="randomShowcase">
-          <div class="showcase-item">
-            <img src="images/gallery/gallery1.jpg" alt="NewJeans 1" />
-          </div>
-          <div class="showcase-item">
-            <img src="images/gallery/gallery2.jpg" alt="NewJeans 2" />
-          </div>
-          <div class="showcase-item">
-            <img src="images/gallery/gallery3.jpg" alt="NewJeans 3" />
-          </div>
-        </div>
-
-        <div class="masonry-wrapper" id="masonryWrapper">
-          <div class="masonry-grid">
-            <div class="masonry-item">
-              <img src="images/gallery/gallery1.jpg" alt="Gallery 1" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery2.jpg" alt="Gallery 2" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery3.jpg" alt="Gallery 3" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery4.jpg" alt="Gallery 4" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery5.jpg" alt="Gallery 5" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery6.jpg" alt="Gallery 6" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery7.jpg" alt="Gallery 7" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery8.jpg" alt="Gallery 8" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery9.jpg" alt="Gallery 9" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery10.jpg" alt="Gallery 10" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery11.jpg" alt="Gallery 11" />
-            </div>
-            <div class="masonry-item">
-              <img src="images/gallery/gallery12.jpg" alt="Gallery 12" />
-            </div>
-          </div>
-        </div>
-
-        <div class="gallery-actions">
-          <button id="expandGalleryBtn" class="btn btn-secondary">
-            View Full Gallery
-          </button>
-        </div>
-      </div>
-    </section>
-
-    <!-- HIGHLIGHT NEWS -->
-    <section id="news" class="news-section">
-      <div class="news-inner">
-        <div class="news-header">
-          <div>
-            <p class="news-eyebrow">Latest Updates</p>
-            <h2 class="news-title">Highlight News</h2>
-          </div>
-          <a href="#" class="news-see-all">See All News</a>
-        </div>
-      </div>
-
-      <div class="news-track-outer">
-        <div class="news-track" id="newsTrack">
-          <!-- Cards injected by JS for seamless duplication -->
-        </div>
-      </div>
-    </section>
-
-    <!-- MODAL -->
-    <div id="imageModal" class="image-modal">
-      <span class="close-modal" id="closeModal">&times;</span>
-      <button class="modal-nav-btn prev-btn" id="prevModalBtn">&lt;</button>
-      <img class="modal-content" id="modalImg" alt="Full View" />
-      <button class="modal-nav-btn next-btn" id="nextModalBtn">&gt;</button>
-    </div>
-
-    <!-- FOOTER -->
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="footer-top">
           <div class="footer-brand">
-            <img src="images/logo.png" alt="NewJeans" />
+            <span class="brand-logo brand-logo--white" role="img" aria-label="NewJeans"></span>
             <p>
               The official fan hub for NewJeans — bringing you the latest music,
               schedules, galleries, and news from the Bunnies universe.
             </p>
             <div class="footer-socials">
-              <a href="https://www.instagram.com/newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="Instagram">
+              <a href="https://www.instagram.com/newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="Instagram" aria-label="Instagram">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
               </a>
-              <a href="https://www.youtube.com/@NewJeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="YouTube">
+              <a href="https://www.youtube.com/@NewJeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="YouTube" aria-label="YouTube">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.96C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.96A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"/></svg>
               </a>
-              <a href="https://x.com/NewJeans_ADOR" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="Twitter/X">
+              <a href="https://x.com/NewJeans_ADOR" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="X (Twitter)" aria-label="X (Twitter)">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
               </a>
-              <a href="https://www.tiktok.com/@newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="TikTok">
+              <a href="https://www.tiktok.com/@newjeans_official" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="TikTok" aria-label="TikTok">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 0 0-.79-.05 6.34 6.34 0 0 0-6.34 6.34 6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.33-6.34V8.69a8.17 8.17 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/></svg>
               </a>
             </div>
@@ -280,8 +293,7 @@
             <h4>Navigate</h4>
             <ul>
               <li><a href="#hero">Home</a></li>
-              <li><a href="#track-session">Top Tracks</a></li>
-              <li><a href="#discography">Discography</a></li>
+              <li><a href="#track-session">Top tracks</a></li>
               <li><a href="#gallery">Gallery</a></li>
               <li><a href="#news">News</a></li>
               <li><a href="web-page/about.html">About</a></li>
@@ -302,19 +314,16 @@
           <div class="footer-col">
             <h4>More</h4>
             <ul>
-              <li><a href="web-page/about.html">About</a></li>
-              <li><a href="web-page/about.html#members">Members</a></li>
-              <li><a href="schedule.html">Schedule</a></li>
               <li><a href="discography.html">Discography</a></li>
+              <li><a href="schedule.html">Schedule</a></li>
+              <li><a href="gallery-project/index.html">Gallery page</a></li>
+              <li><a href="web-page/about.html#members">Members</a></li>
             </ul>
           </div>
         </div>
 
         <div class="footer-bottom">
-          <p>
-            &copy; 2026 NewJeans Fan Site. All rights reserved. This is an
-            unofficial fan-made website.
-          </p>
+          <p>&copy; 2026 NewJeans Fan Site. Unofficial fan-made website.</p>
           <div class="footer-bottom-links">
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Use</a>
@@ -324,460 +333,8 @@
       </div>
     </footer>
 
-    <script>
-      // === NAVBAR: show on hover near top, hide when scrolled away ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const dynamicNavbar = document.getElementById("dynamicNavbar");
-
-        window.addEventListener("scroll", () => {
-          if (window.scrollY > 80) {
-            dynamicNavbar.classList.remove("navbar-show");
-          }
-        });
-
-        window.addEventListener("mousemove", (e) => {
-          if (e.clientY < 80) {
-            dynamicNavbar.classList.add("navbar-show");
-          } else if (e.clientY > 150) {
-            dynamicNavbar.classList.remove("navbar-show");
-          }
-        });
-
-        dynamicNavbar.addEventListener("mouseenter", () => {
-          dynamicNavbar.classList.add("navbar-show");
-        });
-      });
-
-      // === 3D CAROUSEL + AUDIO ===
-      const cards3D = document.querySelectorAll(".track-card");
-      const dots = document.querySelectorAll(".cdot");
-      const btnPrev = document.getElementById("btnPrev3D");
-      const btnNext = document.getElementById("btnNext3D");
-
-      const audioData = [
-        { audio: new Audio("audio/Hype-Boy.mp3"), start: 53 },
-        { audio: new Audio("audio/Super-Shy.mp3"), start: 51 },
-        { audio: new Audio("audio/ETA.mp3"), start: 62 },
-      ];
-
-      const MAX_VOLUME = 0.3;
-      let activeIndex = 0;
-      const totalCards = cards3D.length;
-      let autoPlayTimer;
-      let activeAudioIndex = null;
-      // Tiap audio punya interval sendiri agar tidak saling tabrakan
-      const fadeIntervals = [null, null, null];
-
-      function fadeOut(audioObj, idx) {
-        clearInterval(fadeIntervals[idx]);
-        let vol = audioObj.volume;
-        fadeIntervals[idx] = setInterval(() => {
-          if (vol > 0.05) {
-            vol -= 0.05;
-            audioObj.volume = Math.max(0, vol);
-          } else {
-            audioObj.volume = 0;
-            audioObj.pause();
-            clearInterval(fadeIntervals[idx]);
-            fadeIntervals[idx] = null;
-          }
-        }, 50);
-      }
-
-      function fadeIn(audioObj, startTime, idx, isResume = false) {
-        clearInterval(fadeIntervals[idx]);
-        fadeIntervals[idx] = null;
-        if (!isResume) {
-          audioObj.currentTime = startTime;
-        }
-        audioObj.volume = 0;
-        const playPromise = audioObj.play();
-        if (playPromise !== undefined) {
-          playPromise
-            .then(() => {
-              let vol = 0;
-              fadeIntervals[idx] = setInterval(() => {
-                if (vol < MAX_VOLUME - 0.05) {
-                  vol += 0.05;
-                  audioObj.volume = vol;
-                } else {
-                  audioObj.volume = MAX_VOLUME;
-                  clearInterval(fadeIntervals[idx]);
-                  fadeIntervals[idx] = null;
-                }
-              }, 50);
-            })
-            .catch((err) => {
-              console.log("Autoplay ditahan browser. Butuh interaksi klik.", err);
-            });
-        }
-      }
-
-      // Audio hanya boleh putar saat section #track-session visible di viewport
-      let isAudioEnabled = false;
-
-      function updateAudio() {
-        if (!isAudioEnabled) return;
-        if (activeAudioIndex === activeIndex) return;
-        if (activeAudioIndex !== null) {
-          fadeOut(audioData[activeAudioIndex].audio, activeAudioIndex);
-        }
-        const currentTrack = audioData[activeIndex];
-        fadeIn(currentTrack.audio, currentTrack.start, activeIndex);
-        activeAudioIndex = activeIndex;
-      }
-
-      function stopAllAudio() {
-        audioData.forEach((track, idx) => {
-          if (!track.audio.paused) {
-            fadeOut(track.audio, idx);
-          }
-        });
-        activeAudioIndex = null;
-      }
-
-      function update3DCarousel() {
-        cards3D.forEach((card) =>
-          card.classList.remove(
-            "pos-active",
-            "pos-next",
-            "pos-prev",
-            "pos-hidden",
-          ),
-        );
-        dots.forEach((dot) => dot.classList.remove("active"));
-
-        const prevIndex = (activeIndex - 1 + totalCards) % totalCards;
-        const nextIndex = (activeIndex + 1) % totalCards;
-
-        cards3D[activeIndex].classList.add("pos-active");
-        cards3D[prevIndex].classList.add("pos-prev");
-        cards3D[nextIndex].classList.add("pos-next");
-        dots[activeIndex].classList.add("active");
-
-        updateAudio();
-      }
-
-      function nextSlide3D() {
-        activeIndex = (activeIndex + 1) % totalCards;
-        update3DCarousel();
-      }
-      function prevSlide3D() {
-        activeIndex = (activeIndex - 1 + totalCards) % totalCards;
-        update3DCarousel();
-      }
-      function startTimer() {
-        clearInterval(autoPlayTimer);
-        autoPlayTimer = setInterval(nextSlide3D, 4000);
-      }
-      function resetTimer() {
-        clearInterval(autoPlayTimer);
-        startTimer();
-      }
-
-      btnNext.addEventListener("click", () => {
-        nextSlide3D();
-        resetTimer();
-      });
-      btnPrev.addEventListener("click", () => {
-        prevSlide3D();
-        resetTimer();
-      });
-      dots.forEach((dot, index) => {
-        dot.addEventListener("click", () => {
-          activeIndex = index;
-          update3DCarousel();
-          resetTimer();
-        });
-      });
-
-      update3DCarousel();
-      startTimer();
-
-      // === OBSERVER: audio hanya putar saat #track-session visible ===
-      const trackSection = document.getElementById("track-session");
-      let trackObserverReady = false;
-
-      const trackObserver = new IntersectionObserver((entries) => {
-        // Abaikan trigger pertama saat halaman load
-        if (!trackObserverReady) {
-          trackObserverReady = true;
-          return;
-        }
-
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            // Section masuk viewport: aktifkan audio dan putar lagu aktif
-            isAudioEnabled = true;
-            const currentTrack = audioData[activeIndex];
-            fadeIn(currentTrack.audio, currentTrack.start, activeIndex);
-            activeAudioIndex = activeIndex;
-          } else {
-            // Section keluar viewport (scroll ke bawah/atas): hentikan semua audio
-            isAudioEnabled = false;
-            stopAllAudio();
-          }
-        });
-      }, { root: null, threshold: 0.2 });
-
-      if (trackSection) {
-        trackObserver.observe(trackSection);
-      }
-
-      // === DISCOGRAPHY FILTER ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const releaseList = document.getElementById("releaseList");
-        const items = Array.from(
-          releaseList.getElementsByClassName("release-row"),
-        );
-        const chips = document.querySelectorAll(".disco-chips .chip");
-        const searchInput = document.getElementById("searchInput");
-        const catSelect = document.getElementById("catSelect2");
-        const sortSelect = document.getElementById("sortSelect");
-        const resetBtn = document.getElementById("resetBtn");
-        const applyBtn = document.getElementById("applyBtn");
-
-        function processDiscography() {
-          const searchTerm = searchInput.value.toLowerCase().trim();
-          const activeCategory = catSelect.value;
-          const activeSort = sortSelect.value;
-
-          items.forEach((item) => {
-            const title = item
-              .querySelector(".rr-title")
-              .innerText.toLowerCase();
-            const type = item.dataset.type;
-            const matchesSearch = title.includes(searchTerm);
-            const matchesCategory =
-              activeCategory === "all" || type === activeCategory;
-            item.style.display = matchesSearch && matchesCategory ? "" : "none";
-          });
-
-          items.sort((a, b) => {
-            const yearA = parseInt(a.dataset.year);
-            const yearB = parseInt(b.dataset.year);
-            return activeSort === "newest" ? yearB - yearA : yearA - yearB;
-          });
-
-          items.forEach((item) => releaseList.appendChild(item));
-        }
-
-        chips.forEach((chip) => {
-          chip.addEventListener("click", function () {
-            chips.forEach((c) => c.classList.remove("active"));
-            this.classList.add("active");
-            catSelect.value = this.dataset.filter;
-            processDiscography();
-          });
-        });
-
-        catSelect.addEventListener("change", function () {
-          chips.forEach((c) => {
-            if (c.dataset.filter === this.value) c.classList.add("active");
-            else c.classList.remove("active");
-          });
-        });
-
-        applyBtn.addEventListener("click", (e) => {
-          e.preventDefault();
-          processDiscography();
-        });
-        resetBtn.addEventListener("click", (e) => {
-          e.preventDefault();
-          searchInput.value = "";
-          catSelect.value = "all";
-          sortSelect.value = "newest";
-          chips.forEach((c) =>
-            c.dataset.filter === "all"
-              ? c.classList.add("active")
-              : c.classList.remove("active"),
-          );
-          processDiscography();
-        });
-
-        processDiscography();
-      });
-
-      // === GALLERY EXPAND & MODAL ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const expandBtn = document.getElementById("expandGalleryBtn");
-        const masonryWrapper = document.getElementById("masonryWrapper");
-        const randomShowcase = document.getElementById("randomShowcase");
-        const showcaseImages = document.querySelectorAll(".showcase-item img");
-        const totalGalleryImages = 12;
-        let randomInterval;
-
-        function getUniqueRandomNumbers() {
-          let numbers = new Set();
-          while (numbers.size < 3)
-            numbers.add(Math.floor(Math.random() * totalGalleryImages) + 1);
-          return Array.from(numbers);
-        }
-
-        function updateShowcaseImages() {
-          const newImageNumbers = getUniqueRandomNumbers();
-          showcaseImages.forEach((img, index) => {
-            img.style.opacity = 0;
-            setTimeout(() => {
-              img.src = `images/gallery/gallery${newImageNumbers[index]}.jpg`;
-              img.style.opacity = 1;
-            }, 500);
-          });
-        }
-
-        randomInterval = setInterval(updateShowcaseImages, 5000);
-
-        expandBtn.addEventListener("click", () => {
-          randomShowcase.classList.toggle("hide-showcase");
-          masonryWrapper.classList.toggle("expanded");
-
-          if (masonryWrapper.classList.contains("expanded")) {
-            clearInterval(randomInterval);
-            expandBtn.textContent = "Show Less";
-          } else {
-            expandBtn.textContent = "View Full Gallery";
-            updateShowcaseImages();
-            randomInterval = setInterval(updateShowcaseImages, 5000);
-            document
-              .getElementById("gallery")
-              .scrollIntoView({ behavior: "smooth" });
-          }
-        });
-
-        // Modal
-        const imageModal = document.getElementById("imageModal");
-        const modalImg = document.getElementById("modalImg");
-        const closeModal = document.getElementById("closeModal");
-        const gallerySection = document.getElementById("gallery");
-        const prevModalBtn = document.getElementById("prevModalBtn");
-        const nextModalBtn = document.getElementById("nextModalBtn");
-        let currentImageIndex = 1;
-
-        function updateModalImage(index) {
-          modalImg.classList.add("fade-transition");
-          setTimeout(() => {
-            modalImg.src = `images/gallery/gallery${index}.jpg`;
-            modalImg.onload = () =>
-              modalImg.classList.remove("fade-transition");
-          }, 200);
-        }
-
-        gallerySection.addEventListener("click", (e) => {
-          if (e.target.tagName === "IMG") {
-            const match = e.target.src.match(/gallery(\d+)\.jpg/);
-            if (match) currentImageIndex = parseInt(match[1]);
-            modalImg.src = `images/gallery/gallery${currentImageIndex}.jpg`;
-            imageModal.classList.add("show");
-          }
-        });
-
-        prevModalBtn.addEventListener("click", (e) => {
-          e.stopPropagation();
-          currentImageIndex--;
-          if (currentImageIndex < 1) currentImageIndex = totalGalleryImages;
-          updateModalImage(currentImageIndex);
-        });
-
-        nextModalBtn.addEventListener("click", (e) => {
-          e.stopPropagation();
-          currentImageIndex++;
-          if (currentImageIndex > totalGalleryImages) currentImageIndex = 1;
-          updateModalImage(currentImageIndex);
-        });
-
-        closeModal.addEventListener("click", () =>
-          imageModal.classList.remove("show"),
-        );
-        imageModal.addEventListener("click", (e) => {
-          if (e.target === imageModal) imageModal.classList.remove("show");
-        });
-        document.addEventListener("keydown", (e) => {
-          if (!imageModal.classList.contains("show")) return;
-          if (e.key === "ArrowLeft") prevModalBtn.click();
-          else if (e.key === "ArrowRight") nextModalBtn.click();
-          else if (e.key === "Escape") closeModal.click();
-        });
-      });
-
-      // === HIGHLIGHT NEWS CAROUSEL ===
-      document.addEventListener("DOMContentLoaded", () => {
-        const newsData = [
-          {
-            img: "images/gallery/gallery1.jpg",
-            tag: "Comeback",
-            headline: "NewJeans Announces Surprise Mini Album Drop This Summer",
-            date: "June 10, 2024",
-          },
-          {
-            img: "images/gallery/gallery2.jpg",
-            tag: "Tour",
-            headline: "Bunnies Camp World Tour 2024 — Full Venue List Revealed",
-            date: "May 28, 2024",
-          },
-          {
-            img: "images/gallery/gallery3.jpg",
-            tag: "Award",
-            headline: "NewJeans Sweep Melon Music Awards with 5 Trophies",
-            date: "May 15, 2024",
-          },
-          {
-            img: "images/gallery/gallery4.jpg",
-            tag: "Music Video",
-            headline: "How Sweet MV Hits 100 Million Views in Record Time",
-            date: "Apr 30, 2024",
-          },
-          {
-            img: "images/gallery/gallery5.jpg",
-            tag: "Collab",
-            headline: "NewJeans x Nike: Exclusive Limited Edition Collection",
-            date: "Apr 18, 2024",
-          },
-          {
-            img: "images/gallery/gallery6.jpg",
-            tag: "Live",
-            headline: "Behind the Scenes: OMG Live Stage at Inkigayo",
-            date: "Mar 22, 2024",
-          },
-          {
-            img: "images/gallery/gallery7.jpg",
-            tag: "Chart",
-            headline: "Super Shy Re-enters Top 10 on Billboard Global Chart",
-            date: "Mar 08, 2024",
-          },
-          {
-            img: "images/gallery/gallery8.jpg",
-            tag: "Feature",
-            headline:
-              "NewJeans Cover Story: Inside the Studio with the Members",
-            date: "Feb 14, 2024",
-          },
-          {
-            img: "images/gallery/gallery9.jpg",
-            tag: "Event",
-            headline: "Fan Meeting 'Bunnies Camp' Sold Out in Under 2 Minutes",
-            date: "Jan 31, 2024",
-          },
-        ];
-
-        const track = document.getElementById("newsTrack");
-
-        // Double the array for seamless infinite loop
-        const allCards = [...newsData, ...newsData];
-
-        allCards.forEach((item) => {
-          const card = document.createElement("div");
-          card.className = "news-card";
-          card.innerHTML = `
-          <img src="${item.img}" alt="${item.headline}" />
-          <div class="news-card-body">
-            <span class="news-card-tag">${item.tag}</span>
-            <p class="news-card-headline">${item.headline}</p>
-            <span class="news-card-date">${item.date}</span>
-          </div>
-        `;
-          track.appendChild(card);
-        });
-      });
-    </script>
+    <script src="js/theme.js" defer></script>
+    <script src="js/track-carousel.js" defer></script>
+    <script src="js/home.js" defer></script>
   </body>
 </html>
