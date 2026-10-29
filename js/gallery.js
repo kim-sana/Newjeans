@@ -14,10 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (label) label.textContent = "Show less";
       button.classList.add("is-open");
       button.setAttribute("aria-expanded", "true");
-      grid.scrollIntoView({
-        behavior: "smooth",
-        block: "nearest",
-      });
+      window.scrollToElement?.(grid, { block: "nearest" });
     } else {
       grid.setAttribute("hidden", "");
       if (label) label.textContent = "Tap to see more";

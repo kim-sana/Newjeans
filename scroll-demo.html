@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Demo Locomotive Scroll v5 dengan beberapa section panjang dan indikator status." />
+    <title>Locomotive Scroll — Demo</title>
+    <link rel="icon" type="image/png" href="images/brand/favicon.png" />
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="stylesheet" href="vendor/locomotive-scroll/locomotive-scroll.css" />
+    <link rel="stylesheet" href="css/scroll-demo.css" />
+  </head>
+  <body class="scroll-demo">
+    <header class="demo-header">
+      <a class="demo-home" href="index.html">NewJeans Fan Hub</a>
+      <span class="scroll-status" id="scrollStatus" role="status" aria-live="polite">Memeriksa Locomotive Scroll…</span>
+    </header>
+
+    <main id="demoMain">
+      <section class="demo-section demo-intro" id="top">
+        <div class="demo-intro-content">
+          <p class="demo-kicker">Locomotive Scroll v5 · live demo</p>
+          <h1>Scroll pelan.<br /><em>Rasakan bedanya.</em></h1>
+          <p class="demo-copy">Gunakan roda mouse atau trackpad. Scroll mengikuti dengan lembut, lalu melambat dengan inertia.</p>
+          <p class="demo-instruction" id="motionHint"></p>
+          <a class="demo-link" href="#section-two">Mulai scroll <span aria-hidden="true">↓</span></a>
+        </div>
+        <span class="demo-shape demo-shape--one" data-scroll data-scroll-speed="0.25" aria-hidden="true">01</span>
+      </section>
+
+      <section class="demo-section demo-pink" id="section-two">
+        <span class="demo-index" data-scroll data-scroll-speed="0.18" aria-hidden="true">02</span>
+        <div class="demo-panel">
+          <p class="demo-kicker">Section dua</p>
+          <h2>Konten bergerak<br />mengalir.</h2>
+          <p class="demo-copy">Latar dan aksen membantu melihat posisi scroll. Aksen bernomor juga memakai efek parallax v5.</p>
+        </div>
+      </section>
+
+      <section class="demo-section demo-lime" id="section-three">
+        <span class="demo-index" data-scroll data-scroll-speed="0.22" aria-hidden="true">03</span>
+        <div class="demo-panel demo-panel--right">
+          <p class="demo-kicker">Section tiga</p>
+          <h2>Tanpa snap.<br />Tanpa double scroll.</h2>
+          <p class="demo-copy">Locomotive v5 memakai scroll native sebagai dasar dan menambahkan easing melalui Lenis.</p>
+        </div>
+      </section>
+
+      <section class="demo-section demo-blue" id="section-four">
+        <span class="demo-index" data-scroll data-scroll-speed="0.16" aria-hidden="true">04</span>
+        <div class="demo-panel">
+          <p class="demo-kicker">Section empat</p>
+          <h2>Empat layar<br />penuh untuk dicoba.</h2>
+          <p class="demo-copy">Turun dan naik lagi. Perhatikan gerak tetap halus saat melepas roda mouse.</p>
+          <a class="demo-link demo-link--light" href="#top">Kembali ke atas <span aria-hidden="true">↑</span></a>
+        </div>
+      </section>
+    </main>
+
+    <script src="vendor/locomotive-scroll/locomotive-scroll.min.js" defer></script>
+    <script src="js/theme.js" defer></script>
+    <script src="js/scroll-demo.js" defer></script>
+  </body>
+</html>

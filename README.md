@@ -11,6 +11,7 @@ Website fan-made bertema NewJeans: beranda, diskografi, jadwal, profil member, d
 | Schedule | `schedule.html` | `/schedule.html` |
 | About & members | `web-page/about.html` | `/web-page/about.html` |
 | Gallery | `gallery-project/index.html` | `/gallery-project/index.html` |
+| Scroll demo | `scroll-demo.html` | `/scroll-demo.html` |
 
 Folder `web-page/` dan `gallery-project/` dipertahankan agar URL halaman yang sudah ada tetap valid.
 
@@ -50,6 +51,15 @@ python -m http.server 8000
 ```
 
 Lalu buka `http://localhost:8000`.
+
+### Locomotive Scroll
+
+Project memakai Locomotive Scroll **v5.0.0** dari `vendor/locomotive-scroll/` pada semua halaman utama. API v5 memakai Lenis dan tidak membutuhkan `data-scroll-container` atau `data-scroll-section`.
+Elemen `.reveal` memakai deteksi viewport Locomotive saat smooth scroll aktif; observer native hanya menjadi fallback.
+
+- Demo: `http://localhost:8000/scroll-demo.html`
+- Jika browser melaporkan reduced motion, tambahkan `?smooth=1` untuk mengaktifkan smooth scroll secara eksplisit di halaman tersebut.
+- Tambahkan `&scrollDebug=1` untuk melihat event scroll di console.
 
 ## Konvensi aset
 

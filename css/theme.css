@@ -38,7 +38,6 @@
 }
 
 html {
-  scroll-behavior: smooth;
   scroll-padding-top: calc(var(--nav-height) + 18px);
 }
 
@@ -49,7 +48,7 @@ body {
   font-family: var(--font-body);
   font-size: 16.5px;
   line-height: 1.65;
-  overflow-x: hidden;
+  overflow-x: clip;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -937,9 +936,22 @@ ol {
 }
 
 .reveal.is-visible,
+.reveal.is-inview,
 .reveal.visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
 }
 
 /* --------------------------------------------------------------------------

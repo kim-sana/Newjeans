@@ -1,5 +1,77 @@
 /* Shared navigation + scroll reveal behaviour. */
 (() => {
+  const reducedMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+  const searchParams = new URLSearchParams(window.location.search);
+  const smoothScrollSessionKey = "newjeans-smooth-scroll";
+  let forceSmoothScroll = searchParams.get("smooth") === "1";
+  const scrollDebug = searchParams.get("scrollDebug") === "1";
+  const locomotiveConstructor = window.LocomotiveScroll;
+  const revealElements = document.querySelectorAll(".reveal");
+  let locomotiveScroll;
+
+  try {
+    if (forceSmoothScroll) {
+      window.sessionStorage.setItem(smoothScrollSessionKey, "1");
+    } else if (searchParams.get("smooth") === "0") {
+      window.sessionStorage.removeItem(smoothScrollSessionKey);
+    } else {
+      forceSmoothScroll = window.sessionStorage.getItem(smoothScrollSessionKey) === "1";
+    }
+  } catch (error) {
+    console.warn("[scroll] Session storage is unavailable; smooth override applies only to this URL.");
+  }
+
+  console.info("[scroll] prefers-reduced-motion:", reducedMotionQuery.matches);
+
+  if (forceSmoothScroll && reducedMotionQuery.matches) {
+    console.warn("[scroll] Smooth override active despite reduced motion preference.");
+  }
+
+  if (typeof locomotiveConstructor === "function" && (!reducedMotionQuery.matches || forceSmoothScroll)) {
+    try {
+      revealElements.forEach((element) => element.setAttribute("data-scroll", ""));
+      locomotiveScroll = new locomotiveConstructor({
+        lenisOptions: {
+          lerp: 0.075,
+          smoothWheel: true,
+          syncTouch: false,
+        },
+        scrollCallback: (event) => {
+          if (scrollDebug) console.debug("[scroll] event:", event);
+        },
+      });
+      document.documentElement.dataset.locomotiveScroll = "active";
+      document.documentElement.dataset.locomotiveVersion = window.locomotiveScrollVersion || "unknown";
+      console.info("[scroll] Locomotive Scroll", document.documentElement.dataset.locomotiveVersion);
+      console.info("[scroll] instance:", locomotiveScroll);
+    } catch (error) {
+      document.documentElement.dataset.locomotiveScroll = "error";
+      console.error("[scroll] Locomotive Scroll initialization failed:", error);
+    }
+  } else {
+    document.documentElement.dataset.locomotiveScroll = reducedMotionQuery.matches ? "reduced-motion" : "unavailable";
+    if (reducedMotionQuery.matches) {
+      console.info("[scroll] Using native scrolling because reduced motion is enabled. Add ?smooth=1 to opt in for this page.");
+    } else {
+      console.error("[scroll] LocomotiveScroll is missing. Check the vendor script path and load order.");
+    }
+  }
+
+  window.scrollToElement = (element, options = {}) => {
+    if (!element) return;
+
+    if (locomotiveScroll?.scrollTo) {
+      const { block, ...scrollOptions } = options;
+      locomotiveScroll.scrollTo(element, scrollOptions);
+      return;
+    }
+
+    element.scrollIntoView({
+      behavior: reducedMotionQuery.matches && !forceSmoothScroll ? "auto" : "smooth",
+      ...options,
+    });
+  };
+
   const navbar = document.getElementById("dynamicNavbar");
   const toggle = document.getElementById("navToggle");
   const links = document.getElementById("navLinks");
@@ -72,10 +144,10 @@
     window.addEventListener("mousemove", onMouseMove, { passive: true });
   }
 
-  const revealElements = document.querySelectorAll(".reveal");
-
-  if (revealElements.length) {
+  if (!locomotiveScroll && revealElements.length) {
     if (!("IntersectionObserver" in window)) {
+      revealElements.forEach((element) => element.classList.add("is-visible"));
+    } else if (reducedMotionQuery.matches) {
       revealElements.forEach((element) => element.classList.add("is-visible"));
     } else {
       const revealObserver = new IntersectionObserver(

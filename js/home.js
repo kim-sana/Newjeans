@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       updateShowcaseImages();
       startShowcaseRotation();
-      document.getElementById("gallery")?.scrollIntoView({ behavior: "smooth" });
+      window.scrollToElement?.(document.getElementById("gallery"));
     });
   }
 
