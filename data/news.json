@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "slug": "newjeans-announces-surprise-mini-album-drop-this-summer",
+    "title": "NewJeans Announces Surprise Mini Album Drop This Summer",
+    "thumbnail": "images/gallery/gallery1.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-06-10T00:00:00Z",
+    "published_at": "2024-06-10T00:00:00Z",
+    "updated_at": "2024-06-10T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "slug": "bunnies-camp-world-tour-2024-full-venue-list-revealed",
+    "title": "Bunnies Camp World Tour 2024 — Full Venue List Revealed",
+    "thumbnail": "images/gallery/gallery2.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-05-28T00:00:00Z",
+    "published_at": "2024-05-28T00:00:00Z",
+    "updated_at": "2024-05-28T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "slug": "newjeans-sweep-melon-music-awards-with-5-trophies",
+    "title": "NewJeans Sweep Melon Music Awards with 5 Trophies",
+    "thumbnail": "images/gallery/gallery3.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-05-15T00:00:00Z",
+    "published_at": "2024-05-15T00:00:00Z",
+    "updated_at": "2024-05-15T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "slug": "how-sweet-mv-hits-100-million-views-in-record-time",
+    "title": "How Sweet MV Hits 100 Million Views in Record Time",
+    "thumbnail": "images/gallery/gallery4.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-04-30T00:00:00Z",
+    "published_at": "2024-04-30T00:00:00Z",
+    "updated_at": "2024-04-30T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "slug": "newjeans-x-nike-exclusive-limited-edition-collection",
+    "title": "NewJeans x Nike: Exclusive Limited Edition Collection",
+    "thumbnail": "images/gallery/gallery5.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-04-18T00:00:00Z",
+    "published_at": "2024-04-18T00:00:00Z",
+    "updated_at": "2024-04-18T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "slug": "behind-the-scenes-omg-live-stage-at-inkigayo",
+    "title": "Behind the Scenes: OMG Live Stage at Inkigayo",
+    "thumbnail": "images/gallery/gallery6.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-03-22T00:00:00Z",
+    "published_at": "2024-03-22T00:00:00Z",
+    "updated_at": "2024-03-22T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "slug": "super-shy-re-enters-top-10-on-billboard-global-chart",
+    "title": "Super Shy Re-enters Top 10 on Billboard Global Chart",
+    "thumbnail": "images/gallery/gallery7.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-03-08T00:00:00Z",
+    "published_at": "2024-03-08T00:00:00Z",
+    "updated_at": "2024-03-08T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "slug": "newjeans-cover-story-inside-the-studio-with-the-members",
+    "title": "NewJeans Cover Story: Inside the Studio with the Members",
+    "thumbnail": "images/gallery/gallery8.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-02-14T00:00:00Z",
+    "published_at": "2024-02-14T00:00:00Z",
+    "updated_at": "2024-02-14T00:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "slug": "fan-meeting-bunnies-camp-sold-out-in-under-2-minutes",
+    "title": "Fan Meeting 'Bunnies Camp' Sold Out in Under 2 Minutes",
+    "thumbnail": "images/gallery/gallery9.jpg",
+    "content": "",
+    "status": "published",
+    "created_at": "2024-01-31T00:00:00Z",
+    "published_at": "2024-01-31T00:00:00Z",
+    "updated_at": "2024-01-31T00:00:00Z",
+    "deleted_at": null
+  }
+]
