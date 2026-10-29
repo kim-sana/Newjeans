@@ -12,6 +12,7 @@
       <li><a class="nav-link" href="{{BASE_PATH}}index.html" data-page="index">Home</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}discography.html" data-page="discography">Discography</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}schedule.html" data-page="schedule">Schedule</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}news.html" data-page="news">News</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}web-page/about.html" data-page="about">About</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}gallery-project/index.html" data-page="gallery">Gallery</a></li>
     </ul>
@@ -99,6 +100,7 @@
     'index.html': 'index',
     'discography.html': 'discography',
     'schedule.html': 'schedule',
+    'news.html': 'news',
     'about.html': 'about',
     '/gallery-project/': 'gallery',
     '/gallery-project/index.html': 'gallery'

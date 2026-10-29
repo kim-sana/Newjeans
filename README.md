@@ -9,6 +9,7 @@ Website fan-made bertema NewJeans: beranda, diskografi, jadwal, profil member, d
 | Home | `index.html` | `/index.html` |
 | Discography | `discography.html` | `/discography.html` |
 | Schedule | `schedule.html` | `/schedule.html` |
+| News | `news.html` | `/news.html` |
 | About & members | `web-page/about.html` | `/web-page/about.html` |
 | Gallery | `gallery-project/index.html` | `/gallery-project/index.html` |
 | Scroll demo | `scroll-demo.html` | `/scroll-demo.html` |
@@ -22,12 +23,15 @@ Folder `web-page/` dan `gallery-project/` dipertahankan agar URL halaman yang su
 ├── index.html
 ├── discography.html
 ├── schedule.html
+├── news.html
 ├── web-page/
 │   └── about.html
 ├── gallery-project/
 │   └── index.html
 ├── css/                  # theme.css + CSS per halaman
-├── js/                   # theme.js, carousel, dan JS per halaman
+├── js/                   # theme.js, carousel, news data, dan JS per halaman
+├── data/
+│   └── news.json         # data frontend highlight news
 ├── images/
 │   ├── albums/           # cover album dan CD
 │   ├── brand/            # logo dan favicon
@@ -44,7 +48,7 @@ Folder `web-page/` dan `gallery-project/` dipertahankan agar URL halaman yang su
 
 ## Menjalankan lokal
 
-Buka `index.html` langsung di browser, atau jalankan static server dari root proyek:
+Home dan News mengambil data dari `data/news.json`, jadi halaman tersebut perlu dibuka lewat static server, bukan langsung melalui `file://`. Jalankan server dari root proyek:
 
 ```powershell
 python -m http.server 8000

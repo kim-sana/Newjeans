@@ -137,78 +137,57 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ------------------------------------------------------------------------
      Highlight news carousel
      ------------------------------------------------------------------------ */
-  const newsData = [
-    {
-      img: "images/gallery/gallery1.jpg",
-      tag: "Comeback",
-      headline: "NewJeans Announces Surprise Mini Album Drop This Summer",
-      date: "June 10, 2024",
-    },
-    {
-      img: "images/gallery/gallery2.jpg",
-      tag: "Tour",
-      headline: "Bunnies Camp World Tour 2024 — Full Venue List Revealed",
-      date: "May 28, 2024",
-    },
-    {
-      img: "images/gallery/gallery3.jpg",
-      tag: "Award",
-      headline: "NewJeans Sweep Melon Music Awards with 5 Trophies",
-      date: "May 15, 2024",
-    },
-    {
-      img: "images/gallery/gallery4.jpg",
-      tag: "Music Video",
-      headline: "How Sweet MV Hits 100 Million Views in Record Time",
-      date: "Apr 30, 2024",
-    },
-    {
-      img: "images/gallery/gallery5.jpg",
-      tag: "Collab",
-      headline: "NewJeans x Nike: Exclusive Limited Edition Collection",
-      date: "Apr 18, 2024",
-    },
-    {
-      img: "images/gallery/gallery6.jpg",
-      tag: "Live",
-      headline: "Behind the Scenes: OMG Live Stage at Inkigayo",
-      date: "Mar 22, 2024",
-    },
-    {
-      img: "images/gallery/gallery7.jpg",
-      tag: "Chart",
-      headline: "Super Shy Re-enters Top 10 on Billboard Global Chart",
-      date: "Mar 08, 2024",
-    },
-    {
-      img: "images/gallery/gallery8.jpg",
-      tag: "Feature",
-      headline: "NewJeans Cover Story: Inside the Studio with the Members",
-      date: "Feb 14, 2024",
-    },
-    {
-      img: "images/gallery/gallery9.jpg",
-      tag: "Event",
-      headline: "Fan Meeting 'Bunnies Camp' Sold Out in Under 2 Minutes",
-      date: "Jan 31, 2024",
-    },
-  ];
-
   const newsTrack = document.getElementById("newsTrack");
 
   if (newsTrack) {
-    [...newsData, ...newsData].forEach((item) => {
-      const card = document.createElement("article");
-      card.className = "news-card";
-      card.innerHTML = `
-        <img src="${item.img}" alt="${item.headline}" loading="lazy" />
-        <div class="news-card-body">
-          <span class="news-card-tag">${item.tag}</span>
-          <p class="news-card-headline">${item.headline}</p>
-          <span class="news-card-date">${item.date}</span>
-        </div>
-      `;
-      newsTrack.appendChild(card);
+    const dateFormatter = new Intl.DateTimeFormat("en-US", {
+      dateStyle: "medium",
     });
+
+    window.NewsData.loadNews()
+      .then((stories) => {
+        if (stories.length === 0) {
+          newsTrack.textContent = "No published highlights yet.";
+          return;
+        }
+
+        [...stories, ...stories].forEach((story) => {
+          const card = document.createElement("article");
+          card.className = "news-card";
+
+          const link = document.createElement("a");
+          link.href = `news.html?slug=${encodeURIComponent(story.slug)}`;
+          link.setAttribute("aria-label", `Read story: ${story.title}`);
+          link.style.display = "block";
+          link.style.color = "inherit";
+          link.style.textDecoration = "none";
+
+          const image = document.createElement("img");
+          image.src = story.thumbnail;
+          image.alt = story.title;
+          image.loading = "lazy";
+
+          const body = document.createElement("div");
+          body.className = "news-card-body";
+
+          const headline = document.createElement("p");
+          headline.className = "news-card-headline";
+          headline.textContent = story.title;
+
+          const publishedAt = new Date(story.published_at);
+          const date = document.createElement("time");
+          date.className = "news-card-date";
+          date.dateTime = publishedAt.toISOString();
+          date.textContent = dateFormatter.format(publishedAt);
+
+          body.append(headline, date);
+          link.append(image, body);
+          card.appendChild(link);
+          newsTrack.appendChild(card);
+        });
+      })
+      .catch(() => {
+        newsTrack.textContent = "News unavailable.";
+      });
   }
 });
