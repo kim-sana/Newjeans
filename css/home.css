@@ -681,3 +681,13 @@
     right: 18px;
   }
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .news-track-outer {
+    overflow-x: auto;
+  }
+
+  .news-track {
+    animation: none;
+  }
+}

@@ -25,7 +25,7 @@
         const publishedAt = Date.parse(record.published_at);
         return (
           record.status === "published" &&
-          record.deleted_at == null &&
+          record.deleted_at === null &&
           Number.isFinite(publishedAt) &&
           publishedAt <= now
         );
