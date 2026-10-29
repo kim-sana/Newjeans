@@ -464,10 +464,3 @@
     height: 60px;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  .wf-card {
-    opacity: 1;
-    transform: none;
-  }
-}

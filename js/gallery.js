@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!button || !grid) return;
 
   const label = button.querySelector("span");
-  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   button.addEventListener("click", () => {
     const isHidden = grid.hasAttribute("hidden");
@@ -16,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
       button.classList.add("is-open");
       button.setAttribute("aria-expanded", "true");
       grid.scrollIntoView({
-        behavior: reduceMotion ? "auto" : "smooth",
+        behavior: "smooth",
         block: "nearest",
       });
     } else {

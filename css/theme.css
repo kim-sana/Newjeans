@@ -668,8 +668,8 @@ ol {
   width: 94px;
   aspect-ratio: 615 / 318;
   background-color: var(--blue);
-  -webkit-mask: url("../images/logo.png") center / contain no-repeat;
-  mask: url("../images/logo.png") center / contain no-repeat;
+  -webkit-mask: url("../images/brand/logo.png") center / contain no-repeat;
+  mask: url("../images/brand/logo.png") center / contain no-repeat;
   transition: background-color 0.2s ease;
 }
 
@@ -795,10 +795,10 @@ ol {
   background-color: var(--blue);
   background-image: radial-gradient(
     circle,
-    rgba(255, 255, 255, 0.4) 0.7px,
+    rgba(255, 255, 255, 0.12) 0.7px,
     transparent 1px
   );
-  background-size: 4px 4px;
+  background-size: 6px 6px;
   color: #fff;
 }
 
@@ -904,7 +904,7 @@ ol {
 
 .footer-bottom p {
   margin: 0;
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(255, 255, 255, 0.82);
   font-size: 0.78rem;
 }
 
@@ -915,7 +915,7 @@ ol {
 }
 
 .footer-bottom-links a {
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(255, 255, 255, 0.82);
   font-size: 0.78rem;
   text-decoration: none;
 }
@@ -940,25 +940,6 @@ ol {
 .reveal.visible {
   opacity: 1;
   transform: translateY(0);
-}
-
-@media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
-
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-  }
-
-  .reveal {
-    opacity: 1;
-    transform: none;
-  }
 }
 
 /* --------------------------------------------------------------------------

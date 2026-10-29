@@ -4,7 +4,6 @@
   const toggle = document.getElementById("navToggle");
   const links = document.getElementById("navLinks");
   const mobileQuery = window.matchMedia("(max-width: 860px)");
-  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
   if (navbar) {
     navbar.classList.add("is-visible");
@@ -76,7 +75,7 @@
   const revealElements = document.querySelectorAll(".reveal");
 
   if (revealElements.length) {
-    if (reduceMotion.matches || !("IntersectionObserver" in window)) {
+    if (!("IntersectionObserver" in window)) {
       revealElements.forEach((element) => element.classList.add("is-visible"));
     } else {
       const revealObserver = new IntersectionObserver(

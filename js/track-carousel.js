@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const totalCards = cards.length;
   const MAX_VOLUME = 0.3;
-  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
   const sources = [
     { src: "audio/Hype-Boy.mp3", start: 53 },
     { src: "audio/Super-Shy.mp3", start: 51 },
@@ -142,7 +141,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function startTimer() {
     stopTimer();
-    if (reduceMotion.matches || !isVisible) return;
+    if (!isVisible) return;
     autoPlayTimer = setInterval(nextSlide, 4000);
   }
 

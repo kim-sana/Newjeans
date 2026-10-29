@@ -252,16 +252,3 @@
     aspect-ratio: 4 / 3;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  .card-image img,
-  .more-img,
-  .see-more-btn,
-  .arrow-icon {
-    transition: none;
-  }
-
-  .gallery-card:hover .card-image img {
-    transform: none;
-  }
-}

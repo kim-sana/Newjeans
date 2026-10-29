@@ -566,15 +566,3 @@
     );
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  .member-photo,
-  .story-media img {
-    transition: none;
-  }
-
-  .member-card:hover .member-photo,
-  .story-card:hover .story-media img {
-    transform: none;
-  }
-}

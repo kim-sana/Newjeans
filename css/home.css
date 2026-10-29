@@ -662,22 +662,3 @@
     right: 18px;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  .marquee-track,
-  .news-track {
-    animation: none;
-    transform: none;
-  }
-
-  .news-track {
-    flex-wrap: wrap;
-    width: 100%;
-    justify-content: center;
-  }
-
-  .news-track-outer::before,
-  .news-track-outer::after {
-    display: none;
-  }
-}
