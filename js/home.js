@@ -162,10 +162,26 @@ document.addEventListener("DOMContentLoaded", () => {
           link.style.color = "inherit";
           link.style.textDecoration = "none";
 
-          const image = document.createElement("img");
-          image.src = story.thumbnail;
-          image.alt = story.title;
-          image.loading = "lazy";
+          const media = document.createElement("div");
+          media.className = "news-card-media";
+
+          function showImageFallback() {
+            const fallback = document.createElement("span");
+            fallback.className = "news-media-fallback";
+            fallback.textContent = "Image unavailable";
+            media.replaceChildren(fallback);
+          }
+
+          if (typeof story.thumbnail === "string" && story.thumbnail.trim()) {
+            const image = document.createElement("img");
+            image.src = story.thumbnail;
+            image.alt = story.title;
+            image.loading = "lazy";
+            image.addEventListener("error", showImageFallback, { once: true });
+            media.appendChild(image);
+          } else {
+            showImageFallback();
+          }
 
           const body = document.createElement("div");
           body.className = "news-card-body";
@@ -181,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
           date.textContent = dateFormatter.format(publishedAt);
 
           body.append(headline, date);
-          link.append(image, body);
+          link.append(media, body);
           card.appendChild(link);
           newsTrack.appendChild(card);
         });
