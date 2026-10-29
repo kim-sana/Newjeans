@@ -1,0 +1,24 @@
+<nav class="navbar" id="dynamicNavbar" aria-label="Main navigation">
+  <div class="navbar-inner">
+    <a class="brand" href="{{BASE_PATH}}index.html" aria-label="NewJeans home">
+      <span class="brand-logo" role="img" aria-label="NewJeans"></span>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a class="nav-link" href="{{BASE_PATH}}index.html" data-page="index">Home</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}discography.html" data-page="discography">Discography</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}schedule.html" data-page="schedule">Schedule</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}web-page/about.html" data-page="about">About</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}gallery-project/index.html" data-page="gallery">Gallery</a></li>
+    </ul>
+    <button
+      class="nav-toggle"
+      id="navToggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="navLinks"
+      aria-label="Toggle menu"
+    >
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
