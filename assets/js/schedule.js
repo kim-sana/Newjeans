@@ -1,78 +1,140 @@
 /* Schedule data, filters, sorting, URL state, countdown and reveal. */
 const scheduleData = [
   {
-    month: "OCT", day: 28, year: 2026,
+    slug: "sbs-inkigayo-pre-recording",
     title: "SBS Inkigayo Pre-recording",
-    location: "SBS Prism Tower, Seoul",
+    venue: "SBS Prism Tower",
+    city: "Seoul",
+    date: "2026-10-28",
     time: "03:00 KST",
+    poster: "images/gallery/gallery1.jpg",
+    description:
+      "NewJeans opens the season with an early-morning pre-recording for SBS Inkigayo.",
   },
   {
-    month: "OCT", day: 30, year: 2026,
+    slug: "supernatural-pop-up-store",
     title: "'Supernatural' Pop-Up Store",
-    location: "Line Friends Square, Shibuya",
+    venue: "Line Friends Square",
+    city: "Shibuya",
+    date: "2026-10-30",
     time: "10:00 JST",
+    poster: "images/gallery/gallery2.jpg",
+    description:
+      "A limited pop-up celebrating 'Supernatural' opens in the heart of Shibuya.",
   },
   {
-    month: "NOV", day: 5, year: 2026,
+    slug: "global-fansign-event",
     title: "Global Fansign Event",
-    location: "Soundwave Store, Seoul",
+    venue: "Soundwave Store",
+    city: "Seoul",
+    date: "2026-11-05",
     time: "14:00 KST",
+    poster: "images/gallery/gallery3.jpg",
+    description:
+      "Bunnies get closer to the members at an intimate global fansign in Seoul.",
   },
   {
-    month: "NOV", day: 15, year: 2026,
+    slug: "bunnies-camp-2026-fan-meeting",
     title: "Bunnies Camp 2026: Fan Meeting",
-    location: "Tokyo Dome, Japan",
+    venue: "Tokyo Dome",
+    city: "Tokyo",
+    date: "2026-11-15",
     time: "18:00 JST",
+    poster: "images/gallery/gallery4.jpg",
+    description:
+      "The annual Bunnies Camp fan meeting lands at Tokyo Dome for a night of games and performances.",
   },
   {
-    month: "NOV", day: 22, year: 2026,
+    slug: "m-countdown-comeback-stage",
     title: "M Countdown Comeback Stage",
-    location: "CJ ENM Center, Seoul",
+    venue: "CJ ENM Center",
+    city: "Seoul",
+    date: "2026-11-22",
     time: "16:00 KST",
+    poster: "images/gallery/gallery5.jpg",
+    description:
+      "NewJeans returns to M Countdown with a special comeback stage.",
   },
   {
-    month: "DEC", day: 2, year: 2026,
+    slug: "year-end-showcase-concert",
     title: "Year-End Showcase Concert",
-    location: "Olympic Gymnastics Arena, Seoul",
+    venue: "Olympic Gymnastics Arena",
+    city: "Seoul",
+    date: "2026-12-02",
     time: "19:00 KST",
+    poster: "images/gallery/gallery6.jpg",
+    description:
+      "A full-scale year-end concert closes the season with fan-favourite hits.",
   },
   {
-    month: "DEC", day: 9, year: 2026,
+    slug: "bunnies-radio-live-session",
     title: "Bunnies Radio Live Session",
-    location: "MBC Radio Studio, Seoul",
+    venue: "MBC Radio Studio",
+    city: "Seoul",
+    date: "2026-12-09",
     time: "20:00 KST",
+    poster: "images/gallery/gallery7.jpg",
+    description:
+      "The members take over MBC Radio for a live session and Q&A with Bunnies.",
   },
   {
-    month: "DEC", day: 18, year: 2026,
+    slug: "brand-ambassador-photo-shoot",
     title: "Brand Ambassador Photo Shoot",
-    location: "Studio Lumina, Seoul",
+    venue: "Studio Lumina",
+    city: "Seoul",
+    date: "2026-12-18",
     time: "09:00 KST",
+    poster: "images/gallery/gallery8.jpg",
+    description:
+      "An exclusive brand campaign shoot with the full group.",
   },
   {
-    month: "DEC", day: 27, year: 2026,
+    slug: "asia-tour-bangkok-stop",
     title: "Asia Tour: Bangkok Stop",
-    location: "Impact Arena, Bangkok",
+    venue: "Impact Arena",
+    city: "Bangkok",
+    date: "2026-12-27",
     time: "19:30 ICT",
+    poster: "images/gallery/gallery9.jpg",
+    description:
+      "The Asia tour continues with a headline show at Impact Arena in Bangkok.",
   },
   {
-    month: "JAN", day: 3, year: 2027,
+    slug: "music-bank-live-performance",
     title: "Music Bank Live Performance",
-    location: "KBS Hall, Seoul",
+    venue: "KBS Hall",
+    city: "Seoul",
+    date: "2027-01-03",
     time: "17:00 KST",
+    poster: "images/gallery/gallery10.jpg",
+    description:
+      "NewJeans opens the new year with a live performance on Music Bank.",
   },
   {
-    month: "JAN", day: 12, year: 2027,
+    slug: "asia-tour-jakarta-stop",
     title: "Asia Tour: Jakarta Stop",
-    location: "Indonesia Arena, Jakarta",
+    venue: "Indonesia Arena",
+    city: "Jakarta",
+    date: "2027-01-12",
     time: "19:00 WIB",
+    poster: "images/gallery/gallery11.jpg",
+    description:
+      "The Asia tour arrives in Jakarta for a night at Indonesia Arena.",
   },
   {
-    month: "JAN", day: 20, year: 2027,
+    slug: "bunnies-camp-finale-livestream",
     title: "Bunnies Camp Finale Livestream",
-    location: "Online Broadcast",
+    venue: "Online Broadcast",
+    city: "Worldwide",
+    date: "2027-01-20",
     time: "21:00 KST",
+    poster: "images/gallery/gallery12.jpg",
+    description:
+      "Bunnies everywhere can join the season finale through a global livestream.",
   },
 ];
+
+const assetBase = window.SitePaths?.assets || "../assets/";
 
 const MONTH_ORDER = [
   "JAN", "FEB", "MAR", "APR", "MAY", "JUN",
@@ -80,7 +142,17 @@ const MONTH_ORDER = [
 ];
 
 function dateValue(item) {
-  return new Date(item.year, MONTH_ORDER.indexOf(item.month), item.day);
+  const [year, month, day] = item.date.split("-").map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function eventDateLabel(item) {
+  const date = dateValue(item);
+  return `${MONTH_ORDER[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`;
+}
+
+function eventMonthKey(item) {
+  return MONTH_ORDER[dateValue(item).getMonth()];
 }
 
 function isPast(item) {
@@ -126,7 +198,7 @@ function initCountdown() {
   }
   if (dateEl) {
     dateEl.textContent =
-      `${next.month} ${next.day}, ${next.year} \u00b7 ${next.time} \u00b7 ${next.location}`;
+      `${eventDateLabel(next)} \u00b7 ${next.time} \u00b7 ${next.venue}, ${next.city}`;
   }
 }
 
@@ -171,49 +243,80 @@ function renderCards(items) {
     `Showing ${items.length} event${items.length !== 1 ? "s" : ""}`;
 
   items.forEach((item, index) => {
-    const past = isPast(item);
+    const date = dateValue(item);
+
     const card = document.createElement("article");
-    card.className = "wf-card" + (past ? " wf-card--past" : "");
+    card.className = "wf-card";
+    card.id = item.slug;
+    card.dataset.slug = item.slug;
     card.setAttribute("tabindex", "0");
     card.setAttribute(
       "aria-label",
-      `${item.title}, ${item.month} ${item.day} ${item.year}, ${item.location}`
+      `${item.title}, ${eventDateLabel(item)}, ${item.venue}, ${item.city}`
     );
     card.style.setProperty("--reveal-delay", `${index * 60}ms`);
 
-    const squareEl = document.createElement("div");
+    const posterEl = document.createElement("div");
+    posterEl.className = "wf-card-poster";
+
+    const posterImg = document.createElement("img");
+    posterImg.src = `${assetBase}${item.poster}`;
+    posterImg.alt = `NewJeans gallery photo for ${item.title}`;
+    posterImg.loading = "lazy";
+    posterImg.decoding = "async";
+    posterImg.addEventListener(
+      "error",
+      () => {
+        posterImg.hidden = true;
+      },
+      { once: true }
+    );
+
+    const squareEl = document.createElement("time");
     squareEl.className = "wf-card-square";
+    squareEl.dateTime = item.date;
+    squareEl.setAttribute("aria-label", eventDateLabel(item));
     const monthSpan = document.createElement("span");
-    monthSpan.textContent = item.month;
+    monthSpan.textContent = MONTH_ORDER[date.getMonth()];
     const dayStrong = document.createElement("strong");
-    dayStrong.textContent = item.day;
-    squareEl.append(monthSpan, dayStrong);
+    dayStrong.textContent = date.getDate();
+    const yearEl = document.createElement("small");
+    yearEl.textContent = date.getFullYear();
+    squareEl.append(monthSpan, dayStrong, yearEl);
+
+    posterEl.append(posterImg, squareEl);
 
     const infoEl = document.createElement("div");
     infoEl.className = "wf-card-info";
 
+    const headEl = document.createElement("div");
+    headEl.className = "wf-card-head";
+
     const titleEl = document.createElement("h3");
     titleEl.textContent = item.title;
-
-    const locEl = document.createElement("p");
-    locEl.className = "wf-loc";
-    locEl.textContent = item.location;
 
     const timeEl = document.createElement("p");
     timeEl.className = "wf-time";
     timeEl.textContent = item.time;
 
-    infoEl.append(titleEl, locEl, timeEl);
+    headEl.append(titleEl, timeEl);
 
-    if (past) {
-      const badge = document.createElement("span");
-      badge.className = "wf-badge wf-badge--past";
-      badge.setAttribute("aria-label", "Event completed");
-      badge.textContent = "Completed";
-      infoEl.appendChild(badge);
-    }
+    const venueEl = document.createElement("p");
+    venueEl.className = "wf-venue";
+    const venueName = document.createElement("strong");
+    venueName.textContent = item.venue;
+    const cityEl = document.createElement("span");
+    cityEl.className = "wf-venue-city";
+    cityEl.textContent = item.city;
+    venueEl.append(venueName, cityEl);
 
-    card.append(squareEl, infoEl);
+    const descEl = document.createElement("p");
+    descEl.className = "wf-desc";
+    descEl.textContent = item.description;
+
+    infoEl.append(headEl, venueEl, descEl);
+
+    card.append(posterEl, infoEl);
     fragment.appendChild(card);
   });
 
@@ -221,23 +324,26 @@ function renderCards(items) {
   initReveal();
 }
 
-function getResults(query, sortMode, activeMonth) {
+function getResults(query, sortMode) {
   return scheduleData
-    .filter((item) => {
-      const matchQuery =
-        !query ||
-        item.title.toLowerCase().includes(query) ||
-        item.location.toLowerCase().includes(query);
-      const matchMonth =
-        activeMonth === "ALL" || item.month === activeMonth;
-      return matchQuery && matchMonth;
-    })
+    .filter(
+      (item) =>
+        !isPast(item) &&
+        (!query ||
+          item.title.toLowerCase().includes(query) ||
+          item.venue.toLowerCase().includes(query) ||
+          item.city.toLowerCase().includes(query))
+    )
     .sort((a, b) => {
       switch (sortMode) {
         case "date-asc": return dateValue(a) - dateValue(b);
         case "date-desc": return dateValue(b) - dateValue(a);
-        case "month-asc": return a.month.localeCompare(b.month) || a.day - b.day;
-        case "month-desc": return b.month.localeCompare(a.month) || a.day - b.day;
+        case "month-asc":
+          return eventMonthKey(a).localeCompare(eventMonthKey(b)) ||
+            dateValue(a) - dateValue(b);
+        case "month-desc":
+          return eventMonthKey(b).localeCompare(eventMonthKey(a)) ||
+            dateValue(a) - dateValue(b);
         default: return 0;
       }
     });
@@ -248,15 +354,13 @@ function readState() {
   return {
     query: params.get("q") || "",
     sort: params.get("sort") || "date-asc",
-    month: params.get("month") || "ALL",
   };
 }
 
-function pushState(query, sort, month) {
+function pushState(query, sort) {
   const params = new URLSearchParams();
   if (query) params.set("q", query);
   if (sort !== "date-asc") params.set("sort", sort);
-  if (month !== "ALL") params.set("month", month);
   history.replaceState(
     null,
     "",
@@ -264,64 +368,152 @@ function pushState(query, sort, month) {
   );
 }
 
-function initMonthChips(initial, onChange) {
-  const container = document.getElementById("wfMonthFilters");
-  if (!container) return;
+function initSortDropdown(initialValue, onChange) {
+  const root = document.getElementById("scheduleSort");
+  if (!root) return;
 
-  const months = [...new Set(scheduleData.map((item) => item.month))]
-    .sort((a, b) => {
-      const firstDate = (month) =>
-        Math.min(
-          ...scheduleData
-            .filter((item) => item.month === month)
-            .map((item) => dateValue(item).getTime())
-        );
-      return firstDate(a) - firstDate(b);
+  const trigger = root.querySelector(".wf-select-trigger");
+  const valueEl = root.querySelector(".wf-select-value");
+  const menu = root.querySelector(".wf-select-menu");
+  if (!trigger || !valueEl || !menu) return;
+
+  const options = Array.from(menu.querySelectorAll(".wf-select-option"));
+  if (options.length === 0) return;
+
+  let currentValue = options.some(
+    (option) => option.dataset.value === initialValue
+  )
+    ? initialValue
+    : options[0].dataset.value;
+
+  function focusOption(index) {
+    const option = options[index];
+    if (option) option.focus();
+  }
+
+  function setValue(nextValue, emit = true) {
+    const nextOption = options.find(
+      (option) => option.dataset.value === nextValue
+    );
+    if (!nextOption) return;
+
+    currentValue = nextValue;
+    valueEl.textContent = nextOption.textContent.trim();
+    options.forEach((option) => {
+      option.setAttribute("aria-selected", String(option === nextOption));
     });
 
-  ["ALL", ...months].forEach((month) => {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "wf-chip" + (month === initial ? " wf-chip--active" : "");
-    button.textContent = month === "ALL" ? "All" : month;
-    button.setAttribute("aria-pressed", String(month === initial));
-    button.addEventListener("click", () => {
-      container.querySelectorAll(".wf-chip").forEach((chip) => {
-        chip.classList.remove("wf-chip--active");
-        chip.setAttribute("aria-pressed", "false");
-      });
-      button.classList.add("wf-chip--active");
-      button.setAttribute("aria-pressed", "true");
-      onChange(month);
-    });
-    container.appendChild(button);
+    if (emit) onChange(currentValue);
+  }
+
+  function openMenu(startIndex) {
+    if (!menu.hidden) return;
+
+    menu.hidden = false;
+    root.classList.add("is-open");
+    trigger.setAttribute("aria-expanded", "true");
+
+    const selectedIndex = options.findIndex(
+      (option) => option.dataset.value === currentValue
+    );
+    focusOption(
+      typeof startIndex === "number" ? startIndex : Math.max(selectedIndex, 0)
+    );
+  }
+
+  function closeMenu(returnFocus = true) {
+    if (menu.hidden) return;
+
+    menu.hidden = true;
+    root.classList.remove("is-open");
+    trigger.setAttribute("aria-expanded", "false");
+    if (returnFocus) trigger.focus();
+  }
+
+  function selectOption(option) {
+    setValue(option.dataset.value);
+    closeMenu();
+  }
+
+  trigger.addEventListener("click", () => {
+    if (menu.hidden) {
+      openMenu();
+    } else {
+      closeMenu();
+    }
   });
+
+  trigger.addEventListener("keydown", (event) => {
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      event.preventDefault();
+      openMenu(event.key === "ArrowUp" ? options.length - 1 : undefined);
+    } else if (event.key === "Escape") {
+      closeMenu();
+    }
+  });
+
+  menu.addEventListener("keydown", (event) => {
+    const activeIndex = options.indexOf(document.activeElement);
+
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      focusOption((activeIndex + 1) % options.length);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      focusOption((activeIndex - 1 + options.length) % options.length);
+    } else if (event.key === "Home") {
+      event.preventDefault();
+      focusOption(0);
+    } else if (event.key === "End") {
+      event.preventDefault();
+      focusOption(options.length - 1);
+    } else if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      if (options[activeIndex]) selectOption(options[activeIndex]);
+    } else if (event.key === "Escape") {
+      event.preventDefault();
+      closeMenu();
+    } else if (event.key === "Tab") {
+      closeMenu();
+    }
+  });
+
+  options.forEach((option) => {
+    option.addEventListener("click", () => selectOption(option));
+  });
+
+  document.addEventListener("click", (event) => {
+    if (!root.contains(event.target)) closeMenu(false);
+  });
+
+  root.addEventListener("focusout", (event) => {
+    if (!root.contains(event.relatedTarget)) closeMenu(false);
+  });
+
+  setValue(currentValue, false);
+  return currentValue;
 }
 
 document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("scheduleSearch");
-  const sortSelect = document.getElementById("scheduleSort");
 
   const state = readState();
-  if (searchInput) searchInput.value = state.query;
-  if (sortSelect) sortSelect.value = state.sort;
+  let sort = state.sort;
 
-  let activeMonth = state.month;
+  if (searchInput) searchInput.value = state.query;
 
   function update() {
     const query = searchInput ? searchInput.value.trim().toLowerCase() : "";
-    const sort = sortSelect ? sortSelect.value : "date-asc";
-    pushState(query, sort, activeMonth);
-    renderCards(getResults(query, sort, activeMonth));
+    pushState(query, sort);
+    renderCards(getResults(query, sort));
   }
 
-  initMonthChips(activeMonth, (selected) => {
-    activeMonth = selected;
+  sort = initSortDropdown(sort, (value) => {
+    sort = value;
     update();
-  });
+  }) || sort;
 
   if (searchInput) searchInput.addEventListener("input", update);
-  if (sortSelect) sortSelect.addEventListener("change", update);
 
   initCountdown();
   update();

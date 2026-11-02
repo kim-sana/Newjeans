@@ -27,16 +27,21 @@
     <main id="main">
       <section class="page-hero dot-blue">
         <div class="container">
-          <span class="ribbon">Live events</span>
+          <div class="schedule-hero-chibis">
+            <img
+              class="schedule-hero-chibi schedule-hero-chibi--minji"
+              src="../assets/images/misc/minji-chibi.png"
+              alt="Minji chibi" />
+            <img
+              class="schedule-hero-chibi schedule-hero-chibi--hanni"
+              src="../assets/images/misc/hanni-chibi.png"
+              alt="Hanni chibi" />
+          </div>
           <h1 class="page-title">Schedule</h1>
           <p class="page-lead">
-            Upcoming shows, broadcasts and fan events with date, time, location
-            and RSVP status.
+            Upcoming shows, broadcasts and fan events with date, time, venue
+            and city.
           </p>
-          <div class="page-hero-meta">
-            <span class="sticker sticker--lime">2026&ndash;27 season</span>
-            <span class="sticker sticker--pink sticker--rotate-right">Bunnies camp</span>
-          </div>
         </div>
       </section>
 
@@ -51,7 +56,10 @@
                 international stages.
               </p>
             </div>
-            <span class="sticker sticker--silver">Updated weekly</span>
+            <img
+              class="schedule-bunny"
+              src="../assets/images/misc/bunny.png"
+              alt="NewJeans bunny" />
           </div>
 
           <div class="wf-countdown reveal" id="wfCountdown" aria-live="polite">
@@ -75,24 +83,89 @@
               <input
                 type="text"
                 id="scheduleSearch"
-                placeholder="Search event title or location..."
-                aria-label="Search events by title or location"
+                placeholder="Search event, venue, or city..."
+                aria-label="Search events by title, venue, or city"
                 autocomplete="off"
               />
             </div>
 
             <div class="wf-sort">
-              <label for="scheduleSort">Sort by</label>
-              <select id="scheduleSort">
-                <option value="date-asc">Date (Earliest)</option>
-                <option value="date-desc">Date (Latest)</option>
-                <option value="month-asc">Month (A-Z)</option>
-                <option value="month-desc">Month (Z-A)</option>
-              </select>
+              <span class="wf-sort-label" id="scheduleSortLabel">Sort by</span>
+              <div class="wf-select" id="scheduleSort">
+                <button
+                  type="button"
+                  class="wf-select-trigger"
+                  id="scheduleSortTrigger"
+                  aria-haspopup="listbox"
+                  aria-expanded="false"
+                  aria-controls="scheduleSortMenu"
+                  aria-labelledby="scheduleSortLabel scheduleSortValue"
+                >
+                  <span class="wf-select-value" id="scheduleSortValue">Date (Earliest)</span>
+                  <svg
+                    class="wf-select-chevron"
+                    width="14"
+                    height="14"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    aria-hidden="true"
+                  >
+                    <path
+                      d="M6 9l6 6 6-6"
+                      stroke="currentColor"
+                      stroke-width="2.5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+                <ul
+                  class="wf-select-menu"
+                  id="scheduleSortMenu"
+                  role="listbox"
+                  aria-labelledby="scheduleSortLabel"
+                  hidden
+                >
+                  <li
+                    class="wf-select-option"
+                    role="option"
+                    tabindex="-1"
+                    data-value="date-asc"
+                    aria-selected="true"
+                  >
+                    Date (Earliest)
+                  </li>
+                  <li
+                    class="wf-select-option"
+                    role="option"
+                    tabindex="-1"
+                    data-value="date-desc"
+                    aria-selected="false"
+                  >
+                    Date (Latest)
+                  </li>
+                  <li
+                    class="wf-select-option"
+                    role="option"
+                    tabindex="-1"
+                    data-value="month-asc"
+                    aria-selected="false"
+                  >
+                    Month (A-Z)
+                  </li>
+                  <li
+                    class="wf-select-option"
+                    role="option"
+                    tabindex="-1"
+                    data-value="month-desc"
+                    aria-selected="false"
+                  >
+                    Month (Z-A)
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
-
-          <div class="wf-month-filters" id="wfMonthFilters" role="group" aria-label="Filter by month"></div>
 
           <p class="wf-result-count" id="wfResultCount" aria-live="polite"></p>
 
@@ -104,8 +177,8 @@
               <path d="M20 20L16.65 16.65" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4" />
               <path d="M8 11h6M11 8v6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.25" />
             </svg>
-            <p class="wf-empty-title">No events found</p>
-            <p class="wf-empty-sub">Try a different keyword or clear the month filter.</p>
+            <p class="wf-empty-title">No upcoming events</p>
+            <p class="wf-empty-sub">Try a different keyword or check back soon.</p>
           </div>
         </div>
       </section>
