@@ -1,63 +1,36 @@
-/* Home page: gallery showcase, lightbox and highlight news carousel. */
+/* Home page: gallery coverflow, lightbox and highlight news carousel. */
 document.addEventListener("DOMContentLoaded", () => {
   const assetBase = window.SitePaths?.assets || "assets/";
   const siteBase = window.SitePaths?.site || "./";
 
   /* ------------------------------------------------------------------------
-     Gallery showcase, expansion and modal
+     Gallery expansion and modal
      ------------------------------------------------------------------------ */
   const expandButton = document.getElementById("expandGalleryBtn");
   const masonryWrapper = document.getElementById("masonryWrapper");
-  const randomShowcase = document.getElementById("randomShowcase");
+  const coverflow = document.getElementById("coverflow");
   const gallerySection = document.getElementById("gallery");
-  const showcaseImages = document.querySelectorAll(".showcase-item img");
   const totalGalleryImages = 12;
-  let randomInterval = null;
   let currentImageIndex = 1;
+  let modalReturnFocus = null;
 
-  function getUniqueRandomNumbers() {
-    const numbers = new Set();
-    while (numbers.size < 3) {
-      numbers.add(Math.floor(Math.random() * totalGalleryImages) + 1);
-    }
-    return Array.from(numbers);
-  }
-
-  function updateShowcaseImages() {
-    const nextNumbers = getUniqueRandomNumbers();
-
-    showcaseImages.forEach((image, index) => {
-      image.style.opacity = "0";
-      window.setTimeout(() => {
-        image.src = `${assetBase}images/gallery/gallery${nextNumbers[index]}.jpg`;
-        image.style.opacity = "1";
-      }, 400);
-    });
-  }
-
-  function startShowcaseRotation() {
-    clearInterval(randomInterval);
-    randomInterval = setInterval(updateShowcaseImages, 5000);
-  }
-
-  if (randomShowcase && showcaseImages.length) {
-    startShowcaseRotation();
-  }
-
-  if (expandButton && masonryWrapper && randomShowcase) {
+  if (expandButton && masonryWrapper && coverflow) {
     expandButton.addEventListener("click", () => {
-      const isExpanded = masonryWrapper.classList.toggle("expanded");
-      randomShowcase.classList.toggle("hide-showcase", isExpanded);
+      const isExpanded = expandButton.getAttribute("aria-expanded") !== "true";
+      expandButton.setAttribute("aria-expanded", String(isExpanded));
+      masonryWrapper.classList.toggle("expanded", isExpanded);
+      masonryWrapper.inert = !isExpanded;
+      coverflow.classList.toggle("hide-coverflow", isExpanded);
       expandButton.textContent = isExpanded ? "Show less" : "View full gallery";
+      document.dispatchEvent(
+        new CustomEvent("home-gallery:expanded", {
+          detail: { expanded: isExpanded },
+        }),
+      );
 
-      if (isExpanded) {
-        clearInterval(randomInterval);
-        return;
+      if (!isExpanded) {
+        window.scrollToElement?.(document.getElementById("gallery"));
       }
-
-      updateShowcaseImages();
-      startShowcaseRotation();
-      window.scrollToElement?.(document.getElementById("gallery"));
     });
   }
 
@@ -67,10 +40,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const previousModalButton = document.getElementById("prevModalBtn");
   const nextModalButton = document.getElementById("nextModalBtn");
 
-  function openModal() {
+  function openModal(trigger) {
     if (!imageModal) return;
     imageModal.classList.add("show");
     document.body.classList.add("nav-open");
+    modalReturnFocus = trigger;
+    document.dispatchEvent(
+      new CustomEvent("home-gallery:modal", { detail: { open: true } }),
+    );
     closeModalButton?.focus();
   }
 
@@ -78,27 +55,45 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!imageModal) return;
     imageModal.classList.remove("show");
     document.body.classList.remove("nav-open");
+    document.dispatchEvent(
+      new CustomEvent("home-gallery:modal", { detail: { open: false } }),
+    );
+    modalReturnFocus?.focus();
   }
 
   function updateModalImage(index) {
     if (!modalImage) return;
+    currentImageIndex = index;
+    document.dispatchEvent(
+      new CustomEvent("home-gallery:go-to", { detail: { index } }),
+    );
     modalImage.classList.add("fade-transition");
     window.setTimeout(() => {
       modalImage.src = `${assetBase}images/gallery/gallery${index}.jpg`;
+      modalImage.alt = `NewJeans gallery photo ${index}`;
       modalImage.onload = () => modalImage.classList.remove("fade-transition");
     }, 180);
   }
 
   if (gallerySection && imageModal && modalImage) {
     gallerySection.addEventListener("click", (event) => {
-      if (event.target.tagName !== "IMG") return;
+      const trigger = event.target.closest("[data-gallery-index]");
+      const image = event.target.closest("img");
+      const sourceMatch = image?.src.match(/gallery(\d+)\.jpg/);
+      const index = trigger
+        ? Number(trigger.dataset.galleryIndex)
+        : Number(sourceMatch?.[1]);
+      if (!Number.isInteger(index) || index < 1 || index > totalGalleryImages) {
+        return;
+      }
 
-      const match = event.target.src.match(/gallery(\d+)\.jpg/);
-      if (!match) return;
-
-      currentImageIndex = Number.parseInt(match[1], 10);
+      currentImageIndex = index;
+      document.dispatchEvent(
+        new CustomEvent("home-gallery:go-to", { detail: { index } }),
+      );
       modalImage.src = `${assetBase}images/gallery/gallery${currentImageIndex}.jpg`;
-      openModal();
+      modalImage.alt = `NewJeans gallery photo ${currentImageIndex}`;
+      openModal(trigger || image);
     });
 
     previousModalButton?.addEventListener("click", (event) => {
