@@ -17,6 +17,6 @@
     hint.textContent = "Buka console untuk melihat error inisialisasi.";
   } else {
     status.textContent = "Locomotive tidak tersedia";
-    hint.textContent = "Periksa URL script vendor/locomotive-scroll/locomotive-scroll.min.js.";
+    hint.textContent = "Periksa URL script ../../assets/vendor/locomotive-scroll/locomotive-scroll.min.js.";
   }
 })();

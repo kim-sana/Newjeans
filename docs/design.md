@@ -1,6 +1,6 @@
 # design.md
 
-Panduan desain bergaya album debut *NewJeans*: latar putih, satu warna biru, tekstur dot kecil, dan stiker playful. Dipakai sebagai acuan untuk seluruh halaman fan hub: `index.html`, `discography.html`, `schedule.html`, `web-page/about.html`, dan `gallery-project/index.html`.
+Panduan desain bergaya album debut *NewJeans*: latar putih, satu warna biru, tekstur dot kecil, dan stiker playful. Dipakai sebagai acuan untuk seluruh halaman fan hub: `index.html`, `pages/discography.html`, `pages/schedule.html`, `pages/about.html`, dan `pages/gallery.html`.
 
 ## Catatan pribadi
 

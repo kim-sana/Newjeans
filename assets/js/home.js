@@ -1,5 +1,8 @@
 /* Home page: gallery showcase, lightbox and highlight news carousel. */
 document.addEventListener("DOMContentLoaded", () => {
+  const assetBase = window.SitePaths?.assets || "assets/";
+  const siteBase = window.SitePaths?.site || "./";
+
   /* ------------------------------------------------------------------------
      Gallery showcase, expansion and modal
      ------------------------------------------------------------------------ */
@@ -26,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
     showcaseImages.forEach((image, index) => {
       image.style.opacity = "0";
       window.setTimeout(() => {
-        image.src = `images/gallery/gallery${nextNumbers[index]}.jpg`;
+        image.src = `${assetBase}images/gallery/gallery${nextNumbers[index]}.jpg`;
         image.style.opacity = "1";
       }, 400);
     });
@@ -81,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!modalImage) return;
     modalImage.classList.add("fade-transition");
     window.setTimeout(() => {
-      modalImage.src = `images/gallery/gallery${index}.jpg`;
+      modalImage.src = `${assetBase}images/gallery/gallery${index}.jpg`;
       modalImage.onload = () => modalImage.classList.remove("fade-transition");
     }, 180);
   }
@@ -94,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!match) return;
 
       currentImageIndex = Number.parseInt(match[1], 10);
-      modalImage.src = `images/gallery/gallery${currentImageIndex}.jpg`;
+      modalImage.src = `${assetBase}images/gallery/gallery${currentImageIndex}.jpg`;
       openModal();
     });
 
@@ -156,7 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
           card.className = "news-card";
 
           const link = document.createElement("a");
-          link.href = `news.html?slug=${encodeURIComponent(story.slug)}`;
+          link.href = `${siteBase}pages/news.html?slug=${encodeURIComponent(story.slug)}`;
           link.setAttribute("aria-label", `Read story: ${story.title}`);
           link.style.display = "block";
           link.style.color = "inherit";
@@ -174,7 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           if (typeof story.thumbnail === "string" && story.thumbnail.trim()) {
             const image = document.createElement("img");
-            image.src = story.thumbnail;
+            image.src = `${assetBase}${story.thumbnail}`;
             image.alt = story.title;
             image.loading = "lazy";
             image.addEventListener("error", showImageFallback, { once: true });

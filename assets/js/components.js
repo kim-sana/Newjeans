@@ -1,7 +1,17 @@
 (() => {
   const path = window.location.pathname;
-  const isNested = path.includes('/web-page/') || path.includes('/gallery-project/');
+  const isNested = path.includes('/pages/');
   const basePath = isNested ? '../' : '';
+  const componentScript = document.currentScript;
+
+  if (componentScript) {
+    const assetsBase = new URL('../', componentScript.src);
+    const siteBase = new URL('../../', assetsBase);
+    window.SitePaths = Object.freeze({
+      assets: assetsBase.href,
+      site: siteBase.href,
+    });
+  }
   const componentTemplates = {
     navbar: `<nav class="navbar" id="dynamicNavbar" aria-label="Main navigation">
   <div class="navbar-inner">
@@ -10,11 +20,11 @@
     </a>
     <ul class="nav-links" id="navLinks">
       <li><a class="nav-link" href="{{BASE_PATH}}index.html" data-page="index">Home</a></li>
-      <li><a class="nav-link" href="{{BASE_PATH}}discography.html" data-page="discography">Discography</a></li>
-      <li><a class="nav-link" href="{{BASE_PATH}}schedule.html" data-page="schedule">Schedule</a></li>
-      <li><a class="nav-link" href="{{BASE_PATH}}news.html" data-page="news">News</a></li>
-      <li><a class="nav-link" href="{{BASE_PATH}}web-page/about.html" data-page="about">About</a></li>
-      <li><a class="nav-link" href="{{BASE_PATH}}gallery-project/index.html" data-page="gallery">Gallery</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}pages/discography.html" data-page="discography">Discography</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}pages/schedule.html" data-page="schedule">Schedule</a></li>
+      <!-- <li><a class="nav-link" href="{{BASE_PATH}}pages/news.html" data-page="news">News</a></li> -->
+      <li><a class="nav-link" href="{{BASE_PATH}}pages/about.html" data-page="about">About</a></li>
+      <li><a class="nav-link" href="{{BASE_PATH}}pages/gallery.html" data-page="gallery">Gallery</a></li>
     </ul>
     <button
       class="nav-toggle"
@@ -60,7 +70,7 @@
           <li><a href="{{BASE_PATH}}index.html#track-session">Top tracks</a></li>
           <li><a href="{{BASE_PATH}}index.html#gallery">Gallery</a></li>
           <li><a href="{{BASE_PATH}}index.html#news">News</a></li>
-          <li><a href="{{BASE_PATH}}web-page/about.html">About</a></li>
+          <li><a href="{{BASE_PATH}}pages/about.html">About</a></li>
         </ul>
       </div>
 
@@ -78,10 +88,10 @@
       <div class="footer-col">
         <h4>More</h4>
         <ul>
-          <li><a href="{{BASE_PATH}}discography.html">Discography</a></li>
-          <li><a href="{{BASE_PATH}}schedule.html">Schedule</a></li>
-          <li><a href="{{BASE_PATH}}gallery-project/index.html">Gallery page</a></li>
-          <li><a href="{{BASE_PATH}}web-page/about.html#members">Members</a></li>
+          <li><a href="{{BASE_PATH}}pages/discography.html">Discography</a></li>
+          <li><a href="{{BASE_PATH}}pages/schedule.html">Schedule</a></li>
+          <li><a href="{{BASE_PATH}}pages/gallery.html">Gallery page</a></li>
+          <li><a href="{{BASE_PATH}}pages/about.html#members">Members</a></li>
         </ul>
       </div>
     </div>
@@ -102,17 +112,10 @@
     'schedule.html': 'schedule',
     'news.html': 'news',
     'about.html': 'about',
-    '/gallery-project/': 'gallery',
-    '/gallery-project/index.html': 'gallery'
+    'gallery.html': 'gallery'
   };
-
-  let activePage = 'index';
-  for (const [key, value] of Object.entries(pageMap)) {
-    if (path.includes(key) || path.endsWith(key)) {
-      activePage = value;
-      break;
-    }
-  }
+  const currentFile = path.substring(path.lastIndexOf('/') + 1) || 'index.html';
+  const activePage = pageMap[currentFile] || 'index';
 
   function renderComponent(name, placeholderId) {
     const placeholder = document.getElementById(placeholderId);

@@ -1,5 +1,10 @@
 /* Shared 3D track carousel, audio cross-fade and viewport audio control. */
+const fallbackAssetBase = document.currentScript?.src
+  ? new URL("../", document.currentScript.src).href
+  : "assets/";
+
 document.addEventListener("DOMContentLoaded", () => {
+  const assetBase = window.SitePaths?.assets || fallbackAssetBase;
   const cards = Array.from(document.querySelectorAll(".track-card"));
   const dots = Array.from(document.querySelectorAll(".cdot"));
   const prevButton = document.getElementById("btnPrev3D");
@@ -11,9 +16,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const totalCards = cards.length;
   const MAX_VOLUME = 0.3;
   const sources = [
-    { src: "audio/Hype-Boy.mp3", start: 53 },
-    { src: "audio/Super-Shy.mp3", start: 51 },
-    { src: "audio/ETA.mp3", start: 62 },
+    { src: `${assetBase}audio/Hype-Boy.mp3`, start: 53 },
+    { src: `${assetBase}audio/Super-Shy.mp3`, start: 51 },
+    { src: `${assetBase}audio/ETA.mp3`, start: 62 },
   ];
 
   const audioData = sources.map(({ src, start }) => {

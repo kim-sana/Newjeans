@@ -1,7 +1,12 @@
 /* Shared loader for the frontend news JSON fixture. */
 (function (global) {
+  const scriptUrl = global.document.currentScript?.src;
+  const assetBase =
+    global.SitePaths?.assets ||
+    (scriptUrl ? new URL("../", scriptUrl).href : "assets/");
+
   async function loadNews() {
-    const response = await fetch("data/news.json", {
+    const response = await fetch(`${assetBase}data/news.json`, {
       credentials: "same-origin",
     });
 

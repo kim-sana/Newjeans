@@ -164,6 +164,12 @@
   padding-bottom: 78px;
 }
 
+.history-section .sec-head--center > div,
+.members-section .sec-head--center > div {
+  width: 100%;
+  text-align: center;
+}
+
 .timeline {
   position: relative;
   max-width: 840px;
@@ -453,6 +459,14 @@
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
+}
+
+.member-description {
+  max-width: 32ch;
+  margin: 8px 0 0;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.8rem;
+  line-height: 1.4;
 }
 
 @media (max-width: 900px) {

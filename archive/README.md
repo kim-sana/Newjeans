@@ -21,6 +21,14 @@ Folder ini menyimpan aset yang tidak lagi direferensikan oleh halaman website. F
 | `unused-assets/web-page-image/girl (4).png` | `web-page/image/girl (4).png` | Stiker ilustrasi |
 | `unused-assets/web-page-image/New Jeans_logo.png` | `web-page/image/New Jeans_logo.png` | Logo lama yang tidak dipakai |
 
+## Halaman legacy
+
+| File arsip | Keterangan |
+|---|---|
+| `legacy/scroll-demo/scroll-demo.html` | Demo Locomotive Scroll yang tidak lagi menjadi bagian halaman produksi |
+| `legacy/scroll-demo/scroll-demo.css` | Gaya khusus halaman demo |
+| `legacy/scroll-demo/scroll-demo.js` | Status dan petunjuk halaman demo |
+
 ## Catatan
 
 - Foto galeri duplikat di `gallery-project/images/gallery/` sudah dihapus setelah diverifikasi identik dengan `images/gallery/`.

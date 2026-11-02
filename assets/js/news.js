@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const viewTitle = document.getElementById("newsViewTitle");
   if (!contentRoot || !viewTitle) return;
 
+  const assetBase = window.SitePaths?.assets || "../assets/";
+  const siteBase = window.SitePaths?.site || "../";
+
   const dateFormatter = new Intl.DateTimeFormat("en-US", {
     dateStyle: "medium",
   });
@@ -30,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     const image = document.createElement("img");
-    image.src = src;
+    image.src = `${assetBase}${src}`;
     image.alt = alt;
     image.loading = "lazy";
     image.addEventListener("error", () => {
@@ -46,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function createHomeLink(label) {
     const link = document.createElement("a");
     link.className = "news-state-link";
-    link.href = "index.html";
+    link.href = `${siteBase}index.html`;
     link.textContent = label;
     return link;
   }
@@ -67,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function createNewsLink(story) {
     const params = new URLSearchParams({ slug: story.slug });
-    return `news.html?${params.toString()}`;
+    return `${siteBase}pages/news.html?${params.toString()}`;
   }
 
   function renderList(stories) {
@@ -115,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const backLink = document.createElement("a");
     backLink.className = "news-back-link";
-    backLink.href = "news.html";
+    backLink.href = `${siteBase}pages/news.html`;
     backLink.textContent = "← All stories";
 
     const title = document.createElement("h2");
@@ -154,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
           contentRoot.replaceChildren(
             createState("This story isn't available", "It may have been removed or unpublished.", "Back to News"),
           );
-          contentRoot.querySelector(".news-state-link").href = "news.html";
+          contentRoot.querySelector(".news-state-link").href = `${siteBase}pages/news.html`;
           return;
         }
 
