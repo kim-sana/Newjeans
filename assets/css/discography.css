@@ -2,41 +2,396 @@
    DISCOGRAPHY PAGE
    ========================================================================== */
 
-.tracks-section {
-  padding-bottom: 72px;
+/* Hero ------------------------------------------------------------------- */
+
+.disco-hero {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  min-height: 100svh;
+  padding-top: calc(var(--nav-height) + 34px);
+  padding-bottom: 42px;
+}
+
+.disco-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  align-items: center;
+  gap: clamp(24px, 5vw, 56px);
+}
+
+.disco-hero-copy {
+  position: relative;
+  z-index: 1;
+}
+
+.disco-hero .page-title {
+  font-size: clamp(2.6rem, 7vw, 4.5rem);
+}
+
+.disco-hero-art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.disco-hero-chibi {
+  position: relative;
+  z-index: 2;
+  width: clamp(160px, 21vw, 240px);
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(3px 7px 0 rgba(0, 35, 75, 0.22));
+  animation: disco-art-float 3.8s ease-in-out infinite;
+  will-change: transform;
+}
+
+.disco-hero-cd-float {
+  position: relative;
+  z-index: 1;
+  margin-top: 56px;
+  margin-left: -9%;
+  animation: disco-art-float 5.2s ease-in-out infinite;
+  animation-delay: -1.8s;
+  will-change: transform;
+}
+
+.disco-hero-cd {
+  display: block;
+  width: clamp(120px, 15vw, 170px);
+  height: auto;
+  filter: drop-shadow(2px 6px 0 rgba(0, 35, 75, 0.2));
+  animation: disco-cd-spin 16s linear infinite;
+  will-change: transform;
+}
+
+@keyframes disco-art-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes disco-cd-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 860px) {
+  .disco-hero-grid {
+    grid-template-columns: 1fr;
+    gap: clamp(18px, 4vw, 32px);
+  }
+
+  .disco-hero-art {
+    justify-content: flex-start;
+    padding-left: clamp(10px, 4vw, 30px);
+  }
+
+  .disco-hero-chibi {
+    width: clamp(140px, 30vw, 190px);
+  }
+
+  .disco-hero-cd {
+    width: clamp(100px, 22vw, 140px);
+  }
+
+  .disco-hero-cd-float {
+    margin-top: 36px;
+  }
+}
+
+@media (max-width: 560px) {
+  .disco-hero {
+    padding-top: calc(var(--nav-height) + 28px);
+    padding-bottom: 32px;
+  }
+
+  .disco-hero-chibi {
+    width: clamp(128px, 36vw, 160px);
+  }
+
+  .disco-hero-cd {
+    width: clamp(92px, 27vw, 120px);
+  }
+
+  .disco-hero-cd-float {
+    margin-top: 26px;
+  }
 }
 
 .disco-section {
   padding-top: 58px;
 }
 
-.disco-chips {
+/* Section logo ----------------------------------------------------------- */
+
+.disco-head-logo {
+  flex-shrink: 0;
+  width: clamp(104px, 12vw, 136px);
+  transform: rotate(-7deg);
+  transform-origin: center;
+  filter: drop-shadow(2px 4px 0 rgba(0, 35, 75, 0.16));
+  animation: disco-logo-float 4.4s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes disco-logo-float {
+  0%,
+  100% {
+    transform: rotate(-7deg) translateY(0);
+  }
+
+  50% {
+    transform: rotate(-7deg) translateY(-10px);
+  }
+}
+
+/* Toolbar ---------------------------------------------------------------- */
+
+.disco-bottom-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 9px;
-  margin-bottom: 22px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 16px;
+  margin-bottom: 32px;
 }
 
-.disco-control-grid {
-  display: grid;
-  grid-template-columns: 1.35fr 1fr 1fr;
-  gap: 14px;
-  margin-bottom: 14px;
+.disco-chips {
+  min-width: 0;
 }
 
-.control-box {
-  padding: 14px;
-  border: 1.5px solid var(--silver);
-  border-radius: 16px;
-  background: #fff;
+.disco-chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.disco-chips .chip {
+  padding: 8px 12px;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+}
+
+.disco-search {
+  position: relative;
+}
+
+.disco-search-icon {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  color: var(--blue);
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.disco-search .input {
+  min-height: 50px;
+  padding: 12px 18px 12px 42px;
+  border-radius: var(--radius-pill);
+  font-size: 0.82rem;
 }
 
 .control-actions {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
+  gap: 8px;
+  margin-left: auto;
+}
+
+/* Filter row ------------------------------------------------------------- */
+
+.disco-filter-bar {
+  position: relative;
+  z-index: 10;
+  display: grid;
+  grid-template-columns: 1.35fr 1fr 1fr;
+  align-items: stretch;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.disco-filter {
+  display: flex;
+  align-items: center;
   gap: 10px;
-  margin-bottom: 32px;
+  min-height: 50px;
+  padding: 5px 6px 5px 16px;
+  border: 1.5px solid var(--blue);
+  border-radius: var(--radius-pill);
+  background: #fff;
+  box-shadow: 3px 4px 0 rgba(0, 58, 110, 0.1);
+}
+
+.disco-filter-label {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--blue);
+  white-space: nowrap;
+}
+
+.disco-select {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.disco-select-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  width: 100%;
+  min-width: 0;
+  min-height: 38px;
+  padding: 8px 12px 8px 16px;
+  border: 1.5px solid transparent;
+  border-radius: var(--radius-pill);
+  background: var(--blue-tint);
+  color: var(--blue-deep);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.disco-select-value {
+  white-space: nowrap;
+}
+
+.disco-select-trigger:hover {
+  border-color: var(--blue);
+  background: #fff;
+}
+
+.disco-select.is-open .disco-select-trigger {
+  border-color: var(--blue);
+  background: var(--blue);
+  color: #fff;
+}
+
+.disco-select-trigger:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 91, 171, 0.18);
+}
+
+.disco-select-chevron {
+  flex-shrink: 0;
+  transition: transform 0.22s var(--ease-spring);
+}
+
+.disco-select.is-open .disco-select-chevron {
+  transform: rotate(180deg);
+}
+
+.disco-select-menu {
+  position: absolute;
+  top: calc(100% + 12px);
+  left: 0;
+  z-index: 30;
+  min-width: 230px;
+  margin: 0;
+  padding: 6px;
+  border: 2px solid var(--blue-deep);
+  border-radius: 16px;
+  border-bottom-right-radius: 4px;
+  background: #fff;
+  box-shadow: 6px 7px 0 rgba(0, 58, 110, 0.16);
+  list-style: none;
+  animation: disco-select-in 0.18s ease both;
+}
+
+.disco-select-menu[hidden] {
+  display: none;
+}
+
+@keyframes disco-select-in {
+  from {
+    opacity: 0;
+    translate: 0 -6px;
+  }
+
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+.disco-select-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 12px;
+  border-radius: 10px;
+  color: var(--blue-deep);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+
+.disco-select-option::after {
+  content: "";
+  flex-shrink: 0;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: transparent;
+}
+
+.disco-select-option:hover,
+.disco-select-option:focus-visible {
+  background: var(--blue-tint);
+}
+
+.disco-select-option[aria-selected="true"] {
+  background: var(--blue);
+  color: #fff;
+}
+
+.disco-select-option[aria-selected="true"]:hover,
+.disco-select-option[aria-selected="true"]:focus-visible {
+  background: var(--blue-deep);
+}
+
+.disco-select-option[aria-selected="true"]::after {
+  background: var(--lime);
+  box-shadow: 0 0 0 2px rgba(184, 242, 76, 0.22);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .disco-select-trigger,
+  .disco-select-chevron {
+    transition: none;
+  }
+
+  .disco-select-menu {
+    animation: none;
+  }
 }
 
 /* Release rows ----------------------------------------------------------- */
@@ -179,11 +534,11 @@
 }
 
 @media (max-width: 900px) {
-  .disco-control-grid {
+  .disco-filter-bar {
     grid-template-columns: 1fr 1fr;
   }
 
-  .search-box {
+  .disco-search {
     grid-column: 1 / -1;
   }
 
@@ -205,15 +560,35 @@
 }
 
 @media (max-width: 640px) {
-  .disco-control-grid {
+  .disco-filter-bar {
     grid-template-columns: 1fr;
+  }
+
+  .disco-search {
+    grid-column: auto;
+  }
+
+  .disco-bottom-row {
+    flex-direction: column;
+    align-items: stretch;
   }
 
   .control-actions {
     flex-direction: column;
+    margin-left: 0;
   }
 
   .control-actions .btn {
+    width: 100%;
+  }
+
+  .disco-filter {
+    justify-content: space-between;
+  }
+
+  .disco-select-menu {
+    right: 0;
+    min-width: 0;
     width: 100%;
   }
 
