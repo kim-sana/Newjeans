@@ -50,8 +50,49 @@
 .hero-stickers {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 26px;
+  align-items: center;
+  gap: clamp(12px, 3vw, 26px);
+  margin-top: 18px;
+}
+
+.hero-avatar {
+  display: block;
+  width: clamp(72px, 9vw, 112px);
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(2px 5px 0 rgba(0, 35, 75, 0.18));
+  animation: hero-avatar-float 3.6s ease-in-out infinite;
+  will-change: translate;
+}
+
+.hero-avatar--minji {
+  width: clamp(64px, 7vw, 80px);
+  margin: -10px 0 0 -8px;
+  animation-delay: -1.1s;
+}
+
+.hero-avatar--hanni {
+  animation-delay: -2.2s;
+}
+
+.hero-avatar--haerin {
+  animation-delay: -0.8s;
+}
+
+.hero-avatar--hyein {
+  width: clamp(76px, 8vw, 100px);
+  animation-delay: -1.7s;
+}
+
+@keyframes hero-avatar-float {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+
+  50% {
+    translate: 0 -9px;
+  }
 }
 
 .hero-sticker {
@@ -69,6 +110,9 @@
   bottom: 78px;
   left: -26px;
   transform: rotate(-7deg);
+  animation: hero-avatar-float 3.9s ease-in-out infinite;
+  animation-delay: -2.8s;
+  will-change: translate;
 }
 
 .hero-media {
@@ -531,6 +575,14 @@
     width: min(330px, 68%);
   }
 
+  .hero-avatar--minji {
+    width: clamp(60px, 12vw, 76px);
+  }
+
+  .hero-avatar--hyein {
+    width: clamp(72px, 13vw, 94px);
+  }
+
   .hero-sticker--one {
     top: -18px;
     right: 6px;
@@ -573,6 +625,25 @@
 
   .hero-title {
     font-size: clamp(2.2rem, 11vw, 3rem);
+  }
+
+  .hero-avatar--minji {
+    width: 60px;
+    margin-top: -4px;
+  }
+
+  .hero-stickers {
+    gap: 6px;
+    margin-top: 12px;
+  }
+
+  .hero-avatar--hanni,
+  .hero-avatar--haerin {
+    width: clamp(68px, 22vw, 88px);
+  }
+
+  .hero-avatar--hyein {
+    width: clamp(66px, 20vw, 82px);
   }
 
   .hero-actions .btn {
