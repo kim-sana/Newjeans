@@ -203,12 +203,73 @@
 
 /* Gallery ---------------------------------------------------------------- */
 
+@view-transition {
+  navigation: auto;
+}
+
+::view-transition-group(gallery-section) {
+  animation-duration: 680ms;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+::view-transition-old(root) {
+  animation: gallery-page-fade-out 220ms ease both;
+}
+
+::view-transition-new(root) {
+  animation: gallery-page-fade-in 480ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+::view-transition-old(gallery-section) {
+  animation: gallery-section-leave 420ms ease both;
+}
+
+::view-transition-new(gallery-section) {
+  animation: gallery-section-enter 620ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes gallery-page-fade-out {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes gallery-page-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes gallery-section-leave {
+  to {
+    opacity: 0;
+    filter: blur(3px);
+  }
+}
+
+@keyframes gallery-section-enter {
+  from {
+    opacity: 0;
+    filter: blur(3px);
+  }
+}
+
 .gallery-section {
   overflow: hidden;
+  view-transition-name: gallery-section;
+}
+
+.gallery-page .gallery-section {
+  padding-top: calc(var(--nav-height) + 62px);
 }
 
 .gallery-section .sec-head {
   position: relative;
+}
+
+.gallery-section .sec-head h1 {
+  margin-bottom: 0.5rem;
+  font-size: clamp(2rem, 4vw, 3.1rem);
 }
 
 .coverflow {
@@ -388,13 +449,18 @@
 
 .masonry-item {
   position: relative;
+  display: block;
+  width: 100%;
   height: 280px;
   margin-bottom: 16px;
+  padding: 0;
   overflow: hidden;
   border: 1.5px solid var(--blue);
   border-radius: 16px;
   break-inside: avoid;
   background: var(--blue-tint);
+  text-align: left;
+  cursor: zoom-in;
 }
 
 .masonry-item:nth-child(2n) {
@@ -777,6 +843,10 @@
 
   .coverflow-controls {
     gap: 16px;
+  }
+
+  .gallery-page .gallery-section {
+    padding-top: calc(var(--nav-height) + 44px);
   }
 
   .masonry-grid {

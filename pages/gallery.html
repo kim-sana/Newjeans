@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="NewJeans gallery — a spotlight reel of stage, behind-the-scenes and concept moments."
+      content="Explore NewJeans gallery photos in an interactive coverflow carousel."
     />
     <title>Gallery — NewJeans</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -16,171 +16,138 @@
     />
     <link rel="icon" type="image/png" href="../assets/images/brand/favicon.png" />
     <link rel="stylesheet" href="../assets/css/theme.css" />
-    <link rel="stylesheet" href="../assets/vendor/locomotive-scroll/locomotive-scroll.css" />
-    <link rel="stylesheet" href="../assets/css/gallery.css" />
+    <link
+      rel="stylesheet"
+      href="../assets/vendor/locomotive-scroll/locomotive-scroll.css"
+    />
+    <link rel="stylesheet" href="../assets/css/home.css" />
   </head>
-  <body>
+  <body class="gallery-page">
     <a class="skip-link" href="#main">Skip to content</a>
-
     <div id="navbar-placeholder"></div>
 
     <main id="main">
-      <section class="page-hero dot-blue">
+      <section class="section gallery-section" id="gallery">
         <div class="container">
-          <span class="ribbon">Spotlight reel</span>
-          <h1 class="page-title">Gallery Highlight</h1>
-          <p class="page-lead">
-            A minimalist spotlight reel of stage lights, backstage candids and
-            concept shots — tap through the moments that stay with us.
-          </p>
-          <div class="page-hero-meta">
-            <span class="sticker sticker--lime">12 moments</span>
-            <span class="sticker sticker--pink sticker--rotate-right">Tap to see more</span>
-          </div>
-        </div>
-      </section>
-
-      <section class="section gallery-section dot-paper" id="gallery">
-        <div class="container">
-          <div class="sec-head reveal">
+          <div class="sec-head sec-head--center reveal">
             <div>
-              <p class="eyebrow">The reel</p>
-              <h2>Featured moments</h2>
+              <h1>Gallery</h1>
               <p class="sec-lead">
-                Three frames from the NewJeans universe — fresh, candid and
-                unmistakably blue.
+                A rotating look at stages, concept shoots and candid moments
+                from the Bunnies universe.
               </p>
             </div>
-            <span class="sticker sticker--silver">Bunnies archive</span>
           </div>
 
-          <div class="card-row">
-            <article class="gallery-card reveal">
-              <div class="card-image">
-                <img src="../assets/images/gallery/gallery1.jpg" alt="Soft pastel stage photo" loading="lazy" />
-                <span class="carousel-dots" aria-hidden="true"><i></i><i></i><i></i></span>
-              </div>
-              <div class="card-body">
-                <div class="card-tags">
-                  <span class="tag">#Stage</span>
-                  <span class="tag">#Fresh</span>
-                </div>
-                <div class="card-profile">
-                  <span class="avatar" aria-hidden="true"></span>
-                  <span class="profile-name">NewJeans Official</span>
-                </div>
-                <div class="card-icons">
-                  <span class="card-icon" title="Likes" aria-label="Likes">
-                    <svg class="icon icon-heart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.1C0.3 8.6 1.7 5 5.2 4.2 7.6 3.6 9.9 4.7 12 7c2.1-2.3 4.4-3.4 6.8-2.8 3.5 0.8 4.9 4.4 3.2 7.7C19.5 16.4 12 21 12 21z"/></svg>
-                    <span>2.4k</span>
-                  </span>
-                  <span class="card-icon" title="Comments" aria-label="Comments">
-                    <svg class="icon icon-comment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v12H8l-4 4V4z"/></svg>
-                    <span>184</span>
-                  </span>
-                  <span class="card-icon card-icon--spark" title="Highlights" aria-label="Highlights">
-                    <svg class="icon icon-spark" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l1.8 6.2L20 10l-6.2 1.8L12 18l-1.8-6.2L4 10l6.2-1.8L12 2z"/></svg>
-                  </span>
-                </div>
-              </div>
-            </article>
+          <div
+            class="coverflow"
+            id="coverflow"
+            role="region"
+            aria-roledescription="carousel"
+            aria-label="NewJeans gallery photos">
+            <div class="coverflow-stage" id="coverflowStage" tabindex="0">
+              <div class="coverflow-track" id="coverflowTrack"></div>
+              <p class="sr-only" id="slideAnnouncement" aria-live="polite"></p>
+            </div>
 
-            <article class="gallery-card reveal">
-              <div class="card-image">
-                <img src="../assets/images/gallery/gallery2.jpg" alt="Behind-the-scenes candid" loading="lazy" />
-                <span class="carousel-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+            <div class="coverflow-controls">
+              <button
+                class="coverflow-arrow"
+                id="previousSlide"
+                type="button"
+                aria-label="Previous photo">
+                <span aria-hidden="true">←</span>
+              </button>
+              <div
+                class="coverflow-pagination"
+                id="slidePagination"
+                role="group"
+                aria-label="Carousel pagination">
+                <button
+                  class="pagination-dot is-active"
+                  type="button"
+                  data-page="0"
+                  aria-label="Go to pagination dot 1"
+                  aria-current="page"></button>
+                <button
+                  class="pagination-dot"
+                  type="button"
+                  data-page="1"
+                  aria-label="Go to pagination dot 2"></button>
+                <button
+                  class="pagination-dot"
+                  type="button"
+                  data-page="2"
+                  aria-label="Go to pagination dot 3"></button>
               </div>
-              <div class="card-body">
-                <div class="card-tags">
-                  <span class="tag">#BTS</span>
-                  <span class="tag">#Cute</span>
-                </div>
-                <div class="card-profile">
-                  <span class="avatar" aria-hidden="true"></span>
-                  <span class="profile-name">NewJeans Official</span>
-                </div>
-                <div class="card-icons">
-                  <span class="card-icon" title="Likes" aria-label="Likes">
-                    <svg class="icon icon-heart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.1C0.3 8.6 1.7 5 5.2 4.2 7.6 3.6 9.9 4.7 12 7c2.1-2.3 4.4-3.4 6.8-2.8 3.5 0.8 4.9 4.4 3.2 7.7C19.5 16.4 12 21 12 21z"/></svg>
-                    <span>3.1k</span>
-                  </span>
-                  <span class="card-icon" title="Comments" aria-label="Comments">
-                    <svg class="icon icon-comment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v12H8l-4 4V4z"/></svg>
-                    <span>267</span>
-                  </span>
-                  <span class="card-icon card-icon--spark" title="Highlights" aria-label="Highlights">
-                    <svg class="icon icon-spark" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l1.8 6.2L20 10l-6.2 1.8L12 18l-1.8-6.2L4 10l6.2-1.8L12 2z"/></svg>
-                  </span>
-                </div>
-              </div>
-            </article>
-
-            <article class="gallery-card reveal">
-              <div class="card-image">
-                <img src="../assets/images/gallery/gallery3.jpg" alt="Monochrome concept shot" loading="lazy" />
-                <span class="carousel-dots" aria-hidden="true"><i></i><i></i><i></i></span>
-              </div>
-              <div class="card-body">
-                <div class="card-tags">
-                  <span class="tag">#Concept</span>
-                  <span class="tag">#Minimal</span>
-                </div>
-                <div class="card-profile">
-                  <span class="avatar" aria-hidden="true"></span>
-                  <span class="profile-name">NewJeans Official</span>
-                </div>
-                <div class="card-icons">
-                  <span class="card-icon" title="Likes" aria-label="Likes">
-                    <svg class="icon icon-heart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.1C0.3 8.6 1.7 5 5.2 4.2 7.6 3.6 9.9 4.7 12 7c2.1-2.3 4.4-3.4 6.8-2.8 3.5 0.8 4.9 4.4 3.2 7.7C19.5 16.4 12 21 12 21z"/></svg>
-                    <span>1.8k</span>
-                  </span>
-                  <span class="card-icon" title="Comments" aria-label="Comments">
-                    <svg class="icon icon-comment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v12H8l-4 4V4z"/></svg>
-                    <span>96</span>
-                  </span>
-                  <span class="card-icon card-icon--spark" title="Highlights" aria-label="Highlights">
-                    <svg class="icon icon-spark" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l1.8 6.2L20 10l-6.2 1.8L12 18l-1.8-6.2L4 10l6.2-1.8L12 2z"/></svg>
-                  </span>
-                </div>
-              </div>
-            </article>
+              <button
+                class="coverflow-arrow"
+                id="nextSlide"
+                type="button"
+                aria-label="Next photo">
+                <span aria-hidden="true">→</span>
+              </button>
+            </div>
           </div>
 
-          <div class="gallery-more-wrap">
+          <div class="masonry-wrapper" id="masonryWrapper" inert>
+            <div class="masonry-grid" id="galleryGrid"></div>
+          </div>
+
+          <div class="gallery-actions">
             <button
-              class="see-more-btn"
-              id="toggleMoreBtn"
+              id="expandGalleryBtn"
+              class="btn btn--ghost"
               type="button"
               aria-expanded="false"
-              aria-controls="moreGrid"
-            >
-              <span>Tap to see more</span>
-              <svg class="arrow-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M8 5l10 7-10 7V5z" />
-              </svg>
+              aria-controls="masonryWrapper">
+              View full gallery
             </button>
-
-            <div class="more-grid" id="moreGrid" hidden>
-              <img src="../assets/images/gallery/gallery4.jpg" alt="Gallery moment 4" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery5.jpg" alt="Gallery moment 5" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery6.jpg" alt="Gallery moment 6" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery7.jpg" alt="Gallery moment 7" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery8.jpg" alt="Gallery moment 8" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery9.jpg" alt="Gallery moment 9" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery10.jpg" alt="Gallery moment 10" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery11.jpg" alt="Gallery moment 11" class="more-img" loading="lazy" />
-              <img src="../assets/images/gallery/gallery12.jpg" alt="Gallery moment 12" class="more-img" loading="lazy" />
-            </div>
           </div>
         </div>
       </section>
+
+      <div
+        id="imageModal"
+        class="image-modal"
+        role="dialog"
+        aria-modal="true"
+        aria-label="Gallery viewer"
+        aria-hidden="true">
+        <span
+          class="close-modal"
+          id="closeModal"
+          role="button"
+          tabindex="0"
+          aria-label="Close gallery"
+          >&times;</span
+        >
+        <button
+          class="modal-nav-btn prev-btn"
+          id="prevModalBtn"
+          type="button"
+          aria-label="Previous image">
+          &lt;
+        </button>
+        <img class="modal-content" id="modalImg" alt="Gallery image enlarged" />
+        <button
+          class="modal-nav-btn next-btn"
+          id="nextModalBtn"
+          type="button"
+          aria-label="Next image">
+          &gt;
+        </button>
+      </div>
     </main>
 
     <div id="footer-placeholder"></div>
 
     <script src="../assets/js/components.js"></script>
-    <script src="../assets/vendor/locomotive-scroll/locomotive-scroll.min.js" defer></script>
+    <script
+      src="../assets/vendor/locomotive-scroll/locomotive-scroll.min.js"
+      defer></script>
     <script src="../assets/js/theme.js" defer></script>
-    <script src="../assets/js/gallery.js" defer></script>
+    <script src="../assets/js/gallery-carousel.js" defer></script>
+    <script src="../assets/js/gallery-controls.js" defer></script>
   </body>
 </html>

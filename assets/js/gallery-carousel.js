@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     `${assetBase}images/gallery/gallery${index}.jpg`;
 
   const track = document.getElementById("coverflowTrack");
+  const galleryGrid = document.getElementById("galleryGrid");
   const stage = document.getElementById("coverflowStage");
   const announcement = document.getElementById("slideAnnouncement");
   const pagination = document.getElementById("slidePagination");
@@ -33,8 +34,24 @@ document.addEventListener("DOMContentLoaded", () => {
   let suppressClick = false;
   let autoAdvanceTimer = null;
   let pointerInside = false;
-  let galleryExpanded = false;
+  let galleryExpanded =
+    new URLSearchParams(window.location.search).get("expanded") === "1" ||
+    document
+      .getElementById("expandGalleryBtn")
+      ?.getAttribute("aria-expanded") === "true";
   let modalOpen = false;
+
+  function applyFocalPoint(card, image, index) {
+    if (focusPositions[index]) {
+      card.style.setProperty("--focus-position", focusPositions[index]);
+      return;
+    }
+    image.addEventListener("load", () => {
+      if (image.naturalWidth / image.naturalHeight < 0.9) {
+        card.style.setProperty("--focus-position", portraitFocus);
+      }
+    });
+  }
 
   function makePhotoCard(index) {
     const card = document.createElement("button");
@@ -42,28 +59,37 @@ document.addEventListener("DOMContentLoaded", () => {
     card.type = "button";
     card.dataset.galleryIndex = String(index);
     card.setAttribute("aria-label", `Open gallery photo ${index} of ${totalPhotos}`);
-    if (focusPositions[index]) {
-      card.style.setProperty("--focus-position", focusPositions[index]);
-    }
-
     const image = document.createElement("img");
     image.src = photoPath(index);
     image.alt = `NewJeans gallery photo ${index}`;
     image.loading = "eager";
     image.decoding = "async";
     image.draggable = false;
-    image.addEventListener("load", () => {
-      if (focusPositions[index]) return;
-      if (image.naturalWidth / image.naturalHeight < 0.9) {
-        card.style.setProperty("--focus-position", portraitFocus);
-      }
-    });
+    applyFocalPoint(card, image, index);
+    card.appendChild(image);
+    return card;
+  }
+
+  function makeGridPhoto(index) {
+    const card = document.createElement("button");
+    card.className = "masonry-item";
+    card.type = "button";
+    card.dataset.galleryIndex = String(index);
+    card.setAttribute("aria-label", `Open gallery photo ${index} of ${totalPhotos}`);
+
+    const image = document.createElement("img");
+    image.src = photoPath(index);
+    image.alt = `NewJeans gallery photo ${index}`;
+    image.loading = "lazy";
+    image.decoding = "async";
+    applyFocalPoint(card, image, index);
     card.appendChild(image);
     return card;
   }
 
   for (let index = 1; index <= totalPhotos; index += 1) {
     track.appendChild(makePhotoCard(index));
+    galleryGrid?.appendChild(makeGridPhoto(index));
   }
 
   const cards = Array.from(track.querySelectorAll(".coverflow-card"));
@@ -223,7 +249,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   stage.addEventListener("pointerdown", (event) => {
-    if (event.button !== 0) return;
+    if (event.button !== 0 || !event.isPrimary) return;
     drag = {
       id: event.pointerId,
       x: event.clientX,
@@ -251,7 +277,11 @@ document.addEventListener("DOMContentLoaded", () => {
       drag.x = event.clientX;
       drag.position = position;
       drag.time = performance.now();
-      stage.setPointerCapture(event.pointerId);
+      try {
+        stage.setPointerCapture(event.pointerId);
+      } catch {
+        endDrag(event);
+      }
       return;
     }
 
@@ -286,8 +316,17 @@ document.addEventListener("DOMContentLoaded", () => {
     settle(Math.round(position + carried), releaseVelocity);
   }
 
-  stage.addEventListener("pointerup", endDrag);
-  stage.addEventListener("pointercancel", endDrag);
+  // Capture-phase document listeners also receive releases that happen after
+  // the pointer leaves the carousel or its capture is unexpectedly lost.
+  document.addEventListener("pointerup", endDrag, true);
+  document.addEventListener("pointercancel", endDrag, true);
+  stage.addEventListener("lostpointercapture", endDrag);
+  window.addEventListener("blur", () => {
+    if (!drag) return;
+    const wasActive = drag.active;
+    drag = null;
+    if (wasActive) settle(Math.round(position), 0);
+  });
 
   const coverflow = document.getElementById("coverflow");
   coverflow?.addEventListener("pointerenter", (event) => {
@@ -302,11 +341,11 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   document.addEventListener("visibilitychange", updateAutoAdvance);
-  document.addEventListener("home-gallery:expanded", (event) => {
+  document.addEventListener("gallery:expanded", (event) => {
     galleryExpanded = Boolean(event.detail?.expanded);
     updateAutoAdvance();
   });
-  document.addEventListener("home-gallery:modal", (event) => {
+  document.addEventListener("gallery:modal", (event) => {
     modalOpen = Boolean(event.detail?.open);
     updateAutoAdvance();
   });
@@ -321,7 +360,7 @@ document.addEventListener("DOMContentLoaded", () => {
     goTo(index);
   });
 
-  document.addEventListener("home-gallery:go-to", (event) => {
+  document.addEventListener("gallery:go-to", (event) => {
     const index = Number(event.detail?.index);
     if (Number.isInteger(index) && index >= 1 && index <= totalPhotos) {
       goTo(index - 1);
