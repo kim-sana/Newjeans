@@ -21,38 +21,29 @@
   font-size: 1.06rem;
 }
 
-.about-stat {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  padding: 14px 22px;
-  border: 1.5px solid rgba(255, 255, 255, 0.4);
-  border-radius: 18px;
-  border-bottom-right-radius: 4px;
-  background: rgba(255, 255, 255, 0.1);
-  color: #fff;
-  transform: rotate(2deg);
-  backdrop-filter: blur(4px);
+.about-hero-avatar {
+  display: block;
+  width: clamp(72px, 9vw, 112px);
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(2px 5px 0 rgba(0, 35, 75, 0.18));
+  animation: hero-avatar-float 3.6s ease-in-out infinite;
+  will-change: translate;
 }
 
-.about-stat-num {
-  color: var(--lime);
-  font-family: var(--font-display);
-  font-style: italic;
-  font-weight: 900;
-  font-size: 2.6rem;
-  line-height: 0.9;
+.about-hero-avatar--minji {
+  width: clamp(64px, 7vw, 80px);
+  margin: -10px 0 0 -8px;
+  animation-delay: -1.1s;
 }
 
-.about-stat-label {
-  max-width: 90px;
-  font-family: var(--font-display);
-  font-style: italic;
-  font-weight: 800;
-  font-size: 0.68rem;
-  letter-spacing: 0.1em;
-  line-height: 1.25;
-  text-transform: uppercase;
+.about-hero-avatar--haerin {
+  animation-delay: -0.8s;
+}
+
+.about-hero-avatar--hyein {
+  width: clamp(76px, 8vw, 100px);
+  animation-delay: -1.7s;
 }
 
 /* Story cards ----------------------------------------------------------- */
@@ -172,9 +163,8 @@
 
 .timeline {
   position: relative;
-  max-width: 840px;
+  max-width: 1080px;
   margin-inline: auto;
-  padding-left: 44px;
 }
 
 .timeline::before {
@@ -182,8 +172,9 @@
   position: absolute;
   top: 10px;
   bottom: 12px;
-  left: 12px;
+  left: 50%;
   width: 2px;
+  transform: translateX(-50%);
   background: linear-gradient(
     180deg,
     var(--blue) 0%,
@@ -194,7 +185,27 @@
 
 .tl-item {
   position: relative;
-  margin-bottom: 20px;
+  width: calc(50% - 42px);
+  margin-bottom: 32px;
+}
+
+.tl-item:nth-child(even) {
+  margin-left: auto;
+}
+
+.tl-item::after {
+  content: "";
+  position: absolute;
+  top: 36px;
+  right: -29px;
+  width: 29px;
+  height: 2px;
+  background: var(--blue-light);
+}
+
+.tl-item:nth-child(even)::after {
+  right: auto;
+  left: -29px;
 }
 
 .tl-item:last-child {
@@ -204,7 +215,7 @@
 .tl-marker {
   position: absolute;
   top: 24px;
-  left: -44px;
+  left: calc(100% + 29px);
   z-index: 1;
   width: 26px;
   height: 26px;
@@ -212,6 +223,11 @@
   border-radius: 50%;
   background: var(--blue);
   box-shadow: 0 0 0 2px var(--blue);
+}
+
+.tl-item:nth-child(even) .tl-marker {
+  right: calc(100% + 29px);
+  left: auto;
 }
 
 .tl-marker--pink {
@@ -229,7 +245,7 @@
 }
 
 .tl-card {
-  padding: 22px 24px;
+  overflow: hidden;
   border: 1.5px solid var(--silver);
   border-radius: 18px;
   border-bottom-right-radius: 4px;
@@ -241,10 +257,26 @@
     box-shadow 0.25s ease;
 }
 
+.tl-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--blue-tint);
+}
+
+.tl-content {
+  padding: 20px 22px 22px;
+}
+
 .tl-card:hover {
   transform: translateX(4px);
   border-color: var(--blue);
   box-shadow: 6px 7px 0 rgba(0, 91, 171, 0.1);
+}
+
+.tl-item:nth-child(even) .tl-card:hover {
+  transform: translateX(-4px);
 }
 
 .tl-year {
@@ -497,20 +529,44 @@
     align-items: flex-start;
   }
 
-  .about-stat {
-    align-self: flex-start;
+  .about-hero-avatar--minji {
+    width: 60px;
+    margin-top: -4px;
+  }
+
+  .about-hero-avatar--haerin {
+    width: clamp(68px, 22vw, 88px);
+  }
+
+  .about-hero-avatar--hyein {
+    width: clamp(66px, 20vw, 82px);
   }
 
   .timeline {
-    padding-left: 32px;
+    padding-left: 44px;
   }
 
   .timeline::before {
-    left: 9px;
+    left: 12px;
+    transform: none;
+  }
+
+  .tl-item,
+  .tl-item:nth-child(even) {
+    width: auto;
+    margin-left: 0;
+  }
+
+  .tl-item::after,
+  .tl-item:nth-child(even)::after {
+    right: auto;
+    left: -18px;
+    width: 18px;
   }
 
   .tl-marker {
-    left: -32px;
+    right: auto;
+    left: -44px;
     width: 22px;
     height: 22px;
     border-width: 3px;
@@ -525,8 +581,22 @@
     box-shadow: 0 0 0 2px #9acb30;
   }
 
-  .tl-card {
-    padding: 18px 20px;
+  .tl-item:nth-child(even) .tl-marker {
+    right: auto;
+    left: -44px;
+  }
+
+  .tl-image {
+    aspect-ratio: 2 / 1;
+  }
+
+  .tl-content {
+    padding: 18px 20px 20px;
+  }
+
+  .tl-item:nth-child(even) .tl-card:hover,
+  .tl-card:hover {
+    transform: translateY(-3px);
   }
 
   .member-card {
