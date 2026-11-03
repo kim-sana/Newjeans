@@ -364,8 +364,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     article.append(backLink, kicker, title, meta, media, body);
 
-    const source = createSource(story);
-    if (source) article.appendChild(source);
+    // const source = createSource(story);
+    // if (source) article.appendChild(source);
 
     const footer = document.createElement("div");
     footer.className = "news-article-footer";
