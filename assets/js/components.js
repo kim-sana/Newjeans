@@ -22,7 +22,7 @@
       <li><a class="nav-link" href="{{BASE_PATH}}index.html" data-page="index">Home</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}pages/discography.html" data-page="discography">Discography</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}pages/schedule.html" data-page="schedule">Schedule</a></li>
-      <!-- <li><a class="nav-link" href="{{BASE_PATH}}pages/news.html" data-page="news">News</a></li> -->
+      <li><a class="nav-link" href="{{BASE_PATH}}pages/news.html" data-page="news">News</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}pages/about.html" data-page="about">About</a></li>
       <li><a class="nav-link" href="{{BASE_PATH}}pages/gallery.html" data-page="gallery">Gallery</a></li>
     </ul>
@@ -69,7 +69,7 @@
           <li><a href="{{BASE_PATH}}index.html#hero">Home</a></li>
           <li><a href="{{BASE_PATH}}index.html#track-session">Top tracks</a></li>
           <li><a href="{{BASE_PATH}}index.html#gallery">Gallery</a></li>
-          <li><a href="{{BASE_PATH}}index.html#news">News</a></li>
+          <li><a href="{{BASE_PATH}}pages/news.html">News</a></li>
           <li><a href="{{BASE_PATH}}pages/about.html">About</a></li>
         </ul>
       </div>

@@ -5,19 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Highlight news and articles from the NewJeans fan hub."
-    />
+      content="Verified NewJeans milestones, chart history, and stories from the Bunnies universe." />
     <title>News — NewJeans</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;1,700;1,800;1,900&family=Bagel+Fat+One&family=DM+Sans:wght@400;500;700&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="icon" type="image/png" href="../assets/images/brand/favicon.png" />
+      rel="stylesheet" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="../assets/images/brand/favicon.png" />
     <link rel="stylesheet" href="../assets/css/theme.css" />
-    <link rel="stylesheet" href="../assets/vendor/locomotive-scroll/locomotive-scroll.css" />
-    <link rel="stylesheet" href="../assets/css/news.css" />
+    <link
+      rel="stylesheet"
+      href="../assets/vendor/locomotive-scroll/locomotive-scroll.css" />
+    <link rel="stylesheet" href="../assets/css/news.css?v=3" />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -25,21 +28,49 @@
     <div id="navbar-placeholder"></div>
 
     <main id="main">
-      <section class="page-hero dot-blue">
+      <section class="page-hero dot-blue news-hero">
         <div class="container">
-          <span class="ribbon">Latest stories</span>
+          <div class="news-hero-chibis" aria-hidden="true">
+            <img
+              class="news-hero-chibi news-hero-chibi--hanni"
+              src="../assets/images/misc/hanni-chibi.png"
+              alt="" />
+            <img
+              class="news-hero-chibi news-hero-chibi--hyein"
+              src="../assets/images/misc/hyein-chibi.png"
+              alt="" />
+          </div>
           <h1 class="page-title">Highlight News</h1>
-          <p class="page-lead">Read the highlights featured on Home.</p>
+          <p class="page-lead">
+            Chart milestones, award nights, stages and cover stories from the
+            Bunnies universe.
+          </p>
         </div>
       </section>
 
-      <section class="section news-page-main dot-paper">
+      <section class="section news-page-main dot-paper" aria-label="News">
         <div class="container">
-          <div class="news-page-heading">
-            <p class="eyebrow">The latest</p>
-            <h2 id="newsViewTitle">All stories</h2>
+          <div class="news-view-head sec-head reveal" id="newsViewHead">
+            <div>
+              <p class="eyebrow">News archive</p>
+              <h2 id="newsViewTitle">All stories</h2>
+              <p class="sec-lead">
+                A fan-made archive of verified NewJeans moments.
+              </p>
+            </div>
+            <span class="news-count" id="newsCount" aria-live="polite"></span>
           </div>
-          <div id="newsContent" class="news-content" aria-live="polite"></div>
+          <div
+            id="newsContent"
+            class="news-content"
+            aria-live="polite"
+            aria-busy="true"></div>
+          <noscript>
+            <div class="news-state" role="status">
+              <h3>JavaScript is required</h3>
+              <p>Enable JavaScript to load the news archive.</p>
+            </div>
+          </noscript>
         </div>
       </section>
     </main>
@@ -47,9 +78,11 @@
     <div id="footer-placeholder"></div>
 
     <script src="../assets/js/components.js"></script>
-    <script src="../assets/js/news-data.js" defer></script>
-    <script src="../assets/vendor/locomotive-scroll/locomotive-scroll.min.js" defer></script>
+    <script src="../assets/js/news-data.js?v=3" defer></script>
+    <script
+      src="../assets/vendor/locomotive-scroll/locomotive-scroll.min.js"
+      defer></script>
     <script src="../assets/js/theme.js" defer></script>
-    <script src="../assets/js/news.js" defer></script>
+    <script src="../assets/js/news.js?v=2" defer></script>
   </body>
 </html>
