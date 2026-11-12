@@ -1,85 +1,180 @@
 # NewJeans Fan Hub
 
-Website fan-made bertema NewJeans: beranda, diskografi, jadwal, profil member, galeri, dan berita. Proyek ini berupa static site (HTML, CSS, JavaScript) tanpa build step.
+Website fan-made bertema NewJeans: beranda, diskografi, jadwal, berita, profil member, dan galeri. Aplikasi ini berupa server-rendered PHP + MySQL dengan panel admin untuk mengelola seluruh konten. Tidak ada build step frontend.
 
-## Halaman
+## Teknologi
 
-| Halaman | File | URL lokal |
-|---|---|---|
-| Home | `index.html` | `/` |
-| Discography | `pages/discography.html` | `/pages/discography.html` |
-| Schedule | `pages/schedule.html` | `/pages/schedule.html` |
-| News | `pages/news.html` | `/pages/news.html` |
-| About & members | `pages/about.html` | `/pages/about.html` |
-| Gallery | `pages/gallery.html` | `/pages/gallery.html` |
-
-Hanya `index.html` yang berada di root. Semua halaman lain berada di `pages/`, dan seluruh aset frontend berada di `assets/`.
+- PHP >= 8.3, dengan ekstensi `pdo_mysql` dan `fileinfo`
+- MySQL 8.4 atau MariaDB 11.x
+- Composer 2
+- CSS dan JavaScript vanilla (Locomotive Scroll, AdminLTE untuk admin)
 
 ## Struktur folder
 
 ```text
 .
-├── index.html
-├── pages/
-│   ├── about.html
-│   ├── discography.html
-│   ├── gallery.html
-│   ├── news.html
-│   └── schedule.html
-├── assets/
-│   ├── audio/            # trek untuk carousel
-│   ├── css/              # theme.css + CSS per halaman
-│   ├── data/
-│   │   └── news.json     # data frontend highlight news
-│   ├── images/
-│   │   ├── albums/       # cover album dan CD
-│   │   ├── brand/        # logo dan favicon
-│   │   ├── gallery/      # 12 foto galeri (satu-satunya sumber)
-│   │   └── members/      # foto member
-│   ├── js/               # theme.js, komponen, data, dan JS per halaman
-│   ├── vendor/
-│   │   └── locomotive-scroll/
-│   └── videos/           # video hero
-├── archive/
-│   ├── legacy/
-│   │   └── scroll-demo/  # demo Locomotive lama
-│   ├── unused-assets/    # aset lama yang tidak dipakai
-│   └── README.md
-├── docs/
-│   ├── design.md         # panduan desain
-│   ├── reports/          # laporan proyek
-│   └── superpowers/      # catatan perencanaan
-└── README.md
+├── public/                     # docroot
+│   ├── index.php               # front controller + definisi route
+│   ├── .htaccess               # rewrite non-file request ke index.php
+│   └── assets/                 # CSS, JS, gambar, audio, video, vendor
+├── app/
+│   ├── Core/                   # Router, Database, Auth, Csrf, Upload, dll.
+│   ├── Controllers/            # controller Public dan Admin
+│   ├── Models/                 # repository PDO per tabel
+│   └── Support/                # helper dan utilitas slug
+├── config/                     # app.php, database.php
+├── database/
+│   ├── schema.sql              # skema 9 tabel konten
+│   ├── seed.php                # seeder data awal
+│   └── seed-data/news.json     # sumber seed berita
+├── templates/
+│   ├── layouts/                # layout public dan admin
+│   ├── partials/               # header, footer, kartu berita/event
+│   ├── pages/                  # halaman publik
+│   └── admin/                  # halaman panel admin
+├── storage/                    # upload/log non-publik
+├── archive/                    # aset HTML/JS legacy (di luar docroot)
+├── docs/                       # panduan desain dan catatan perencanaan
+├── .env.example
+└── composer.json
 ```
 
-## Menjalankan lokal
+## Prasyarat dan setup
 
-Home dan News mengambil data dari `assets/data/news.json`, jadi halaman tersebut perlu dibuka lewat static server, bukan langsung melalui `file://`. Jalankan server dari root proyek:
+1. Install dependency:
+
+   ```powershell
+   composer install
+   ```
+
+2. Salin konfigurasi environment lalu sesuaikan kredensial database:
+
+   ```powershell
+   Copy-Item .env.example .env
+   ```
+
+   ```dotenv
+   APP_ENV=local
+   APP_URL=http://localhost:8000
+   APP_DEBUG=true
+
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_NAME=newjeans
+   DB_USER=root
+   DB_PASS=
+   ```
+
+3. Buat database:
+
+   ```sql
+   CREATE DATABASE newjeans CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+   ```
+
+4. Import skema:
+
+   ```powershell
+   mysql -h 127.0.0.1 -P 3306 -u root newjeans < database/schema.sql
+   ```
+
+5. Isi data awal:
+
+   ```powershell
+   php database/seed.php --fresh
+   ```
+
+   Gunakan `--fresh` untuk mengosongkan tabel konten lalu mengisi ulang. Tanpa flag tersebut, seeder menolak berjalan jika data sudah ada.
+
+6. Jalankan server dari root proyek (docroot harus `public/`):
+
+   ```powershell
+   php -S localhost:8000 -t public
+   ```
+
+7. Buka `http://localhost:8000`.
+
+## Akun admin
+
+Seeder membuat satu akun admin:
+
+| Email | Password |
+|---|---|
+| `admin@newjeans.local` | `admin123` |
+
+Kredensial ini hanya untuk lingkungan lokal/demo. Ganti password sebelum dipakai di lingkungan nyata (ubah data di tabel `users` atau sesuaikan `database/seed.php`).
+
+Panel admin tersedia di `http://localhost:8000/admin`.
+
+## Route
+
+### Publik
+
+| Route | Halaman |
+|---|---|
+| `/` | Home: lagu unggulan, galeri, berita terbaru |
+| `/discography` | Daftar album + track list |
+| `/schedule` | Daftar event |
+| `/news` | Daftar berita published |
+| `/news/{slug}` | Detail berita |
+| `/about` | Timeline sejarah + profil member |
+| `/gallery` | Galeri foto |
+
+### Admin (perlu login)
+
+| Route | Fungsi |
+|---|---|
+| `/login`, `POST /login`, `POST /logout` | Autentikasi sesi |
+| `/admin` | Dashboard + jumlah konten |
+| `/admin/album-types` | CRUD tipe album |
+| `/admin/albums` | CRUD album + upload cover |
+| `/admin/albums/{albumId}/songs` | CRUD lagu per album |
+| `/admin/news` | CRUD berita + upload thumbnail |
+| `/admin/events` | CRUD event + upload poster |
+| `/admin/members` | CRUD member + upload foto |
+| `/admin/histories` | CRUD history + upload gambar |
+| `/admin/gallery` | CRUD item galeri + upload gambar |
+
+Setiap route admin memakai sesi dan token CSRF. Aksi tanpa token yang valid ditolak dengan status `419`.
+
+### Redirect legacy
+
+| URL lama | Tujuan |
+|---|---|
+| `/index.html`, `/home-legacy.html` | `/` |
+| `/pages/discography.html` | `/discography` |
+| `/pages/schedule.html` | `/schedule` |
+| `/pages/about.html` | `/about` |
+| `/pages/gallery.html` | `/gallery` |
+| `/pages/news.html` | `/news` |
+| `/pages/news.html?slug=...` | `/news/{slug}` |
+
+Semua redirect memakai status `301`.
+
+## Upload
+
+- Disimpan di `public/assets/images/uploads/{albums,news,events,members,histories,gallery}/`.
+- Format yang diterima: JPEG, PNG, WebP, GIF; maksimal 5 MB.
+- Nama file diacak; nama asli dari client tidak dipakai.
+- File upload dan `storage/` tidak di-commit (lihat `.gitignore`).
+
+## Data dan soft delete
+
+Sembilan tabel konten: `users`, `album_types`, `albums`, `songs`, `news`, `events`, `members`, `histories`, `gallery_items`. Penghapusan konten memakai soft delete (`deleted_at`); query publik selalu memfilter `deleted_at IS NULL`. Tabel e-commerce fase 2 belum dibuat.
+
+## Verifikasi
 
 ```powershell
-python -m http.server 8000
+# Lint seluruh PHP
+Get-ChildItem -Recurse -File -Include *.php app,config,templates,public,database | ForEach-Object { php -l $_.FullName }
+
+# Cek sintaks JavaScript
+Get-ChildItem -Recurse -File public/assets/js/*.js | ForEach-Object { node --check $_.FullName }
 ```
 
-Lalu buka `http://localhost:8000`.
-
-### Locomotive Scroll
-
-Project memakai Locomotive Scroll **v5.0.0** dari `assets/vendor/locomotive-scroll/` pada semua halaman utama. API v5 memakai Lenis dan tidak membutuhkan `data-scroll-container` atau `data-scroll-section`.
-Elemen `.reveal` memakai deteksi viewport Locomotive saat smooth scroll aktif; observer native hanya menjadi fallback.
-
-- Demo arsip: `http://localhost:8000/archive/legacy/scroll-demo/scroll-demo.html`
-- Jika browser melaporkan reduced motion, tambahkan `?smooth=1` untuk mengaktifkan smooth scroll secara eksplisit di halaman tersebut.
-- Tambahkan `&scrollDebug=1` untuk melihat event scroll di console.
-
-## Konvensi aset
-
-- Nama file memakai huruf kecil dan tanda hubung, tanpa spasi atau tanda kurung.
-- Semua aset frontend berada di `assets/`: CSS di `assets/css/`, JavaScript di `assets/js/`, gambar di `assets/images/`, audio di `assets/audio/`, video di `assets/videos/`, dan data di `assets/data/`.
-- Cover album masuk ke `assets/images/albums/`, foto member ke `assets/images/members/`, logo dan favicon ke `assets/images/brand/`.
-- Foto galeri hanya disimpan di `assets/images/gallery/` dan dipakai bersama oleh Home dan Gallery.
-- Aset yang tidak lagi dipakai dipindahkan ke `archive/unused-assets/`, bukan dihapus.
+Smoke test manual: buka seluruh route publik, pastikan route tidak dikenal mengembalikan `404`, lalu uji login, CRUD tiap modul, upload, dan logout di panel admin.
 
 ## Dokumentasi
 
 - [docs/design.md](docs/design.md): warna, tipografi, layout, dan aturan komponen.
 - [docs/reports/Gallery_Web_Page_Report_Gilang_3202416074.pdf](docs/reports/Gallery_Web_Page_Report_Gilang_3202416074.pdf): laporan proyek galeri.
+- [docs/superpowers/plans/2026-11-09-php-backend-content.md](docs/superpowers/plans/2026-11-09-php-backend-content.md): rencana dan status implementasi backend.

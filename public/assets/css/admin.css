@@ -1,0 +1,126 @@
+/* Minimal brand accent for AdminLTE 4. Layout and typography come from the template. */
+
+:root,
+[data-bs-theme=light] {
+  --bs-primary: #005bab;
+  --bs-primary-rgb: 0, 91, 171;
+  --bs-link-color: #005bab;
+  --bs-link-color-rgb: 0, 91, 171;
+  --bs-link-hover-color: #003a6e;
+  --bs-link-hover-color-rgb: 0, 58, 110;
+}
+
+.btn-primary {
+  --bs-btn-bg: #005bab;
+  --bs-btn-border-color: #005bab;
+  --bs-btn-hover-bg: #004a8c;
+  --bs-btn-hover-border-color: #003f77;
+  --bs-btn-active-bg: #003f77;
+  --bs-btn-active-border-color: #003a6e;
+  --bs-btn-disabled-bg: #005bab;
+  --bs-btn-disabled-border-color: #005bab;
+  --bs-btn-focus-shadow-rgb: 0, 91, 171;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #005bab;
+  --bs-btn-border-color: #005bab;
+  --bs-btn-hover-bg: #005bab;
+  --bs-btn-hover-border-color: #005bab;
+  --bs-btn-active-bg: #003f77;
+  --bs-btn-active-border-color: #003a6e;
+  --bs-btn-focus-shadow-rgb: 0, 91, 171;
+}
+
+[data-bs-theme=dark] {
+  --bs-primary: #4da3e8;
+  --bs-primary-rgb: 77, 163, 232;
+  --bs-link-color: #8fbbe6;
+  --bs-link-color-rgb: 143, 187, 230;
+  --bs-link-hover-color: #b3d4f0;
+  --bs-link-hover-color-rgb: 179, 212, 240;
+}
+
+[data-bs-theme=dark] .btn-primary {
+  --bs-btn-bg: #0066c2;
+  --bs-btn-border-color: #0066c2;
+  --bs-btn-hover-bg: #005bab;
+  --bs-btn-hover-border-color: #005bab;
+  --bs-btn-active-bg: #004a8c;
+  --bs-btn-active-border-color: #003f77;
+  --bs-btn-disabled-bg: #0066c2;
+  --bs-btn-disabled-border-color: #0066c2;
+  --bs-btn-focus-shadow-rgb: 77, 163, 232;
+}
+
+[data-bs-theme=dark] .btn-outline-primary {
+  --bs-btn-color: #8fbbe6;
+  --bs-btn-border-color: #8fbbe6;
+  --bs-btn-hover-bg: #4da3e8;
+  --bs-btn-hover-border-color: #4da3e8;
+  --bs-btn-hover-color: #06182b;
+  --bs-btn-active-bg: #8fbbe6;
+  --bs-btn-active-border-color: #8fbbe6;
+  --bs-btn-active-color: #06182b;
+  --bs-btn-focus-shadow-rgb: 77, 163, 232;
+}
+
+.text-bg-primary {
+  background-color: #005bab !important;
+  color: #fff !important;
+}
+
+.brand-image {
+  max-height: 34px;
+  width: auto;
+}
+
+.admin-thumb {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 0.375rem;
+  background-color: #eef1f4;
+}
+
+[data-bs-theme=dark] .admin-thumb {
+  background-color: var(--bs-tertiary-bg);
+}
+
+.admin-thumb-placeholder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--bs-secondary-color);
+}
+
+.admin-preview {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  border: 1px solid var(--bs-border-color);
+  background-color: #eef1f4;
+}
+
+[data-bs-theme=dark] .admin-preview {
+  background-color: var(--bs-tertiary-bg);
+}
+
+.admin-form-card {
+  max-width: 880px;
+}
+
+.admin-table th {
+  white-space: nowrap;
+}
+
+.admin-empty {
+  padding: 2.5rem 1rem;
+  color: var(--bs-secondary-color);
+  text-align: center;
+}
+
+.admin-actions {
+  white-space: nowrap;
+}

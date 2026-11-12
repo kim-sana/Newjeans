@@ -10,5 +10,22 @@ Desktop.ini
 
 # Dependencies and logs
 node_modules/
+/vendor/
 *.log
 tmp/
+
+# Environment
+.env
+
+# Storage (keep directory placeholders)
+storage/uploads/*
+storage/logs/*
+!storage/uploads/.gitkeep
+!storage/logs/.gitkeep
+
+# Public content uploads
+public/assets/images/uploads/*
+!public/assets/images/uploads/.gitkeep
+
+# Knowledge graph
+graphify-out/

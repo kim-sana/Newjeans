@@ -28,6 +28,20 @@ Folder ini menyimpan aset yang tidak lagi direferensikan oleh halaman website. F
 | `legacy/scroll-demo/scroll-demo.html` | Demo Locomotive Scroll yang tidak lagi menjadi bagian halaman produksi |
 | `legacy/scroll-demo/scroll-demo.css` | Gaya khusus halaman demo |
 | `legacy/scroll-demo/scroll-demo.js` | Status dan petunjuk halaman demo |
+| `legacy/html/home-legacy.html` | Halaman home statis sebelum server-rendered |
+| `legacy/html/pages/*.html` | Halaman statis lama (about, discography, gallery, news, schedule) |
+
+## Aset frontend legacy (M6)
+
+| File arsip | Keterangan |
+|---|---|
+| `legacy/js/components.js` | Inject navbar/footer; digantikan partial PHP |
+| `legacy/js/home.js` | Loader carousel news dari JSON; news kini dirender server |
+| `legacy/js/news.js` | Renderer news dari JSON; kini dirender server |
+| `legacy/js/news-data.js` | Loader `news.json`; dihapus dari frontend |
+| `legacy/js/gallery.js` | Toggle galeri lama yang tidak lagi dipakai |
+
+Data seed `news.json` tidak diarsipkan karena masih dipakai `database/seed.php`; file dipindahkan ke `database/seed-data/news.json`.
 
 ## Catatan
 
