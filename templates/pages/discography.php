@@ -128,6 +128,10 @@ $albumTypes = is_array($albumTypes ?? null) ? $albumTypes : [];
                 $albumSongs = is_array($release['songs'] ?? null) ? $release['songs'] : [];
                 ?>
                 <article class="release-row" data-type="<?= e($typeSlug) ?>" data-year="<?= e($releaseYear) ?>">
+                    <a
+                        class="rr-stretched-link"
+                        href="<?= e(url('/discography/' . (int) ($release['id'] ?? 0))) ?>"
+                        aria-label="View <?= e((string) ($release['name'] ?? 'album')) ?> album details"></a>
                     <div class="rr-cover-wrap">
                         <?php if ($cover !== ''): ?>
                             <img

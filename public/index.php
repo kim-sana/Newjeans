@@ -65,6 +65,7 @@ $router = new Router();
 
 $router->get('/', [HomeController::class, 'index']);
 $router->get('/discography', [DiscographyController::class, 'index']);
+$router->get('/discography/{id}', [DiscographyController::class, 'show']);
 $router->get('/schedule', [ScheduleController::class, 'index']);
 $router->get('/news', [PublicNewsController::class, 'index']);
 $router->get('/news/{slug}', [PublicNewsController::class, 'show']);
