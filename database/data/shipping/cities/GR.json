@@ -1,0 +1,946 @@
+[
+    {
+        "id": 264371,
+        "name": "Athens",
+        "region": "Attica",
+        "lat": 37.98376,
+        "lng": 23.72784,
+        "population": 664046
+    },
+    {
+        "id": 734077,
+        "name": "Thessaloníki",
+        "region": "Central Macedonia",
+        "lat": 40.64072,
+        "lng": 22.93493,
+        "population": 317778
+    },
+    {
+        "id": 255683,
+        "name": "Pátra",
+        "region": "West Greece",
+        "lat": 38.2462,
+        "lng": 21.73508,
+        "population": 168034
+    },
+    {
+        "id": 255274,
+        "name": "Piraeus",
+        "region": "Attica",
+        "lat": 37.94203,
+        "lng": 23.64619,
+        "population": 163688
+    },
+    {
+        "id": 258576,
+        "name": "Lárisa",
+        "region": "Thessaly",
+        "lat": 39.62847,
+        "lng": 22.42112,
+        "population": 146926
+    },
+    {
+        "id": 255524,
+        "name": "Peristéri",
+        "region": "Attica",
+        "lat": 38.01539,
+        "lng": 23.69187,
+        "population": 139981
+    },
+    {
+        "id": 261745,
+        "name": "Irákleion",
+        "region": "Crete",
+        "lat": 35.32787,
+        "lng": 25.14341,
+        "population": 137154
+    },
+    {
+        "id": 261414,
+        "name": "Kallithéa",
+        "region": "Attica",
+        "lat": 37.95,
+        "lng": 23.7,
+        "population": 100641
+    },
+    {
+        "id": 265488,
+        "name": "Acharnés",
+        "region": "Attica",
+        "lat": 38.08333,
+        "lng": 23.73333,
+        "population": 99346
+    },
+    {
+        "id": 736083,
+        "name": "Kalamariá",
+        "region": "Central Macedonia",
+        "lat": 40.5825,
+        "lng": 22.95028,
+        "population": 91518
+    },
+    {
+        "id": 256429,
+        "name": "Níkaia",
+        "region": "Attica",
+        "lat": 37.96667,
+        "lng": 23.65,
+        "population": 89380
+    },
+    {
+        "id": 262036,
+        "name": "Glyfáda",
+        "region": "Attica",
+        "lat": 37.86289,
+        "lng": 23.75802,
+        "population": 87305
+    },
+    {
+        "id": 251833,
+        "name": "Volos",
+        "region": "Thessaly",
+        "lat": 39.36923,
+        "lng": 22.94769,
+        "population": 86048
+    },
+    {
+        "id": 256601,
+        "name": "Ílion",
+        "region": "Attica",
+        "lat": 38.03333,
+        "lng": 23.7,
+        "population": 84793
+    },
+    {
+        "id": 8310138,
+        "name": "Ilioúpoli",
+        "region": "Attica",
+        "lat": 37.93149,
+        "lng": 23.76779,
+        "population": 78153
+    },
+    {
+        "id": 260204,
+        "name": "Keratsíni",
+        "region": "Attica",
+        "lat": 37.9625,
+        "lng": 23.61972,
+        "population": 77077
+    },
+    {
+        "id": 736291,
+        "name": "Évosmos",
+        "region": "Central Macedonia",
+        "lat": 40.67056,
+        "lng": 22.90833,
+        "population": 74686
+    },
+    {
+        "id": 260172,
+        "name": "Khalándrion",
+        "region": "Attica",
+        "lat": 38.02369,
+        "lng": 23.80068,
+        "population": 74192
+    },
+    {
+        "id": 256575,
+        "name": "Néa Smýrni",
+        "region": "Attica",
+        "lat": 37.94504,
+        "lng": 23.71416,
+        "population": 73076
+    },
+    {
+        "id": 265243,
+        "name": "Maroúsi",
+        "region": "Attica",
+        "lat": 38.05,
+        "lng": 23.8,
+        "population": 72333
+    },
+    {
+        "id": 263986,
+        "name": "Agios Dimitrios",
+        "region": "Attica",
+        "lat": 37.93333,
+        "lng": 23.73333,
+        "population": 71294
+    },
+    {
+        "id": 8358544,
+        "name": "Zográfos",
+        "region": "Attica",
+        "lat": 37.97574,
+        "lng": 23.76911,
+        "population": 71026
+    },
+    {
+        "id": 265533,
+        "name": "Aigáleo",
+        "region": "Attica",
+        "lat": 37.98333,
+        "lng": 23.68333,
+        "population": 69946
+    },
+    {
+        "id": 256614,
+        "name": "Néa Ionía",
+        "region": "Attica",
+        "lat": 38.0357,
+        "lng": 23.75733,
+        "population": 67134
+    },
+    {
+        "id": 261779,
+        "name": "Ioánnina",
+        "region": "Epirus",
+        "lat": 39.66341,
+        "lng": 20.85187,
+        "population": 65574
+    },
+    {
+        "id": 256075,
+        "name": "Palaió Fáliro",
+        "region": "Attica",
+        "lat": 37.92812,
+        "lng": 23.70105,
+        "population": 64021
+    },
+    {
+        "id": 8310183,
+        "name": "Korydallós",
+        "region": "Attica",
+        "lat": 37.98468,
+        "lng": 23.64711,
+        "population": 63445
+    },
+    {
+        "id": 252664,
+        "name": "Tríkala",
+        "region": "Thessaly",
+        "lat": 39.55493,
+        "lng": 21.76837,
+        "population": 61653
+    },
+    {
+        "id": 251948,
+        "name": "Výronas",
+        "region": "Attica",
+        "lat": 37.96105,
+        "lng": 23.753,
+        "population": 61308
+    },
+    {
+        "id": 264194,
+        "name": "Agía Paraskeví",
+        "region": "Attica",
+        "lat": 38.01667,
+        "lng": 23.83333,
+        "population": 59704
+    },
+    {
+        "id": 262135,
+        "name": "Galátsi",
+        "region": "Attica",
+        "lat": 38.01667,
+        "lng": 23.75,
+        "population": 59345
+    },
+    {
+        "id": 260133,
+        "name": "Chalkída",
+        "region": "Central Greece",
+        "lat": 38.46354,
+        "lng": 23.60284,
+        "population": 59125
+    },
+    {
+        "id": 255377,
+        "name": "Petroúpolis",
+        "region": "Attica",
+        "lat": 38.04187,
+        "lng": 23.68494,
+        "population": 58979
+    },
+    {
+        "id": 734330,
+        "name": "Sérres",
+        "region": "Central Macedonia",
+        "lat": 41.08499,
+        "lng": 23.54757,
+        "population": 58287
+    },
+    {
+        "id": 400666,
+        "name": "Rhodes",
+        "region": "South Aegean",
+        "lat": 36.43556,
+        "lng": 28.22199,
+        "population": 56128
+    },
+    {
+        "id": 261604,
+        "name": "Kalamata",
+        "region": "Peloponnese",
+        "lat": 37.03913,
+        "lng": 22.11265,
+        "population": 54100
+    },
+    {
+        "id": 735861,
+        "name": "Kavála",
+        "region": "East Macedonia and Thrace",
+        "lat": 40.93959,
+        "lng": 24.40687,
+        "population": 54027
+    },
+    {
+        "id": 260114,
+        "name": "Chaniá",
+        "region": "Crete",
+        "lat": 35.51124,
+        "lng": 24.02921,
+        "population": 53910
+    },
+    {
+        "id": 735914,
+        "name": "Kateríni",
+        "region": "Central Macedonia",
+        "lat": 40.26956,
+        "lng": 22.50608,
+        "population": 53293
+    },
+    {
+        "id": 736928,
+        "name": "Alexandroupoli",
+        "region": "East Macedonia and Thrace",
+        "lat": 40.84995,
+        "lng": 25.87644,
+        "population": 52979
+    },
+    {
+        "id": 258620,
+        "name": "Lamía",
+        "region": "Central Greece",
+        "lat": 38.89947,
+        "lng": 22.4335,
+        "population": 52006
+    },
+    {
+        "id": 261743,
+        "name": "Irákleio",
+        "region": "Attica",
+        "lat": 38.05282,
+        "lng": 23.76523,
+        "population": 49642
+    },
+    {
+        "id": 733840,
+        "name": "Xánthi",
+        "region": "East Macedonia and Thrace",
+        "lat": 41.13488,
+        "lng": 24.888,
+        "population": 48221
+    },
+    {
+        "id": 262426,
+        "name": "Fylí",
+        "region": "Attica",
+        "lat": 38.10235,
+        "lng": 23.66901,
+        "population": 48157
+    },
+    {
+        "id": 259824,
+        "name": "Kifisiá",
+        "region": "Attica",
+        "lat": 38.07438,
+        "lng": 23.81106,
+        "population": 47332
+    },
+    {
+        "id": 265560,
+        "name": "Agrínio",
+        "region": "West Greece",
+        "lat": 38.62139,
+        "lng": 21.40778,
+        "population": 46899
+    },
+    {
+        "id": 734150,
+        "name": "Stavroúpoli",
+        "region": "Central Macedonia",
+        "lat": 40.66944,
+        "lng": 22.93806,
+        "population": 46008
+    },
+    {
+        "id": 260183,
+        "name": "Chaïdári",
+        "region": "Attica",
+        "lat": 38.01135,
+        "lng": 23.66597,
+        "population": 45642
+    },
+    {
+        "id": 735640,
+        "name": "Komotiní",
+        "region": "East Macedonia and Thrace",
+        "lat": 41.11758,
+        "lng": 25.40587,
+        "population": 45631
+    },
+    {
+        "id": 734301,
+        "name": "Sykiés",
+        "region": "Central Macedonia",
+        "lat": 40.64944,
+        "lng": 22.95083,
+        "population": 44955
+    },
+    {
+        "id": 736364,
+        "name": "Dráma",
+        "region": "East Macedonia and Thrace",
+        "lat": 41.15283,
+        "lng": 24.1473,
+        "population": 44823
+    },
+    {
+        "id": 733905,
+        "name": "Véroia",
+        "region": "Central Macedonia",
+        "lat": 40.52437,
+        "lng": 22.20242,
+        "population": 44464
+    },
+    {
+        "id": 261614,
+        "name": "Álimos",
+        "region": "Attica",
+        "lat": 37.91033,
+        "lng": 23.72361,
+        "population": 41720
+    },
+    {
+        "id": 2463679,
+        "name": "Corfu",
+        "region": "Ionian Islands",
+        "lat": 39.62441,
+        "lng": 19.92016,
+        "population": 40047
+    },
+    {
+        "id": 734538,
+        "name": "Políchni",
+        "region": "Central Macedonia",
+        "lat": 40.66671,
+        "lng": 22.94881,
+        "population": 38887
+    },
+    {
+        "id": 735481,
+        "name": "Lagkadás",
+        "region": "Central Macedonia",
+        "lat": 40.75,
+        "lng": 23.06667,
+        "population": 37022
+    },
+    {
+        "id": 734643,
+        "name": "Pylaía",
+        "region": "Central Macedonia",
+        "lat": 40.59918,
+        "lng": 22.98613,
+        "population": 36843
+    },
+    {
+        "id": 735563,
+        "name": "Kozáni",
+        "region": "West Macedonia",
+        "lat": 40.29931,
+        "lng": 21.78984,
+        "population": 36481
+    },
+    {
+        "id": 8358563,
+        "name": "Ágioi Anárgyroi",
+        "region": "Attica",
+        "lat": 38.03013,
+        "lng": 23.72379,
+        "population": 34168
+    },
+    {
+        "id": 264516,
+        "name": "Argyroúpoli",
+        "region": "Attica",
+        "lat": 37.90594,
+        "lng": 23.75035,
+        "population": 34097
+    },
+    {
+        "id": 264888,
+        "name": "Áno Liósia",
+        "region": "Attica",
+        "lat": 38.08333,
+        "lng": 23.7,
+        "population": 33565
+    },
+    {
+        "id": 260989,
+        "name": "Kardítsa",
+        "region": "Thessaly",
+        "lat": 39.36485,
+        "lng": 21.92191,
+        "population": 32789
+    },
+    {
+        "id": 254352,
+        "name": "Rethymno",
+        "region": "Crete",
+        "lat": 35.36555,
+        "lng": 24.48232,
+        "population": 32468
+    },
+    {
+        "id": 252910,
+        "name": "Thívai",
+        "region": "Central Greece",
+        "lat": 38.325,
+        "lng": 23.31889,
+        "population": 32410
+    },
+    {
+        "id": 9034728,
+        "name": "Néa Ionía",
+        "region": "Thessaly",
+        "lat": 39.37904,
+        "lng": 22.92752,
+        "population": 31884
+    },
+    {
+        "id": 259949,
+        "name": "Cholargós",
+        "region": "Attica",
+        "lat": 38,
+        "lng": 23.8,
+        "population": 30840
+    },
+    {
+        "id": 6324534,
+        "name": "Vrilissia",
+        "region": "Attica",
+        "lat": 38.03381,
+        "lng": 23.82962,
+        "population": 30741
+    },
+    {
+        "id": 264445,
+        "name": "Asprópyrgos",
+        "region": "Attica",
+        "lat": 38.06134,
+        "lng": 23.58971,
+        "population": 30251
+    },
+    {
+        "id": 259289,
+        "name": "Kórinthos",
+        "region": "Peloponnese",
+        "lat": 37.94007,
+        "lng": 22.9513,
+        "population": 30176
+    },
+    {
+        "id": 734426,
+        "name": "Ptolemaḯda",
+        "region": "West Macedonia",
+        "lat": 40.51472,
+        "lng": 21.67861,
+        "population": 30045
+    },
+    {
+        "id": 735803,
+        "name": "Chalkidóna",
+        "region": "Central Macedonia",
+        "lat": 40.73184,
+        "lng": 22.59992,
+        "population": 30030
+    },
+    {
+        "id": 8201845,
+        "name": "Gérakas",
+        "region": "Attica",
+        "lat": 38.02277,
+        "lng": 23.8576,
+        "population": 29939
+    },
+    {
+        "id": 259128,
+        "name": "Metamórfosi",
+        "region": "Attica",
+        "lat": 38.06576,
+        "lng": 23.76356,
+        "population": 29891
+    },
+    {
+        "id": 261249,
+        "name": "Kamaterón",
+        "region": "Attica",
+        "lat": 38.05586,
+        "lng": 23.70515,
+        "population": 29179
+    },
+    {
+        "id": 251780,
+        "name": "Voúla",
+        "region": "Attica",
+        "lat": 37.84221,
+        "lng": 23.77651,
+        "population": 28364
+    },
+    {
+        "id": 256866,
+        "name": "Mytilene",
+        "region": "North Aegean",
+        "lat": 39.10772,
+        "lng": 26.55529,
+        "population": 28322
+    },
+    {
+        "id": 733776,
+        "name": "Giannitsá",
+        "region": "Central Macedonia",
+        "lat": 40.79194,
+        "lng": 22.4075,
+        "population": 27817
+    },
+    {
+        "id": 736336,
+        "name": "Elefthério - Kordelió",
+        "region": "Central Macedonia",
+        "lat": 40.66391,
+        "lng": 22.89693,
+        "population": 27067
+    },
+    {
+        "id": 252601,
+        "name": "Trípoli",
+        "region": "Peloponnese",
+        "lat": 37.50959,
+        "lng": 22.37883,
+        "population": 26561
+    },
+    {
+        "id": 264111,
+        "name": "Agía Varvára",
+        "region": "Attica",
+        "lat": 37.98938,
+        "lng": 23.66011,
+        "population": 26550
+    },
+    {
+        "id": 261678,
+        "name": "Kaisarianí",
+        "region": "Attica",
+        "lat": 37.9634,
+        "lng": 23.76523,
+        "population": 26370
+    },
+    {
+        "id": 11747175,
+        "name": "Neapoli",
+        "region": "Central Macedonia",
+        "lat": 40.6532,
+        "lng": 22.94156,
+        "population": 25822
+    },
+    {
+        "id": 256621,
+        "name": "Néa Filadélfeia",
+        "region": "Attica",
+        "lat": 38.03491,
+        "lng": 23.73811,
+        "population": 25734
+    },
+    {
+        "id": 256750,
+        "name": "Moskháton",
+        "region": "Attica",
+        "lat": 37.94789,
+        "lng": 23.6788,
+        "population": 25441
+    },
+    {
+        "id": 255588,
+        "name": "Pérama",
+        "region": "Attica",
+        "lat": 37.96775,
+        "lng": 23.5721,
+        "population": 25389
+    },
+    {
+        "id": 254144,
+        "name": "Salamína",
+        "region": "Attica",
+        "lat": 37.96427,
+        "lng": 23.49649,
+        "population": 25370
+    },
+    {
+        "id": 262752,
+        "name": "Elefsína",
+        "region": "Attica",
+        "lat": 38.04135,
+        "lng": 23.54295,
+        "population": 24910
+    },
+    {
+        "id": 259973,
+        "name": "Chios",
+        "region": "North Aegean",
+        "lat": 38.36875,
+        "lng": 26.13718,
+        "population": 23953
+    },
+    {
+        "id": 257365,
+        "name": "Mégara",
+        "region": "Attica",
+        "lat": 37.99471,
+        "lng": 23.34324,
+        "population": 23456
+    },
+    {
+        "id": 735736,
+        "name": "Kilkís",
+        "region": "Central Macedonia",
+        "lat": 40.99302,
+        "lng": 22.87433,
+        "population": 22914
+    },
+    {
+        "id": 263312,
+        "name": "Dhafní",
+        "region": "Attica",
+        "lat": 37.95002,
+        "lng": 23.73437,
+        "population": 22913
+    },
+    {
+        "id": 257302,
+        "name": "Melíssia",
+        "region": "Attica",
+        "lat": 38.05,
+        "lng": 23.83333,
+        "population": 22741
+    },
+    {
+        "id": 255229,
+        "name": "Pýrgos",
+        "region": "West Greece",
+        "lat": 37.67513,
+        "lng": 21.44102,
+        "population": 22399
+    },
+    {
+        "id": 264670,
+        "name": "Árgos",
+        "region": "Peloponnese",
+        "lat": 37.63333,
+        "lng": 22.73333,
+        "population": 22209
+    },
+    {
+        "id": 258038,
+        "name": "Artémida",
+        "region": "Attica",
+        "lat": 37.96727,
+        "lng": 23.99684,
+        "population": 21924
+    },
+    {
+        "id": 264559,
+        "name": "Árta",
+        "region": "Epirus",
+        "lat": 39.16014,
+        "lng": 20.98561,
+        "population": 21895
+    },
+    {
+        "id": 258463,
+        "name": "Livadeiá",
+        "region": "Central Greece",
+        "lat": 38.43616,
+        "lng": 22.87665,
+        "population": 21492
+    },
+    {
+        "id": 8358562,
+        "name": "Péfki",
+        "region": "Attica",
+        "lat": 38.06019,
+        "lng": 23.79264,
+        "population": 21352
+    },
+    {
+        "id": 734883,
+        "name": "Oraiókastro",
+        "region": "Central Macedonia",
+        "lat": 40.73083,
+        "lng": 22.91722,
+        "population": 20852
+    },
+    {
+        "id": 265500,
+        "name": "Aígio",
+        "region": "West Greece",
+        "lat": 38.24861,
+        "lng": 22.08194,
+        "population": 20422
+    },
+    {
+        "id": 735030,
+        "name": "Náousa",
+        "region": "Central Macedonia",
+        "lat": 40.62944,
+        "lng": 22.06806,
+        "population": 19887
+    },
+    {
+        "id": 259245,
+        "name": "Kos",
+        "region": "South Aegean",
+        "lat": 36.89295,
+        "lng": 27.28768,
+        "population": 19244
+    },
+    {
+        "id": 259251,
+        "name": "Koropí",
+        "region": "Attica",
+        "lat": 37.89886,
+        "lng": 23.87181,
+        "population": 19164
+    },
+    {
+        "id": 736357,
+        "name": "Édessa",
+        "region": "Central Macedonia",
+        "lat": 40.8026,
+        "lng": 22.04751,
+        "population": 18669
+    },
+    {
+        "id": 256622,
+        "name": "Néa Erythraía",
+        "region": "Attica",
+        "lat": 38.0927,
+        "lng": 23.82223,
+        "population": 18604
+    },
+    {
+        "id": 734712,
+        "name": "Peraía",
+        "region": "Central Macedonia",
+        "lat": 40.49874,
+        "lng": 22.92617,
+        "population": 18326
+    },
+    {
+        "id": 256598,
+        "name": "Néa Mákri",
+        "region": "Attica",
+        "lat": 38.08733,
+        "lng": 23.97642,
+        "population": 18114
+    },
+    {
+        "id": 735764,
+        "name": "Chortiátis",
+        "region": "Central Macedonia",
+        "lat": 40.60954,
+        "lng": 23.10014,
+        "population": 17862
+    },
+    {
+        "id": 736229,
+        "name": "Flórina",
+        "region": "West Macedonia",
+        "lat": 40.78197,
+        "lng": 21.40981,
+        "population": 17686
+    },
+    {
+        "id": 734771,
+        "name": "Panórama",
+        "region": "Central Macedonia",
+        "lat": 40.58779,
+        "lng": 23.0315,
+        "population": 17444
+    },
+    {
+        "id": 254698,
+        "name": "Préveza",
+        "region": "Epirus",
+        "lat": 38.95617,
+        "lng": 20.7505,
+        "population": 17283
+    },
+    {
+        "id": 265252,
+        "name": "Amaliáda",
+        "region": "West Greece",
+        "lat": 37.79842,
+        "lng": 21.35068,
+        "population": 16763
+    },
+    {
+        "id": 252270,
+        "name": "Vári",
+        "region": "Attica",
+        "lat": 37.8332,
+        "lng": 23.80311,
+        "population": 16717
+    },
+    {
+        "id": 262719,
+        "name": "Ellinikó",
+        "region": "Attica",
+        "lat": 37.89013,
+        "lng": 23.74406,
+        "population": 16715
+    },
+    {
+        "id": 253394,
+        "name": "Sparta",
+        "region": "Peloponnese",
+        "lat": 37.07446,
+        "lng": 22.43009,
+        "population": 16239
+    },
+    {
+        "id": 734880,
+        "name": "Orestiáda",
+        "region": "East Macedonia and Thrace",
+        "lat": 41.50306,
+        "lng": 26.52972,
+        "population": 16221
+    },
+    {
+        "id": 736296,
+        "name": "Efkarpía",
+        "region": "Central Macedonia",
+        "lat": 40.68797,
+        "lng": 22.95348,
+        "population": 15416
+    },
+    {
+        "id": 8478257,
+        "name": "Agios Ioannis Rentis",
+        "region": "Attica",
+        "lat": 37.96491,
+        "lng": 23.66511,
+        "population": 15411
+    }
+]

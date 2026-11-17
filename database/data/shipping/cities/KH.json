@@ -1,0 +1,370 @@
+[
+    {
+        "id": 1821306,
+        "name": "Phnom Penh",
+        "region": "Phnom Penh",
+        "lat": 11.56245,
+        "lng": 104.91601,
+        "population": 1573544
+    },
+    {
+        "id": 1821940,
+        "name": "Takeo",
+        "region": "Takeo",
+        "lat": 10.99081,
+        "lng": 104.78498,
+        "population": 843931
+    },
+    {
+        "id": 1822214,
+        "name": "Siem Reap",
+        "region": "Siem Reap",
+        "lat": 13.36179,
+        "lng": 103.86056,
+        "population": 139458
+    },
+    {
+        "id": 1831797,
+        "name": "Battambang",
+        "region": "Battambang",
+        "lat": 13.10271,
+        "lng": 103.19822,
+        "population": 119251
+    },
+    {
+        "id": 1830194,
+        "name": "Paoy Paet",
+        "region": "Banteay Meanchey",
+        "lat": 13.65805,
+        "lng": 102.56365,
+        "population": 98934
+    },
+    {
+        "id": 1830784,
+        "name": "Dangkao",
+        "region": "Phnom Penh",
+        "lat": 11.50881,
+        "lng": 104.89144,
+        "population": 76421
+    },
+    {
+        "id": 1831167,
+        "name": "Kampong Chhnang",
+        "region": "Kampong Chhnang",
+        "lat": 12.25,
+        "lng": 104.66667,
+        "population": 75244
+    },
+    {
+        "id": 1831142,
+        "name": "Sihanoukville",
+        "region": "Preah Sihanouk",
+        "lat": 10.60932,
+        "lng": 103.52958,
+        "population": 73036
+    },
+    {
+        "id": 1825978,
+        "name": "Preaek Prasab",
+        "region": "Kratie",
+        "lat": 12.35367,
+        "lng": 106.03562,
+        "population": 64466
+    },
+    {
+        "id": 1831173,
+        "name": "Kampong Cham",
+        "region": "Kampong Cham",
+        "lat": 11.99339,
+        "lng": 105.4635,
+        "population": 61750
+    },
+    {
+        "id": 1831898,
+        "name": "Anlong Veaeng",
+        "region": "Ŏtâr Méanchey",
+        "lat": 14.23223,
+        "lng": 104.08107,
+        "population": 56927
+    },
+    {
+        "id": 1822768,
+        "name": "Pursat",
+        "region": "Pursat",
+        "lat": 12.53878,
+        "lng": 103.9192,
+        "population": 52476
+    },
+    {
+        "id": 1821935,
+        "name": "Ta Khmau",
+        "region": "Kandal",
+        "lat": 11.48333,
+        "lng": 104.95,
+        "population": 52066
+    },
+    {
+        "id": 1822827,
+        "name": "Phumĭ Yoŭl Toŭng",
+        "region": "Takeo",
+        "lat": 11.28233,
+        "lng": 104.73796,
+        "population": 44395
+    },
+    {
+        "id": 1822906,
+        "name": "Phumĭ Véal Srê",
+        "region": "Takeo",
+        "lat": 10.98081,
+        "lng": 104.77828,
+        "population": 44270
+    },
+    {
+        "id": 1829516,
+        "name": "Bavet",
+        "region": "Svay Rieng",
+        "lat": 11.06317,
+        "lng": 106.13557,
+        "population": 43783
+    },
+    {
+        "id": 1830467,
+        "name": "Kep",
+        "region": "Kep",
+        "lat": 10.48291,
+        "lng": 104.31672,
+        "population": 35990
+    },
+    {
+        "id": 1828090,
+        "name": "Kandoeng",
+        "region": "Takeo",
+        "lat": 11.29163,
+        "lng": 104.84103,
+        "population": 33827
+    },
+    {
+        "id": 1831133,
+        "name": "Kampong Speu",
+        "region": "Kampong Speu Province",
+        "lat": 11.45332,
+        "lng": 104.52085,
+        "population": 33231
+    },
+    {
+        "id": 1830468,
+        "name": "Koh Kong",
+        "region": "Koh Kong",
+        "lat": 11.61531,
+        "lng": 102.9838,
+        "population": 33134
+    },
+    {
+        "id": 1822610,
+        "name": "Prey Veng",
+        "region": "Prey Veng",
+        "lat": 11.48682,
+        "lng": 105.32533,
+        "population": 33079
+    },
+    {
+        "id": 1822019,
+        "name": "Suong",
+        "region": "Tboung Khmum",
+        "lat": 11.91178,
+        "lng": 105.65821,
+        "population": 30000
+    },
+    {
+        "id": 8740221,
+        "name": "Smach Mean Chey",
+        "region": "Koh Kong",
+        "lat": 11.54665,
+        "lng": 103.03569,
+        "population": 29329
+    },
+    {
+        "id": 1822895,
+        "name": "Phumĭ Véal Tônsay",
+        "region": "Kampong Speu Province",
+        "lat": 11.69616,
+        "lng": 104.58062,
+        "population": 25168
+    },
+    {
+        "id": 1822029,
+        "name": "Stung Treng",
+        "region": "Stung Treng",
+        "lat": 13.52586,
+        "lng": 105.9683,
+        "population": 25000
+    },
+    {
+        "id": 11475280,
+        "name": "Boeng Kak Pir",
+        "region": "Phnom Penh",
+        "lat": 11.57269,
+        "lng": 104.89022,
+        "population": 24937
+    },
+    {
+        "id": 1830098,
+        "name": "Tbeng Meanchey",
+        "region": "Preah Vihear",
+        "lat": 13.80731,
+        "lng": 104.98046,
+        "population": 24380
+    },
+    {
+        "id": 1821993,
+        "name": "Svay Rieng",
+        "region": "Svay Rieng",
+        "lat": 11.08785,
+        "lng": 105.79935,
+        "population": 23956
+    },
+    {
+        "id": 1822207,
+        "name": "Sisophon",
+        "region": "Banteay Meanchey",
+        "lat": 13.58588,
+        "lng": 102.97369,
+        "population": 23218
+    },
+    {
+        "id": 11475247,
+        "name": "Chrang Chamreh Muoy",
+        "region": "Phnom Penh",
+        "lat": 11.63049,
+        "lng": 104.88542,
+        "population": 22911
+    },
+    {
+        "id": 1830783,
+        "name": "Dar",
+        "region": "Tboung Khmum",
+        "lat": 11.78851,
+        "lng": 106.09334,
+        "population": 22898
+    },
+    {
+        "id": 1831112,
+        "name": "Kampot",
+        "region": "Kampot",
+        "lat": 10.61041,
+        "lng": 104.18145,
+        "population": 22691
+    },
+    {
+        "id": 1823687,
+        "name": "Phumĭ Tnaôt",
+        "region": "Kampong Thom",
+        "lat": 12.94731,
+        "lng": 104.56914,
+        "population": 21727
+    },
+    {
+        "id": 1830564,
+        "name": "Kratié",
+        "region": "Kratie",
+        "lat": 12.48811,
+        "lng": 106.01879,
+        "population": 19975
+    },
+    {
+        "id": 1831125,
+        "name": "Kampong Thom",
+        "region": "Kampong Thom",
+        "lat": 12.71112,
+        "lng": 104.88873,
+        "population": 19951
+    },
+    {
+        "id": 1830377,
+        "name": "Lumphat",
+        "region": "Ratanakiri",
+        "lat": 13.49146,
+        "lng": 106.98022,
+        "population": 19205
+    },
+    {
+        "id": 1825093,
+        "name": "Samraong",
+        "region": "Ŏtâr Méanchey",
+        "lat": 14.18175,
+        "lng": 103.51761,
+        "population": 18694
+    },
+    {
+        "id": 1830205,
+        "name": "Pailin",
+        "region": "Pailin",
+        "lat": 12.84895,
+        "lng": 102.60928,
+        "population": 17850
+    },
+    {
+        "id": 1830338,
+        "name": "Mémót",
+        "region": "Tboung Khmum",
+        "lat": 11.82883,
+        "lng": 106.18206,
+        "population": 17061
+    },
+    {
+        "id": 1831732,
+        "name": "Banlung",
+        "region": "Ratanakiri",
+        "lat": 13.73939,
+        "lng": 106.98727,
+        "population": 17000
+    },
+    {
+        "id": 1829773,
+        "name": "Phum Ânlŭng Vĭl",
+        "region": "Battambang",
+        "lat": 13.08339,
+        "lng": 103.23503,
+        "population": 16479
+    },
+    {
+        "id": 1822158,
+        "name": "Snuol",
+        "region": "Kratie",
+        "lat": 12.07244,
+        "lng": 106.42078,
+        "population": 16473
+    },
+    {
+        "id": 1822842,
+        "name": "Yeang",
+        "region": "Siem Reap",
+        "lat": 13.54972,
+        "lng": 103.60905,
+        "population": 16177
+    },
+    {
+        "id": 1830040,
+        "name": "Phumĭ Âmpĭl Leu",
+        "region": "Kampong Cham",
+        "lat": 12.00923,
+        "lng": 105.43409,
+        "population": 16110
+    },
+    {
+        "id": 1831940,
+        "name": "Ângk Tasaôm",
+        "region": "Takeo",
+        "lat": 11.0129,
+        "lng": 104.67292,
+        "population": 16026
+    },
+    {
+        "id": 11338545,
+        "name": "Ou Bei Choan",
+        "region": "Banteay Meanchey",
+        "lat": 13.77363,
+        "lng": 102.73731,
+        "population": 15351
+    }
+]

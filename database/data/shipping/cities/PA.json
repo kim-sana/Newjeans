@@ -1,0 +1,218 @@
+[
+    {
+        "id": 3703443,
+        "name": "Panama City",
+        "region": "Panamá",
+        "lat": 8.9936,
+        "lng": -79.51973,
+        "population": 408168
+    },
+    {
+        "id": 3701329,
+        "name": "San Miguelito",
+        "region": "Panamá",
+        "lat": 9.05032,
+        "lng": -79.47068,
+        "population": 321501
+    },
+    {
+        "id": 3708306,
+        "name": "Juan Díaz",
+        "region": "Panamá",
+        "lat": 9.04059,
+        "lng": -79.44083,
+        "population": 100636
+    },
+    {
+        "id": 3711668,
+        "name": "David",
+        "region": "Chiriquí Province",
+        "lat": 8.42729,
+        "lng": -82.43085,
+        "population": 82907
+    },
+    {
+        "id": 3712076,
+        "name": "Colón",
+        "region": "Colón",
+        "lat": 9.36025,
+        "lng": -79.90019,
+        "population": 78000
+    },
+    {
+        "id": 3714637,
+        "name": "Arraiján",
+        "region": "Panamá Oeste Province",
+        "lat": 8.9398,
+        "lng": -79.64038,
+        "population": 76815
+    },
+    {
+        "id": 3706567,
+        "name": "Las Cumbres",
+        "region": "Panamá",
+        "lat": 9.09211,
+        "lng": -79.53895,
+        "population": 69102
+    },
+    {
+        "id": 3707961,
+        "name": "La Chorrera",
+        "region": "Panamá Oeste Province",
+        "lat": 8.87763,
+        "lng": -79.78007,
+        "population": 61232
+    },
+    {
+        "id": 3703227,
+        "name": "Pedregal",
+        "region": "Panamá",
+        "lat": 9.0661,
+        "lng": -79.42577,
+        "population": 51641
+    },
+    {
+        "id": 3700563,
+        "name": "Tocumen",
+        "region": "Panamá",
+        "lat": 9.08939,
+        "lng": -79.3831,
+        "population": 50844
+    },
+    {
+        "id": 3701117,
+        "name": "Santiago de Veraguas",
+        "region": "Veraguas Province",
+        "lat": 8.1,
+        "lng": -80.98333,
+        "population": 45355
+    },
+    {
+        "id": 3703346,
+        "name": "Parque Lefevre",
+        "region": "Panamá",
+        "lat": 9.02266,
+        "lng": -79.47864,
+        "population": 36997
+    },
+    {
+        "id": 3712455,
+        "name": "Chilibre",
+        "region": "Panamá",
+        "lat": 9.15403,
+        "lng": -79.62019,
+        "population": 33536
+    },
+    {
+        "id": 3712884,
+        "name": "Cativá",
+        "region": "Colón",
+        "lat": 9.36218,
+        "lng": -79.83232,
+        "population": 29607
+    },
+    {
+        "id": 3701917,
+        "name": "Río Abajo",
+        "region": "Panamá",
+        "lat": 9.02397,
+        "lng": -79.49361,
+        "population": 26607
+    },
+    {
+        "id": 10180082,
+        "name": "Nuevo Belén",
+        "region": "Panamá",
+        "lat": 9.08929,
+        "lng": -79.39177,
+        "population": 24056
+    },
+    {
+        "id": 3714734,
+        "name": "Ancón",
+        "region": "Panamá",
+        "lat": 8.96015,
+        "lng": -79.5514,
+        "population": 20706
+    },
+    {
+        "id": 3714932,
+        "name": "Alcalde Díaz",
+        "region": "Panamá",
+        "lat": 9.12273,
+        "lng": -79.55667,
+        "population": 20285
+    },
+    {
+        "id": 3711125,
+        "name": "El Chorrillo",
+        "region": "Panamá",
+        "lat": 8.94964,
+        "lng": -79.54715,
+        "population": 18302
+    },
+    {
+        "id": 3712560,
+        "name": "Changuinola",
+        "region": "Bocas del Toro Province",
+        "lat": 9.43,
+        "lng": -82.52,
+        "population": 17997
+    },
+    {
+        "id": 3708066,
+        "name": "La Cabima",
+        "region": "Panamá",
+        "lat": 9.118,
+        "lng": -79.53324,
+        "population": 17975
+    },
+    {
+        "id": 3707899,
+        "name": "La Concepción",
+        "region": "Chiriquí Province",
+        "lat": 8.51667,
+        "lng": -82.62393,
+        "population": 17698
+    },
+    {
+        "id": 3703229,
+        "name": "Pedregal",
+        "region": "Chiriquí Province",
+        "lat": 8.37698,
+        "lng": -82.42947,
+        "population": 17427
+    },
+    {
+        "id": 3700164,
+        "name": "Veracruz",
+        "region": "Panamá Oeste Province",
+        "lat": 8.89319,
+        "lng": -79.62338,
+        "population": 17144
+    },
+    {
+        "id": 3711699,
+        "name": "Curundú",
+        "region": "Panamá",
+        "lat": 8.97092,
+        "lng": -79.54612,
+        "population": 16361
+    },
+    {
+        "id": 3703068,
+        "name": "Penonomé",
+        "region": "Coclé",
+        "lat": 8.51889,
+        "lng": -80.35727,
+        "population": 16250
+    },
+    {
+        "id": 3701682,
+        "name": "Sabanitas",
+        "region": "Colón",
+        "lat": 9.34521,
+        "lng": -79.80543,
+        "population": 15577
+    }
+]

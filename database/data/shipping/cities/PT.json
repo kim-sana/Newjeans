@@ -1,0 +1,1434 @@
+[
+    {
+        "id": 2267057,
+        "name": "Lisbon",
+        "region": "Lisbon",
+        "lat": 38.72509,
+        "lng": -9.1498,
+        "population": 517802
+    },
+    {
+        "id": 2735943,
+        "name": "Porto",
+        "region": "Porto",
+        "lat": 41.1485,
+        "lng": -8.61097,
+        "population": 252687
+    },
+    {
+        "id": 2742032,
+        "name": "Braga",
+        "region": "Braga",
+        "lat": 41.5514,
+        "lng": -8.42311,
+        "population": 193324
+    },
+    {
+        "id": 2271772,
+        "name": "Amadora",
+        "region": "Lisbon",
+        "lat": 38.75382,
+        "lng": -9.23083,
+        "population": 178858
+    },
+    {
+        "id": 2740637,
+        "name": "Coimbra",
+        "region": "Coimbra",
+        "lat": 40.20686,
+        "lng": -8.41996,
+        "population": 140796
+    },
+    {
+        "id": 2267095,
+        "name": "Leiria",
+        "region": "Leiria",
+        "lat": 39.74362,
+        "lng": -8.80705,
+        "population": 128640
+    },
+    {
+        "id": 2262963,
+        "name": "Setúbal",
+        "region": "Setúbal",
+        "lat": 38.5244,
+        "lng": -8.8882,
+        "population": 118166
+    },
+    {
+        "id": 2267827,
+        "name": "Funchal",
+        "region": "Madeira",
+        "lat": 32.66568,
+        "lng": -16.92547,
+        "population": 105795
+    },
+    {
+        "id": 2732265,
+        "name": "Viseu",
+        "region": "Viseu",
+        "lat": 40.66165,
+        "lng": -7.90905,
+        "population": 103502
+    },
+    {
+        "id": 2264268,
+        "name": "Queluz",
+        "region": "Lisbon",
+        "lat": 38.75657,
+        "lng": -9.25451,
+        "population": 103399
+    },
+    {
+        "id": 2270503,
+        "name": "Cacém",
+        "region": "Lisbon",
+        "lat": 38.76698,
+        "lng": -9.29793,
+        "population": 93982
+    },
+    {
+        "id": 2742611,
+        "name": "Aveiro",
+        "region": "Aveiro",
+        "lat": 40.64575,
+        "lng": -8.64643,
+        "population": 80880
+    },
+    {
+        "id": 2732544,
+        "name": "Vila Nova de Gaia",
+        "region": "Porto",
+        "lat": 41.12401,
+        "lng": -8.61241,
+        "population": 70811
+    },
+    {
+        "id": 2268339,
+        "name": "Faro",
+        "region": "Faro",
+        "lat": 37.01869,
+        "lng": -7.92716,
+        "population": 70347
+    },
+    {
+        "id": 2271977,
+        "name": "Algueirão",
+        "region": "Lisbon",
+        "lat": 38.79764,
+        "lng": -9.3437,
+        "population": 66250
+    },
+    {
+        "id": 2266977,
+        "name": "Loures",
+        "region": "Lisbon",
+        "lat": 38.83091,
+        "lng": -9.16845,
+        "population": 66231
+    },
+    {
+        "id": 2739693,
+        "name": "Felgueiras",
+        "region": "Porto",
+        "lat": 41.36806,
+        "lng": -8.19396,
+        "population": 58065
+    },
+    {
+        "id": 2263827,
+        "name": "Rio de Mouro",
+        "region": "Lisbon",
+        "lat": 38.76613,
+        "lng": -9.32804,
+        "population": 54695
+    },
+    {
+        "id": 2265467,
+        "name": "Odivelas",
+        "region": "Lisbon",
+        "lat": 38.79269,
+        "lng": -9.1838,
+        "population": 54624
+    },
+    {
+        "id": 2268406,
+        "name": "Évora",
+        "region": "Évora",
+        "lat": 38.56587,
+        "lng": -7.90405,
+        "population": 53591
+    },
+    {
+        "id": 2271680,
+        "name": "Amora",
+        "region": "Setúbal",
+        "lat": 38.62961,
+        "lng": -9.11557,
+        "population": 52577
+    },
+    {
+        "id": 2269041,
+        "name": "Corroios",
+        "region": "Setúbal",
+        "lat": 38.64004,
+        "lng": -9.1508,
+        "population": 52520
+    },
+    {
+        "id": 2271071,
+        "name": "Barreiro",
+        "region": "Setúbal",
+        "lat": 38.66314,
+        "lng": -9.0724,
+        "population": 51280
+    },
+    {
+        "id": 2266249,
+        "name": "Monsanto",
+        "region": "Santarém",
+        "lat": 39.46203,
+        "lng": -8.7118,
+        "population": 50000
+    },
+    {
+        "id": 2735083,
+        "name": "Rio Tinto",
+        "region": "Porto",
+        "lat": 41.17872,
+        "lng": -8.55953,
+        "population": 49966
+    },
+    {
+        "id": 2263352,
+        "name": "São Domingos de Rana",
+        "region": "Lisbon",
+        "lat": 38.70194,
+        "lng": -9.34083,
+        "population": 46718
+    },
+    {
+        "id": 2739590,
+        "name": "Figueira da Foz",
+        "region": "Coimbra",
+        "lat": 40.15085,
+        "lng": -8.86179,
+        "population": 46600
+    },
+    {
+        "id": 2266940,
+        "name": "Lumiar",
+        "region": "Lisbon",
+        "lat": 38.77478,
+        "lng": -9.15601,
+        "population": 46334
+    },
+    {
+        "id": 2736680,
+        "name": "Paranhos",
+        "region": "Porto",
+        "lat": 41.17289,
+        "lng": -8.59931,
+        "population": 45883
+    },
+    {
+        "id": 2736041,
+        "name": "Ponte de Lima",
+        "region": "Viana do Castelo",
+        "lat": 41.76719,
+        "lng": -8.58393,
+        "population": 44667
+    },
+    {
+        "id": 2265428,
+        "name": "Olival",
+        "region": "Lisbon",
+        "lat": 38.77079,
+        "lng": -9.25015,
+        "population": 42961
+    },
+    {
+        "id": 2734585,
+        "name": "Santo António dos Olivais",
+        "region": "Coimbra",
+        "lat": 40.21805,
+        "lng": -8.40523,
+        "population": 41150
+    },
+    {
+        "id": 2262957,
+        "name": "Sesimbra",
+        "region": "Setúbal",
+        "lat": 38.44451,
+        "lng": -9.10149,
+        "population": 41134
+    },
+    {
+        "id": 2738752,
+        "name": "Guimarães",
+        "region": "Braga",
+        "lat": 41.44443,
+        "lng": -8.29619,
+        "population": 40604
+    },
+    {
+        "id": 2738785,
+        "name": "Guarda",
+        "region": "Guarda",
+        "lat": 40.53754,
+        "lng": -7.26631,
+        "population": 40126
+    },
+    {
+        "id": 2739997,
+        "name": "Ermesinde",
+        "region": "Porto",
+        "lat": 41.21653,
+        "lng": -8.55318,
+        "population": 39420
+    },
+    {
+        "id": 2734576,
+        "name": "Santo Ovídio",
+        "region": "Porto",
+        "lat": 41.11379,
+        "lng": -8.60235,
+        "population": 38544
+    },
+    {
+        "id": 2264456,
+        "name": "Portimão",
+        "region": "Faro",
+        "lat": 37.13856,
+        "lng": -8.53775,
+        "population": 38487
+    },
+    {
+        "id": 2268728,
+        "name": "Damaia",
+        "region": "Lisbon",
+        "lat": 38.75141,
+        "lng": -9.21227,
+        "population": 37607
+    },
+    {
+        "id": 12776117,
+        "name": "Cidade Universitária",
+        "region": "Lisbon",
+        "lat": 38.75199,
+        "lng": -9.15917,
+        "population": 37000
+    },
+    {
+        "id": 2270962,
+        "name": "Benfica",
+        "region": "Lisbon",
+        "lat": 38.75087,
+        "lng": -9.20282,
+        "population": 36985
+    },
+    {
+        "id": 2269594,
+        "name": "Cascais",
+        "region": "Lisbon",
+        "lat": 38.69681,
+        "lng": -9.42147,
+        "population": 36436
+    },
+    {
+        "id": 2738014,
+        "name": "Maia",
+        "region": "Porto",
+        "lat": 41.23574,
+        "lng": -8.6199,
+        "population": 36426
+    },
+    {
+        "id": 2732773,
+        "name": "Viana do Castelo",
+        "region": "Viana do Castelo",
+        "lat": 41.69323,
+        "lng": -8.83287,
+        "population": 36148
+    },
+    {
+        "id": 2266629,
+        "name": "Marvila",
+        "region": "Lisbon",
+        "lat": 38.73981,
+        "lng": -9.10165,
+        "population": 35463
+    },
+    {
+        "id": 2742027,
+        "name": "Bragança",
+        "region": "Bragança",
+        "lat": 41.80716,
+        "lng": -6.75898,
+        "population": 35341
+    },
+    {
+        "id": 2265464,
+        "name": "Oeiras",
+        "region": "Lisbon",
+        "lat": 38.69105,
+        "lng": -9.31085,
+        "population": 35000
+    },
+    {
+        "id": 2270985,
+        "name": "Beja",
+        "region": "Beja",
+        "lat": 38.01469,
+        "lng": -7.86284,
+        "population": 34760
+    },
+    {
+        "id": 2739848,
+        "name": "Esposende",
+        "region": "Braga",
+        "lat": 41.5361,
+        "lng": -8.78201,
+        "population": 34625
+    },
+    {
+        "id": 2743373,
+        "name": "Afurada de Baixo",
+        "region": "Porto",
+        "lat": 41.14389,
+        "lng": -8.64639,
+        "population": 34332
+    },
+    {
+        "id": 2271961,
+        "name": "Almada",
+        "region": "Setúbal",
+        "lat": 38.67902,
+        "lng": -9.1569,
+        "population": 34008
+    },
+    {
+        "id": 2265432,
+        "name": "Olivais",
+        "region": "Lisbon",
+        "lat": 38.76994,
+        "lng": -9.10674,
+        "population": 33788
+    },
+    {
+        "id": 2267226,
+        "name": "Lagos",
+        "region": "Faro",
+        "lat": 37.10202,
+        "lng": -8.67422,
+        "population": 33494
+    },
+    {
+        "id": 2269514,
+        "name": "Castelo Branco",
+        "region": "Castelo Branco",
+        "lat": 39.82364,
+        "lng": -7.49101,
+        "population": 33479
+    },
+    {
+        "id": 2272215,
+        "name": "Alcabideche",
+        "region": "Lisbon",
+        "lat": 38.73366,
+        "lng": -9.40928,
+        "population": 33315
+    },
+    {
+        "id": 2742493,
+        "name": "Bairro Novo",
+        "region": "Braga",
+        "lat": 41.54317,
+        "lng": -8.40725,
+        "population": 32876
+    },
+    {
+        "id": 2739868,
+        "name": "Espinho",
+        "region": "Aveiro",
+        "lat": 41.00763,
+        "lng": -8.64125,
+        "population": 32786
+    },
+    {
+        "id": 2270380,
+        "name": "Câmara de Lobos",
+        "region": "Madeira",
+        "lat": 32.65043,
+        "lng": -16.97718,
+        "population": 32209
+    },
+    {
+        "id": 6930162,
+        "name": "Alvalade",
+        "region": "Lisbon",
+        "lat": 38.75328,
+        "lng": -9.14397,
+        "population": 31813
+    },
+    {
+        "id": 2271473,
+        "name": "Arrentela",
+        "region": "Setúbal",
+        "lat": 38.625,
+        "lng": -9.10151,
+        "population": 30156
+    },
+    {
+        "id": 2265788,
+        "name": "Montijo",
+        "region": "Setúbal",
+        "lat": 38.70675,
+        "lng": -8.97388,
+        "population": 30011
+    },
+    {
+        "id": 2269282,
+        "name": "Charneca de Caparica",
+        "region": "Setúbal",
+        "lat": 38.62032,
+        "lng": -9.19426,
+        "population": 29763
+    },
+    {
+        "id": 2741667,
+        "name": "Campanhã",
+        "region": "Porto",
+        "lat": 41.15706,
+        "lng": -8.57466,
+        "population": 29666
+    },
+    {
+        "id": 2263480,
+        "name": "Santarém",
+        "region": "Santarém",
+        "lat": 39.23379,
+        "lng": -8.68617,
+        "population": 29385
+    },
+    {
+        "id": 2265447,
+        "name": "Olhão",
+        "region": "Faro",
+        "lat": 37.0286,
+        "lng": -7.8411,
+        "population": 29239
+    },
+    {
+        "id": 2743131,
+        "name": "Aldoar",
+        "region": "Porto",
+        "lat": 41.1671,
+        "lng": -8.6691,
+        "population": 29085
+    },
+    {
+        "id": 2735787,
+        "name": "Póvoa de Varzim",
+        "region": "Porto",
+        "lat": 41.38344,
+        "lng": -8.76364,
+        "population": 29044
+    },
+    {
+        "id": 2734140,
+        "name": "Senhora da Hora",
+        "region": "Porto",
+        "lat": 41.18641,
+        "lng": -8.65172,
+        "population": 28930
+    },
+    {
+        "id": 2266703,
+        "name": "Marinha Grande",
+        "region": "Leiria",
+        "lat": 39.74769,
+        "lng": -8.93228,
+        "population": 28916
+    },
+    {
+        "id": 2264359,
+        "name": "Póvoa de Santa Iria",
+        "region": "Lisbon",
+        "lat": 38.86101,
+        "lng": -9.06453,
+        "population": 28901
+    },
+    {
+        "id": 2734106,
+        "name": "Sequeira",
+        "region": "Guarda",
+        "lat": 40.55364,
+        "lng": -7.22594,
+        "population": 28502
+    },
+    {
+        "id": 2266621,
+        "name": "Massamá",
+        "region": "Lisbon",
+        "lat": 38.75279,
+        "lng": -9.2811,
+        "population": 28112
+    },
+    {
+        "id": 2737824,
+        "name": "Matosinhos",
+        "region": "Porto",
+        "lat": 41.18207,
+        "lng": -8.68908,
+        "population": 28070
+    },
+    {
+        "id": 2738925,
+        "name": "Gondomar",
+        "region": "Porto",
+        "lat": 41.14454,
+        "lng": -8.53223,
+        "population": 27691
+    },
+    {
+        "id": 2743304,
+        "name": "Águas Santas",
+        "region": "Porto",
+        "lat": 41.21017,
+        "lng": -8.57599,
+        "population": 27686
+    },
+    {
+        "id": 2732649,
+        "name": "Vila do Conde",
+        "region": "Porto",
+        "lat": 41.35326,
+        "lng": -8.74516,
+        "population": 27642
+    },
+    {
+        "id": 2270437,
+        "name": "Caldas da Rainha",
+        "region": "Leiria",
+        "lat": 39.40326,
+        "lng": -9.13839,
+        "population": 27378
+    },
+    {
+        "id": 2272005,
+        "name": "Alfornelos",
+        "region": "Lisbon",
+        "lat": 38.76098,
+        "lng": -9.20508,
+        "population": 27093
+    },
+    {
+        "id": 2263284,
+        "name": "São Martinho",
+        "region": "Madeira",
+        "lat": 32.6448,
+        "lng": -16.93843,
+        "population": 26482
+    },
+    {
+        "id": 2741551,
+        "name": "Canidelo",
+        "region": "Porto",
+        "lat": 41.12314,
+        "lng": -8.64654,
+        "population": 26431
+    },
+    {
+        "id": 2262912,
+        "name": "Sintra",
+        "region": "Lisbon",
+        "lat": 38.80097,
+        "lng": -9.37826,
+        "population": 26193
+    },
+    {
+        "id": 2265326,
+        "name": "Paço de Arcos",
+        "region": "Lisbon",
+        "lat": 38.69569,
+        "lng": -9.29143,
+        "population": 25974
+    },
+    {
+        "id": 2263432,
+        "name": "Santo António",
+        "region": "Madeira",
+        "lat": 32.66138,
+        "lng": -16.93482,
+        "population": 25940
+    },
+    {
+        "id": 2734434,
+        "name": "São Mamede de Infesta",
+        "region": "Porto",
+        "lat": 41.19183,
+        "lng": -8.61105,
+        "population": 25940
+    },
+    {
+        "id": 6559488,
+        "name": "Quinta Do Conde",
+        "region": "Setúbal",
+        "lat": 38.56528,
+        "lng": -9.04316,
+        "population": 25606
+    },
+    {
+        "id": 2262581,
+        "name": "Torres Vedras",
+        "region": "Lisbon",
+        "lat": 39.09109,
+        "lng": -9.2586,
+        "population": 24443
+    },
+    {
+        "id": 2264299,
+        "name": "Quarteira",
+        "region": "Faro",
+        "lat": 37.06946,
+        "lng": -8.10064,
+        "population": 24420
+    },
+    {
+        "id": 2737039,
+        "name": "Oliveira do Douro",
+        "region": "Porto",
+        "lat": 41.12466,
+        "lng": -8.58463,
+        "population": 24407
+    },
+    {
+        "id": 2739756,
+        "name": "Fânzeres",
+        "region": "Porto",
+        "lat": 41.16754,
+        "lng": -8.52981,
+        "population": 23916
+    },
+    {
+        "id": 2268436,
+        "name": "Estoril",
+        "region": "Lisbon",
+        "lat": 38.70571,
+        "lng": -9.39773,
+        "population": 23700
+    },
+    {
+        "id": 2270157,
+        "name": "Carnaxide",
+        "region": "Lisbon",
+        "lat": 38.72706,
+        "lng": -9.24671,
+        "population": 23698
+    },
+    {
+        "id": 2264428,
+        "name": "Porto de Mós",
+        "region": "Faro",
+        "lat": 37.08534,
+        "lng": -8.68366,
+        "population": 23648
+    },
+    {
+        "id": 2264718,
+        "name": "Pinhal Novo",
+        "region": "Setúbal",
+        "lat": 38.63106,
+        "lng": -8.91376,
+        "population": 23510
+    },
+    {
+        "id": 2265927,
+        "name": "Monte Estoril",
+        "region": "Lisbon",
+        "lat": 38.70636,
+        "lng": -9.40595,
+        "population": 23375
+    },
+    {
+        "id": 2270258,
+        "name": "Caniço",
+        "region": "Madeira",
+        "lat": 32.65078,
+        "lng": -16.83749,
+        "population": 23368
+    },
+    {
+        "id": 2262968,
+        "name": "Sete Rios",
+        "region": "Lisbon",
+        "lat": 38.74134,
+        "lng": -9.16133,
+        "population": 23261
+    },
+    {
+        "id": 2264526,
+        "name": "Pontinha",
+        "region": "Lisbon",
+        "lat": 38.76771,
+        "lng": -9.19935,
+        "population": 23249
+    },
+    {
+        "id": 6946669,
+        "name": "São Jorge de Arroios",
+        "region": "Lisbon",
+        "lat": 38.7289,
+        "lng": -9.13806,
+        "population": 22990
+    },
+    {
+        "id": 2742136,
+        "name": "Bomfim",
+        "region": "Porto",
+        "lat": 41.15417,
+        "lng": -8.58688,
+        "population": 22978
+    },
+    {
+        "id": 2742804,
+        "name": "Arcos de Valdevez",
+        "region": "Viana do Castelo",
+        "lat": 41.84668,
+        "lng": -8.41905,
+        "population": 22847
+    },
+    {
+        "id": 2265726,
+        "name": "Moscavide e Portela",
+        "region": "Lisbon",
+        "lat": 38.77929,
+        "lng": -9.10222,
+        "population": 22488
+    },
+    {
+        "id": 11886964,
+        "name": "Parque das Nações",
+        "region": "Lisbon",
+        "lat": 38.76908,
+        "lng": -9.09632,
+        "population": 22382
+    },
+    {
+        "id": 2264508,
+        "name": "Portalegre",
+        "region": "Portalegre",
+        "lat": 39.29379,
+        "lng": -7.43122,
+        "population": 22368
+    },
+    {
+        "id": 2733263,
+        "name": "Valadares",
+        "region": "Porto",
+        "lat": 41.09294,
+        "lng": -8.63219,
+        "population": 22322
+    },
+    {
+        "id": 2738214,
+        "name": "Lordelo do Ouro",
+        "region": "Porto",
+        "lat": 41.15059,
+        "lng": -8.64845,
+        "population": 22270
+    },
+    {
+        "id": 12777908,
+        "name": "Campo De Ourique",
+        "region": "Lisbon",
+        "lat": 38.72134,
+        "lng": -9.16738,
+        "population": 22140
+    },
+    {
+        "id": 2734484,
+        "name": "São João da Madeira",
+        "region": "Aveiro",
+        "lat": 40.9007,
+        "lng": -8.4902,
+        "population": 22079
+    },
+    {
+        "id": 2267112,
+        "name": "Lavradio",
+        "region": "Setúbal",
+        "lat": 38.66808,
+        "lng": -9.05204,
+        "population": 21877
+    },
+    {
+        "id": 2742051,
+        "name": "Bougado",
+        "region": "Porto",
+        "lat": 41.33979,
+        "lng": -8.5518,
+        "population": 21680
+    },
+    {
+        "id": 2271337,
+        "name": "Azambuja",
+        "region": "Lisbon",
+        "lat": 39.07029,
+        "lng": -8.86822,
+        "population": 21422
+    },
+    {
+        "id": 2732978,
+        "name": "Valongo",
+        "region": "Porto",
+        "lat": 41.18883,
+        "lng": -8.49857,
+        "population": 21328
+    },
+    {
+        "id": 2732513,
+        "name": "Vilar",
+        "region": "Aveiro",
+        "lat": 40.62731,
+        "lng": -8.63225,
+        "population": 21227
+    },
+    {
+        "id": 2270229,
+        "name": "Caparica",
+        "region": "Setúbal",
+        "lat": 38.66179,
+        "lng": -9.20032,
+        "population": 21167
+    },
+    {
+        "id": 2271547,
+        "name": "Areeiro",
+        "region": "Lisbon",
+        "lat": 38.741,
+        "lng": -9.138,
+        "population": 21160
+    },
+    {
+        "id": 2742700,
+        "name": "Arouca",
+        "region": "Aveiro",
+        "lat": 40.93057,
+        "lng": -8.24488,
+        "population": 21146
+    },
+    {
+        "id": 2270981,
+        "name": "Belas",
+        "region": "Lisbon",
+        "lat": 38.7767,
+        "lng": -9.26353,
+        "population": 21019
+    },
+    {
+        "id": 2267141,
+        "name": "Laranjeiro",
+        "region": "Setúbal",
+        "lat": 38.65599,
+        "lng": -9.15376,
+        "population": 20988
+    },
+    {
+        "id": 2267067,
+        "name": "Linda-a-Velha",
+        "region": "Lisbon",
+        "lat": 38.71446,
+        "lng": -9.2422,
+        "population": 20895
+    },
+    {
+        "id": 2268373,
+        "name": "Falagueira",
+        "region": "Lisbon",
+        "lat": 38.76392,
+        "lng": -9.22804,
+        "population": 20788
+    },
+    {
+        "id": 2733352,
+        "name": "Trofa",
+        "region": "Porto",
+        "lat": 41.33729,
+        "lng": -8.5596,
+        "population": 20692
+    },
+    {
+        "id": 2742504,
+        "name": "Baião",
+        "region": "Porto",
+        "lat": 41.16273,
+        "lng": -8.0347,
+        "population": 20522
+    },
+    {
+        "id": 2267131,
+        "name": "Laranjeiro",
+        "region": "Faro",
+        "lat": 37.06799,
+        "lng": -7.8078,
+        "population": 20473
+    },
+    {
+        "id": 2270184,
+        "name": "Carcavelos",
+        "region": "Lisbon",
+        "lat": 38.69105,
+        "lng": -9.32215,
+        "population": 20366
+    },
+    {
+        "id": 2272187,
+        "name": "Alcântara",
+        "region": "Lisbon",
+        "lat": 38.70102,
+        "lng": -9.17145,
+        "population": 20267
+    },
+    {
+        "id": 2270377,
+        "name": "Camarate",
+        "region": "Lisbon",
+        "lat": 38.80358,
+        "lng": -9.12809,
+        "population": 20177
+    },
+    {
+        "id": 6941014,
+        "name": "Ponta Delgada",
+        "region": "Azores",
+        "lat": 37.73952,
+        "lng": -25.66874,
+        "population": 20056
+    },
+    {
+        "id": 2268575,
+        "name": "Entroncamento",
+        "region": "Santarém",
+        "lat": 39.46667,
+        "lng": -8.46667,
+        "population": 19887
+    },
+    {
+        "id": 2736657,
+        "name": "Paredes",
+        "region": "Porto",
+        "lat": 41.20485,
+        "lng": -8.33147,
+        "population": 19834
+    },
+    {
+        "id": 2737523,
+        "name": "Monção",
+        "region": "Viana do Castelo",
+        "lat": 42.07892,
+        "lng": -8.48076,
+        "population": 19738
+    },
+    {
+        "id": 2264736,
+        "name": "Piedade",
+        "region": "Setúbal",
+        "lat": 38.67005,
+        "lng": -9.15852,
+        "population": 19472
+    },
+    {
+        "id": 2740174,
+        "name": "Custoias",
+        "region": "Guarda",
+        "lat": 41.1053,
+        "lng": -7.32097,
+        "population": 19406
+    },
+    {
+        "id": 2271985,
+        "name": "Algés",
+        "region": "Lisbon",
+        "lat": 38.70245,
+        "lng": -9.22936,
+        "population": 19327
+    },
+    {
+        "id": 2262644,
+        "name": "Tomar",
+        "region": "Santarém",
+        "lat": 39.60199,
+        "lng": -8.40924,
+        "population": 19168
+    },
+    {
+        "id": 2742416,
+        "name": "Barcelos",
+        "region": "Braga",
+        "lat": 41.53174,
+        "lng": -8.61843,
+        "population": 19085
+    },
+    {
+        "id": 2734306,
+        "name": "São Tiago de Custoias",
+        "region": "Porto",
+        "lat": 41.2,
+        "lng": -8.63333,
+        "population": 19000
+    },
+    {
+        "id": 2736521,
+        "name": "Pedroso",
+        "region": "Porto",
+        "lat": 41.41103,
+        "lng": -8.74897,
+        "population": 18963
+    },
+    {
+        "id": 2732475,
+        "name": "Vilar de Andorinho",
+        "region": "Porto",
+        "lat": 41.10574,
+        "lng": -8.58622,
+        "population": 18944
+    },
+    {
+        "id": 2263326,
+        "name": "São João da Talha",
+        "region": "Lisbon",
+        "lat": 38.82378,
+        "lng": -9.09719,
+        "population": 18925
+    },
+    {
+        "id": 11808241,
+        "name": "Azeitão",
+        "region": "Setúbal",
+        "lat": 38.51919,
+        "lng": -9.0139,
+        "population": 18877
+    },
+    {
+        "id": 2263523,
+        "name": "Santa Iria da Azóia",
+        "region": "Lisbon",
+        "lat": 38.8411,
+        "lng": -9.09908,
+        "population": 18573
+    },
+    {
+        "id": 2736930,
+        "name": "Ovar",
+        "region": "Aveiro",
+        "lat": 40.85862,
+        "lng": -8.62513,
+        "population": 18452
+    },
+    {
+        "id": 2261639,
+        "name": "Vila Franca de Xira",
+        "region": "Lisbon",
+        "lat": 38.95525,
+        "lng": -8.98966,
+        "population": 18355
+    },
+    {
+        "id": 2270148,
+        "name": "Carnide",
+        "region": "Lisbon",
+        "lat": 38.76667,
+        "lng": -9.18333,
+        "population": 18028
+    },
+    {
+        "id": 2738348,
+        "name": "Leça da Palmeira",
+        "region": "Porto",
+        "lat": 41.191,
+        "lng": -8.70027,
+        "population": 17996
+    },
+    {
+        "id": 2266988,
+        "name": "Loulé",
+        "region": "Faro",
+        "lat": 37.13772,
+        "lng": -8.01968,
+        "population": 17930
+    },
+    {
+        "id": 2266319,
+        "name": "Moita",
+        "region": "Setúbal",
+        "lat": 38.65078,
+        "lng": -8.99038,
+        "population": 17795
+    },
+    {
+        "id": 2263667,
+        "name": "Sacavém",
+        "region": "Lisbon",
+        "lat": 38.79202,
+        "lng": -9.10801,
+        "population": 17718
+    },
+    {
+        "id": 2740313,
+        "name": "Covilhã",
+        "region": "Castelo Branco",
+        "lat": 40.28106,
+        "lng": -7.50504,
+        "population": 17610
+    },
+    {
+        "id": 2740761,
+        "name": "Chaves",
+        "region": "Vila Real",
+        "lat": 41.74019,
+        "lng": -7.46879,
+        "population": 17535
+    },
+    {
+        "id": 2264087,
+        "name": "Ramada",
+        "region": "Lisbon",
+        "lat": 38.80368,
+        "lng": -9.1877,
+        "population": 17535
+    },
+    {
+        "id": 2264575,
+        "name": "Pombal",
+        "region": "Leiria",
+        "lat": 39.91674,
+        "lng": -8.62847,
+        "population": 17355
+    },
+    {
+        "id": 2264269,
+        "name": "Quelfes",
+        "region": "Faro",
+        "lat": 37.06003,
+        "lng": -7.82158,
+        "population": 17253
+    },
+    {
+        "id": 2738707,
+        "name": "Ílhavo",
+        "region": "Aveiro",
+        "lat": 40.60188,
+        "lng": -8.67021,
+        "population": 17236
+    },
+    {
+        "id": 2265169,
+        "name": "Parede",
+        "region": "Lisbon",
+        "lat": 38.69282,
+        "lng": -9.35412,
+        "population": 17212
+    },
+    {
+        "id": 2740057,
+        "name": "Eiras",
+        "region": "Coimbra",
+        "lat": 40.24827,
+        "lng": -8.41549,
+        "population": 17154
+    },
+    {
+        "id": 2734379,
+        "name": "São Paulo de Frades",
+        "region": "Coimbra",
+        "lat": 40.24678,
+        "lng": -8.39402,
+        "population": 17154
+    },
+    {
+        "id": 2740593,
+        "name": "Condeixa-a-Nova",
+        "region": "Coimbra",
+        "lat": 40.11283,
+        "lng": -8.49804,
+        "population": 17078
+    },
+    {
+        "id": 6930153,
+        "name": "Alfragide",
+        "region": "Lisbon",
+        "lat": 38.73203,
+        "lng": -9.2192,
+        "population": 17044
+    },
+    {
+        "id": 2734363,
+        "name": "São Pedro da Cova",
+        "region": "Porto",
+        "lat": 41.14331,
+        "lng": -8.50033,
+        "population": 17011
+    },
+    {
+        "id": 2732438,
+        "name": "Vila Real",
+        "region": "Vila Real",
+        "lat": 41.3001,
+        "lng": -7.7432,
+        "population": 17001
+    },
+    {
+        "id": 2265223,
+        "name": "Palmela",
+        "region": "Setúbal",
+        "lat": 38.56902,
+        "lng": -8.90126,
+        "population": 16934
+    },
+    {
+        "id": 2739788,
+        "name": "Fafe",
+        "region": "Braga",
+        "lat": 41.45083,
+        "lng": -8.17258,
+        "population": 16868
+    },
+    {
+        "id": 2741865,
+        "name": "Cabeceiras de Basto",
+        "region": "Braga",
+        "lat": 41.51431,
+        "lng": -7.98942,
+        "population": 16710
+    },
+    {
+        "id": 2270978,
+        "name": "Belém",
+        "region": "Lisbon",
+        "lat": 38.69875,
+        "lng": -9.19289,
+        "population": 16546
+    },
+    {
+        "id": 2739723,
+        "name": "Feira",
+        "region": "Aveiro",
+        "lat": 40.92535,
+        "lng": -8.54277,
+        "population": 16376
+    },
+    {
+        "id": 2738347,
+        "name": "Leça do Bailio",
+        "region": "Porto",
+        "lat": 41.21201,
+        "lng": -8.63422,
+        "population": 16103
+    },
+    {
+        "id": 2261697,
+        "name": "Vialonga",
+        "region": "Lisbon",
+        "lat": 38.87206,
+        "lng": -9.07805,
+        "population": 16088
+    },
+    {
+        "id": 2270629,
+        "name": "Buraca",
+        "region": "Lisbon",
+        "lat": 38.73333,
+        "lng": -9.2,
+        "population": 16081
+    },
+    {
+        "id": 2272222,
+        "name": "Albufeira",
+        "region": "Faro",
+        "lat": 37.08819,
+        "lng": -8.2503,
+        "population": 15851
+    },
+    {
+        "id": 2742506,
+        "name": "Baguim do Monte",
+        "region": "Porto",
+        "lat": 41.19203,
+        "lng": -8.54118,
+        "population": 15850
+    },
+    {
+        "id": 2272147,
+        "name": "Alcobaça",
+        "region": "Leiria",
+        "lat": 39.55223,
+        "lng": -8.97749,
+        "population": 15800
+    },
+    {
+        "id": 2732785,
+        "name": "Vermoim",
+        "region": "Porto",
+        "lat": 41.24315,
+        "lng": -8.60651,
+        "population": 15764
+    },
+    {
+        "id": 2264923,
+        "name": "Peniche",
+        "region": "Leiria",
+        "lat": 39.3558,
+        "lng": -9.38112,
+        "population": 15662
+    },
+    {
+        "id": 2270339,
+        "name": "Campo Grande",
+        "region": "Lisbon",
+        "lat": 38.75471,
+        "lng": -9.16651,
+        "population": 15514
+    },
+    {
+        "id": 2735175,
+        "name": "Ribeira de Frades",
+        "region": "Coimbra",
+        "lat": 40.20503,
+        "lng": -8.47929,
+        "population": 15315
+    },
+    {
+        "id": 2734410,
+        "name": "São Martinho do Bispo",
+        "region": "Coimbra",
+        "lat": 40.21021,
+        "lng": -8.45692,
+        "population": 15315
+    },
+    {
+        "id": 2743095,
+        "name": "Alfena",
+        "region": "Porto",
+        "lat": 41.23671,
+        "lng": -8.52454,
+        "population": 15211
+    },
+    {
+        "id": 2262744,
+        "name": "Tavira",
+        "region": "Faro",
+        "lat": 37.12734,
+        "lng": -7.64861,
+        "population": 15133
+    },
+    {
+        "id": 2262582,
+        "name": "Torres Novas",
+        "region": "Santarém",
+        "lat": 39.47581,
+        "lng": -8.54348,
+        "population": 15002
+    }
+]

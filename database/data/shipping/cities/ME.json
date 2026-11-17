@@ -1,0 +1,66 @@
+[
+    {
+        "id": 3193044,
+        "name": "Podgorica",
+        "region": "Podgorica",
+        "lat": 42.44124,
+        "lng": 19.26309,
+        "population": 236852
+    },
+    {
+        "id": 3194494,
+        "name": "Nikšić",
+        "region": "Opština Nikšić",
+        "lat": 42.7731,
+        "lng": 18.94446,
+        "population": 58212
+    },
+    {
+        "id": 3199394,
+        "name": "Herceg Novi",
+        "region": "Herceg Novi",
+        "lat": 42.45306,
+        "lng": 18.5375,
+        "population": 19536
+    },
+    {
+        "id": 3193161,
+        "name": "Pljevlja",
+        "region": "Pljevlja",
+        "lat": 43.3567,
+        "lng": 19.35843,
+        "population": 19489
+    },
+    {
+        "id": 3203106,
+        "name": "Budva",
+        "region": "Budva",
+        "lat": 42.28721,
+        "lng": 18.83922,
+        "population": 18000
+    },
+    {
+        "id": 3204509,
+        "name": "Bar",
+        "region": "Bar",
+        "lat": 42.0937,
+        "lng": 19.09841,
+        "population": 15868
+    },
+    {
+        "id": 3204176,
+        "name": "Bijelo Polje",
+        "region": "Bijelo Polje",
+        "lat": 43.03834,
+        "lng": 19.74758,
+        "population": 15400
+    },
+    {
+        "id": 3202641,
+        "name": "Cetinje",
+        "region": "Cetinje",
+        "lat": 42.39063,
+        "lng": 18.91417,
+        "population": 15137
+    }
+]

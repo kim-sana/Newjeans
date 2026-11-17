@@ -1,0 +1,594 @@
+[
+    {
+        "id": 2357048,
+        "name": "Ouagadougou",
+        "region": "Centre",
+        "lat": 12.36566,
+        "lng": -1.53388,
+        "population": 2415266
+    },
+    {
+        "id": 2362344,
+        "name": "Bobo-Dioulasso",
+        "region": "Hauts-Bassins",
+        "lat": 11.18064,
+        "lng": -4.29489,
+        "population": 904920
+    },
+    {
+        "id": 2358946,
+        "name": "Koudougou",
+        "region": "Centre-Ouest",
+        "lat": 12.25188,
+        "lng": -2.36694,
+        "population": 160239
+    },
+    {
+        "id": 2356157,
+        "name": "Saaba",
+        "region": "Centre",
+        "lat": 12.37136,
+        "lng": -1.41468,
+        "population": 136011
+    },
+    {
+        "id": 2357043,
+        "name": "Ouahigouya",
+        "region": "Nord",
+        "lat": 13.5769,
+        "lng": -2.41786,
+        "population": 124587
+    },
+    {
+        "id": 2359608,
+        "name": "Kaya",
+        "region": "Centre-Nord",
+        "lat": 13.0883,
+        "lng": -1.08368,
+        "population": 121970
+    },
+    {
+        "id": 2362909,
+        "name": "Banfora",
+        "region": "Cascades Region",
+        "lat": 10.64064,
+        "lng": -4.75285,
+        "population": 117452
+    },
+    {
+        "id": 2356300,
+        "name": "Pouytenga",
+        "region": "Centre-Est",
+        "lat": 12.25162,
+        "lng": -0.42565,
+        "population": 96469
+    },
+    {
+        "id": 2360073,
+        "name": "Houndé",
+        "region": "Hauts-Bassins",
+        "lat": 11.5,
+        "lng": -3.51667,
+        "population": 87151
+    },
+    {
+        "id": 2360886,
+        "name": "Fada N'gourma",
+        "region": "Est",
+        "lat": 12.06157,
+        "lng": 0.35843,
+        "population": 73200
+    },
+    {
+        "id": 2357109,
+        "name": "Nioko I",
+        "region": "Centre",
+        "lat": 12.39501,
+        "lng": -1.43861,
+        "population": 65263
+    },
+    {
+        "id": 2361477,
+        "name": "Dédougou",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.4636,
+        "lng": -3.46075,
+        "population": 63617
+    },
+    {
+        "id": 2354675,
+        "name": "Tenkodogo",
+        "region": "Centre-Est",
+        "lat": 11.78442,
+        "lng": -0.37184,
+        "population": 61936
+    },
+    {
+        "id": 2361177,
+        "name": "Djibo",
+        "region": "Sahel",
+        "lat": 14.09864,
+        "lng": -1.62665,
+        "population": 61462
+    },
+    {
+        "id": 2359142,
+        "name": "Kongoussi",
+        "region": "Centre-Nord",
+        "lat": 13.32583,
+        "lng": -1.53472,
+        "population": 53627
+    },
+    {
+        "id": 2358382,
+        "name": "Léo",
+        "region": "Centre-Ouest",
+        "lat": 11.10033,
+        "lng": -2.10654,
+        "population": 51743
+    },
+    {
+        "id": 2358738,
+        "name": "Koupéla",
+        "region": "Centre-Est",
+        "lat": 12.17864,
+        "lng": -0.35103,
+        "population": 49372
+    },
+    {
+        "id": 2354349,
+        "name": "Titao",
+        "region": "Nord",
+        "lat": 13.76667,
+        "lng": -2.06667,
+        "population": 48241
+    },
+    {
+        "id": 2355886,
+        "name": "Saonré",
+        "region": "Centre",
+        "lat": 12.2751,
+        "lng": -1.57692,
+        "population": 47728
+    },
+    {
+        "id": 2361082,
+        "name": "Dori",
+        "region": "Sahel",
+        "lat": 14.03326,
+        "lng": -0.03333,
+        "population": 46512
+    },
+    {
+        "id": 2363174,
+        "name": "Aribinda",
+        "region": "Sahel",
+        "lat": 14.22963,
+        "lng": -0.86537,
+        "population": 45818
+    },
+    {
+        "id": 2360620,
+        "name": "Gaoua",
+        "region": "Sud-Ouest",
+        "lat": 10.33137,
+        "lng": -3.18202,
+        "population": 45284
+    },
+    {
+        "id": 2360615,
+        "name": "Garango",
+        "region": "Centre-Est",
+        "lat": 11.8,
+        "lng": -0.55056,
+        "population": 40404
+    },
+    {
+        "id": 2360238,
+        "name": "Gourcy",
+        "region": "Nord",
+        "lat": 13.20776,
+        "lng": -2.35893,
+        "population": 40141
+    },
+    {
+        "id": 2353688,
+        "name": "Yako",
+        "region": "Nord",
+        "lat": 12.9591,
+        "lng": -2.26075,
+        "population": 38679
+    },
+    {
+        "id": 2353197,
+        "name": "Zorgo",
+        "region": "Plateau-Central",
+        "lat": 12.24922,
+        "lng": -0.61527,
+        "population": 35398
+    },
+    {
+        "id": 2356228,
+        "name": "Réo",
+        "region": "Centre-Ouest",
+        "lat": 12.31963,
+        "lng": -2.47094,
+        "population": 33894
+    },
+    {
+        "id": 2357062,
+        "name": "Orodara",
+        "region": "Hauts-Bassins",
+        "lat": 10.98115,
+        "lng": -4.91885,
+        "population": 33422
+    },
+    {
+        "id": 2353257,
+        "name": "Ziniaré",
+        "region": "Plateau-Central",
+        "lat": 12.58236,
+        "lng": -1.29753,
+        "population": 33296
+    },
+    {
+        "id": 2357371,
+        "name": "Niangoloko",
+        "region": "Cascades Region",
+        "lat": 10.28333,
+        "lng": -4.91667,
+        "population": 33292
+    },
+    {
+        "id": 2357163,
+        "name": "Nouna",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.72939,
+        "lng": -3.86305,
+        "population": 32428
+    },
+    {
+        "id": 2362970,
+        "name": "Bama",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.03946,
+        "lng": -4.40177,
+        "population": 31215
+    },
+    {
+        "id": 2362376,
+        "name": "Bittou",
+        "region": "Centre-Est",
+        "lat": 11.25806,
+        "lng": -0.30611,
+        "population": 31210
+    },
+    {
+        "id": 2359227,
+        "name": "Kombissiri",
+        "region": "Centre-Sud",
+        "lat": 12.06884,
+        "lng": -1.33644,
+        "population": 28617
+    },
+    {
+        "id": 2358100,
+        "name": "Manga",
+        "region": "Centre-Sud",
+        "lat": 11.66496,
+        "lng": -1.06977,
+        "population": 28615
+    },
+    {
+        "id": 2356454,
+        "name": "Pô",
+        "region": "Centre-Sud",
+        "lat": 11.16972,
+        "lng": -1.145,
+        "population": 28079
+    },
+    {
+        "id": 2361853,
+        "name": "Bourzanga",
+        "region": "Centre-Nord",
+        "lat": 13.67806,
+        "lng": -1.54611,
+        "population": 27213
+    },
+    {
+        "id": 2362740,
+        "name": "Barogo",
+        "region": "Plateau-Central",
+        "lat": 12.55,
+        "lng": -0.96667,
+        "population": 26539
+    },
+    {
+        "id": 2360626,
+        "name": "Gao",
+        "region": "Centre-Ouest",
+        "lat": 11.64967,
+        "lng": -2.17777,
+        "population": 26453
+    },
+    {
+        "id": 2354176,
+        "name": "Tougan",
+        "region": "Boucle du Mouhoun",
+        "lat": 13.07237,
+        "lng": -3.06939,
+        "population": 26347
+    },
+    {
+        "id": 2355869,
+        "name": "Sapouy",
+        "region": "Centre-Ouest",
+        "lat": 11.55444,
+        "lng": -1.77361,
+        "population": 26345
+    },
+    {
+        "id": 2353670,
+        "name": "Yalgo",
+        "region": "Centre-Nord",
+        "lat": 12.93333,
+        "lng": -0.85,
+        "population": 26340
+    },
+    {
+        "id": 2359317,
+        "name": "Kokologo",
+        "region": "Centre-Ouest",
+        "lat": 12.19392,
+        "lng": -1.87687,
+        "population": 25958
+    },
+    {
+        "id": 2361586,
+        "name": "Dano",
+        "region": "Sud-Ouest",
+        "lat": 11.1464,
+        "lng": -3.05784,
+        "population": 25922
+    },
+    {
+        "id": 2357931,
+        "name": "Mogtédo",
+        "region": "Plateau-Central",
+        "lat": 12.28444,
+        "lng": -0.83722,
+        "population": 25699
+    },
+    {
+        "id": 2361342,
+        "name": "Diébougou",
+        "region": "Sud-Ouest",
+        "lat": 10.96209,
+        "lng": -3.24967,
+        "population": 25688
+    },
+    {
+        "id": 2361845,
+        "name": "Boussé",
+        "region": "Plateau-Central",
+        "lat": 12.66121,
+        "lng": -1.89515,
+        "population": 25022
+    },
+    {
+        "id": 2355404,
+        "name": "Solenzo",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.1808,
+        "lng": -4.07826,
+        "population": 24783
+    },
+    {
+        "id": 2361946,
+        "name": "Boulsa",
+        "region": "Centre-Nord",
+        "lat": 12.66664,
+        "lng": -0.57469,
+        "population": 24200
+    },
+    {
+        "id": 2356467,
+        "name": "Pissila",
+        "region": "Centre-Nord",
+        "lat": 13.16417,
+        "lng": -0.8225,
+        "population": 23420
+    },
+    {
+        "id": 2362626,
+        "name": "Béguédo",
+        "region": "Centre-Est",
+        "lat": 11.78083,
+        "lng": -0.73389,
+        "population": 21894
+    },
+    {
+        "id": 2353436,
+        "name": "Zabré",
+        "region": "Centre-Est",
+        "lat": 11.1825,
+        "lng": -0.63222,
+        "population": 21726
+    },
+    {
+        "id": 2362323,
+        "name": "Bogandé",
+        "region": "Est",
+        "lat": 12.97711,
+        "lng": -0.14661,
+        "population": 21443
+    },
+    {
+        "id": 2360855,
+        "name": "Fara Department",
+        "region": "Boucle du Mouhoun",
+        "lat": 11.52941,
+        "lng": -2.76797,
+        "population": 20434
+    },
+    {
+        "id": 2362150,
+        "name": "Boromo",
+        "region": "Boucle du Mouhoun",
+        "lat": 11.74542,
+        "lng": -2.93006,
+        "population": 20193
+    },
+    {
+        "id": 12640343,
+        "name": "Cinkansé",
+        "region": "Centre-Est",
+        "lat": 11.11857,
+        "lng": 0.00993,
+        "population": 19815
+    },
+    {
+        "id": 2353332,
+        "name": "Zinguédéssé",
+        "region": "Centre",
+        "lat": 12.24661,
+        "lng": -1.58402,
+        "population": 19648
+    },
+    {
+        "id": 2359042,
+        "name": "Korsimoro",
+        "region": "Centre-Nord",
+        "lat": 12.82506,
+        "lng": -1.06737,
+        "population": 18875
+    },
+    {
+        "id": 2362669,
+        "name": "Batié",
+        "region": "Sud-Ouest",
+        "lat": 9.88333,
+        "lng": -2.91667,
+        "population": 17997
+    },
+    {
+        "id": 2358898,
+        "name": "Kouka",
+        "region": "Centre-Nord",
+        "lat": 13.4345,
+        "lng": -1.61361,
+        "population": 17286
+    },
+    {
+        "id": 2357487,
+        "name": "Natiaboani",
+        "region": "Est",
+        "lat": 11.69917,
+        "lng": 0.50611,
+        "population": 16640
+    },
+    {
+        "id": 2354351,
+        "name": "Tita",
+        "region": "Centre-Ouest",
+        "lat": 11.92092,
+        "lng": -2.51536,
+        "population": 16450
+    },
+    {
+        "id": 2359495,
+        "name": "Kindi",
+        "region": "Centre-Ouest",
+        "lat": 12.4386,
+        "lng": -2.03279,
+        "population": 16424
+    },
+    {
+        "id": 12217144,
+        "name": "Namponkoré",
+        "region": "Est",
+        "lat": 11.73748,
+        "lng": 1.77718,
+        "population": 16423
+    },
+    {
+        "id": 2354340,
+        "name": "Tô",
+        "region": "Centre-Ouest",
+        "lat": 11.44379,
+        "lng": -2.22548,
+        "population": 16026
+    },
+    {
+        "id": 2354265,
+        "name": "Toma",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.75844,
+        "lng": -2.89879,
+        "population": 15851
+    },
+    {
+        "id": 2361373,
+        "name": "Diapaga",
+        "region": "Est",
+        "lat": 12.0729,
+        "lng": 1.78835,
+        "population": 15515
+    },
+    {
+        "id": 2359695,
+        "name": "Karankasso",
+        "region": "Hauts-Bassins",
+        "lat": 11.22191,
+        "lng": -4.64423,
+        "population": 15474
+    },
+    {
+        "id": 2361778,
+        "name": "Gomboussougou",
+        "region": "Centre-Sud",
+        "lat": 11.42611,
+        "lng": -0.77278,
+        "population": 15336
+    },
+    {
+        "id": 2360541,
+        "name": "Gayéri",
+        "region": "Est",
+        "lat": 12.64824,
+        "lng": 0.49314,
+        "population": 15170
+    },
+    {
+        "id": 2356765,
+        "name": "Pa",
+        "region": "Boucle du Mouhoun",
+        "lat": 12.66667,
+        "lng": -3.95,
+        "population": 15170
+    },
+    {
+        "id": 10342754,
+        "name": "Mani",
+        "region": "Est",
+        "lat": 13.25833,
+        "lng": -0.21306,
+        "population": 15066
+    },
+    {
+        "id": 2356136,
+        "name": "Sabou",
+        "region": "Centre-Ouest",
+        "lat": 12.06667,
+        "lng": -2.23333,
+        "population": 15060
+    },
+    {
+        "id": 12640344,
+        "name": "Kompienga",
+        "region": "Est",
+        "lat": 11.08169,
+        "lng": 0.72365,
+        "population": 15024
+    }
+]

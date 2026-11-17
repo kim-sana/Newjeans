@@ -1,0 +1,338 @@
+[
+    {
+        "id": 3143244,
+        "name": "Oslo",
+        "region": "Oslo",
+        "lat": 59.91273,
+        "lng": 10.74609,
+        "population": 1082575
+    },
+    {
+        "id": 3161732,
+        "name": "Bergen",
+        "region": "Vestland",
+        "lat": 60.39299,
+        "lng": 5.32415,
+        "population": 294029
+    },
+    {
+        "id": 3133880,
+        "name": "Trondheim",
+        "region": "Trøndelag",
+        "lat": 63.43049,
+        "lng": 10.39506,
+        "population": 216518
+    },
+    {
+        "id": 3137115,
+        "name": "Stavanger",
+        "region": "Rogaland",
+        "lat": 58.97005,
+        "lng": 5.73332,
+        "population": 151669
+    },
+    {
+        "id": 3149318,
+        "name": "Kristiansand",
+        "region": "Agder",
+        "lat": 58.14671,
+        "lng": 7.9956,
+        "population": 117237
+    },
+    {
+        "id": 3159016,
+        "name": "Drammen",
+        "region": "Buskerud",
+        "lat": 59.74389,
+        "lng": 10.20449,
+        "population": 106013
+    },
+    {
+        "id": 3147465,
+        "name": "Lillestrøm",
+        "region": "Akershus",
+        "lat": 59.95597,
+        "lng": 11.04918,
+        "population": 89684
+    },
+    {
+        "id": 3140321,
+        "name": "Sandnes",
+        "region": "Rogaland",
+        "lat": 58.85244,
+        "lng": 5.73521,
+        "population": 85386
+    },
+    {
+        "id": 3156529,
+        "name": "Fredrikstad",
+        "region": "Østfold",
+        "lat": 59.2181,
+        "lng": 10.9298,
+        "population": 83761
+    },
+    {
+        "id": 3140390,
+        "name": "Sandefjord",
+        "region": "Vestfold",
+        "lat": 59.13118,
+        "lng": 10.21665,
+        "population": 64345
+    },
+    {
+        "id": 3162657,
+        "name": "Asker",
+        "region": "Akershus",
+        "lat": 59.83333,
+        "lng": 10.43721,
+        "population": 61906
+    },
+    {
+        "id": 3140084,
+        "name": "Sarpsborg",
+        "region": "Østfold",
+        "lat": 59.28391,
+        "lng": 11.10962,
+        "population": 59038
+    },
+    {
+        "id": 3134331,
+        "name": "Tønsberg",
+        "region": "Vestfold",
+        "lat": 59.26754,
+        "lng": 10.40762,
+        "population": 55387
+    },
+    {
+        "id": 3163392,
+        "name": "Ålesund",
+        "region": "Møre og Romsdal",
+        "lat": 62.47225,
+        "lng": 6.15492,
+        "population": 52626
+    },
+    {
+        "id": 3139075,
+        "name": "Skien",
+        "region": "Telemark",
+        "lat": 59.20962,
+        "lng": 9.60897,
+        "population": 50595
+    },
+    {
+        "id": 3145375,
+        "name": "Moss",
+        "region": "Østfold",
+        "lat": 59.43403,
+        "lng": 10.65771,
+        "population": 49668
+    },
+    {
+        "id": 3133895,
+        "name": "Tromsø",
+        "region": "Troms",
+        "lat": 69.6489,
+        "lng": 18.95508,
+        "population": 41915
+    },
+    {
+        "id": 3153623,
+        "name": "Haugesund",
+        "region": "Rogaland",
+        "lat": 59.41378,
+        "lng": 5.268,
+        "population": 40321
+    },
+    {
+        "id": 3162778,
+        "name": "Åsane",
+        "region": "Vestland",
+        "lat": 60.47444,
+        "lng": 5.325,
+        "population": 40146
+    },
+    {
+        "id": 3144631,
+        "name": "Nesttun",
+        "region": "Vestland",
+        "lat": 60.31821,
+        "lng": 5.35317,
+        "population": 35638
+    },
+    {
+        "id": 3142657,
+        "name": "Porsgrunn",
+        "region": "Telemark",
+        "lat": 59.14054,
+        "lng": 9.6561,
+        "population": 34377
+    },
+    {
+        "id": 3160881,
+        "name": "Bodø",
+        "region": "Nordland",
+        "lat": 67.28267,
+        "lng": 14.37513,
+        "population": 34073
+    },
+    {
+        "id": 3162955,
+        "name": "Arendal",
+        "region": "Agder",
+        "lat": 58.46151,
+        "lng": 8.77253,
+        "population": 30916
+    },
+    {
+        "id": 3137942,
+        "name": "Sola",
+        "region": "Rogaland",
+        "lat": 58.88854,
+        "lng": 5.65285,
+        "population": 29541
+    },
+    {
+        "id": 3154084,
+        "name": "Hamar",
+        "region": "Innlandet",
+        "lat": 60.7945,
+        "lng": 11.06798,
+        "population": 29479
+    },
+    {
+        "id": 3147474,
+        "name": "Lillehammer",
+        "region": "Innlandet",
+        "lat": 61.11514,
+        "lng": 10.46628,
+        "population": 29011
+    },
+    {
+        "id": 3151770,
+        "name": "Horten",
+        "region": "Vestfold",
+        "lat": 59.41721,
+        "lng": 10.48343,
+        "population": 27178
+    },
+    {
+        "id": 6697344,
+        "name": "Ytrebygda",
+        "region": "Vestland",
+        "lat": 60.30504,
+        "lng": 5.28236,
+        "population": 24044
+    },
+    {
+        "id": 3155041,
+        "name": "Grimstad",
+        "region": "Agder",
+        "lat": 58.3405,
+        "lng": 8.59343,
+        "population": 24017
+    },
+    {
+        "id": 3149312,
+        "name": "Kristiansund",
+        "region": "Møre og Romsdal",
+        "lat": 63.11045,
+        "lng": 7.72795,
+        "population": 24013
+    },
+    {
+        "id": 3148129,
+        "name": "Larvik",
+        "region": "Vestfold",
+        "lat": 59.05328,
+        "lng": 10.03517,
+        "population": 23113
+    },
+    {
+        "id": 3145580,
+        "name": "Molde",
+        "region": "Møre og Romsdal",
+        "lat": 62.73752,
+        "lng": 7.15912,
+        "population": 22410
+    },
+    {
+        "id": 3154209,
+        "name": "Halden",
+        "region": "Østfold",
+        "lat": 59.12478,
+        "lng": 11.38754,
+        "population": 21970
+    },
+    {
+        "id": 3153823,
+        "name": "Harstad",
+        "region": "Troms",
+        "lat": 68.79833,
+        "lng": 16.54165,
+        "population": 20953
+    },
+    {
+        "id": 3147698,
+        "name": "Levanger",
+        "region": "Trøndelag",
+        "lat": 63.74644,
+        "lng": 11.29963,
+        "population": 20171
+    },
+    {
+        "id": 3134628,
+        "name": "Time",
+        "region": "Rogaland",
+        "lat": 58.73333,
+        "lng": 5.7,
+        "population": 19781
+    },
+    {
+        "id": 3145614,
+        "name": "Mo i Rana",
+        "region": "Nordland",
+        "lat": 66.31278,
+        "lng": 14.14278,
+        "population": 18866
+    },
+    {
+        "id": 3133904,
+        "name": "Tromsdalen",
+        "region": "Troms",
+        "lat": 69.65,
+        "lng": 19.01667,
+        "population": 18291
+    },
+    {
+        "id": 3149563,
+        "name": "Kongsberg",
+        "region": "Buskerud",
+        "lat": 59.66858,
+        "lng": 9.65017,
+        "population": 17667
+    },
+    {
+        "id": 3155573,
+        "name": "Gjøvik",
+        "region": "Innlandet",
+        "lat": 60.79574,
+        "lng": 10.69155,
+        "population": 17596
+    },
+    {
+        "id": 3136765,
+        "name": "Stjørdalshalsen",
+        "region": "Trøndelag",
+        "lat": 63.4681,
+        "lng": 10.92618,
+        "population": 15693
+    },
+    {
+        "id": 847633,
+        "name": "Alta",
+        "region": "Finnmark",
+        "lat": 69.96887,
+        "lng": 23.27165,
+        "population": 15094
+    }
+]

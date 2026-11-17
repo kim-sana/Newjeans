@@ -1,0 +1,18 @@
+[
+    {
+        "id": 3577887,
+        "name": "Kingstown",
+        "region": "Saint George Parish",
+        "lat": 13.15527,
+        "lng": -61.22742,
+        "population": 24518
+    },
+    {
+        "id": 3748746,
+        "name": "Calliaqua",
+        "region": "Saint George Parish",
+        "lat": 13.12867,
+        "lng": -61.19178,
+        "population": 24205
+    }
+]

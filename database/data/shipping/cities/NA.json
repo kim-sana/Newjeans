@@ -1,0 +1,154 @@
+[
+    {
+        "id": 3352136,
+        "name": "Windhoek",
+        "region": "Khomas Region",
+        "lat": -22.55941,
+        "lng": 17.08323,
+        "population": 386219
+    },
+    {
+        "id": 3353383,
+        "name": "Rundu",
+        "region": "Kavango East",
+        "lat": -17.91796,
+        "lng": 19.77314,
+        "population": 75180
+    },
+    {
+        "id": 3359638,
+        "name": "Walvis Bay",
+        "region": "Erongo Region",
+        "lat": -22.9575,
+        "lng": 14.50528,
+        "population": 73598
+    },
+    {
+        "id": 3352844,
+        "name": "Swakopmund",
+        "region": "Erongo Region",
+        "lat": -22.67842,
+        "lng": 14.52663,
+        "population": 53009
+    },
+    {
+        "id": 3354021,
+        "name": "Oshakati",
+        "region": "Oshana Region",
+        "lat": -17.78833,
+        "lng": 15.70436,
+        "population": 43309
+    },
+    {
+        "id": 3353540,
+        "name": "Rehoboth",
+        "region": "Hardap Region",
+        "lat": -23.317,
+        "lng": 17.09,
+        "population": 34185
+    },
+    {
+        "id": 877178,
+        "name": "Katima Mulilo",
+        "region": "Zambezi Region",
+        "lat": -17.50467,
+        "lng": 24.27574,
+        "population": 33615
+    },
+    {
+        "id": 3353811,
+        "name": "Otjiwarongo",
+        "region": "Otjozondjupa Region",
+        "lat": -20.46369,
+        "lng": 16.64772,
+        "population": 33481
+    },
+    {
+        "id": 3354247,
+        "name": "Ondangwa",
+        "region": "Oshana Region",
+        "lat": -17.90824,
+        "lng": 15.98037,
+        "population": 27049
+    },
+    {
+        "id": 3354898,
+        "name": "Okahandja",
+        "region": "Otjozondjupa Region",
+        "lat": -21.98141,
+        "lng": 16.9029,
+        "population": 26832
+    },
+    {
+        "id": 3357114,
+        "name": "Grootfontein",
+        "region": "Otjozondjupa Region",
+        "lat": -19.57328,
+        "lng": 18.1003,
+        "population": 24099
+    },
+    {
+        "id": 3354147,
+        "name": "Ongwediva",
+        "region": "Oshana Region",
+        "lat": -17.77198,
+        "lng": 15.76564,
+        "population": 24012
+    },
+    {
+        "id": 3356264,
+        "name": "Keetmanshoop",
+        "region": "Karas Region",
+        "lat": -26.57654,
+        "lng": 18.13359,
+        "population": 23049
+    },
+    {
+        "id": 12718704,
+        "name": "Helao Nafidi",
+        "region": "Ohangwena Region",
+        "lat": -17.39321,
+        "lng": 15.89107,
+        "population": 22963
+    },
+    {
+        "id": 3352593,
+        "name": "Tsumeb",
+        "region": "Oshikoto Region",
+        "lat": -19.24842,
+        "lng": 17.71345,
+        "population": 22845
+    },
+    {
+        "id": 3357247,
+        "name": "Gobabis",
+        "region": "Omaheke Region",
+        "lat": -22.45338,
+        "lng": 18.97159,
+        "population": 22639
+    },
+    {
+        "id": 3356294,
+        "name": "Katutura",
+        "region": "Khomas Region",
+        "lat": -22.52306,
+        "lng": 17.06028,
+        "population": 21243
+    },
+    {
+        "id": 876961,
+        "name": "Ndiyona",
+        "region": "Kavango East",
+        "lat": -18.03892,
+        "lng": 20.70058,
+        "population": 20633
+    },
+    {
+        "id": 3355672,
+        "name": "Lüderitz",
+        "region": "Karas Region",
+        "lat": -26.64807,
+        "lng": 15.15383,
+        "population": 15137
+    }
+]

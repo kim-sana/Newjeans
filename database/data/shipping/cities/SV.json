@@ -1,0 +1,282 @@
+[
+    {
+        "id": 3583361,
+        "name": "San Salvador",
+        "region": "San Salvador Department",
+        "lat": 13.68935,
+        "lng": -89.18718,
+        "population": 525990
+    },
+    {
+        "id": 3583096,
+        "name": "Soyapango",
+        "region": "San Salvador Department",
+        "lat": 13.71024,
+        "lng": -89.13989,
+        "population": 329708
+    },
+    {
+        "id": 3583446,
+        "name": "San Miguel",
+        "region": "San Miguel Department",
+        "lat": 13.48261,
+        "lng": -88.18211,
+        "population": 247126
+    },
+    {
+        "id": 3583334,
+        "name": "Santa Ana",
+        "region": "Santa Ana Department",
+        "lat": 13.98827,
+        "lng": -89.55685,
+        "population": 176661
+    },
+    {
+        "id": 3584399,
+        "name": "Mejicanos",
+        "region": "San Salvador Department",
+        "lat": 13.72397,
+        "lng": -89.188,
+        "population": 160317
+    },
+    {
+        "id": 3584257,
+        "name": "Santa Tecla",
+        "region": "La Libertad Department",
+        "lat": 13.67741,
+        "lng": -89.28335,
+        "population": 124694
+    },
+    {
+        "id": 3587345,
+        "name": "Apopa",
+        "region": "San Salvador Department",
+        "lat": 13.80722,
+        "lng": -89.17917,
+        "population": 112158
+    },
+    {
+        "id": 3586814,
+        "name": "Delgado",
+        "region": "San Salvador Department",
+        "lat": 13.72171,
+        "lng": -89.16874,
+        "population": 71594
+    },
+    {
+        "id": 3583102,
+        "name": "Sonsonate",
+        "region": "Sonsonate Department",
+        "lat": 13.71726,
+        "lng": -89.72304,
+        "population": 59468
+    },
+    {
+        "id": 3583480,
+        "name": "San Marcos",
+        "region": "San Salvador Department",
+        "lat": 13.66108,
+        "lng": -89.18252,
+        "population": 54615
+    },
+    {
+        "id": 3582883,
+        "name": "Usulután",
+        "region": "Usulutan",
+        "lat": 13.34467,
+        "lng": -88.43994,
+        "population": 51910
+    },
+    {
+        "id": 3586977,
+        "name": "Cojutepeque",
+        "region": "Cuscatlan",
+        "lat": 13.71971,
+        "lng": -88.93309,
+        "population": 48411
+    },
+    {
+        "id": 3586833,
+        "name": "Cuscatancingo",
+        "region": "San Salvador Department",
+        "lat": 13.72702,
+        "lng": -89.18161,
+        "population": 44369
+    },
+    {
+        "id": 3583178,
+        "name": "San Vicente",
+        "region": "San Vicente Department",
+        "lat": 13.64114,
+        "lng": -88.78459,
+        "population": 41504
+    },
+    {
+        "id": 3582805,
+        "name": "Zacatecoluca",
+        "region": "La Paz Department",
+        "lat": 13.50872,
+        "lng": -88.87017,
+        "population": 39613
+    },
+    {
+        "id": 3583471,
+        "name": "San Martín",
+        "region": "Cuscatlan",
+        "lat": 13.78333,
+        "lng": -88.91667,
+        "population": 39361
+    },
+    {
+        "id": 3585484,
+        "name": "Ilopango",
+        "region": "San Salvador Department",
+        "lat": 13.70167,
+        "lng": -89.10944,
+        "population": 38890
+    },
+    {
+        "id": 3587426,
+        "name": "Ahuachapán",
+        "region": "Ahuachapan",
+        "lat": 13.92403,
+        "lng": -89.84344,
+        "population": 34102
+    },
+    {
+        "id": 3587362,
+        "name": "Antiguo Cuscatlán",
+        "region": "La Libertad Department",
+        "lat": 13.66492,
+        "lng": -89.25319,
+        "population": 33767
+    },
+    {
+        "id": 3587086,
+        "name": "Chalchuapa",
+        "region": "Santa Ana Department",
+        "lat": 13.98667,
+        "lng": -89.68111,
+        "population": 32282
+    },
+    {
+        "id": 3583981,
+        "name": "Quezaltepeque",
+        "region": "La Libertad Department",
+        "lat": 13.83124,
+        "lng": -89.27221,
+        "population": 28886
+    },
+    {
+        "id": 3584772,
+        "name": "La Unión",
+        "region": "La Union",
+        "lat": 13.33915,
+        "lng": -87.84328,
+        "population": 26807
+    },
+    {
+        "id": 3587308,
+        "name": "Ayutuxtepeque",
+        "region": "San Salvador Department",
+        "lat": 13.73538,
+        "lng": -89.20221,
+        "population": 25426
+    },
+    {
+        "id": 3587498,
+        "name": "Acajutla",
+        "region": "Sonsonate Department",
+        "lat": 13.59278,
+        "lng": -89.8275,
+        "population": 22763
+    },
+    {
+        "id": 3587428,
+        "name": "Aguilares",
+        "region": "San Salvador Department",
+        "lat": 13.95722,
+        "lng": -89.18972,
+        "population": 21445
+    },
+    {
+        "id": 3583158,
+        "name": "Sensuntepeque",
+        "region": "Cabanas",
+        "lat": 13.87583,
+        "lng": -88.62727,
+        "population": 20386
+    },
+    {
+        "id": 3587091,
+        "name": "Chalatenango",
+        "region": "Chalatenango Department",
+        "lat": 14.04138,
+        "lng": -88.93951,
+        "population": 19364
+    },
+    {
+        "id": 3585473,
+        "name": "Izalco",
+        "region": "Sonsonate Department",
+        "lat": 13.74472,
+        "lng": -89.67306,
+        "population": 19197
+    },
+    {
+        "id": 3584384,
+        "name": "Metapán",
+        "region": "Santa Ana Department",
+        "lat": 14.33333,
+        "lng": -89.45,
+        "population": 19143
+    },
+    {
+        "id": 3583379,
+        "name": "San Rafael Oriente",
+        "region": "San Miguel Department",
+        "lat": 13.38333,
+        "lng": -88.35,
+        "population": 19095
+    },
+    {
+        "id": 3584003,
+        "name": "Puerto El Triunfo",
+        "region": "Usulutan",
+        "lat": 13.28333,
+        "lng": -88.55,
+        "population": 19074
+    },
+    {
+        "id": 3585157,
+        "name": "La Libertad",
+        "region": "La Libertad Department",
+        "lat": 13.48833,
+        "lng": -89.32222,
+        "population": 16855
+    },
+    {
+        "id": 3583747,
+        "name": "San Francisco",
+        "region": "Morazan",
+        "lat": 13.69408,
+        "lng": -88.10407,
+        "population": 16152
+    },
+    {
+        "id": 3583098,
+        "name": "Sonzacate",
+        "region": "Sonsonate Department",
+        "lat": 13.73417,
+        "lng": -89.71472,
+        "population": 15446
+    },
+    {
+        "id": 3583199,
+        "name": "Santiago de María",
+        "region": "Usulutan",
+        "lat": 13.48333,
+        "lng": -88.46667,
+        "population": 15032
+    }
+]

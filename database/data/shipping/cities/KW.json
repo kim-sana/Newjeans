@@ -1,0 +1,146 @@
+[
+    {
+        "id": 285839,
+        "name": "Al Aḩmadī",
+        "region": "Al Aḩmadī",
+        "lat": 29.07694,
+        "lng": 48.08389,
+        "population": 637411
+    },
+    {
+        "id": 285629,
+        "name": "Ḩawallī",
+        "region": "Hawalli",
+        "lat": 29.33278,
+        "lng": 48.02861,
+        "population": 164212
+    },
+    {
+        "id": 285704,
+        "name": "As Sālimīyah",
+        "region": "Hawalli",
+        "lat": 29.33389,
+        "lng": 48.07611,
+        "population": 147649
+    },
+    {
+        "id": 412800,
+        "name": "Şabāḩ as Sālim",
+        "region": "Mubārak al Kabīr",
+        "lat": 29.25722,
+        "lng": 48.05722,
+        "population": 139163
+    },
+    {
+        "id": 285815,
+        "name": "Al Farwānīyah",
+        "region": "Al Farwaniyah",
+        "lat": 29.2775,
+        "lng": 47.95861,
+        "population": 86525
+    },
+    {
+        "id": 285811,
+        "name": "Al Faḩāḩīl",
+        "region": "Al Aḩmadī",
+        "lat": 29.0825,
+        "lng": 48.13028,
+        "population": 68290
+    },
+    {
+        "id": 285787,
+        "name": "Kuwait City",
+        "region": "Al Asimah",
+        "lat": 29.367,
+        "lng": 47.97429,
+        "population": 60064
+    },
+    {
+        "id": 285726,
+        "name": "Ar Rumaythīyah",
+        "region": "Hawalli",
+        "lat": 29.31167,
+        "lng": 48.07417,
+        "population": 58135
+    },
+    {
+        "id": 285728,
+        "name": "Ar Riqqah",
+        "region": "Al Aḩmadī",
+        "lat": 29.14583,
+        "lng": 48.09472,
+        "population": 52068
+    },
+    {
+        "id": 387958,
+        "name": "Salwá",
+        "region": "Hawalli",
+        "lat": 29.29583,
+        "lng": 48.07861,
+        "population": 40945
+    },
+    {
+        "id": 285778,
+        "name": "Al Manqaf",
+        "region": "Al Aḩmadī",
+        "lat": 29.09611,
+        "lng": 48.13278,
+        "population": 39025
+    },
+    {
+        "id": 388065,
+        "name": "Ar Rābiyah",
+        "region": "Al Asimah",
+        "lat": 29.295,
+        "lng": 47.93306,
+        "population": 36447
+    },
+    {
+        "id": 285663,
+        "name": "Bayān",
+        "region": "Hawalli",
+        "lat": 29.3032,
+        "lng": 48.04881,
+        "population": 30635
+    },
+    {
+        "id": 285799,
+        "name": "Al Jahrā’",
+        "region": "Al Jahra Governorate",
+        "lat": 29.3375,
+        "lng": 47.65806,
+        "population": 24281
+    },
+    {
+        "id": 285812,
+        "name": "Al Finţās",
+        "region": "Al Aḩmadī",
+        "lat": 29.17389,
+        "lng": 48.12111,
+        "population": 23071
+    },
+    {
+        "id": 285603,
+        "name": "Janūb as Surrah",
+        "region": "Al Farwaniyah",
+        "lat": 29.26917,
+        "lng": 47.97806,
+        "population": 18496
+    },
+    {
+        "id": 285782,
+        "name": "Al Mahbūlah",
+        "region": "Al Aḩmadī",
+        "lat": 29.145,
+        "lng": 48.13028,
+        "population": 18178
+    },
+    {
+        "id": 285856,
+        "name": "Ad Dasmah",
+        "region": "Al Asimah",
+        "lat": 29.365,
+        "lng": 48.00139,
+        "population": 17585
+    }
+]

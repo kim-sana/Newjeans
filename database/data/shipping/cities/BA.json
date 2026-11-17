@@ -1,0 +1,186 @@
+[
+    {
+        "id": 3191281,
+        "name": "Sarajevo",
+        "region": "Federation of B&H",
+        "lat": 43.84864,
+        "lng": 18.35644,
+        "population": 696731
+    },
+    {
+        "id": 3204541,
+        "name": "Banja Luka",
+        "region": "Srpska",
+        "lat": 44.77879,
+        "lng": 17.20629,
+        "population": 221106
+    },
+    {
+        "id": 3186573,
+        "name": "Zenica",
+        "region": "Federation of B&H",
+        "lat": 44.20169,
+        "lng": 17.90397,
+        "population": 164423
+    },
+    {
+        "id": 3188582,
+        "name": "Tuzla",
+        "region": "Federation of B&H",
+        "lat": 44.53842,
+        "lng": 18.66709,
+        "population": 142486
+    },
+    {
+        "id": 3194828,
+        "name": "Mostar",
+        "region": "Federation of B&H",
+        "lat": 43.34333,
+        "lng": 17.80806,
+        "population": 104518
+    },
+    {
+        "id": 3204222,
+        "name": "Bihać",
+        "region": "Federation of B&H",
+        "lat": 44.81694,
+        "lng": 15.87083,
+        "population": 75641
+    },
+    {
+        "id": 3199145,
+        "name": "Ilidža",
+        "region": "Federation of B&H",
+        "lat": 43.83148,
+        "lng": 18.30697,
+        "population": 71277
+    },
+    {
+        "id": 3196079,
+        "name": "Lukavac",
+        "region": "Federation of B&H",
+        "lat": 44.54245,
+        "lng": 18.52618,
+        "population": 44520
+    },
+    {
+        "id": 3203099,
+        "name": "Bugojno",
+        "region": "Federation of B&H",
+        "lat": 44.05722,
+        "lng": 17.45083,
+        "population": 41378
+    },
+    {
+        "id": 3203521,
+        "name": "Brčko",
+        "region": "Brčko",
+        "lat": 44.87162,
+        "lng": 18.8163,
+        "population": 38968
+    },
+    {
+        "id": 3204186,
+        "name": "Bijeljina",
+        "region": "Srpska",
+        "lat": 44.75874,
+        "lng": 19.21437,
+        "population": 37692
+    },
+    {
+        "id": 3192409,
+        "name": "Prijedor",
+        "region": "Srpska",
+        "lat": 44.97991,
+        "lng": 16.71401,
+        "population": 36347
+    },
+    {
+        "id": 3188893,
+        "name": "Trebinje",
+        "region": "Srpska",
+        "lat": 42.71197,
+        "lng": 18.34362,
+        "population": 33178
+    },
+    {
+        "id": 3188924,
+        "name": "Travnik",
+        "region": "Federation of B&H",
+        "lat": 44.22637,
+        "lng": 17.66583,
+        "population": 31127
+    },
+    {
+        "id": 3201984,
+        "name": "Doboj",
+        "region": "Srpska",
+        "lat": 44.73179,
+        "lng": 18.08698,
+        "population": 27235
+    },
+    {
+        "id": 3202822,
+        "name": "Cazin",
+        "region": "Federation of B&H",
+        "lat": 44.96694,
+        "lng": 15.94306,
+        "population": 21741
+    },
+    {
+        "id": 3188225,
+        "name": "Velika Kladuša",
+        "region": "Federation of B&H",
+        "lat": 45.18497,
+        "lng": 15.80579,
+        "population": 19330
+    },
+    {
+        "id": 3187609,
+        "name": "Visoko",
+        "region": "Federation of B&H",
+        "lat": 43.98889,
+        "lng": 18.17806,
+        "population": 17890
+    },
+    {
+        "id": 3200396,
+        "name": "Goražde",
+        "region": "Federation of B&H",
+        "lat": 43.66795,
+        "lng": 18.97564,
+        "population": 17650
+    },
+    {
+        "id": 3337476,
+        "name": "Konjic",
+        "region": "Federation of B&H",
+        "lat": 43.65126,
+        "lng": 17.96082,
+        "population": 15950
+    },
+    {
+        "id": 3199779,
+        "name": "Gračanica",
+        "region": "Federation of B&H",
+        "lat": 44.70307,
+        "lng": 18.3101,
+        "population": 15758
+    },
+    {
+        "id": 3199744,
+        "name": "Gradačac",
+        "region": "Federation of B&H",
+        "lat": 44.87851,
+        "lng": 18.42764,
+        "population": 15659
+    },
+    {
+        "id": 3203653,
+        "name": "Bosanska Krupa",
+        "region": "Federation of B&H",
+        "lat": 44.8825,
+        "lng": 16.15139,
+        "population": 15193
+    }
+]

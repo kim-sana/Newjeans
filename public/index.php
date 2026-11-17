@@ -11,13 +11,18 @@ use App\Controllers\Admin\GalleryController;
 use App\Controllers\Admin\HistoryController;
 use App\Controllers\Admin\MemberController;
 use App\Controllers\Admin\NewsController;
+use App\Controllers\Admin\OrderController;
 use App\Controllers\Admin\SongController;
 use App\Controllers\Public\AboutController;
+use App\Controllers\Public\CartController;
+use App\Controllers\Public\CheckoutController;
 use App\Controllers\Public\DiscographyController;
 use App\Controllers\Public\GalleryController as PublicGalleryController;
 use App\Controllers\Public\HomeController;
 use App\Controllers\Public\NewsController as PublicNewsController;
+use App\Controllers\Public\PaymentController;
 use App\Controllers\Public\ScheduleController;
+use App\Controllers\Public\ShippingController;
 use App\Core\Auth;
 use App\Core\Request;
 use App\Core\Response;
@@ -71,6 +76,20 @@ $router->get('/news', [PublicNewsController::class, 'index']);
 $router->get('/news/{slug}', [PublicNewsController::class, 'show']);
 $router->get('/about', [AboutController::class, 'index']);
 $router->get('/gallery', [PublicGalleryController::class, 'index']);
+
+$router->get('/cart', [CartController::class, 'index']);
+$router->post('/cart/items', [CartController::class, 'add']);
+$router->post('/cart/items/{id}', [CartController::class, 'update']);
+$router->post('/cart/items/{id}/remove', [CartController::class, 'remove']);
+
+$router->get('/checkout', [CheckoutController::class, 'show']);
+$router->post('/checkout', [CheckoutController::class, 'store']);
+$router->get('/checkout/{token}/payment', [PaymentController::class, 'show']);
+$router->post('/checkout/{token}/pay', [PaymentController::class, 'pay']);
+$router->get('/orders/{token}', [PaymentController::class, 'status']);
+
+$router->get('/shipping/cities', [ShippingController::class, 'cities']);
+$router->get('/shipping/estimate', [ShippingController::class, 'estimate']);
 
 $router->get('/index.html', static fn (): Response => Response::redirect(url('/'), 301));
 $router->get('/home-legacy.html', static fn (): Response => Response::redirect(url('/'), 301));
@@ -149,6 +168,9 @@ $router->post('/admin/gallery', [GalleryController::class, 'store']);
 $router->get('/admin/gallery/{id}/edit', [GalleryController::class, 'edit']);
 $router->post('/admin/gallery/{id}', [GalleryController::class, 'update']);
 $router->post('/admin/gallery/{id}/delete', [GalleryController::class, 'destroy']);
+
+$router->get('/admin/orders', [OrderController::class, 'index']);
+$router->get('/admin/orders/{id}', [OrderController::class, 'show']);
 
 $requestPath = parse_url((string) ($_SERVER['REQUEST_URI'] ?? '/'), PHP_URL_PATH);
 $requestPath = is_string($requestPath) && $requestPath !== '' ? $requestPath : '/';

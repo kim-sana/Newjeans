@@ -1,0 +1,138 @@
+[
+    {
+        "id": 611717,
+        "name": "Tbilisi",
+        "region": "Tbilisi",
+        "lat": 41.69143,
+        "lng": 44.83412,
+        "population": 1049498
+    },
+    {
+        "id": 615532,
+        "name": "Batumi",
+        "region": "Adjara",
+        "lat": 41.64077,
+        "lng": 41.6306,
+        "population": 186949
+    },
+    {
+        "id": 613607,
+        "name": "Kutaisi",
+        "region": "Imereti",
+        "lat": 42.26791,
+        "lng": 42.69459,
+        "population": 135201
+    },
+    {
+        "id": 612287,
+        "name": "Rustavi",
+        "region": "Kvemo Kartli",
+        "lat": 41.56271,
+        "lng": 44.9787,
+        "population": 128249
+    },
+    {
+        "id": 611847,
+        "name": "Sokhumi",
+        "region": "Abkhazia",
+        "lat": 43.00697,
+        "lng": 40.9893,
+        "population": 65439
+    },
+    {
+        "id": 614455,
+        "name": "Gori",
+        "region": "Shida Kartli",
+        "lat": 41.98532,
+        "lng": 44.1129,
+        "population": 41933
+    },
+    {
+        "id": 612366,
+        "name": "Poti",
+        "region": "Samegrelo and Zemo Svaneti",
+        "lat": 42.14272,
+        "lng": 41.67384,
+        "population": 41175
+    },
+    {
+        "id": 610824,
+        "name": "Zugdidi",
+        "region": "Samegrelo and Zemo Svaneti",
+        "lat": 42.5084,
+        "lng": 41.86796,
+        "population": 40067
+    },
+    {
+        "id": 611403,
+        "name": "Ts’khinvali",
+        "region": "Shida Kartli",
+        "lat": 42.22764,
+        "lng": 43.96861,
+        "population": 32180
+    },
+    {
+        "id": 615912,
+        "name": "Stantsiya Novyy Afon",
+        "region": "Abkhazia",
+        "lat": 43.08056,
+        "lng": 40.83833,
+        "population": 26636
+    },
+    {
+        "id": 613074,
+        "name": "Marneuli",
+        "region": "Kvemo Kartli",
+        "lat": 41.48758,
+        "lng": 44.79845,
+        "population": 26400
+    },
+    {
+        "id": 613988,
+        "name": "Khashuri",
+        "region": "Shida Kartli",
+        "lat": 41.99733,
+        "lng": 43.59905,
+        "population": 23949
+    },
+    {
+        "id": 612126,
+        "name": "Samtredia",
+        "region": "Imereti",
+        "lat": 42.1537,
+        "lng": 42.33517,
+        "population": 21063
+    },
+    {
+        "id": 610864,
+        "name": "Zestaponi",
+        "region": "Imereti",
+        "lat": 42.10752,
+        "lng": 43.03291,
+        "population": 20183
+    },
+    {
+        "id": 611694,
+        "name": "Telavi",
+        "region": "Kakheti",
+        "lat": 41.91957,
+        "lng": 45.47002,
+        "population": 19875
+    },
+    {
+        "id": 613762,
+        "name": "Kobuleti",
+        "region": "Adjara",
+        "lat": 41.83283,
+        "lng": 41.77823,
+        "population": 17538
+    },
+    {
+        "id": 615860,
+        "name": "Akhaltsikhe",
+        "region": "Samtskhe-Javakheti",
+        "lat": 41.63952,
+        "lng": 42.98604,
+        "population": 17445
+    }
+]

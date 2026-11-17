@@ -37,6 +37,31 @@ final class DashboardController
             ];
         }
 
+        try {
+            $totalOrders = (int) $pdo->query('SELECT COUNT(*) FROM orders')->fetchColumn();
+            $pendingOrders = (int) $pdo->query(
+                "SELECT COUNT(*) FROM orders WHERE status = 'PENDING_PAYMENT'"
+            )->fetchColumn();
+        } catch (\PDOException) {
+            $totalOrders = 0;
+            $pendingOrders = 0;
+        }
+
+        $counts[] = [
+            'table' => 'orders',
+            'label' => 'Orders',
+            'icon' => 'bi-receipt',
+            'theme' => 'warning',
+            'count' => $totalOrders,
+        ];
+        $counts[] = [
+            'table' => 'orders',
+            'label' => 'Pending Orders',
+            'icon' => 'bi-hourglass-split',
+            'theme' => 'danger',
+            'count' => $pendingOrders,
+        ];
+
         $publishedNews = (int) $pdo->query(
             "SELECT COUNT(*) FROM news WHERE status = 'published' AND deleted_at IS NULL"
         )->fetchColumn();

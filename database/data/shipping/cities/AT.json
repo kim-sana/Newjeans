@@ -1,0 +1,530 @@
+[
+    {
+        "id": 2761369,
+        "name": "Vienna",
+        "region": "Vienna",
+        "lat": 48.20849,
+        "lng": 16.37208,
+        "population": 1691468
+    },
+    {
+        "id": 2778067,
+        "name": "Graz",
+        "region": "Styria",
+        "lat": 47.06733,
+        "lng": 15.44197,
+        "population": 303270
+    },
+    {
+        "id": 2772400,
+        "name": "Linz",
+        "region": "Upper Austria",
+        "lat": 48.30639,
+        "lng": 14.28611,
+        "population": 204846
+    },
+    {
+        "id": 8063098,
+        "name": "Favoriten",
+        "region": "Vienna",
+        "lat": 48.16116,
+        "lng": 16.38233,
+        "population": 201882
+    },
+    {
+        "id": 11903636,
+        "name": "Donaustadt",
+        "region": "Vienna",
+        "lat": 48.2333,
+        "lng": 16.46002,
+        "population": 187007
+    },
+    {
+        "id": 2779469,
+        "name": "Floridsdorf",
+        "region": "Vienna",
+        "lat": 48.25,
+        "lng": 16.4,
+        "population": 162779
+    },
+    {
+        "id": 2766824,
+        "name": "Salzburg",
+        "region": "Salzburg",
+        "lat": 47.79941,
+        "lng": 13.04399,
+        "population": 157245
+    },
+    {
+        "id": 2775220,
+        "name": "Innsbruck",
+        "region": "Tyrol",
+        "lat": 47.26266,
+        "lng": 11.39454,
+        "population": 132493
+    },
+    {
+        "id": 2769359,
+        "name": "Ottakring",
+        "region": "Vienna",
+        "lat": 48.21667,
+        "lng": 16.3,
+        "population": 104627
+    },
+    {
+        "id": 2765028,
+        "name": "Simmering",
+        "region": "Vienna",
+        "lat": 48.18333,
+        "lng": 16.43333,
+        "population": 101420
+    },
+    {
+        "id": 2774326,
+        "name": "Klagenfurt am Wörthersee",
+        "region": "Carinthia",
+        "lat": 46.62472,
+        "lng": 14.30528,
+        "population": 100316
+    },
+    {
+        "id": 12214069,
+        "name": "Landstraße",
+        "region": "Vienna",
+        "lat": 48.2019,
+        "lng": 16.38792,
+        "population": 98389
+    },
+    {
+        "id": 2775371,
+        "name": "Penzing",
+        "region": "Vienna",
+        "lat": 48.2,
+        "lng": 16.26667,
+        "population": 98176
+    },
+    {
+        "id": 2771706,
+        "name": "Meidling",
+        "region": "Vienna",
+        "lat": 48.16667,
+        "lng": 16.33333,
+        "population": 97624
+    },
+    {
+        "id": 12214081,
+        "name": "Brigittenau",
+        "region": "Vienna",
+        "lat": 48.24275,
+        "lng": 16.37551,
+        "population": 86967
+    },
+    {
+        "id": 2779139,
+        "name": "Fünfhaus",
+        "region": "Vienna",
+        "lat": 48.19596,
+        "lng": 16.3183,
+        "population": 76396
+    },
+    {
+        "id": 2600996,
+        "name": "Döbling",
+        "region": "Vienna",
+        "lat": 48.25,
+        "lng": 16.33333,
+        "population": 75418
+    },
+    {
+        "id": 2762372,
+        "name": "Villach",
+        "region": "Carinthia",
+        "lat": 46.61028,
+        "lng": 13.85583,
+        "population": 58882
+    },
+    {
+        "id": 2776488,
+        "name": "Hernals",
+        "region": "Vienna",
+        "lat": 48.22544,
+        "lng": 16.30871,
+        "population": 57546
+    },
+    {
+        "id": 12214070,
+        "name": "Margareten",
+        "region": "Vienna",
+        "lat": 48.1855,
+        "lng": 16.35373,
+        "population": 54412
+    },
+    {
+        "id": 2780180,
+        "name": "Eisenzicken",
+        "region": "Burgenland",
+        "lat": 47.27603,
+        "lng": 16.25908,
+        "population": 54353
+    },
+    {
+        "id": 2776421,
+        "name": "Hietzing",
+        "region": "Vienna",
+        "lat": 48.18623,
+        "lng": 16.2965,
+        "population": 54265
+    },
+    {
+        "id": 12196319,
+        "name": "Währing",
+        "region": "Vienna",
+        "lat": 48.22611,
+        "lng": 16.34484,
+        "population": 51402
+    },
+    {
+        "id": 2782315,
+        "name": "Aspern",
+        "region": "Vienna",
+        "lat": 48.21806,
+        "lng": 16.48306,
+        "population": 50687
+    },
+    {
+        "id": 2780741,
+        "name": "Dornbirn",
+        "region": "Vorarlberg",
+        "lat": 47.41427,
+        "lng": 9.74195,
+        "population": 49278
+    },
+    {
+        "id": 2761353,
+        "name": "Wiener Neustadt",
+        "region": "Lower Austria",
+        "lat": 47.80485,
+        "lng": 16.23196,
+        "population": 44820
+    },
+    {
+        "id": 12214080,
+        "name": "Alsergrund",
+        "region": "Vienna",
+        "lat": 48.22321,
+        "lng": 16.35506,
+        "population": 41645
+    },
+    {
+        "id": 2764359,
+        "name": "Steyr",
+        "region": "Upper Austria",
+        "lat": 48.04274,
+        "lng": 14.42127,
+        "population": 38331
+    },
+    {
+        "id": 2775479,
+        "name": "Hötting",
+        "region": "Tyrol",
+        "lat": 47.26815,
+        "lng": 11.36868,
+        "population": 35043
+    },
+    {
+        "id": 2779674,
+        "name": "Feldkirch",
+        "region": "Vorarlberg",
+        "lat": 47.23645,
+        "lng": 9.59734,
+        "population": 33420
+    },
+    {
+        "id": 11903637,
+        "name": "Jakomini",
+        "region": "Styria",
+        "lat": 47.05441,
+        "lng": 15.44984,
+        "population": 32912
+    },
+    {
+        "id": 2768442,
+        "name": "Pradl",
+        "region": "Tyrol",
+        "lat": 47.26539,
+        "lng": 11.4152,
+        "population": 32588
+    },
+    {
+        "id": 12214072,
+        "name": "Neubau",
+        "region": "Vienna",
+        "lat": 48.20172,
+        "lng": 16.34715,
+        "population": 31521
+    },
+    {
+        "id": 12214071,
+        "name": "Mariahilf",
+        "region": "Vienna",
+        "lat": 48.19571,
+        "lng": 16.35215,
+        "population": 31381
+    },
+    {
+        "id": 11903638,
+        "name": "Lend",
+        "region": "Styria",
+        "lat": 47.08256,
+        "lng": 15.41589,
+        "population": 31147
+    },
+    {
+        "id": 2781503,
+        "name": "Bregenz",
+        "region": "Vorarlberg",
+        "lat": 47.50311,
+        "lng": 9.7471,
+        "population": 29806
+    },
+    {
+        "id": 11903642,
+        "name": "Gries",
+        "region": "Styria",
+        "lat": 47.06236,
+        "lng": 15.42421,
+        "population": 29363
+    },
+    {
+        "id": 2782067,
+        "name": "Baden",
+        "region": "Lower Austria",
+        "lat": 48.00543,
+        "lng": 16.23264,
+        "population": 26286
+    },
+    {
+        "id": 2763423,
+        "name": "Traun",
+        "region": "Upper Austria",
+        "lat": 48.22086,
+        "lng": 14.23833,
+        "population": 25345
+    },
+    {
+        "id": 2760910,
+        "name": "Wolfsberg",
+        "region": "Carinthia",
+        "lat": 46.84056,
+        "lng": 14.84417,
+        "population": 25035
+    },
+    {
+        "id": 11903639,
+        "name": "Geidorf",
+        "region": "Styria",
+        "lat": 47.08393,
+        "lng": 15.444,
+        "population": 24767
+    },
+    {
+        "id": 12214073,
+        "name": "Josefstadt",
+        "region": "Vienna",
+        "lat": 48.21243,
+        "lng": 16.34549,
+        "population": 24499
+    },
+    {
+        "id": 2772173,
+        "name": "Lustenau",
+        "region": "Vorarlberg",
+        "lat": 47.42642,
+        "lng": 9.65851,
+        "population": 22821
+    },
+    {
+        "id": 2766429,
+        "name": "Sankt Pölten",
+        "region": "Lower Austria",
+        "lat": 48.20762,
+        "lng": 15.63725,
+        "population": 21911
+    },
+    {
+        "id": 2779912,
+        "name": "Essling",
+        "region": "Vienna",
+        "lat": 48.21289,
+        "lng": 16.52442,
+        "population": 21200
+    },
+    {
+        "id": 2771335,
+        "name": "Mödling",
+        "region": "Lower Austria",
+        "lat": 48.08605,
+        "lng": 16.28921,
+        "population": 20555
+    },
+    {
+        "id": 2780361,
+        "name": "Eggenberg",
+        "region": "Styria",
+        "lat": 47.07,
+        "lng": 15.39871,
+        "population": 20511
+    },
+    {
+        "id": 2766447,
+        "name": "Sankt Peter",
+        "region": "Carinthia",
+        "lat": 46.62978,
+        "lng": 14.34016,
+        "population": 20320
+    },
+    {
+        "id": 2766522,
+        "name": "Sankt Martin",
+        "region": "Carinthia",
+        "lat": 46.61667,
+        "lng": 14.28333,
+        "population": 20000
+    },
+    {
+        "id": 11903641,
+        "name": "Andritz",
+        "region": "Styria",
+        "lat": 47.11387,
+        "lng": 15.42348,
+        "population": 19020
+    },
+    {
+        "id": 2782480,
+        "name": "Ansfelden",
+        "region": "Upper Austria",
+        "lat": 48.20969,
+        "lng": 14.29004,
+        "population": 18251
+    },
+    {
+        "id": 2761164,
+        "name": "Wilten",
+        "region": "Tyrol",
+        "lat": 47.25829,
+        "lng": 11.38808,
+        "population": 18142
+    },
+    {
+        "id": 2761524,
+        "name": "Wels",
+        "region": "Upper Austria",
+        "lat": 48.16667,
+        "lng": 14.03333,
+        "population": 16857
+    },
+    {
+        "id": 2766922,
+        "name": "Saalfelden am Steinernen Meer",
+        "region": "Salzburg",
+        "lat": 47.42681,
+        "lng": 12.848,
+        "population": 16790
+    },
+    {
+        "id": 2775260,
+        "name": "Innere Stadt",
+        "region": "Vienna",
+        "lat": 48.20906,
+        "lng": 16.37135,
+        "population": 16450
+    },
+    {
+        "id": 2775742,
+        "name": "Hohenems",
+        "region": "Vorarlberg",
+        "lat": 47.36121,
+        "lng": 9.68694,
+        "population": 16317
+    },
+    {
+        "id": 2764279,
+        "name": "Stockerau",
+        "region": "Lower Austria",
+        "lat": 48.38333,
+        "lng": 16.21667,
+        "population": 16292
+    },
+    {
+        "id": 2764178,
+        "name": "Straßgang",
+        "region": "Styria",
+        "lat": 47.03333,
+        "lng": 15.4,
+        "population": 16268
+    },
+    {
+        "id": 11903640,
+        "name": "Sankt Leonhard",
+        "region": "Styria",
+        "lat": 47.06924,
+        "lng": 15.45784,
+        "population": 15853
+    },
+    {
+        "id": 2761436,
+        "name": "Wetzelsdorf",
+        "region": "Styria",
+        "lat": 47.05293,
+        "lng": 15.39923,
+        "population": 15687
+    },
+    {
+        "id": 2773913,
+        "name": "Klosterneuburg",
+        "region": "Lower Austria",
+        "lat": 48.30521,
+        "lng": 16.32522,
+        "population": 15614
+    },
+    {
+        "id": 2782555,
+        "name": "Amstetten",
+        "region": "Lower Austria",
+        "lat": 48.1229,
+        "lng": 14.87206,
+        "population": 15559
+    },
+    {
+        "id": 2763810,
+        "name": "Telfs",
+        "region": "Tyrol",
+        "lat": 47.30707,
+        "lng": 11.06817,
+        "population": 15229
+    },
+    {
+        "id": 2766446,
+        "name": "Sankt Peter",
+        "region": "Styria",
+        "lat": 47.05,
+        "lng": 15.46667,
+        "population": 15187
+    },
+    {
+        "id": 2781680,
+        "name": "Bludenz",
+        "region": "Vorarlberg",
+        "lat": 47.15476,
+        "lng": 9.82255,
+        "population": 15102
+    },
+    {
+        "id": 2769110,
+        "name": "Perchtoldsdorf",
+        "region": "Lower Austria",
+        "lat": 48.11935,
+        "lng": 16.26607,
+        "population": 15047
+    }
+]

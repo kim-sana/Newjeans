@@ -1,0 +1,410 @@
+[
+    {
+        "id": 792680,
+        "name": "Belgrade",
+        "region": "Central Serbia",
+        "lat": 44.80401,
+        "lng": 20.46513,
+        "population": 1273651
+    },
+    {
+        "id": 787657,
+        "name": "Niš",
+        "region": "Central Serbia",
+        "lat": 43.32472,
+        "lng": 21.90333,
+        "population": 250000
+    },
+    {
+        "id": 3194360,
+        "name": "Novi Sad",
+        "region": "Vojvodina",
+        "lat": 45.25167,
+        "lng": 19.83694,
+        "population": 215400
+    },
+    {
+        "id": 787607,
+        "name": "Novi Beograd",
+        "region": "Central Serbia",
+        "lat": 44.80556,
+        "lng": 20.42417,
+        "population": 209763
+    },
+    {
+        "id": 783920,
+        "name": "Zemun",
+        "region": "Central Serbia",
+        "lat": 44.8458,
+        "lng": 20.40116,
+        "population": 155591
+    },
+    {
+        "id": 789128,
+        "name": "Kragujevac",
+        "region": "Central Serbia",
+        "lat": 44.01667,
+        "lng": 20.91667,
+        "population": 147473
+    },
+    {
+        "id": 792078,
+        "name": "Čačak",
+        "region": "Central Serbia",
+        "lat": 43.89139,
+        "lng": 20.34972,
+        "population": 117072
+    },
+    {
+        "id": 3189595,
+        "name": "Subotica",
+        "region": "Vojvodina",
+        "lat": 46.1,
+        "lng": 19.66667,
+        "population": 100000
+    },
+    {
+        "id": 788709,
+        "name": "Leskovac",
+        "region": "Central Serbia",
+        "lat": 42.99806,
+        "lng": 21.94611,
+        "population": 94758
+    },
+    {
+        "id": 787595,
+        "name": "Novi Pazar",
+        "region": "Central Serbia",
+        "lat": 43.13667,
+        "lng": 20.51222,
+        "population": 85996
+    },
+    {
+        "id": 789107,
+        "name": "Kraljevo",
+        "region": "Central Serbia",
+        "lat": 43.72583,
+        "lng": 20.68944,
+        "population": 82846
+    },
+    {
+        "id": 783814,
+        "name": "Zrenjanin",
+        "region": "Vojvodina",
+        "lat": 45.38361,
+        "lng": 20.38194,
+        "population": 79773
+    },
+    {
+        "id": 787237,
+        "name": "Pančevo",
+        "region": "Vojvodina",
+        "lat": 44.87177,
+        "lng": 20.64167,
+        "population": 76654
+    },
+    {
+        "id": 788975,
+        "name": "Kruševac",
+        "region": "Central Serbia",
+        "lat": 43.58,
+        "lng": 21.33389,
+        "population": 75256
+    },
+    {
+        "id": 3188434,
+        "name": "Užice",
+        "region": "Central Serbia",
+        "lat": 43.85861,
+        "lng": 19.84878,
+        "population": 63577
+    },
+    {
+        "id": 785756,
+        "name": "Smederevo",
+        "region": "Central Serbia",
+        "lat": 44.66436,
+        "lng": 20.92763,
+        "population": 62000
+    },
+    {
+        "id": 3188402,
+        "name": "Valjevo",
+        "region": "Central Serbia",
+        "lat": 44.27513,
+        "lng": 19.89821,
+        "population": 61035
+    },
+    {
+        "id": 784227,
+        "name": "Vranje",
+        "region": "Central Serbia",
+        "lat": 42.55139,
+        "lng": 21.90028,
+        "population": 56199
+    },
+    {
+        "id": 3191376,
+        "name": "Šabac",
+        "region": "Central Serbia",
+        "lat": 44.74667,
+        "lng": 19.69,
+        "population": 55114
+    },
+    {
+        "id": 784024,
+        "name": "Zaječar",
+        "region": "Central Serbia",
+        "lat": 43.90358,
+        "lng": 22.26405,
+        "population": 49800
+    },
+    {
+        "id": 784873,
+        "name": "Trstenik",
+        "region": "Central Serbia",
+        "lat": 43.61694,
+        "lng": 21.0025,
+        "population": 49043
+    },
+    {
+        "id": 3190342,
+        "name": "Sombor",
+        "region": "Vojvodina",
+        "lat": 45.77417,
+        "lng": 19.11222,
+        "population": 48454
+    },
+    {
+        "id": 789518,
+        "name": "Kikinda",
+        "region": "Vojvodina",
+        "lat": 45.82972,
+        "lng": 20.46528,
+        "population": 41935
+    },
+    {
+        "id": 786827,
+        "name": "Požarevac",
+        "region": "Central Serbia",
+        "lat": 44.62133,
+        "lng": 21.18782,
+        "population": 41736
+    },
+    {
+        "id": 787050,
+        "name": "Pirot",
+        "region": "Central Serbia",
+        "lat": 43.15306,
+        "lng": 22.58611,
+        "population": 40678
+    },
+    {
+        "id": 792456,
+        "name": "Bor",
+        "region": "Central Serbia",
+        "lat": 44.07488,
+        "lng": 22.09591,
+        "population": 39387
+    },
+    {
+        "id": 3190103,
+        "name": "Sremska Mitrovica",
+        "region": "Vojvodina",
+        "lat": 44.97639,
+        "lng": 19.61222,
+        "population": 39084
+    },
+    {
+        "id": 784136,
+        "name": "Vršac",
+        "region": "Vojvodina",
+        "lat": 45.11667,
+        "lng": 21.30361,
+        "population": 36300
+    },
+    {
+        "id": 789923,
+        "name": "Jagodina",
+        "region": "Central Serbia",
+        "lat": 43.97713,
+        "lng": 21.26121,
+        "population": 35589
+    },
+    {
+        "id": 3191429,
+        "name": "Ruma",
+        "region": "Vojvodina",
+        "lat": 45.00806,
+        "lng": 19.82222,
+        "population": 32229
+    },
+    {
+        "id": 3204674,
+        "name": "Bačka Palanka",
+        "region": "Vojvodina",
+        "lat": 45.24966,
+        "lng": 19.39664,
+        "population": 29449
+    },
+    {
+        "id": 786690,
+        "name": "Prokuplje",
+        "region": "Central Serbia",
+        "lat": 43.23417,
+        "lng": 21.58806,
+        "population": 27673
+    },
+    {
+        "id": 785753,
+        "name": "Smederevska Palanka",
+        "region": "Central Serbia",
+        "lat": 44.36548,
+        "lng": 20.95885,
+        "population": 27000
+    },
+    {
+        "id": 3187297,
+        "name": "Vrbas",
+        "region": "Vojvodina",
+        "lat": 45.57139,
+        "lng": 19.64083,
+        "population": 25907
+    },
+    {
+        "id": 792814,
+        "name": "Bečej",
+        "region": "Vojvodina",
+        "lat": 45.61632,
+        "lng": 20.03331,
+        "population": 25774
+    },
+    {
+        "id": 6619277,
+        "name": "Knjazevac",
+        "region": "Central Serbia",
+        "lat": 43.56634,
+        "lng": 22.25701,
+        "population": 25000
+    },
+    {
+        "id": 790015,
+        "name": "Inđija",
+        "region": "Vojvodina",
+        "lat": 45.04816,
+        "lng": 20.08165,
+        "population": 24450
+    },
+    {
+        "id": 793111,
+        "name": "Aranđelovac",
+        "region": "Central Serbia",
+        "lat": 44.30694,
+        "lng": 20.56,
+        "population": 24309
+    },
+    {
+        "id": 790367,
+        "name": "Gornji Milanovac",
+        "region": "Central Serbia",
+        "lat": 44.02603,
+        "lng": 20.46152,
+        "population": 23982
+    },
+    {
+        "id": 788771,
+        "name": "Lazarevac",
+        "region": "Central Serbia",
+        "lat": 44.38534,
+        "lng": 20.2557,
+        "population": 23551
+    },
+    {
+        "id": 785615,
+        "name": "Sremčica",
+        "region": "Central Serbia",
+        "lat": 44.67653,
+        "lng": 20.39232,
+        "population": 23000
+    },
+    {
+        "id": 791678,
+        "name": "Ćuprija",
+        "region": "Central Serbia",
+        "lat": 43.9275,
+        "lng": 21.37,
+        "population": 20585
+    },
+    {
+        "id": 785965,
+        "name": "Senta",
+        "region": "Vojvodina",
+        "lat": 45.9275,
+        "lng": 20.07722,
+        "population": 20302
+    },
+    {
+        "id": 3196153,
+        "name": "Loznica",
+        "region": "Central Serbia",
+        "lat": 44.53118,
+        "lng": 19.24267,
+        "population": 19515
+    },
+    {
+        "id": 3204793,
+        "name": "Apatin",
+        "region": "Vojvodina",
+        "lat": 45.6726,
+        "lng": 18.978,
+        "population": 18320
+    },
+    {
+        "id": 3200802,
+        "name": "Futog",
+        "region": "Vojvodina",
+        "lat": 45.23874,
+        "lng": 19.71416,
+        "population": 18018
+    },
+    {
+        "id": 787718,
+        "name": "Negotin",
+        "region": "Central Serbia",
+        "lat": 44.22639,
+        "lng": 22.53083,
+        "population": 17612
+    },
+    {
+        "id": 787516,
+        "name": "Obrenovac",
+        "region": "Central Serbia",
+        "lat": 44.65486,
+        "lng": 20.20017,
+        "population": 16821
+    },
+    {
+        "id": 785559,
+        "name": "Stara Pazova",
+        "region": "Vojvodina",
+        "lat": 44.985,
+        "lng": 20.16083,
+        "population": 16217
+    },
+    {
+        "id": 3204672,
+        "name": "Bačka Topola",
+        "region": "Vojvodina",
+        "lat": 45.81516,
+        "lng": 19.6318,
+        "population": 16154
+    },
+    {
+        "id": 787615,
+        "name": "Nova Pazova",
+        "region": "Vojvodina",
+        "lat": 44.94366,
+        "lng": 20.21931,
+        "population": 15488
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 3578959,
+        "name": "Les Abymes",
+        "region": "Guadeloupe",
+        "lat": 16.273,
+        "lng": -61.50507,
+        "population": 53514
+    },
+    {
+        "id": 3579767,
+        "name": "Baie-Mahault",
+        "region": "Guadeloupe",
+        "lat": 16.26738,
+        "lng": -61.58543,
+        "population": 30837
+    },
+    {
+        "id": 3578978,
+        "name": "Le Gosier",
+        "region": "Guadeloupe",
+        "lat": 16.20618,
+        "lng": -61.49306,
+        "population": 28698
+    },
+    {
+        "id": 3578682,
+        "name": "Petit-Bourg",
+        "region": "Guadeloupe",
+        "lat": 16.19163,
+        "lng": -61.5914,
+        "population": 24994
+    },
+    {
+        "id": 3578466,
+        "name": "Sainte-Anne",
+        "region": "Guadeloupe",
+        "lat": 16.22564,
+        "lng": -61.38098,
+        "population": 22859
+    },
+    {
+        "id": 3578967,
+        "name": "Le Moule",
+        "region": "Guadeloupe",
+        "lat": 16.33164,
+        "lng": -61.34656,
+        "population": 22692
+    },
+    {
+        "id": 3578447,
+        "name": "Sainte-Rose",
+        "region": "Guadeloupe",
+        "lat": 16.33264,
+        "lng": -61.6969,
+        "population": 20192
+    },
+    {
+        "id": 3579585,
+        "name": "Capesterre-Belle-Eau",
+        "region": "Guadeloupe",
+        "lat": 16.04495,
+        "lng": -61.56425,
+        "population": 19821
+    },
+    {
+        "id": 3578599,
+        "name": "Pointe-à-Pitre",
+        "region": "Guadeloupe",
+        "lat": 16.23638,
+        "lng": -61.53459,
+        "population": 15181
+    },
+    {
+        "id": 3579732,
+        "name": "Basse-Terre",
+        "region": "Guadeloupe",
+        "lat": 15.99714,
+        "lng": -61.73214,
+        "population": 11472
+    }
+]

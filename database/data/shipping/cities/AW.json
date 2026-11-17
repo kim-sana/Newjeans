@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3577154,
+        "name": "Oranjestad",
+        "region": null,
+        "lat": 12.52398,
+        "lng": -70.02703,
+        "population": 29998
+    },
+    {
+        "id": 3577159,
+        "name": "Noord",
+        "region": null,
+        "lat": 12.56596,
+        "lng": -70.03198,
+        "population": 24193
+    },
+    {
+        "id": 3577072,
+        "name": "Tanki Leendert",
+        "region": null,
+        "lat": 12.53914,
+        "lng": -70.02004,
+        "population": 21500
+    },
+    {
+        "id": 3577102,
+        "name": "Santa Cruz",
+        "region": null,
+        "lat": 12.50953,
+        "lng": -69.98094,
+        "population": 15236
+    }
+]

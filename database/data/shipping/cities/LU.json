@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2960316,
+        "name": "Luxembourg",
+        "region": "Luxembourg",
+        "lat": 49.60982,
+        "lng": 6.13268,
+        "population": 76684
+    },
+    {
+        "id": 2960596,
+        "name": "Esch-sur-Alzette",
+        "region": "Esch-sur-Alzette",
+        "lat": 49.49583,
+        "lng": 5.98056,
+        "population": 36625
+    },
+    {
+        "id": 2960634,
+        "name": "Dudelange",
+        "region": "Esch-sur-Alzette",
+        "lat": 49.48056,
+        "lng": 6.0875,
+        "population": 18013
+    }
+]

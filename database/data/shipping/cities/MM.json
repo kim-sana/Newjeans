@@ -1,0 +1,1426 @@
+[
+    {
+        "id": 1298824,
+        "name": "Yangon",
+        "region": "Yangon",
+        "lat": 16.80528,
+        "lng": 96.15611,
+        "population": 4477638
+    },
+    {
+        "id": 1311874,
+        "name": "Mandalay",
+        "region": "Mandalay Region",
+        "lat": 21.97473,
+        "lng": 96.08359,
+        "population": 1208099
+    },
+    {
+        "id": 6611854,
+        "name": "Nay Pyi Taw",
+        "region": "Nay Pyi Taw",
+        "lat": 19.745,
+        "lng": 96.12972,
+        "population": 925000
+    },
+    {
+        "id": 8740157,
+        "name": "Hlaingthaya",
+        "region": "Yangon",
+        "lat": 16.85,
+        "lng": 96.06667,
+        "population": 687867
+    },
+    {
+        "id": 1308465,
+        "name": "Mawlamyine",
+        "region": "Mon",
+        "lat": 16.49051,
+        "lng": 97.62825,
+        "population": 438861
+    },
+    {
+        "id": 1321218,
+        "name": "Kalemyo",
+        "region": "Sagaing Region",
+        "lat": 23.19014,
+        "lng": 94.06405,
+        "population": 348573
+    },
+    {
+        "id": 1321937,
+        "name": "Insein",
+        "region": "Yangon",
+        "lat": 16.88874,
+        "lng": 96.10257,
+        "population": 247675
+    },
+    {
+        "id": 1300466,
+        "name": "Bago",
+        "region": "Bago Region",
+        "lat": 17.33521,
+        "lng": 96.48135,
+        "population": 244376
+    },
+    {
+        "id": 1329221,
+        "name": "Amarapura",
+        "region": "Mandalay Region",
+        "lat": 21.90709,
+        "lng": 96.04894,
+        "population": 237618
+    },
+    {
+        "id": 1328421,
+        "name": "Pathein",
+        "region": "Ayeyarwady",
+        "lat": 16.77919,
+        "lng": 94.73212,
+        "population": 237089
+    },
+    {
+        "id": 1285693,
+        "name": "Yawnghwe",
+        "region": "Shan State",
+        "lat": 20.65973,
+        "lng": 96.93376,
+        "population": 188083
+    },
+    {
+        "id": 1308522,
+        "name": "Monywa",
+        "region": "Sagaing Region",
+        "lat": 22.10856,
+        "lng": 95.13583,
+        "population": 182011
+    },
+    {
+        "id": 1316752,
+        "name": "Kyaukpyu",
+        "region": "Rakhine",
+        "lat": 19.42793,
+        "lng": 93.55134,
+        "population": 180000
+    },
+    {
+        "id": 1295765,
+        "name": "Sittwe",
+        "region": "Rakhine",
+        "lat": 20.14624,
+        "lng": 92.89835,
+        "population": 177743
+    },
+    {
+        "id": 1309793,
+        "name": "Meiktila",
+        "region": "Mandalay Region",
+        "lat": 20.87776,
+        "lng": 95.85844,
+        "population": 177442
+    },
+    {
+        "id": 1309611,
+        "name": "Myeik",
+        "region": "Tanintharyi Region",
+        "lat": 12.43954,
+        "lng": 98.60028,
+        "population": 173298
+    },
+    {
+        "id": 1319364,
+        "name": "Kēng Tung",
+        "region": "Shan State",
+        "lat": 21.63093,
+        "lng": 99.92676,
+        "population": 171620
+    },
+    {
+        "id": 1308318,
+        "name": "Mu-se",
+        "region": "Shan State",
+        "lat": 23.99742,
+        "lng": 97.90109,
+        "population": 165022
+    },
+    {
+        "id": 1293960,
+        "name": "Taunggyi",
+        "region": "Shan State",
+        "lat": 20.78919,
+        "lng": 97.03776,
+        "population": 160115
+    },
+    {
+        "id": 1307835,
+        "name": "Myingyan",
+        "region": "Mandalay Region",
+        "lat": 21.46002,
+        "lng": 95.3884,
+        "population": 141713
+    },
+    {
+        "id": 1293625,
+        "name": "Dawei",
+        "region": "Tanintharyi Region",
+        "lat": 14.0823,
+        "lng": 98.19151,
+        "population": 136783
+    },
+    {
+        "id": 1309233,
+        "name": "Mingaladon",
+        "region": "Yangon",
+        "lat": 16.92406,
+        "lng": 96.09768,
+        "population": 136000
+    },
+    {
+        "id": 1299154,
+        "name": "Pyay",
+        "region": "Bago Region",
+        "lat": 18.81996,
+        "lng": 95.21562,
+        "population": 135308
+    },
+    {
+        "id": 1325211,
+        "name": "Hinthada",
+        "region": "Ayeyarwady",
+        "lat": 17.64944,
+        "lng": 95.45705,
+        "population": 134947
+    },
+    {
+        "id": 1298073,
+        "name": "Thandwe",
+        "region": "Rakhine",
+        "lat": 18.46537,
+        "lng": 94.36563,
+        "population": 133484
+    },
+    {
+        "id": 1316574,
+        "name": "Kyauktan",
+        "region": "Yangon",
+        "lat": 16.63736,
+        "lng": 96.32512,
+        "population": 132765
+    },
+    {
+        "id": 13589383,
+        "name": "Mingala Tangnyunt",
+        "region": "Yangon",
+        "lat": 16.78855,
+        "lng": 96.17234,
+        "population": 132494
+    },
+    {
+        "id": 1314759,
+        "name": "Lashio",
+        "region": "Shan State",
+        "lat": 22.9359,
+        "lng": 97.7498,
+        "population": 131000
+    },
+    {
+        "id": 1302439,
+        "name": "Pakokku",
+        "region": "Magway",
+        "lat": 21.33489,
+        "lng": 95.08438,
+        "population": 126938
+    },
+    {
+        "id": 1292288,
+        "name": "Thaton",
+        "region": "Mon",
+        "lat": 16.91867,
+        "lng": 97.37001,
+        "population": 123727
+    },
+    {
+        "id": 1328872,
+        "name": "Ann",
+        "region": "Rakhine",
+        "lat": 19.79537,
+        "lng": 94.04791,
+        "population": 119714
+    },
+    {
+        "id": 1309937,
+        "name": "Pyin Oo Lwin",
+        "region": "Mandalay Region",
+        "lat": 22.03501,
+        "lng": 96.45683,
+        "population": 117303
+    },
+    {
+        "id": 1308567,
+        "name": "Möng Yang",
+        "region": "Shan State",
+        "lat": 21.8478,
+        "lng": 99.67651,
+        "population": 117108
+    },
+    {
+        "id": 1319389,
+        "name": "Kyimyindine",
+        "region": "Yangon",
+        "lat": 16.80852,
+        "lng": 96.12415,
+        "population": 111514
+    },
+    {
+        "id": 1481927,
+        "name": "Set Ka Lay",
+        "region": "Yangon",
+        "lat": 16.81435,
+        "lng": 96.11393,
+        "population": 111514
+    },
+    {
+        "id": 1285173,
+        "name": "Yenangyaung",
+        "region": "Magway",
+        "lat": 20.46504,
+        "lng": 94.8712,
+        "population": 110553
+    },
+    {
+        "id": 1290596,
+        "name": "Taungoo",
+        "region": "Bago Region",
+        "lat": 18.94291,
+        "lng": 96.43408,
+        "population": 106945
+    },
+    {
+        "id": 1480266,
+        "name": "San Chaung",
+        "region": "Yangon",
+        "lat": 17.0953,
+        "lng": 96.0992,
+        "population": 99619
+    },
+    {
+        "id": 1292037,
+        "name": "Thayetmyo",
+        "region": "Magway",
+        "lat": 19.32076,
+        "lng": 95.18272,
+        "population": 98185
+    },
+    {
+        "id": 1298987,
+        "name": "Pyinmana",
+        "region": "Nay Pyi Taw",
+        "lat": 19.7381,
+        "lng": 96.20742,
+        "population": 97409
+    },
+    {
+        "id": 1312609,
+        "name": "Magway",
+        "region": "Magway",
+        "lat": 20.14956,
+        "lng": 94.93246,
+        "population": 96954
+    },
+    {
+        "id": 1325259,
+        "name": "Heho",
+        "region": "Shan State",
+        "lat": 20.72315,
+        "lng": 96.82278,
+        "population": 93041
+    },
+    {
+        "id": 1321275,
+        "name": "Kalaw",
+        "region": "Shan State",
+        "lat": 20.63459,
+        "lng": 96.56454,
+        "population": 93032
+    },
+    {
+        "id": 1307741,
+        "name": "Myitkyina",
+        "region": "Kachin State",
+        "lat": 25.38327,
+        "lng": 97.39637,
+        "population": 90894
+    },
+    {
+        "id": 1327659,
+        "name": "Chauk",
+        "region": "Magway",
+        "lat": 20.89921,
+        "lng": 94.81784,
+        "population": 90870
+    },
+    {
+        "id": 1308937,
+        "name": "Mogok",
+        "region": "Mandalay Region",
+        "lat": 22.91766,
+        "lng": 96.50982,
+        "population": 89855
+    },
+    {
+        "id": 1303406,
+        "name": "Nyaunglebin",
+        "region": "Bago Region",
+        "lat": 17.95363,
+        "lng": 96.72247,
+        "population": 89626
+    },
+    {
+        "id": 13589382,
+        "name": "Sangyoung",
+        "region": "Yangon",
+        "lat": 16.80607,
+        "lng": 96.13355,
+        "population": 89618
+    },
+    {
+        "id": 1308415,
+        "name": "Mudon",
+        "region": "Mon",
+        "lat": 16.25624,
+        "lng": 97.7246,
+        "population": 89123
+    },
+    {
+        "id": 1296736,
+        "name": "Shwebo",
+        "region": "Sagaing Region",
+        "lat": 22.56925,
+        "lng": 95.69818,
+        "population": 88914
+    },
+    {
+        "id": 1295087,
+        "name": "Taikkyi",
+        "region": "Yangon",
+        "lat": 17.31439,
+        "lng": 95.96293,
+        "population": 88000
+    },
+    {
+        "id": 1315056,
+        "name": "Lakang",
+        "region": "Kachin State",
+        "lat": 24.66051,
+        "lng": 97.18923,
+        "population": 85423
+    },
+    {
+        "id": 1298482,
+        "name": "Sagaing",
+        "region": "Sagaing Region",
+        "lat": 21.8787,
+        "lng": 95.97965,
+        "population": 78739
+    },
+    {
+        "id": 1292443,
+        "name": "Thanhlyin",
+        "region": "Yangon",
+        "lat": 16.78195,
+        "lng": 96.24678,
+        "population": 78667
+    },
+    {
+        "id": 1326703,
+        "name": "Dawbon",
+        "region": "Ayeyarwady",
+        "lat": 16.51634,
+        "lng": 95.60285,
+        "population": 75325
+    },
+    {
+        "id": 1294041,
+        "name": "Taungdwingyi",
+        "region": "Magway",
+        "lat": 20.0065,
+        "lng": 95.54531,
+        "population": 70094
+    },
+    {
+        "id": 1295395,
+        "name": "Thanlyin",
+        "region": "Yangon",
+        "lat": 16.76887,
+        "lng": 96.24503,
+        "population": 69448
+    },
+    {
+        "id": 1328121,
+        "name": "Bogale",
+        "region": "Ayeyarwady",
+        "lat": 16.29415,
+        "lng": 95.39742,
+        "population": 68938
+    },
+    {
+        "id": 1325814,
+        "name": "Gwa",
+        "region": "Rakhine",
+        "lat": 17.59369,
+        "lng": 94.57996,
+        "population": 66015
+    },
+    {
+        "id": 1323815,
+        "name": "Hpākān",
+        "region": "Kachin State",
+        "lat": 25.6138,
+        "lng": 96.31482,
+        "population": 60123
+    },
+    {
+        "id": 1285899,
+        "name": "Yamethin",
+        "region": "Mandalay Region",
+        "lat": 20.43189,
+        "lng": 96.13875,
+        "population": 59867
+    },
+    {
+        "id": 1296645,
+        "name": "Shwegu",
+        "region": "Kachin State",
+        "lat": 24.22673,
+        "lng": 96.79085,
+        "population": 58696
+    },
+    {
+        "id": 1308078,
+        "name": "Myaungmya",
+        "region": "Ayeyarwady",
+        "lat": 16.59875,
+        "lng": 94.92111,
+        "population": 58205
+    },
+    {
+        "id": 1320944,
+        "name": "Kanbe",
+        "region": "Yangon",
+        "lat": 16.70728,
+        "lng": 96.00168,
+        "population": 58146
+    },
+    {
+        "id": 1319573,
+        "name": "Kawthoung",
+        "region": "Tanintharyi Region",
+        "lat": 9.98238,
+        "lng": 98.55034,
+        "population": 57949
+    },
+    {
+        "id": 1329239,
+        "name": "Myaydo",
+        "region": "Magway",
+        "lat": 19.36838,
+        "lng": 95.21512,
+        "population": 57395
+    },
+    {
+        "id": 1309289,
+        "name": "Minbu",
+        "region": "Magway",
+        "lat": 20.18059,
+        "lng": 94.87595,
+        "population": 57342
+    },
+    {
+        "id": 1292507,
+        "name": "Thanbyuzayat",
+        "region": "Mon",
+        "lat": 15.96893,
+        "lng": 97.72745,
+        "population": 57208
+    },
+    {
+        "id": 1327854,
+        "name": "Buthidaung Town",
+        "region": "Rakhine",
+        "lat": 20.87537,
+        "lng": 92.53,
+        "population": 55545
+    },
+    {
+        "id": 1328218,
+        "name": "Bhamo",
+        "region": "Kachin State",
+        "lat": 24.25256,
+        "lng": 97.23357,
+        "population": 54721
+    },
+    {
+        "id": 1292313,
+        "name": "Tharyarwady",
+        "region": "Bago Region",
+        "lat": 17.65399,
+        "lng": 95.78813,
+        "population": 54386
+    },
+    {
+        "id": 1291193,
+        "name": "Thongwa",
+        "region": "Yangon",
+        "lat": 16.75998,
+        "lng": 96.52498,
+        "population": 52496
+    },
+    {
+        "id": 1317397,
+        "name": "Kyaiklat",
+        "region": "Ayeyarwady",
+        "lat": 16.44502,
+        "lng": 95.72373,
+        "population": 52425
+    },
+    {
+        "id": 1295301,
+        "name": "Tachilek",
+        "region": "Shan State",
+        "lat": 20.4475,
+        "lng": 99.88083,
+        "population": 51553
+    },
+    {
+        "id": 1311909,
+        "name": "Manaung",
+        "region": "Rakhine",
+        "lat": 18.85479,
+        "lng": 93.72913,
+        "population": 50680
+    },
+    {
+        "id": 1316703,
+        "name": "Kyaukse",
+        "region": "Mandalay Region",
+        "lat": 21.6056,
+        "lng": 96.13508,
+        "population": 50480
+    },
+    {
+        "id": 1302849,
+        "name": "Hpa-An",
+        "region": "Kayin State",
+        "lat": 16.88953,
+        "lng": 97.63482,
+        "population": 50000
+    },
+    {
+        "id": 1317375,
+        "name": "Kyaikto",
+        "region": "Mon",
+        "lat": 17.30858,
+        "lng": 97.01124,
+        "population": 48658
+    },
+    {
+        "id": 1310460,
+        "name": "Martaban",
+        "region": "Mon",
+        "lat": 16.52834,
+        "lng": 97.6157,
+        "population": 48629
+    },
+    {
+        "id": 1303351,
+        "name": "Nyaung-U",
+        "region": "Mandalay Region",
+        "lat": 21.20056,
+        "lng": 94.90827,
+        "population": 48528
+    },
+    {
+        "id": 1319898,
+        "name": "Kawkareik",
+        "region": "Kayin State",
+        "lat": 16.55543,
+        "lng": 98.2371,
+        "population": 48468
+    },
+    {
+        "id": 1317402,
+        "name": "Kyaikkami",
+        "region": "Mon",
+        "lat": 16.07686,
+        "lng": 97.56388,
+        "population": 48100
+    },
+    {
+        "id": 1299237,
+        "name": "Pyapon",
+        "region": "Ayeyarwady",
+        "lat": 16.28543,
+        "lng": 95.67882,
+        "population": 47082
+    },
+    {
+        "id": 1290374,
+        "name": "Twante",
+        "region": "Yangon",
+        "lat": 16.70836,
+        "lng": 95.9336,
+        "population": 46516
+    },
+    {
+        "id": 1308052,
+        "name": "Myawaddy",
+        "region": "Kayin State",
+        "lat": 16.68911,
+        "lng": 98.50893,
+        "population": 45000
+    },
+    {
+        "id": 1310120,
+        "name": "Mawlaik",
+        "region": "Sagaing Region",
+        "lat": 23.64254,
+        "lng": 94.40478,
+        "population": 44540
+    },
+    {
+        "id": 1463107,
+        "name": "Nyaung",
+        "region": "Yangon",
+        "lat": 16.83458,
+        "lng": 96.08796,
+        "population": 43828
+    },
+    {
+        "id": 1294761,
+        "name": "Tamu",
+        "region": "Sagaing Region",
+        "lat": 24.21663,
+        "lng": 94.31216,
+        "population": 43737
+    },
+    {
+        "id": 1847826,
+        "name": "Möng La",
+        "region": "Shan State",
+        "lat": 21.67112,
+        "lng": 100.01267,
+        "population": 43000
+    },
+    {
+        "id": 1316870,
+        "name": "Kyaukpadaung",
+        "region": "Mandalay Region",
+        "lat": 20.84158,
+        "lng": 95.1267,
+        "population": 42817
+    },
+    {
+        "id": 1316539,
+        "name": "Kyauktan",
+        "region": "Sagaing Region",
+        "lat": 24.2782,
+        "lng": 95.89487,
+        "population": 42778
+    },
+    {
+        "id": 1289828,
+        "name": "Wakema",
+        "region": "Ayeyarwady",
+        "lat": 16.60333,
+        "lng": 95.18278,
+        "population": 42705
+    },
+    {
+        "id": 1310362,
+        "name": "Maubin",
+        "region": "Ayeyarwady",
+        "lat": 16.73148,
+        "lng": 95.65441,
+        "population": 42439
+    },
+    {
+        "id": 1291451,
+        "name": "Thin Gan Kyun Gyi",
+        "region": "Yangon",
+        "lat": 16.95735,
+        "lng": 96.15541,
+        "population": 42350
+    },
+    {
+        "id": 1308204,
+        "name": "Myanaung",
+        "region": "Ayeyarwady",
+        "lat": 18.28651,
+        "lng": 95.32014,
+        "population": 42252
+    },
+    {
+        "id": 1463105,
+        "name": "Oke Kan",
+        "region": "Yangon",
+        "lat": 16.85299,
+        "lng": 96.06562,
+        "population": 42201
+    },
+    {
+        "id": 1294250,
+        "name": "Tatkon",
+        "region": "Sagaing Region",
+        "lat": 24.679,
+        "lng": 95.07416,
+        "population": 41683
+    },
+    {
+        "id": 1329548,
+        "name": "Ahlone",
+        "region": "Yangon",
+        "lat": 16.78897,
+        "lng": 96.12649,
+        "population": 41200
+    },
+    {
+        "id": 1300567,
+        "name": "Pazundaung",
+        "region": "Yangon",
+        "lat": 16.79574,
+        "lng": 96.17493,
+        "population": 40690
+    },
+    {
+        "id": 1298911,
+        "name": "Pyu",
+        "region": "Bago Region",
+        "lat": 18.4813,
+        "lng": 96.43742,
+        "population": 40386
+    },
+    {
+        "id": 1319533,
+        "name": "Kayan",
+        "region": "Yangon",
+        "lat": 16.90802,
+        "lng": 96.56037,
+        "population": 40322
+    },
+    {
+        "id": 1285871,
+        "name": "Nyaungdon",
+        "region": "Ayeyarwady",
+        "lat": 17.04459,
+        "lng": 95.63957,
+        "population": 40092
+    },
+    {
+        "id": 1481655,
+        "name": "Shwenatha",
+        "region": "Yangon",
+        "lat": 16.98837,
+        "lng": 96.16219,
+        "population": 39989
+    },
+    {
+        "id": 1316943,
+        "name": "Kyaukme",
+        "region": "Shan State",
+        "lat": 22.5392,
+        "lng": 97.03434,
+        "population": 39930
+    },
+    {
+        "id": 1847816,
+        "name": "Möng Yawng",
+        "region": "Shan State",
+        "lat": 21.17924,
+        "lng": 100.35761,
+        "population": 39102
+    },
+    {
+        "id": 1314042,
+        "name": "Letpandan",
+        "region": "Bago Region",
+        "lat": 17.78664,
+        "lng": 95.75076,
+        "population": 38936
+    },
+    {
+        "id": 1324494,
+        "name": "Hlegu",
+        "region": "Yangon",
+        "lat": 17.09567,
+        "lng": 96.22056,
+        "population": 38757
+    },
+    {
+        "id": 1326951,
+        "name": "Daik-u",
+        "region": "Bago Region",
+        "lat": 17.79506,
+        "lng": 96.66983,
+        "population": 38477
+    },
+    {
+        "id": 1292579,
+        "name": "Thanatpin",
+        "region": "Bago Region",
+        "lat": 17.29136,
+        "lng": 96.57523,
+        "population": 38059
+    },
+    {
+        "id": 1300969,
+        "name": "Paungde",
+        "region": "Bago Region",
+        "lat": 18.49167,
+        "lng": 95.50591,
+        "population": 36971
+    },
+    {
+        "id": 1327995,
+        "name": "Botataung",
+        "region": "Yangon",
+        "lat": 16.77182,
+        "lng": 96.17332,
+        "population": 36645
+    },
+    {
+        "id": 1307658,
+        "name": "Mrauk U",
+        "region": "Rakhine",
+        "lat": 20.59,
+        "lng": 93.19062,
+        "population": 36139
+    },
+    {
+        "id": 1285606,
+        "name": "Ye",
+        "region": "Mon",
+        "lat": 15.24645,
+        "lng": 97.85506,
+        "population": 34430
+    },
+    {
+        "id": 1308464,
+        "name": "Mawlamyinegyunn",
+        "region": "Ayeyarwady",
+        "lat": 16.3772,
+        "lng": 95.26488,
+        "population": 34107
+    },
+    {
+        "id": 1294547,
+        "name": "Tangyan",
+        "region": "Shan State",
+        "lat": 22.49441,
+        "lng": 98.39277,
+        "population": 33603
+    },
+    {
+        "id": 1307101,
+        "name": "Namhkam",
+        "region": "Shan State",
+        "lat": 23.83342,
+        "lng": 97.67984,
+        "population": 33382
+    },
+    {
+        "id": 1308910,
+        "name": "Mohnyin",
+        "region": "Kachin State",
+        "lat": 24.77822,
+        "lng": 96.36863,
+        "population": 33290
+    },
+    {
+        "id": 1286026,
+        "name": "Wundwin",
+        "region": "Mandalay Region",
+        "lat": 21.09417,
+        "lng": 96.02803,
+        "population": 32558
+    },
+    {
+        "id": 1299182,
+        "name": "Pyawbwe",
+        "region": "Mandalay Region",
+        "lat": 20.59193,
+        "lng": 96.05202,
+        "population": 32214
+    },
+    {
+        "id": 10793787,
+        "name": "Danai",
+        "region": "Kachin State",
+        "lat": 26.35926,
+        "lng": 96.71997,
+        "population": 31998
+    },
+    {
+        "id": 1316642,
+        "name": "Kyauktaga",
+        "region": "Mon",
+        "lat": 17.49468,
+        "lng": 96.97758,
+        "population": 31656
+    },
+    {
+        "id": 1328865,
+        "name": "Aungban",
+        "region": "Shan State",
+        "lat": 20.6606,
+        "lng": 96.63488,
+        "population": 30982
+    },
+    {
+        "id": 1284569,
+        "name": "Ywar Ma West",
+        "region": "Yangon",
+        "lat": 16.89672,
+        "lng": 96.09173,
+        "population": 30704
+    },
+    {
+        "id": 1313795,
+        "name": "Lewe",
+        "region": "Nay Pyi Taw",
+        "lat": 19.63606,
+        "lng": 96.10998,
+        "population": 30208
+    },
+    {
+        "id": 13546340,
+        "name": "Pauk Kone",
+        "region": "Yangon",
+        "lat": 16.94566,
+        "lng": 96.14569,
+        "population": 29829
+    },
+    {
+        "id": 1315244,
+        "name": "Labutta",
+        "region": "Ayeyarwady",
+        "lat": 16.14948,
+        "lng": 94.75898,
+        "population": 29645
+    },
+    {
+        "id": 1314619,
+        "name": "Lawksawk",
+        "region": "Shan State",
+        "lat": 21.2481,
+        "lng": 96.86731,
+        "population": 29533
+    },
+    {
+        "id": 1301005,
+        "name": "Paung",
+        "region": "Mon",
+        "lat": 16.61753,
+        "lng": 97.45851,
+        "population": 29434
+    },
+    {
+        "id": 1296536,
+        "name": "Shwe Lin Ban",
+        "region": "Yangon",
+        "lat": 16.89659,
+        "lng": 96.06801,
+        "population": 28711
+    },
+    {
+        "id": 1317511,
+        "name": "Kungyangon",
+        "region": "Yangon",
+        "lat": 16.44258,
+        "lng": 96.0194,
+        "population": 28352
+    },
+    {
+        "id": 11778166,
+        "name": "Payathonzu",
+        "region": "Kayin State",
+        "lat": 15.31771,
+        "lng": 98.38836,
+        "population": 27311
+    },
+    {
+        "id": 1301804,
+        "name": "Panglong",
+        "region": "Shan State",
+        "lat": 24.10051,
+        "lng": 98.31264,
+        "population": 27115
+    },
+    {
+        "id": 1293696,
+        "name": "Taungup",
+        "region": "Rakhine",
+        "lat": 18.85609,
+        "lng": 94.24078,
+        "population": 26854
+    },
+    {
+        "id": 1320155,
+        "name": "Katha",
+        "region": "Sagaing Region",
+        "lat": 24.17541,
+        "lng": 96.34144,
+        "population": 26732
+    },
+    {
+        "id": 13546372,
+        "name": "Pyan Lel Nay Yar Cha Htar Ye",
+        "region": "Yangon",
+        "lat": 16.97189,
+        "lng": 96.1274,
+        "population": 26250
+    },
+    {
+        "id": 1324385,
+        "name": "Hmaw Bi",
+        "region": "Mon",
+        "lat": 16.63557,
+        "lng": 97.61526,
+        "population": 25960
+    },
+    {
+        "id": 1320974,
+        "name": "Kanbalu",
+        "region": "Sagaing Region",
+        "lat": 23.20328,
+        "lng": 95.51695,
+        "population": 25022
+    },
+    {
+        "id": 1308946,
+        "name": "Mogaung",
+        "region": "Kachin State",
+        "lat": 25.30543,
+        "lng": 96.93537,
+        "population": 25012
+    },
+    {
+        "id": 1317682,
+        "name": "Kutkai",
+        "region": "Shan State",
+        "lat": 23.45789,
+        "lng": 97.93799,
+        "population": 24963
+    },
+    {
+        "id": 1463081,
+        "name": "Zee Kone",
+        "region": "Yangon",
+        "lat": 16.94964,
+        "lng": 96.10227,
+        "population": 24948
+    },
+    {
+        "id": 1325443,
+        "name": "Hakha",
+        "region": "Chin State",
+        "lat": 22.64452,
+        "lng": 93.61076,
+        "population": 24926
+    },
+    {
+        "id": 1296614,
+        "name": "Shwegyin",
+        "region": "Bago Region",
+        "lat": 17.92118,
+        "lng": 96.87676,
+        "population": 24579
+    },
+    {
+        "id": 1285457,
+        "name": "Yedashe",
+        "region": "Bago Region",
+        "lat": 19.15633,
+        "lng": 96.34593,
+        "population": 24420
+    },
+    {
+        "id": 1312649,
+        "name": "Madaya",
+        "region": "Mandalay Region",
+        "lat": 22.21148,
+        "lng": 96.10387,
+        "population": 24234
+    },
+    {
+        "id": 1481671,
+        "name": "Pawgan",
+        "region": "Yangon",
+        "lat": 16.90842,
+        "lng": 96.09778,
+        "population": 23992
+    },
+    {
+        "id": 1315749,
+        "name": "Kyonpyaw",
+        "region": "Ayeyarwady",
+        "lat": 17.30132,
+        "lng": 95.19833,
+        "population": 23966
+    },
+    {
+        "id": 1306443,
+        "name": "Nansang",
+        "region": "Shan State",
+        "lat": 20.89184,
+        "lng": 97.71672,
+        "population": 23792
+    },
+    {
+        "id": 13546371,
+        "name": "Min Ga Lar Don Zay",
+        "region": "Yangon",
+        "lat": 16.92316,
+        "lng": 96.11643,
+        "population": 23588
+    },
+    {
+        "id": 1316173,
+        "name": "Kyeintali",
+        "region": "Rakhine",
+        "lat": 18.00611,
+        "lng": 94.49,
+        "population": 23581
+    },
+    {
+        "id": 13494766,
+        "name": "Laukkai",
+        "region": "Shan State",
+        "lat": 23.69611,
+        "lng": 98.76214,
+        "population": 23435
+    },
+    {
+        "id": 1323949,
+        "name": "Hopin",
+        "region": "Kachin State",
+        "lat": 24.99146,
+        "lng": 96.52681,
+        "population": 23352
+    },
+    {
+        "id": 1285094,
+        "name": "Yesagyo",
+        "region": "Magway",
+        "lat": 21.63241,
+        "lng": 95.24619,
+        "population": 23329
+    },
+    {
+        "id": 1463085,
+        "name": "Ah Lel",
+        "region": "Yangon",
+        "lat": 16.9224,
+        "lng": 96.06344,
+        "population": 23214
+    },
+    {
+        "id": 1286591,
+        "name": "Waw",
+        "region": "Bago Region",
+        "lat": 17.47702,
+        "lng": 96.67828,
+        "population": 23143
+    },
+    {
+        "id": 1481706,
+        "name": "Sinngu",
+        "region": "Yangon",
+        "lat": 16.9132,
+        "lng": 96.0974,
+        "population": 22861
+    },
+    {
+        "id": 13546411,
+        "name": "Da Nyin Kone",
+        "region": "Yangon",
+        "lat": 16.93342,
+        "lng": 96.0931,
+        "population": 22688
+    },
+    {
+        "id": 1294974,
+        "name": "Kone Ta La Paung",
+        "region": "Yangon",
+        "lat": 17.00845,
+        "lng": 96.14971,
+        "population": 22667
+    },
+    {
+        "id": 1284225,
+        "name": "Zalun",
+        "region": "Ayeyarwady",
+        "lat": 17.47941,
+        "lng": 95.55924,
+        "population": 21947
+    },
+    {
+        "id": 1323082,
+        "name": "Hsipaw",
+        "region": "Shan State",
+        "lat": 22.61659,
+        "lng": 97.30033,
+        "population": 20897
+    },
+    {
+        "id": 13546405,
+        "name": "Saw Bwar Gyi Kone",
+        "region": "Yangon",
+        "lat": 16.88644,
+        "lng": 96.12818,
+        "population": 20811
+    },
+    {
+        "id": 1285002,
+        "name": "Ye-u",
+        "region": "Sagaing Region",
+        "lat": 22.76722,
+        "lng": 95.42758,
+        "population": 20458
+    },
+    {
+        "id": 1322148,
+        "name": "Ingabu",
+        "region": "Ayeyarwady",
+        "lat": 17.81192,
+        "lng": 95.27044,
+        "population": 19876
+    },
+    {
+        "id": 1316499,
+        "name": "Kyauktaw",
+        "region": "Rakhine",
+        "lat": 20.84468,
+        "lng": 92.97527,
+        "population": 19492
+    },
+    {
+        "id": 13546407,
+        "name": "Taung Thu Kone",
+        "region": "Yangon",
+        "lat": 16.89815,
+        "lng": 96.11018,
+        "population": 19350
+    },
+    {
+        "id": 1481929,
+        "name": "Myenigon",
+        "region": "Yangon",
+        "lat": 16.80623,
+        "lng": 96.13506,
+        "population": 18614
+    },
+    {
+        "id": 13546410,
+        "name": "Aung San",
+        "region": "Yangon",
+        "lat": 16.92153,
+        "lng": 96.09715,
+        "population": 18555
+    },
+    {
+        "id": 13546403,
+        "name": "Myo Thit Ka",
+        "region": "Yangon",
+        "lat": 16.87373,
+        "lng": 96.09702,
+        "population": 18491
+    },
+    {
+        "id": 1481644,
+        "name": "Okpo",
+        "region": "Yangon",
+        "lat": 16.97266,
+        "lng": 96.0882,
+        "population": 17812
+    },
+    {
+        "id": 1301614,
+        "name": "Pangtara",
+        "region": "Shan State",
+        "lat": 20.94318,
+        "lng": 96.66266,
+        "population": 17544
+    },
+    {
+        "id": 1313479,
+        "name": "Loikaw",
+        "region": "Kayah State",
+        "lat": 19.67798,
+        "lng": 97.20975,
+        "population": 17293
+    },
+    {
+        "id": 13546408,
+        "name": "Ywar Ma East",
+        "region": "Yangon",
+        "lat": 16.8993,
+        "lng": 96.10319,
+        "population": 16376
+    },
+    {
+        "id": 13546404,
+        "name": "Kyo Kone East",
+        "region": "Yangon",
+        "lat": 16.88578,
+        "lng": 96.11463,
+        "population": 16270
+    },
+    {
+        "id": 1288322,
+        "name": "Pangkham",
+        "region": "Shan State",
+        "lat": 22.17924,
+        "lng": 99.16666,
+        "population": 15936
+    },
+    {
+        "id": 1463102,
+        "name": "Shan Chaung",
+        "region": "Yangon",
+        "lat": 16.86034,
+        "lng": 96.09011,
+        "population": 15934
+    },
+    {
+        "id": 13546398,
+        "name": "Kan Nar Middle",
+        "region": "Yangon",
+        "lat": 16.88052,
+        "lng": 96.09703,
+        "population": 15390
+    },
+    {
+        "id": 1300310,
+        "name": "Pèkon",
+        "region": "Shan State",
+        "lat": 19.86766,
+        "lng": 97.00668,
+        "population": 15323
+    },
+    {
+        "id": 1283878,
+        "name": "Zigon",
+        "region": "Bago Region",
+        "lat": 18.33559,
+        "lng": 95.6215,
+        "population": 15233
+    },
+    {
+        "id": 1481890,
+        "name": "Setsan",
+        "region": "Yangon",
+        "lat": 16.81025,
+        "lng": 96.11401,
+        "population": 15111
+    }
+]

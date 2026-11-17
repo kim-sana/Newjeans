@@ -1,0 +1,1130 @@
+[
+    {
+        "id": 1819729,
+        "name": "Hong Kong",
+        "region": null,
+        "lat": 22.27832,
+        "lng": 114.17469,
+        "population": 7396076
+    },
+    {
+        "id": 12747063,
+        "name": "New Territories",
+        "region": null,
+        "lat": 22.42441,
+        "lng": 114.11095,
+        "population": 3984077
+    },
+    {
+        "id": 1819609,
+        "name": "Kowloon",
+        "region": null,
+        "lat": 22.31667,
+        "lng": 114.18333,
+        "population": 2232339
+    },
+    {
+        "id": 12747064,
+        "name": "Hong Kong Island",
+        "region": null,
+        "lat": 22.26302,
+        "lng": 114.18419,
+        "population": 1195529
+    },
+    {
+        "id": 1931681,
+        "name": "Victoria",
+        "region": "Central and Western",
+        "lat": 22.2875,
+        "lng": 114.14417,
+        "population": 956800
+    },
+    {
+        "id": 1818446,
+        "name": "Tuen Mun",
+        "region": "Tuen Mun",
+        "lat": 22.39175,
+        "lng": 113.97157,
+        "population": 507900
+    },
+    {
+        "id": 1818920,
+        "name": "Sha Tin",
+        "region": "Sha Tin",
+        "lat": 22.38333,
+        "lng": 114.18333,
+        "population": 495200
+    },
+    {
+        "id": 1818953,
+        "name": "Sham Shui Po",
+        "region": "Sham Shui Po District",
+        "lat": 22.33023,
+        "lng": 114.15945,
+        "population": 431090
+    },
+    {
+        "id": 1818304,
+        "name": "Wong Tai Sin",
+        "region": "Wong Tai Sin District",
+        "lat": 22.35,
+        "lng": 114.18333,
+        "population": 425235
+    },
+    {
+        "id": 1819607,
+        "name": "Kowloon City",
+        "region": "Kowloon City",
+        "lat": 22.33047,
+        "lng": 114.19222,
+        "population": 418732
+    },
+    {
+        "id": 1818506,
+        "name": "Tseung Kwan O",
+        "region": "Sai Kung District",
+        "lat": 22.32789,
+        "lng": 114.24992,
+        "population": 412900
+    },
+    {
+        "id": 1819595,
+        "name": "Kwai Chung",
+        "region": "Kwai Tsing District",
+        "lat": 22.36828,
+        "lng": 114.13877,
+        "population": 331600
+    },
+    {
+        "id": 1818209,
+        "name": "Tsuen Wan",
+        "region": "Tsuen Wan",
+        "lat": 22.37137,
+        "lng": 114.11329,
+        "population": 318916
+    },
+    {
+        "id": 1818558,
+        "name": "Tin Shui Wai",
+        "region": "Yuen Long",
+        "lat": 22.45679,
+        "lng": 114.00234,
+        "population": 286232
+    },
+    {
+        "id": 1818673,
+        "name": "Tai Po",
+        "region": "Tai Po",
+        "lat": 22.45007,
+        "lng": 114.16877,
+        "population": 274100
+    },
+    {
+        "id": 1819873,
+        "name": "Fanling",
+        "region": "North District",
+        "lat": 22.49487,
+        "lng": 114.13949,
+        "population": 263200
+    },
+    {
+        "id": 1819400,
+        "name": "Ma On Shan",
+        "region": "Sha Tin",
+        "lat": 22.40613,
+        "lng": 114.24079,
+        "population": 215200
+    },
+    {
+        "id": 1818225,
+        "name": "Yuen Long",
+        "region": "Yuen Long",
+        "lat": 22.44518,
+        "lng": 114.02621,
+        "population": 200000
+    },
+    {
+        "id": 1818222,
+        "name": "Yuen Long San Hui",
+        "region": "Yuen Long",
+        "lat": 22.43333,
+        "lng": 114.03333,
+        "population": 200000
+    },
+    {
+        "id": 13308632,
+        "name": "Kowloon City Centre",
+        "region": "Kowloon City",
+        "lat": 22.32979,
+        "lng": 114.18889,
+        "population": 194290
+    },
+    {
+        "id": 1818483,
+        "name": "Tsing Yi Town",
+        "region": "Kwai Tsing District",
+        "lat": 22.35,
+        "lng": 114.1,
+        "population": 182100
+    },
+    {
+        "id": 1818223,
+        "name": "Yuen Long Kau Hui",
+        "region": "Yuen Long",
+        "lat": 22.44831,
+        "lng": 114.03199,
+        "population": 169600
+    },
+    {
+        "id": 1818379,
+        "name": "Wan Chai",
+        "region": "Wan Chai",
+        "lat": 22.28142,
+        "lng": 114.17258,
+        "population": 166695
+    },
+    {
+        "id": 1819757,
+        "name": "Aberdeen",
+        "region": "Southern District",
+        "lat": 22.24802,
+        "lng": 114.15289,
+        "population": 157400
+    },
+    {
+        "id": 1819283,
+        "name": "San Tung Chung Hang",
+        "region": "Islands",
+        "lat": 22.27875,
+        "lng": 113.94307,
+        "population": 116000
+    },
+    {
+        "id": 11101593,
+        "name": "Tung Chung",
+        "region": "Islands",
+        "lat": 22.28783,
+        "lng": 113.94243,
+        "population": 114100
+    },
+    {
+        "id": 1818916,
+        "name": "Sha Tin Wai",
+        "region": "Sha Tin",
+        "lat": 22.37756,
+        "lng": 114.19753,
+        "population": 80000
+    },
+    {
+        "id": 12719430,
+        "name": "Shap Pat Heung",
+        "region": "Yuen Long",
+        "lat": 22.4248,
+        "lng": 114.03581,
+        "population": 77775
+    },
+    {
+        "id": 1819091,
+        "name": "Pok Fu Lam",
+        "region": "Southern District",
+        "lat": 22.26861,
+        "lng": 114.12924,
+        "population": 77100
+    },
+    {
+        "id": 12689055,
+        "name": "Nam Cheong",
+        "region": "Sham Shui Po District",
+        "lat": 22.32799,
+        "lng": 114.15389,
+        "population": 74780
+    },
+    {
+        "id": 13308633,
+        "name": "Kowloon West End",
+        "region": "Kowloon City",
+        "lat": 22.32848,
+        "lng": 114.18514,
+        "population": 74710
+    },
+    {
+        "id": 1819353,
+        "name": "Mong Kok",
+        "region": "Yau Tsim Mong District",
+        "lat": 22.31935,
+        "lng": 114.17136,
+        "population": 62967
+    },
+    {
+        "id": 1818781,
+        "name": "Siu Lek Yuen",
+        "region": "Sha Tin",
+        "lat": 22.38174,
+        "lng": 114.21256,
+        "population": 57349
+    },
+    {
+        "id": 1818972,
+        "name": "Sau Mau Ping",
+        "region": "Kwun Tong District",
+        "lat": 22.3202,
+        "lng": 114.23497,
+        "population": 54218
+    },
+    {
+        "id": 1818550,
+        "name": "Tiu Keng Leng",
+        "region": "Kwun Tong District",
+        "lat": 22.29853,
+        "lng": 114.25115,
+        "population": 51751
+    },
+    {
+        "id": 12719433,
+        "name": "LOHAS Park",
+        "region": "Sai Kung District",
+        "lat": 22.29315,
+        "lng": 114.27245,
+        "population": 50000
+    },
+    {
+        "id": 12640681,
+        "name": "Mei Foo",
+        "region": "Sham Shui Po District",
+        "lat": 22.33719,
+        "lng": 114.13856,
+        "population": 45990
+    },
+    {
+        "id": 1819101,
+        "name": "Ping Shan",
+        "region": "Yuen Long",
+        "lat": 22.44111,
+        "lng": 114.00608,
+        "population": 45400
+    },
+    {
+        "id": 12640684,
+        "name": "Kai Tak",
+        "region": "Kowloon City",
+        "lat": 22.32425,
+        "lng": 114.19741,
+        "population": 42552
+    },
+    {
+        "id": 8224045,
+        "name": "Jordan",
+        "region": "Yau Tsim Mong District",
+        "lat": 22.30539,
+        "lng": 114.17001,
+        "population": 41537
+    },
+    {
+        "id": 12689063,
+        "name": "Pat Heung",
+        "region": "Yuen Long",
+        "lat": 22.4461,
+        "lng": 114.09226,
+        "population": 40357
+    },
+    {
+        "id": 12689057,
+        "name": "Whampoa",
+        "region": "Kowloon City",
+        "lat": 22.30504,
+        "lng": 114.19021,
+        "population": 39134
+    },
+    {
+        "id": 12689060,
+        "name": "Choi Wan",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33385,
+        "lng": 114.21368,
+        "population": 38405
+    },
+    {
+        "id": 1819638,
+        "name": "Kennedy Town",
+        "region": "Central and Western",
+        "lat": 22.28277,
+        "lng": 114.12953,
+        "population": 38000
+    },
+    {
+        "id": 12719566,
+        "name": "Mei Foo Sun Chuen",
+        "region": "Sham Shui Po District",
+        "lat": 22.33636,
+        "lng": 114.14018,
+        "population": 37299
+    },
+    {
+        "id": 1818447,
+        "name": "Tsz Wan Shan",
+        "region": "Wong Tai Sin District",
+        "lat": 22.35247,
+        "lng": 114.20016,
+        "population": 37242
+    },
+    {
+        "id": 1819791,
+        "name": "Hang Hau",
+        "region": "Sai Kung District",
+        "lat": 22.31811,
+        "lng": 114.26994,
+        "population": 36529
+    },
+    {
+        "id": 1819050,
+        "name": "Sai Kung",
+        "region": "Sai Kung District",
+        "lat": 22.38333,
+        "lng": 114.26667,
+        "population": 35800
+    },
+    {
+        "id": 10170102,
+        "name": "Tai Koo",
+        "region": "Eastern District",
+        "lat": 22.2841,
+        "lng": 114.21631,
+        "population": 35373
+    },
+    {
+        "id": 12719589,
+        "name": "Taikoo Shing",
+        "region": "Eastern District",
+        "lat": 22.28613,
+        "lng": 114.2187,
+        "population": 34799
+    },
+    {
+        "id": 1818266,
+        "name": "Yau Tong",
+        "region": "Kwun Tong District",
+        "lat": 22.29569,
+        "lng": 114.23599,
+        "population": 34755
+    },
+    {
+        "id": 1818721,
+        "name": "Tai Kok Tsui",
+        "region": "Yau Tsim Mong District",
+        "lat": 22.32146,
+        "lng": 114.163,
+        "population": 33801
+    },
+    {
+        "id": 1818892,
+        "name": "Shek Lei",
+        "region": "Kwai Tsing District",
+        "lat": 22.36613,
+        "lng": 114.13982,
+        "population": 31788
+    },
+    {
+        "id": 12719843,
+        "name": "Whampoa Garden",
+        "region": "Kowloon City",
+        "lat": 22.30534,
+        "lng": 114.18936,
+        "population": 30038
+    },
+    {
+        "id": 1818268,
+        "name": "Yau Ma Tei",
+        "region": "Yau Tsim Mong District",
+        "lat": 22.3138,
+        "lng": 114.16857,
+        "population": 29644
+    },
+    {
+        "id": 12746539,
+        "name": "Lower Wong Tai Sin Estate (I & II)",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33923,
+        "lng": 114.19441,
+        "population": 29542
+    },
+    {
+        "id": 12719432,
+        "name": "South Horizons",
+        "region": "Southern District",
+        "lat": 22.24383,
+        "lng": 114.14828,
+        "population": 29391
+    },
+    {
+        "id": 12719791,
+        "name": "South Horizons (Estate)",
+        "region": "Southern District",
+        "lat": 22.24411,
+        "lng": 114.14616,
+        "population": 29180
+    },
+    {
+        "id": 1819529,
+        "name": "Leighton Hill",
+        "region": "Wan Chai",
+        "lat": 22.2761,
+        "lng": 114.18398,
+        "population": 29160
+    },
+    {
+        "id": 1819923,
+        "name": "Chuk Yuen",
+        "region": "Wong Tai Sin District",
+        "lat": 22.34544,
+        "lng": 114.19327,
+        "population": 28645
+    },
+    {
+        "id": 12640693,
+        "name": "Lei Tung",
+        "region": "Southern District",
+        "lat": 22.24052,
+        "lng": 114.15757,
+        "population": 26350
+    },
+    {
+        "id": 1818385,
+        "name": "Wah Fu",
+        "region": "Southern District",
+        "lat": 22.25474,
+        "lng": 114.13622,
+        "population": 26275
+    },
+    {
+        "id": 1818950,
+        "name": "Sham Tseng",
+        "region": "Tsuen Wan",
+        "lat": 22.36667,
+        "lng": 114.05,
+        "population": 25893
+    },
+    {
+        "id": 12719555,
+        "name": "Shek Kip Mei Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.33412,
+        "lng": 114.16531,
+        "population": 25561
+    },
+    {
+        "id": 12746532,
+        "name": "Choi Wan Estate (I & II)",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33337,
+        "lng": 114.21331,
+        "population": 25241
+    },
+    {
+        "id": 1818501,
+        "name": "Tsim Sha Tsui",
+        "region": "Kowloon City",
+        "lat": 22.3,
+        "lng": 114.16667,
+        "population": 24557
+    },
+    {
+        "id": 12719443,
+        "name": "Wu Kai Sha",
+        "region": "Sha Tin",
+        "lat": 22.43016,
+        "lng": 114.24212,
+        "population": 23511
+    },
+    {
+        "id": 12689059,
+        "name": "Laguna City",
+        "region": "Kwun Tong District",
+        "lat": 22.30554,
+        "lng": 114.22861,
+        "population": 22718
+    },
+    {
+        "id": 1818817,
+        "name": "Shuen Wan",
+        "region": "Tai Po",
+        "lat": 22.46767,
+        "lng": 114.20812,
+        "population": 22465
+    },
+    {
+        "id": 1819855,
+        "name": "Fo Tan",
+        "region": "Sha Tin",
+        "lat": 22.39846,
+        "lng": 114.19293,
+        "population": 22127
+    },
+    {
+        "id": 1819685,
+        "name": "Kam Tin",
+        "region": "Yuen Long",
+        "lat": 22.44123,
+        "lng": 114.06019,
+        "population": 21876
+    },
+    {
+        "id": 12746541,
+        "name": "Tsz Ching Estate",
+        "region": "Wong Tai Sin District",
+        "lat": 22.35099,
+        "lng": 114.20056,
+        "population": 21845
+    },
+    {
+        "id": 1819775,
+        "name": "Ha Tsuen",
+        "region": "Yuen Long",
+        "lat": 22.44724,
+        "lng": 113.9916,
+        "population": 21060
+    },
+    {
+        "id": 1818614,
+        "name": "Tai Wo Hau",
+        "region": "Kwai Tsing District",
+        "lat": 22.36718,
+        "lng": 114.12347,
+        "population": 20848
+    },
+    {
+        "id": 1819980,
+        "name": "Chek Chue",
+        "region": "Southern District",
+        "lat": 22.21849,
+        "lng": 114.21241,
+        "population": 20683
+    },
+    {
+        "id": 1818883,
+        "name": "Shek O",
+        "region": "Southern District",
+        "lat": 22.23344,
+        "lng": 114.25121,
+        "population": 20683
+    },
+    {
+        "id": 1818845,
+        "name": "Sheung Shui",
+        "region": "North District",
+        "lat": 22.51667,
+        "lng": 114.11667,
+        "population": 20514
+    },
+    {
+        "id": 1819726,
+        "name": "Hong Lok Yuen",
+        "region": "Tai Po",
+        "lat": 22.46315,
+        "lng": 114.1552,
+        "population": 20389
+    },
+    {
+        "id": 12689069,
+        "name": "Fairview Park",
+        "region": "Yuen Long",
+        "lat": 22.46738,
+        "lng": 114.04766,
+        "population": 20268
+    },
+    {
+        "id": 1819394,
+        "name": "Ma Tau Wai",
+        "region": "Kowloon City",
+        "lat": 22.32074,
+        "lng": 114.18743,
+        "population": 20185
+    },
+    {
+        "id": 1818628,
+        "name": "Tai Wai",
+        "region": "Sha Tin",
+        "lat": 22.37286,
+        "lng": 114.17897,
+        "population": 19924
+    },
+    {
+        "id": 1819731,
+        "name": "Ho Man Tin",
+        "region": "Kowloon City",
+        "lat": 22.31584,
+        "lng": 114.18181,
+        "population": 19830
+    },
+    {
+        "id": 1819968,
+        "name": "Cheung Chau",
+        "region": "Islands",
+        "lat": 22.21085,
+        "lng": 114.02787,
+        "population": 19769
+    },
+    {
+        "id": 12687143,
+        "name": "Shui Chuen O",
+        "region": "Sha Tin",
+        "lat": 22.37161,
+        "lng": 114.19778,
+        "population": 19719
+    },
+    {
+        "id": 1818996,
+        "name": "San Tin",
+        "region": "Yuen Long",
+        "lat": 22.50166,
+        "lng": 114.06932,
+        "population": 19617
+    },
+    {
+        "id": 1818444,
+        "name": "Tuen Mun San Hui",
+        "region": "Tuen Mun",
+        "lat": 22.39877,
+        "lng": 113.97596,
+        "population": 19398
+    },
+    {
+        "id": 12689056,
+        "name": "Olympic",
+        "region": "Yau Tsim Mong District",
+        "lat": 22.31939,
+        "lng": 114.15736,
+        "population": 19373
+    },
+    {
+        "id": 1819894,
+        "name": "Discovery Bay",
+        "region": "Islands",
+        "lat": 22.3,
+        "lng": 114.01667,
+        "population": 19336
+    },
+    {
+        "id": 12640687,
+        "name": "The Peak",
+        "region": "Central and Western",
+        "lat": 22.26202,
+        "lng": 114.15649,
+        "population": 19202
+    },
+    {
+        "id": 12640671,
+        "name": "Sung Wong Toi",
+        "region": "Kowloon City",
+        "lat": 22.32466,
+        "lng": 114.19149,
+        "population": 19078
+    },
+    {
+        "id": 12640674,
+        "name": "So Uk",
+        "region": "Sham Shui Po District",
+        "lat": 22.34131,
+        "lng": 114.15679,
+        "population": 18956
+    },
+    {
+        "id": 1819602,
+        "name": "Kowloon Tong",
+        "region": "Kowloon City",
+        "lat": 22.33312,
+        "lng": 114.17969,
+        "population": 18849
+    },
+    {
+        "id": 12719587,
+        "name": "Siu Sai Wan Estate",
+        "region": "Eastern District",
+        "lat": 22.26155,
+        "lng": 114.24881,
+        "population": 18803
+    },
+    {
+        "id": 1819029,
+        "name": "Sai Wan Ho",
+        "region": "Eastern District",
+        "lat": 22.28449,
+        "lng": 114.2232,
+        "population": 18771
+    },
+    {
+        "id": 12719581,
+        "name": "So Uk Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.34153,
+        "lng": 114.15653,
+        "population": 18748
+    },
+    {
+        "id": 12719848,
+        "name": "Tak Long Estate",
+        "region": "Kowloon City",
+        "lat": 22.3302,
+        "lng": 114.20338,
+        "population": 18720
+    },
+    {
+        "id": 12719547,
+        "name": "Keng Hau",
+        "region": "Sha Tin",
+        "lat": 22.36507,
+        "lng": 114.17472,
+        "population": 18707
+    },
+    {
+        "id": 12719552,
+        "name": "Un Chau Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.33633,
+        "lng": 114.15616,
+        "population": 18670
+    },
+    {
+        "id": 1819554,
+        "name": "Lam Tin",
+        "region": "Kwun Tong District",
+        "lat": 22.30933,
+        "lng": 114.23634,
+        "population": 18666
+    },
+    {
+        "id": 12719787,
+        "name": "Lei Tung Estate",
+        "region": "Southern District",
+        "lat": 22.24115,
+        "lng": 114.15523,
+        "population": 18575
+    },
+    {
+        "id": 1819003,
+        "name": "San Po Kong",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33546,
+        "lng": 114.19669,
+        "population": 18199
+    },
+    {
+        "id": 12719439,
+        "name": "Hok Yuen",
+        "region": "Kowloon City",
+        "lat": 22.31027,
+        "lng": 114.18816,
+        "population": 18091
+    },
+    {
+        "id": 12719440,
+        "name": "Laguna Verde",
+        "region": "Kowloon City",
+        "lat": 22.30719,
+        "lng": 114.19071,
+        "population": 18091
+    },
+    {
+        "id": 1818905,
+        "name": "Shek Kip Mei",
+        "region": "Sham Shui Po District",
+        "lat": 22.33146,
+        "lng": 114.16799,
+        "population": 18078
+    },
+    {
+        "id": 12719592,
+        "name": "Heng Fa Chuen",
+        "region": "Eastern District",
+        "lat": 22.27668,
+        "lng": 114.24077,
+        "population": 17963
+    },
+    {
+        "id": 12719542,
+        "name": "Aldrich Bay",
+        "region": "Eastern District",
+        "lat": 22.28203,
+        "lng": 114.22474,
+        "population": 17925
+    },
+    {
+        "id": 12746531,
+        "name": "Choi Hung Estate",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33636,
+        "lng": 114.20581,
+        "population": 17817
+    },
+    {
+        "id": 1818654,
+        "name": "Tai Shui Hang",
+        "region": "Sha Tin",
+        "lat": 22.40631,
+        "lng": 114.22385,
+        "population": 17647
+    },
+    {
+        "id": 1818349,
+        "name": "Wo Che",
+        "region": "Sha Tin",
+        "lat": 22.39016,
+        "lng": 114.19217,
+        "population": 17572
+    },
+    {
+        "id": 1818695,
+        "name": "Tai Mei Tuk",
+        "region": "Tai Po",
+        "lat": 22.47447,
+        "lng": 114.23458,
+        "population": 17544
+    },
+    {
+        "id": 12640682,
+        "name": "Kadoorie",
+        "region": "Kowloon City",
+        "lat": 22.32247,
+        "lng": 114.17556,
+        "population": 17422
+    },
+    {
+        "id": 12719847,
+        "name": "Oi Man Estate",
+        "region": "Kowloon City",
+        "lat": 22.31197,
+        "lng": 114.17853,
+        "population": 17407
+    },
+    {
+        "id": 12689054,
+        "name": "Discovery Park",
+        "region": "Tsuen Wan",
+        "lat": 22.37621,
+        "lng": 114.11141,
+        "population": 17325
+    },
+    {
+        "id": 1818574,
+        "name": "Ting Kau",
+        "region": "Tsuen Wan",
+        "lat": 22.36956,
+        "lng": 114.07907,
+        "population": 17009
+    },
+    {
+        "id": 12746517,
+        "name": "Chuk Yuen North Estate",
+        "region": "Wong Tai Sin District",
+        "lat": 22.34592,
+        "lng": 114.19197,
+        "population": 16989
+    },
+    {
+        "id": 1818365,
+        "name": "Wang Tau Hom",
+        "region": "Kowloon City",
+        "lat": 22.3401,
+        "lng": 114.18732,
+        "population": 16936
+    },
+    {
+        "id": 12719553,
+        "name": "Pak Tin Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.33713,
+        "lng": 114.16673,
+        "population": 16843
+    },
+    {
+        "id": 1818557,
+        "name": "Tin Wan",
+        "region": "Southern District",
+        "lat": 22.25113,
+        "lng": 114.14726,
+        "population": 16811
+    },
+    {
+        "id": 12746547,
+        "name": "Wang Tau Hom Estate",
+        "region": "Wong Tai Sin District",
+        "lat": 22.34009,
+        "lng": 114.18673,
+        "population": 16794
+    },
+    {
+        "id": 1819577,
+        "name": "Kwun Tong",
+        "region": "Kwun Tong District",
+        "lat": 22.31184,
+        "lng": 114.22176,
+        "population": 16766
+    },
+    {
+        "id": 12719445,
+        "name": "Kam Ying",
+        "region": "Sha Tin",
+        "lat": 22.42285,
+        "lng": 114.23664,
+        "population": 16691
+    },
+    {
+        "id": 1818992,
+        "name": "San Tin",
+        "region": "Sha Tin",
+        "lat": 22.37193,
+        "lng": 114.18385,
+        "population": 16628
+    },
+    {
+        "id": 12689062,
+        "name": "Sun Tin Wai",
+        "region": "Sha Tin",
+        "lat": 22.37058,
+        "lng": 114.18696,
+        "population": 16628
+    },
+    {
+        "id": 12719540,
+        "name": "Sam Shing",
+        "region": "Tuen Mun",
+        "lat": 22.38128,
+        "lng": 113.97872,
+        "population": 16423
+    },
+    {
+        "id": 9172583,
+        "name": "Wong Chuk Hang",
+        "region": "Southern District",
+        "lat": 22.23981,
+        "lng": 114.17001,
+        "population": 16316
+    },
+    {
+        "id": 1818259,
+        "name": "Yeung Uk Tsuen",
+        "region": "Tsuen Wan",
+        "lat": 22.45,
+        "lng": 114.01667,
+        "population": 16236
+    },
+    {
+        "id": 12719438,
+        "name": "Braemar Hill",
+        "region": "Eastern District",
+        "lat": 22.28282,
+        "lng": 114.20034,
+        "population": 16171
+    },
+    {
+        "id": 12719569,
+        "name": "Hoi Lai Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.33182,
+        "lng": 114.14667,
+        "population": 16071
+    },
+    {
+        "id": 1819339,
+        "name": "Mount Davis",
+        "region": "Central and Western",
+        "lat": 22.27862,
+        "lng": 114.11777,
+        "population": 16030
+    },
+    {
+        "id": 12687141,
+        "name": "Pok Hong",
+        "region": "Sha Tin",
+        "lat": 22.37558,
+        "lng": 114.19584,
+        "population": 15817
+    },
+    {
+        "id": 12719572,
+        "name": "Fu Cheong Estate",
+        "region": "Sham Shui Po District",
+        "lat": 22.32891,
+        "lng": 114.15399,
+        "population": 15655
+    },
+    {
+        "id": 1818544,
+        "name": "To Kwa Wan",
+        "region": "Kowloon City",
+        "lat": 22.31693,
+        "lng": 114.19052,
+        "population": 15646
+    },
+    {
+        "id": 12719444,
+        "name": "Lee On",
+        "region": "Sha Tin",
+        "lat": 22.42635,
+        "lng": 114.24133,
+        "population": 15621
+    },
+    {
+        "id": 12689065,
+        "name": "Butterfly",
+        "region": "Tuen Mun",
+        "lat": 22.37591,
+        "lng": 113.96251,
+        "population": 15488
+    },
+    {
+        "id": 12687144,
+        "name": "Prince Edward",
+        "region": "Kowloon City",
+        "lat": 22.3236,
+        "lng": 114.17938,
+        "population": 15481
+    },
+    {
+        "id": 7778986,
+        "name": "Fortress Hill",
+        "region": "Eastern District",
+        "lat": 22.28858,
+        "lng": 114.19417,
+        "population": 15464
+    },
+    {
+        "id": 1819361,
+        "name": "Mid Levels",
+        "region": "Central and Western",
+        "lat": 22.28399,
+        "lng": 114.14958,
+        "population": 15464
+    },
+    {
+        "id": 12746524,
+        "name": "Tung Tau Estate",
+        "region": "Wong Tai Sin District",
+        "lat": 22.33212,
+        "lng": 114.19277,
+        "population": 15440
+    },
+    {
+        "id": 12640679,
+        "name": "City One",
+        "region": "Sha Tin",
+        "lat": 22.38679,
+        "lng": 114.20275,
+        "population": 15407
+    },
+    {
+        "id": 12719544,
+        "name": "City Garden",
+        "region": "Eastern District",
+        "lat": 22.28997,
+        "lng": 114.19259,
+        "population": 15212
+    },
+    {
+        "id": 12719635,
+        "name": "Yiu Tung Estate",
+        "region": "Eastern District",
+        "lat": 22.27849,
+        "lng": 114.22299,
+        "population": 15061
+    }
+]

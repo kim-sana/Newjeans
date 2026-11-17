@@ -1,0 +1,2506 @@
+[
+    {
+        "id": 2147714,
+        "name": "Sydney",
+        "region": "New South Wales",
+        "lat": -33.86785,
+        "lng": 151.20732,
+        "population": 5638830
+    },
+    {
+        "id": 2158177,
+        "name": "Melbourne",
+        "region": "Victoria",
+        "lat": -37.814,
+        "lng": 144.96332,
+        "population": 5435590
+    },
+    {
+        "id": 2174003,
+        "name": "Brisbane",
+        "region": "Queensland",
+        "lat": -27.46794,
+        "lng": 153.02809,
+        "population": 2780063
+    },
+    {
+        "id": 2063523,
+        "name": "Perth",
+        "region": "Western Australia",
+        "lat": -31.95224,
+        "lng": 115.8614,
+        "population": 2384371
+    },
+    {
+        "id": 2078025,
+        "name": "Adelaide",
+        "region": "South Australia",
+        "lat": -34.92866,
+        "lng": 138.59863,
+        "population": 1469163
+    },
+    {
+        "id": 2165087,
+        "name": "Gold Coast",
+        "region": "Queensland",
+        "lat": -28.00029,
+        "lng": 153.43088,
+        "population": 640778
+    },
+    {
+        "id": 2155472,
+        "name": "Newcastle",
+        "region": "New South Wales",
+        "lat": -32.92953,
+        "lng": 151.7801,
+        "population": 508437
+    },
+    {
+        "id": 10630449,
+        "name": "Sunshine Coast",
+        "region": "Queensland",
+        "lat": -26.65682,
+        "lng": 153.07955,
+        "population": 398840
+    },
+    {
+        "id": 2172517,
+        "name": "Canberra",
+        "region": "Australian Capital Territory",
+        "lat": -35.28346,
+        "lng": 149.12807,
+        "population": 367752
+    },
+    {
+        "id": 8310663,
+        "name": "Central Coast",
+        "region": "New South Wales",
+        "lat": -33.42979,
+        "lng": 151.37144,
+        "population": 346596
+    },
+    {
+        "id": 7281838,
+        "name": "Logan City",
+        "region": "Queensland",
+        "lat": -27.63917,
+        "lng": 153.10944,
+        "population": 345098
+    },
+    {
+        "id": 2165798,
+        "name": "Geelong",
+        "region": "Victoria",
+        "lat": -38.14711,
+        "lng": 144.36069,
+        "population": 282809
+    },
+    {
+        "id": 2171507,
+        "name": "Wollongong",
+        "region": "New South Wales",
+        "lat": -34.424,
+        "lng": 150.89345,
+        "population": 280153
+    },
+    {
+        "id": 2163355,
+        "name": "Hobart",
+        "region": "Tasmania",
+        "lat": -42.87936,
+        "lng": 147.32941,
+        "population": 254930
+    },
+    {
+        "id": 2146142,
+        "name": "Townsville",
+        "region": "Queensland",
+        "lat": -19.26639,
+        "lng": 146.80569,
+        "population": 201313
+    },
+    {
+        "id": 2172797,
+        "name": "Cairns",
+        "region": "Queensland",
+        "lat": -16.92366,
+        "lng": 145.76613,
+        "population": 153075
+    },
+    {
+        "id": 2146268,
+        "name": "Toowoomba",
+        "region": "Queensland",
+        "lat": -27.56056,
+        "lng": 151.95386,
+        "population": 142163
+    },
+    {
+        "id": 2073124,
+        "name": "Darwin",
+        "region": "Northern Territory",
+        "lat": -12.46113,
+        "lng": 130.84185,
+        "population": 139902
+    },
+    {
+        "id": 10300648,
+        "name": "City of Port Phillip",
+        "region": "Victoria",
+        "lat": -37.83382,
+        "lng": 144.93834,
+        "population": 112669
+    },
+    {
+        "id": 2177091,
+        "name": "Ballarat",
+        "region": "Victoria",
+        "lat": -37.56622,
+        "lng": 143.84957,
+        "population": 111973
+    },
+    {
+        "id": 2067119,
+        "name": "Mandurah",
+        "region": "Western Australia",
+        "lat": -32.5269,
+        "lng": 115.7217,
+        "population": 107643
+    },
+    {
+        "id": 2176187,
+        "name": "Bendigo",
+        "region": "Victoria",
+        "lat": -36.75818,
+        "lng": 144.28024,
+        "population": 103034
+    },
+    {
+        "id": 2172710,
+        "name": "Caloundra",
+        "region": "Queensland",
+        "lat": -26.80346,
+        "lng": 153.12195,
+        "population": 96305
+    },
+    {
+        "id": 2160517,
+        "name": "Launceston",
+        "region": "Tasmania",
+        "lat": -41.43876,
+        "lng": 147.13467,
+        "population": 90953
+    },
+    {
+        "id": 2159045,
+        "name": "Maitland",
+        "region": "New South Wales",
+        "lat": -32.73308,
+        "lng": 151.5574,
+        "population": 89597
+    },
+    {
+        "id": 2145936,
+        "name": "Tuggeranong",
+        "region": "Australian Capital Territory",
+        "lat": -35.41647,
+        "lng": 149.06954,
+        "population": 89461
+    },
+    {
+        "id": 2159220,
+        "name": "Mackay",
+        "region": "Queensland",
+        "lat": -21.15345,
+        "lng": 149.16554,
+        "population": 84333
+    },
+    {
+        "id": 2151437,
+        "name": "Rockhampton",
+        "region": "Queensland",
+        "lat": -23.38032,
+        "lng": 150.50595,
+        "population": 81021
+    },
+    {
+        "id": 2171085,
+        "name": "Coffs Harbour",
+        "region": "New South Wales",
+        "lat": -30.29626,
+        "lng": 153.11351,
+        "population": 78759
+    },
+    {
+        "id": 6615604,
+        "name": "Blue Mountains",
+        "region": "New South Wales",
+        "lat": -33.71331,
+        "lng": 150.33065,
+        "population": 78121
+    },
+    {
+        "id": 2075432,
+        "name": "Bunbury",
+        "region": "Western Australia",
+        "lat": -33.32711,
+        "lng": 115.64137,
+        "population": 76452
+    },
+    {
+        "id": 2173323,
+        "name": "Bundaberg",
+        "region": "Queensland",
+        "lat": -24.86621,
+        "lng": 152.3479,
+        "population": 73747
+    },
+    {
+        "id": 7302628,
+        "name": "Adelaide Hills",
+        "region": "South Australia",
+        "lat": -34.91119,
+        "lng": 138.70735,
+        "population": 72260
+    },
+    {
+        "id": 2152819,
+        "name": "Point Cook",
+        "region": "Victoria",
+        "lat": -37.91482,
+        "lng": 144.75088,
+        "population": 66781
+    },
+    {
+        "id": 2170089,
+        "name": "Craigieburn",
+        "region": "Victoria",
+        "lat": -37.6,
+        "lng": 144.95,
+        "population": 65178
+    },
+    {
+        "id": 6949382,
+        "name": "Pittwater",
+        "region": "New South Wales",
+        "lat": -33.66623,
+        "lng": 151.30171,
+        "population": 63482
+    },
+    {
+        "id": 11523810,
+        "name": "Melbourne City Centre",
+        "region": "Victoria",
+        "lat": -37.81501,
+        "lng": 144.96657,
+        "population": 60057
+    },
+    {
+        "id": 2147357,
+        "name": "Tarneit",
+        "region": "Victoria",
+        "lat": -37.83634,
+        "lng": 144.65952,
+        "population": 56370
+    },
+    {
+        "id": 2153953,
+        "name": "Pakenham",
+        "region": "Victoria",
+        "lat": -38.07018,
+        "lng": 145.47411,
+        "population": 54118
+    },
+    {
+        "id": 6354957,
+        "name": "Hervey Bay",
+        "region": "Queensland",
+        "lat": -25.28762,
+        "lng": 152.76936,
+        "population": 52230
+    },
+    {
+        "id": 2152659,
+        "name": "Port Macquarie",
+        "region": "New South Wales",
+        "lat": -31.43084,
+        "lng": 152.90894,
+        "population": 51965
+    },
+    {
+        "id": 2151716,
+        "name": "Reservoir",
+        "region": "Victoria",
+        "lat": -37.71667,
+        "lng": 145,
+        "population": 51096
+    },
+    {
+        "id": 2176031,
+        "name": "Berwick",
+        "region": "Victoria",
+        "lat": -38.03333,
+        "lng": 145.35,
+        "population": 50298
+    },
+    {
+        "id": 2144095,
+        "name": "Werribee",
+        "region": "Victoria",
+        "lat": -37.9,
+        "lng": 144.66667,
+        "population": 50027
+    },
+    {
+        "id": 2175411,
+        "name": "Blacktown",
+        "region": "New South Wales",
+        "lat": -33.76667,
+        "lng": 150.91667,
+        "population": 46942
+    },
+    {
+        "id": 2165478,
+        "name": "Gladstone",
+        "region": "Queensland",
+        "lat": -23.84852,
+        "lng": 151.25775,
+        "population": 45185
+    },
+    {
+        "id": 2147497,
+        "name": "Tamworth",
+        "region": "New South Wales",
+        "lat": -31.09048,
+        "lng": 150.92905,
+        "population": 43874
+    },
+    {
+        "id": 2168305,
+        "name": "Dubbo",
+        "region": "New South Wales",
+        "lat": -32.24295,
+        "lng": 148.60484,
+        "population": 43516
+    },
+    {
+        "id": 2165171,
+        "name": "Glen Waverley",
+        "region": "Victoria",
+        "lat": -37.87811,
+        "lng": 145.16476,
+        "population": 42642
+    },
+    {
+        "id": 2154219,
+        "name": "Orange",
+        "region": "New South Wales",
+        "lat": -33.28397,
+        "lng": 149.10018,
+        "population": 41920
+    },
+    {
+        "id": 2172111,
+        "name": "Castle Hill",
+        "region": "New South Wales",
+        "lat": -33.73333,
+        "lng": 151,
+        "population": 39284
+    },
+    {
+        "id": 2143285,
+        "name": "Wodonga",
+        "region": "Victoria",
+        "lat": -36.12179,
+        "lng": 146.88809,
+        "population": 38949
+    },
+    {
+        "id": 2147914,
+        "name": "Sunbury",
+        "region": "Victoria",
+        "lat": -37.57742,
+        "lng": 144.72607,
+        "population": 38851
+    },
+    {
+        "id": 2070998,
+        "name": "Geraldton",
+        "region": "Western Australia",
+        "lat": -28.77897,
+        "lng": 114.61459,
+        "population": 38595
+    },
+    {
+        "id": 8349017,
+        "name": "Baldivis",
+        "region": "Western Australia",
+        "lat": -32.32889,
+        "lng": 115.83047,
+        "population": 37697
+    },
+    {
+        "id": 8015209,
+        "name": "St Albans",
+        "region": "Victoria",
+        "lat": -37.74496,
+        "lng": 144.80049,
+        "population": 37629
+    },
+    {
+        "id": 2166144,
+        "name": "Frankston",
+        "region": "Victoria",
+        "lat": -38.14458,
+        "lng": 145.12291,
+        "population": 37331
+    },
+    {
+        "id": 2177513,
+        "name": "Auburn",
+        "region": "New South Wales",
+        "lat": -33.85,
+        "lng": 151.03333,
+        "population": 37245
+    },
+    {
+        "id": 7281807,
+        "name": "Hoppers Crossing",
+        "region": "Victoria",
+        "lat": -37.88264,
+        "lng": 144.7003,
+        "population": 37216
+    },
+    {
+        "id": 2176592,
+        "name": "Baulkham Hills",
+        "region": "New South Wales",
+        "lat": -33.75881,
+        "lng": 150.99292,
+        "population": 36792
+    },
+    {
+        "id": 2145990,
+        "name": "Truganina",
+        "region": "Victoria",
+        "lat": -37.81667,
+        "lng": 144.75,
+        "population": 36305
+    },
+    {
+        "id": 2176632,
+        "name": "Bathurst",
+        "region": "New South Wales",
+        "lat": -33.41665,
+        "lng": 149.5806,
+        "population": 36230
+    },
+    {
+        "id": 2156492,
+        "name": "Mount Waverley",
+        "region": "Victoria",
+        "lat": -37.87709,
+        "lng": 145.12939,
+        "population": 35340
+    },
+    {
+        "id": 2150717,
+        "name": "Saint Albans",
+        "region": "Victoria",
+        "lat": -37.73333,
+        "lng": 144.8,
+        "population": 35091
+    },
+    {
+        "id": 2077963,
+        "name": "Albany",
+        "region": "Western Australia",
+        "lat": -35.02692,
+        "lng": 117.88369,
+        "population": 35053
+    },
+    {
+        "id": 2176947,
+        "name": "Bankstown",
+        "region": "New South Wales",
+        "lat": -33.91667,
+        "lng": 151.03333,
+        "population": 34933
+    },
+    {
+        "id": 2157698,
+        "name": "Mildura",
+        "region": "Victoria",
+        "lat": -34.18551,
+        "lng": 142.16251,
+        "population": 34565
+    },
+    {
+        "id": 7302631,
+        "name": "Canning Vale",
+        "region": "Western Australia",
+        "lat": -32.05799,
+        "lng": 115.91814,
+        "population": 34504
+    },
+    {
+        "id": 2166143,
+        "name": "Frankston East",
+        "region": "Victoria",
+        "lat": -38.13333,
+        "lng": 145.13333,
+        "population": 34457
+    },
+    {
+        "id": 2152558,
+        "name": "Preston",
+        "region": "Victoria",
+        "lat": -37.75,
+        "lng": 145.01667,
+        "population": 33790
+    },
+    {
+        "id": 6301965,
+        "name": "Palmerston",
+        "region": "Northern Territory",
+        "lat": -12.48602,
+        "lng": 130.9833,
+        "population": 33695
+    },
+    {
+        "id": 2150894,
+        "name": "Rowville",
+        "region": "Victoria",
+        "lat": -37.93333,
+        "lng": 145.23333,
+        "population": 33571
+    },
+    {
+        "id": 2167279,
+        "name": "Epping",
+        "region": "Victoria",
+        "lat": -37.65,
+        "lng": 145.03333,
+        "population": 33489
+    },
+    {
+        "id": 2148928,
+        "name": "Southport",
+        "region": "Queensland",
+        "lat": -27.96724,
+        "lng": 153.39796,
+        "population": 32965
+    },
+    {
+        "id": 2144528,
+        "name": "Warrnambool",
+        "region": "Victoria",
+        "lat": -38.38176,
+        "lng": 142.48799,
+        "population": 32894
+    },
+    {
+        "id": 2149645,
+        "name": "Shepparton",
+        "region": "Victoria",
+        "lat": -36.38047,
+        "lng": 145.39867,
+        "population": 32067
+    },
+    {
+        "id": 2159851,
+        "name": "Liverpool",
+        "region": "New South Wales",
+        "lat": -33.91938,
+        "lng": 150.92588,
+        "population": 31078
+    },
+    {
+        "id": 2147849,
+        "name": "Surfers Paradise",
+        "region": "Queensland",
+        "lat": -28.00274,
+        "lng": 153.42999,
+        "population": 31073
+    },
+    {
+        "id": 2168605,
+        "name": "Doncaster East",
+        "region": "Victoria",
+        "lat": -37.78761,
+        "lng": 145.14888,
+        "population": 30926
+    },
+    {
+        "id": 2155204,
+        "name": "Noble Park",
+        "region": "Victoria",
+        "lat": -37.96667,
+        "lng": 145.16667,
+        "population": 30921
+    },
+    {
+        "id": 9972518,
+        "name": "Narre Warren South",
+        "region": "Victoria",
+        "lat": -38.04369,
+        "lng": 145.2923,
+        "population": 30909
+    },
+    {
+        "id": 2068079,
+        "name": "Kwinana",
+        "region": "Western Australia",
+        "lat": -32.23013,
+        "lng": 115.78128,
+        "population": 30433
+    },
+    {
+        "id": 2158651,
+        "name": "Maroubra",
+        "region": "New South Wales",
+        "lat": -33.95,
+        "lng": 151.23333,
+        "population": 30224
+    },
+    {
+        "id": 7281840,
+        "name": "Parramatta",
+        "region": "New South Wales",
+        "lat": -33.8178,
+        "lng": 151.00348,
+        "population": 30211
+    },
+    {
+        "id": 2176122,
+        "name": "Bentleigh East",
+        "region": "Victoria",
+        "lat": -37.91928,
+        "lng": 145.05301,
+        "population": 30159
+    },
+    {
+        "id": 2169460,
+        "name": "Dandenong",
+        "region": "Victoria",
+        "lat": -37.98333,
+        "lng": 145.2,
+        "population": 30127
+    },
+    {
+        "id": 2161532,
+        "name": "Keysborough",
+        "region": "Victoria",
+        "lat": -37.99116,
+        "lng": 145.17385,
+        "population": 30018
+    },
+    {
+        "id": 2144764,
+        "name": "Wangaratta",
+        "region": "Victoria",
+        "lat": -36.35846,
+        "lng": 146.32056,
+        "population": 29808
+    },
+    {
+        "id": 9972762,
+        "name": "Hurstville",
+        "region": "New South Wales",
+        "lat": -33.9677,
+        "lng": 151.10149,
+        "population": 29744
+    },
+    {
+        "id": 2157995,
+        "name": "Merrylands",
+        "region": "New South Wales",
+        "lat": -33.83333,
+        "lng": 150.98333,
+        "population": 29508
+    },
+    {
+        "id": 2068823,
+        "name": "Kalgoorlie",
+        "region": "Western Australia",
+        "lat": -30.74614,
+        "lng": 121.4742,
+        "population": 29072
+    },
+    {
+        "id": 2208285,
+        "name": "Randwick",
+        "region": "New South Wales",
+        "lat": -33.91439,
+        "lng": 151.24895,
+        "population": 28943
+    },
+    {
+        "id": 2173605,
+        "name": "Buderim",
+        "region": "Queensland",
+        "lat": -26.68443,
+        "lng": 153.05705,
+        "population": 28774
+    },
+    {
+        "id": 2157635,
+        "name": "Mill Park",
+        "region": "Victoria",
+        "lat": -37.66667,
+        "lng": 145.06667,
+        "population": 28712
+    },
+    {
+        "id": 2151649,
+        "name": "Richmond",
+        "region": "Victoria",
+        "lat": -37.81819,
+        "lng": 145.00176,
+        "population": 28587
+    },
+    {
+        "id": 8349381,
+        "name": "Bundoora",
+        "region": "Victoria",
+        "lat": -37.69825,
+        "lng": 145.05967,
+        "population": 28068
+    },
+    {
+        "id": 2156813,
+        "name": "Mosman",
+        "region": "New South Wales",
+        "lat": -33.83902,
+        "lng": 151.23956,
+        "population": 27844
+    },
+    {
+        "id": 2155718,
+        "name": "Narre Warren",
+        "region": "Victoria",
+        "lat": -38.03333,
+        "lng": 145.3,
+        "population": 27689
+    },
+    {
+        "id": 8347736,
+        "name": "Kellyville",
+        "region": "New South Wales",
+        "lat": -33.71028,
+        "lng": 150.95095,
+        "population": 27676
+    },
+    {
+        "id": 2158562,
+        "name": "Maryborough",
+        "region": "Queensland",
+        "lat": -25.54073,
+        "lng": 152.70493,
+        "population": 27489
+    },
+    {
+        "id": 7281850,
+        "name": "Ferntree Gully",
+        "region": "Victoria",
+        "lat": -37.88461,
+        "lng": 145.29539,
+        "population": 27398
+    },
+    {
+        "id": 2075265,
+        "name": "Busselton",
+        "region": "Western Australia",
+        "lat": -33.65249,
+        "lng": 115.3455,
+        "population": 27233
+    },
+    {
+        "id": 2168537,
+        "name": "Doreen",
+        "region": "Victoria",
+        "lat": -37.6,
+        "lng": 145.15,
+        "population": 27122
+    },
+    {
+        "id": 2146108,
+        "name": "Traralgon",
+        "region": "Victoria",
+        "lat": -38.19528,
+        "lng": 146.5415,
+        "population": 26907
+    },
+    {
+        "id": 2152329,
+        "name": "Quakers Hill",
+        "region": "New South Wales",
+        "lat": -33.73333,
+        "lng": 150.88333,
+        "population": 26904
+    },
+    {
+        "id": 2171168,
+        "name": "Coburg",
+        "region": "Victoria",
+        "lat": -37.75,
+        "lng": 144.96667,
+        "population": 26574
+    },
+    {
+        "id": 2169867,
+        "name": "Croydon",
+        "region": "Victoria",
+        "lat": -37.8,
+        "lng": 145.28333,
+        "population": 26502
+    },
+    {
+        "id": 2150767,
+        "name": "Ryde",
+        "region": "New South Wales",
+        "lat": -33.8188,
+        "lng": 151.1062,
+        "population": 26385
+    },
+    {
+        "id": 2172832,
+        "name": "Caboolture",
+        "region": "Queensland",
+        "lat": -27.08465,
+        "lng": 152.9511,
+        "population": 26341
+    },
+    {
+        "id": 2168943,
+        "name": "Devonport",
+        "region": "Tasmania",
+        "lat": -41.17695,
+        "lng": 146.35152,
+        "population": 26150
+    },
+    {
+        "id": 2158626,
+        "name": "Marrickville",
+        "region": "New South Wales",
+        "lat": -33.90741,
+        "lng": 151.15546,
+        "population": 26140
+    },
+    {
+        "id": 2165290,
+        "name": "Glen Iris",
+        "region": "Victoria",
+        "lat": -37.86667,
+        "lng": 145.06667,
+        "population": 26131
+    },
+    {
+        "id": 2163990,
+        "name": "Hampton Park",
+        "region": "Victoria",
+        "lat": -38.03333,
+        "lng": 145.25,
+        "population": 26082
+    },
+    {
+        "id": 2077895,
+        "name": "Alice Springs",
+        "region": "Northern Territory",
+        "lat": -23.69748,
+        "lng": 133.88362,
+        "population": 25912
+    },
+    {
+        "id": 2148088,
+        "name": "Strathfield",
+        "region": "New South Wales",
+        "lat": -33.88096,
+        "lng": 151.07986,
+        "population": 25769
+    },
+    {
+        "id": 2156878,
+        "name": "Mornington",
+        "region": "Victoria",
+        "lat": -38.21792,
+        "lng": 145.03876,
+        "population": 25759
+    },
+    {
+        "id": 6619280,
+        "name": "Sydney Central Business District",
+        "region": "New South Wales",
+        "lat": -33.86482,
+        "lng": 151.20773,
+        "population": 25654
+    },
+    {
+        "id": 2156643,
+        "name": "Mount Gambier",
+        "region": "South Australia",
+        "lat": -37.8318,
+        "lng": 140.77919,
+        "population": 25591
+    },
+    {
+        "id": 2155001,
+        "name": "Northcote",
+        "region": "Victoria",
+        "lat": -37.76667,
+        "lng": 145,
+        "population": 25276
+    },
+    {
+        "id": 2148876,
+        "name": "South Yarra",
+        "region": "Victoria",
+        "lat": -37.83834,
+        "lng": 144.99149,
+        "population": 25237
+    },
+    {
+        "id": 2171707,
+        "name": "Chatswood",
+        "region": "New South Wales",
+        "lat": -33.8,
+        "lng": 151.18333,
+        "population": 25140
+    },
+    {
+        "id": 2168607,
+        "name": "Doncaster",
+        "region": "Victoria",
+        "lat": -37.78828,
+        "lng": 145.12373,
+        "population": 25020
+    },
+    {
+        "id": 2156942,
+        "name": "South Morang",
+        "region": "Victoria",
+        "lat": -37.65,
+        "lng": 145.1,
+        "population": 24989
+    },
+    {
+        "id": 2145461,
+        "name": "Upper Coomera",
+        "region": "Queensland",
+        "lat": -27.87683,
+        "lng": 153.28572,
+        "population": 24956
+    },
+    {
+        "id": 2173741,
+        "name": "Brunswick",
+        "region": "Victoria",
+        "lat": -37.76667,
+        "lng": 144.96667,
+        "population": 24896
+    },
+    {
+        "id": 2177394,
+        "name": "Bacchus Marsh",
+        "region": "Victoria",
+        "lat": -37.67268,
+        "lng": 144.43829,
+        "population": 24717
+    },
+    {
+        "id": 9972516,
+        "name": "Cranbourne North",
+        "region": "Victoria",
+        "lat": -38.07758,
+        "lng": 145.29871,
+        "population": 24683
+    },
+    {
+        "id": 9972515,
+        "name": "Cranbourne East",
+        "region": "Victoria",
+        "lat": -38.11531,
+        "lng": 145.29814,
+        "population": 24679
+    },
+    {
+        "id": 8348596,
+        "name": "Ellenbrook",
+        "region": "Western Australia",
+        "lat": -31.76737,
+        "lng": 115.96936,
+        "population": 24668
+    },
+    {
+        "id": 2164837,
+        "name": "Goulburn",
+        "region": "New South Wales",
+        "lat": -34.75155,
+        "lng": 149.72086,
+        "population": 24565
+    },
+    {
+        "id": 2161540,
+        "name": "Kew",
+        "region": "Victoria",
+        "lat": -37.80639,
+        "lng": 145.03086,
+        "population": 24499
+    },
+    {
+        "id": 7281805,
+        "name": "Caroline Springs",
+        "region": "Victoria",
+        "lat": -37.74124,
+        "lng": 144.73631,
+        "population": 24488
+    },
+    {
+        "id": 8348466,
+        "name": "Campsie",
+        "region": "New South Wales",
+        "lat": -33.9125,
+        "lng": 151.10279,
+        "population": 24487
+    },
+    {
+        "id": 8347325,
+        "name": "Endeavour Hills",
+        "region": "Victoria",
+        "lat": -37.97695,
+        "lng": 145.25866,
+        "population": 24455
+    },
+    {
+        "id": 2143255,
+        "name": "Wollert",
+        "region": "Victoria",
+        "lat": -37.58333,
+        "lng": 145.03333,
+        "population": 24407
+    },
+    {
+        "id": 8348574,
+        "name": "Greenacre",
+        "region": "New South Wales",
+        "lat": -33.90034,
+        "lng": 151.05563,
+        "population": 24361
+    },
+    {
+        "id": 8349051,
+        "name": "Dianella",
+        "region": "Western Australia",
+        "lat": -31.88822,
+        "lng": 115.87186,
+        "population": 24169
+    },
+    {
+        "id": 2172303,
+        "name": "Carlingford",
+        "region": "New South Wales",
+        "lat": -33.78269,
+        "lng": 151.04888,
+        "population": 24131
+    },
+    {
+        "id": 8347896,
+        "name": "Roxburgh Park",
+        "region": "Victoria",
+        "lat": -37.62581,
+        "lng": 144.92555,
+        "population": 24129
+    },
+    {
+        "id": 2065740,
+        "name": "Morphett Vale",
+        "region": "South Australia",
+        "lat": -35.13333,
+        "lng": 138.51667,
+        "population": 24002
+    },
+    {
+        "id": 2207618,
+        "name": "Cheltenham",
+        "region": "Victoria",
+        "lat": -37.96944,
+        "lng": 145.04806,
+        "population": 23992
+    },
+    {
+        "id": 2165200,
+        "name": "Glenroy",
+        "region": "Victoria",
+        "lat": -37.7,
+        "lng": 144.93333,
+        "population": 23792
+    },
+    {
+        "id": 2177565,
+        "name": "Ashfield",
+        "region": "New South Wales",
+        "lat": -33.88834,
+        "lng": 151.12274,
+        "population": 23749
+    },
+    {
+        "id": 8349108,
+        "name": "Thornlie",
+        "region": "Western Australia",
+        "lat": -32.06003,
+        "lng": 115.955,
+        "population": 23665
+    },
+    {
+        "id": 2174580,
+        "name": "Boronia",
+        "region": "Victoria",
+        "lat": -37.86667,
+        "lng": 145.28333,
+        "population": 23607
+    },
+    {
+        "id": 8348582,
+        "name": "Greystanes",
+        "region": "New South Wales",
+        "lat": -33.82346,
+        "lng": 150.94607,
+        "population": 23511
+    },
+    {
+        "id": 2167280,
+        "name": "Epping",
+        "region": "New South Wales",
+        "lat": -33.77271,
+        "lng": 151.08184,
+        "population": 23435
+    },
+    {
+        "id": 2158051,
+        "name": "Mernda",
+        "region": "Victoria",
+        "lat": -37.60075,
+        "lng": 145.09555,
+        "population": 23369
+    },
+    {
+        "id": 2174039,
+        "name": "Brighton",
+        "region": "Victoria",
+        "lat": -37.90561,
+        "lng": 145.00279,
+        "population": 23252
+    },
+    {
+        "id": 2160706,
+        "name": "Lalor",
+        "region": "Victoria",
+        "lat": -37.66667,
+        "lng": 145.01667,
+        "population": 23219
+    },
+    {
+        "id": 2171845,
+        "name": "Cessnock",
+        "region": "New South Wales",
+        "lat": -32.83211,
+        "lng": 151.35623,
+        "population": 23211
+    },
+    {
+        "id": 8348930,
+        "name": "Robina",
+        "region": "Queensland",
+        "lat": -28.07071,
+        "lng": 153.39329,
+        "population": 23140
+    },
+    {
+        "id": 2156977,
+        "name": "Mooroolbark",
+        "region": "Victoria",
+        "lat": -37.78247,
+        "lng": 145.31682,
+        "population": 23059
+    },
+    {
+        "id": 7302642,
+        "name": "Glenmore Park",
+        "region": "New South Wales",
+        "lat": -33.79068,
+        "lng": 150.6693,
+        "population": 22863
+    },
+    {
+        "id": 7302683,
+        "name": "Southbank",
+        "region": "Victoria",
+        "lat": -37.8228,
+        "lng": 144.96434,
+        "population": 22631
+    },
+    {
+        "id": 9957340,
+        "name": "Forest Lake",
+        "region": "Queensland",
+        "lat": -27.62563,
+        "lng": 152.96883,
+        "population": 22581
+    },
+    {
+        "id": 9972522,
+        "name": "Dandenong North",
+        "region": "Victoria",
+        "lat": -37.96649,
+        "lng": 145.2081,
+        "population": 22550
+    },
+    {
+        "id": 8349083,
+        "name": "Morley",
+        "region": "Western Australia",
+        "lat": -31.88775,
+        "lng": 115.9099,
+        "population": 22539
+    },
+    {
+        "id": 2163137,
+        "name": "Hornsby",
+        "region": "New South Wales",
+        "lat": -33.70244,
+        "lng": 151.09931,
+        "population": 22462
+    },
+    {
+        "id": 2164129,
+        "name": "Gympie",
+        "region": "Queensland",
+        "lat": -26.18979,
+        "lng": 152.66499,
+        "population": 22424
+    },
+    {
+        "id": 2163782,
+        "name": "Hawthorn",
+        "region": "Victoria",
+        "lat": -37.81992,
+        "lng": 145.0358,
+        "population": 22322
+    },
+    {
+        "id": 7932638,
+        "name": "Malvern East",
+        "region": "Victoria",
+        "lat": -37.87397,
+        "lng": 145.04253,
+        "population": 22296
+    },
+    {
+        "id": 2148591,
+        "name": "Springvale",
+        "region": "Victoria",
+        "lat": -37.94853,
+        "lng": 145.15274,
+        "population": 22174
+    },
+    {
+        "id": 2160582,
+        "name": "Langwarrin",
+        "region": "Victoria",
+        "lat": -38.16667,
+        "lng": 145.16667,
+        "population": 22146
+    },
+    {
+        "id": 2172191,
+        "name": "Carrum Downs",
+        "region": "Victoria",
+        "lat": -38.09968,
+        "lng": 145.17248,
+        "population": 21976
+    },
+    {
+        "id": 2172686,
+        "name": "Camberwell",
+        "region": "Victoria",
+        "lat": -37.84205,
+        "lng": 145.0694,
+        "population": 21965
+    },
+    {
+        "id": 8348460,
+        "name": "Cabramatta",
+        "region": "New South Wales",
+        "lat": -33.89743,
+        "lng": 150.93446,
+        "population": 21634
+    },
+    {
+        "id": 2065665,
+        "name": "Mount Barker",
+        "region": "South Australia",
+        "lat": -35.06667,
+        "lng": 138.86667,
+        "population": 21554
+    },
+    {
+        "id": 2177671,
+        "name": "Armidale",
+        "region": "New South Wales",
+        "lat": -30.50123,
+        "lng": 151.66553,
+        "population": 21312
+    },
+    {
+        "id": 7932629,
+        "name": "Balwyn North",
+        "region": "Victoria",
+        "lat": -37.79086,
+        "lng": 145.09386,
+        "population": 21302
+    },
+    {
+        "id": 2170079,
+        "name": "Cranbourne",
+        "region": "Victoria",
+        "lat": -38.11342,
+        "lng": 145.28326,
+        "population": 21281
+    },
+    {
+        "id": 2164495,
+        "name": "Greenvale",
+        "region": "Victoria",
+        "lat": -37.63333,
+        "lng": 144.86667,
+        "population": 21274
+    },
+    {
+        "id": 6943562,
+        "name": "North Lakes",
+        "region": "Queensland",
+        "lat": -27.22426,
+        "lng": 153.02075,
+        "population": 21260
+    },
+    {
+        "id": 2167208,
+        "name": "Essendon",
+        "region": "Victoria",
+        "lat": -37.74981,
+        "lng": 144.9109,
+        "population": 21240
+    },
+    {
+        "id": 2156934,
+        "name": "Morayfield",
+        "region": "Queensland",
+        "lat": -27.10876,
+        "lng": 152.94907,
+        "population": 21221
+    },
+    {
+        "id": 2165329,
+        "name": "Glenferrie",
+        "region": "Victoria",
+        "lat": -37.83333,
+        "lng": 145.05,
+        "population": 21177
+    },
+    {
+        "id": 2163776,
+        "name": "Hawthorn South",
+        "region": "Victoria",
+        "lat": -37.8329,
+        "lng": 145.0367,
+        "population": 21177
+    },
+    {
+        "id": 2070571,
+        "name": "Gosnells",
+        "region": "Western Australia",
+        "lat": -32.081,
+        "lng": 116.0054,
+        "population": 21149
+    },
+    {
+        "id": 2208305,
+        "name": "Dee Why",
+        "region": "New South Wales",
+        "lat": -33.7511,
+        "lng": 151.28886,
+        "population": 21145
+    },
+    {
+        "id": 2164515,
+        "name": "Greensborough",
+        "region": "Victoria",
+        "lat": -37.70462,
+        "lng": 145.10302,
+        "population": 21070
+    },
+    {
+        "id": 8349354,
+        "name": "Kirwan",
+        "region": "Queensland",
+        "lat": -19.30323,
+        "lng": 146.72531,
+        "population": 21034
+    },
+    {
+        "id": 2155787,
+        "name": "Narangba",
+        "region": "Queensland",
+        "lat": -27.20338,
+        "lng": 152.95923,
+        "population": 20910
+    },
+    {
+        "id": 2058430,
+        "name": "Whyalla",
+        "region": "South Australia",
+        "lat": -33.03268,
+        "lng": 137.56483,
+        "population": 20880
+    },
+    {
+        "id": 2144728,
+        "name": "Wantirna South",
+        "region": "Victoria",
+        "lat": -37.88333,
+        "lng": 145.21667,
+        "population": 20754
+    },
+    {
+        "id": 2143887,
+        "name": "Wheelers Hill",
+        "region": "Victoria",
+        "lat": -37.9,
+        "lng": 145.18333,
+        "population": 20652
+    },
+    {
+        "id": 2164422,
+        "name": "Griffith",
+        "region": "New South Wales",
+        "lat": -34.28853,
+        "lng": 146.05093,
+        "population": 20569
+    },
+    {
+        "id": 8348078,
+        "name": "Wyndham Vale",
+        "region": "Victoria",
+        "lat": -37.89138,
+        "lng": 144.62368,
+        "population": 20518
+    },
+    {
+        "id": 2173125,
+        "name": "Burnie",
+        "region": "Tasmania",
+        "lat": -41.05584,
+        "lng": 145.90375,
+        "population": 20417
+    },
+    {
+        "id": 2146827,
+        "name": "Thomastown",
+        "region": "Victoria",
+        "lat": -37.68333,
+        "lng": 145.01667,
+        "population": 20234
+    },
+    {
+        "id": 6943560,
+        "name": "Kallangur",
+        "region": "Queensland",
+        "lat": -27.25204,
+        "lng": 152.99226,
+        "population": 20222
+    },
+    {
+        "id": 8349222,
+        "name": "Punchbowl",
+        "region": "New South Wales",
+        "lat": -33.92893,
+        "lng": 151.05111,
+        "population": 20174
+    },
+    {
+        "id": 2071059,
+        "name": "Gawler",
+        "region": "South Australia",
+        "lat": -34.60251,
+        "lng": 138.74902,
+        "population": 20006
+    },
+    {
+        "id": 9972517,
+        "name": "Cranbourne West",
+        "region": "Victoria",
+        "lat": -38.0965,
+        "lng": 145.26707,
+        "population": 19969
+    },
+    {
+        "id": 2156340,
+        "name": "Mulgrave",
+        "region": "Victoria",
+        "lat": -37.92845,
+        "lng": 145.17708,
+        "population": 19889
+    },
+    {
+        "id": 8349321,
+        "name": "St Clair",
+        "region": "New South Wales",
+        "lat": -33.79728,
+        "lng": 150.7847,
+        "population": 19856
+    },
+    {
+        "id": 2144604,
+        "name": "Warragul",
+        "region": "Victoria",
+        "lat": -38.15912,
+        "lng": 145.93118,
+        "population": 19856
+    },
+    {
+        "id": 2156578,
+        "name": "Mount Martha",
+        "region": "Victoria",
+        "lat": -38.26667,
+        "lng": 145.01667,
+        "population": 19846
+    },
+    {
+        "id": 11523825,
+        "name": "Adelaide city centre",
+        "region": "South Australia",
+        "lat": -34.92873,
+        "lng": 138.60334,
+        "population": 19820
+    },
+    {
+        "id": 2160258,
+        "name": "Lidcombe",
+        "region": "New South Wales",
+        "lat": -33.86436,
+        "lng": 151.0397,
+        "population": 19791
+    },
+    {
+        "id": 2175974,
+        "name": "Bexley",
+        "region": "New South Wales",
+        "lat": -33.95,
+        "lng": 151.11667,
+        "population": 19664
+    },
+    {
+        "id": 2169220,
+        "name": "Deception Bay",
+        "region": "Queensland",
+        "lat": -27.19354,
+        "lng": 153.02631,
+        "population": 19539
+    },
+    {
+        "id": 2150660,
+        "name": "Saint Kilda",
+        "region": "Victoria",
+        "lat": -37.8676,
+        "lng": 144.98099,
+        "population": 19490
+    },
+    {
+        "id": 8348101,
+        "name": "Willetton",
+        "region": "Western Australia",
+        "lat": -32.05251,
+        "lng": 115.88782,
+        "population": 19262
+    },
+    {
+        "id": 2164771,
+        "name": "Grafton",
+        "region": "New South Wales",
+        "lat": -29.68104,
+        "lng": 152.93394,
+        "population": 19255
+    },
+    {
+        "id": 2149847,
+        "name": "Seven Hills",
+        "region": "New South Wales",
+        "lat": -33.78333,
+        "lng": 150.93333,
+        "population": 19196
+    },
+    {
+        "id": 2151576,
+        "name": "Ringwood",
+        "region": "Victoria",
+        "lat": -37.81667,
+        "lng": 145.23333,
+        "population": 19144
+    },
+    {
+        "id": 11523847,
+        "name": "Wollongong city centre",
+        "region": "New South Wales",
+        "lat": -34.4279,
+        "lng": 150.89268,
+        "population": 19108
+    },
+    {
+        "id": 7932670,
+        "name": "Redbank Plains",
+        "region": "Queensland",
+        "lat": -27.64613,
+        "lng": 152.85965,
+        "population": 19094
+    },
+    {
+        "id": 2146793,
+        "name": "Thornbury",
+        "region": "Victoria",
+        "lat": -37.75819,
+        "lng": 145.00583,
+        "population": 19005
+    },
+    {
+        "id": 2171400,
+        "name": "Clayton",
+        "region": "Victoria",
+        "lat": -37.91667,
+        "lng": 145.11667,
+        "population": 18988
+    },
+    {
+        "id": 2075230,
+        "name": "Byford",
+        "region": "Western Australia",
+        "lat": -32.22099,
+        "lng": 116.009,
+        "population": 18878
+    },
+    {
+        "id": 2167445,
+        "name": "Eltham",
+        "region": "Victoria",
+        "lat": -37.73333,
+        "lng": 145.15,
+        "population": 18847
+    },
+    {
+        "id": 9972527,
+        "name": "Frankston South",
+        "region": "Victoria",
+        "lat": -38.16604,
+        "lng": 145.13643,
+        "population": 18801
+    },
+    {
+        "id": 2156663,
+        "name": "Mount Eliza",
+        "region": "Victoria",
+        "lat": -38.18333,
+        "lng": 145.08333,
+        "population": 18734
+    },
+    {
+        "id": 8347871,
+        "name": "Cherrybrook",
+        "region": "New South Wales",
+        "lat": -33.72197,
+        "lng": 151.04607,
+        "population": 18588
+    },
+    {
+        "id": 9972578,
+        "name": "Sunshine West",
+        "region": "Victoria",
+        "lat": -37.79117,
+        "lng": 144.81637,
+        "population": 18552
+    },
+    {
+        "id": 2146218,
+        "name": "Torquay",
+        "region": "Victoria",
+        "lat": -38.33085,
+        "lng": 144.32638,
+        "population": 18534
+    },
+    {
+        "id": 2154481,
+        "name": "Officer",
+        "region": "Victoria",
+        "lat": -38.05916,
+        "lng": 145.40947,
+        "population": 18503
+    },
+    {
+        "id": 9972579,
+        "name": "Altona Meadows",
+        "region": "Victoria",
+        "lat": -37.88413,
+        "lng": 144.78367,
+        "population": 18479
+    },
+    {
+        "id": 8348081,
+        "name": "Ballajura",
+        "region": "Western Australia",
+        "lat": -31.84062,
+        "lng": 115.89549,
+        "population": 18459
+    },
+    {
+        "id": 8348824,
+        "name": "Highton",
+        "region": "Victoria",
+        "lat": -38.17058,
+        "lng": 144.3114,
+        "population": 18388
+    },
+    {
+        "id": 2150669,
+        "name": "Saint Ives",
+        "region": "New South Wales",
+        "lat": -33.72976,
+        "lng": 151.15977,
+        "population": 18384
+    },
+    {
+        "id": 2207268,
+        "name": "Maroochydore",
+        "region": "Queensland",
+        "lat": -26.66008,
+        "lng": 153.09953,
+        "population": 18342
+    },
+    {
+        "id": 8012683,
+        "name": "Labrador",
+        "region": "Queensland",
+        "lat": -27.94402,
+        "lng": 153.39815,
+        "population": 18326
+    },
+    {
+        "id": 2065594,
+        "name": "Mount Isa",
+        "region": "Queensland",
+        "lat": -20.72523,
+        "lng": 139.49727,
+        "population": 18317
+    },
+    {
+        "id": 2172995,
+        "name": "Burwood",
+        "region": "New South Wales",
+        "lat": -33.88333,
+        "lng": 151.1,
+        "population": 18224
+    },
+    {
+        "id": 2153720,
+        "name": "Pascoe Vale",
+        "region": "Victoria",
+        "lat": -37.73333,
+        "lng": 144.93333,
+        "population": 18171
+    },
+    {
+        "id": 2169145,
+        "name": "Deer Park",
+        "region": "Victoria",
+        "lat": -37.76722,
+        "lng": 144.76657,
+        "population": 18145
+    },
+    {
+        "id": 2172434,
+        "name": "Capalaba",
+        "region": "Queensland",
+        "lat": -27.54333,
+        "lng": 153.20287,
+        "population": 18002
+    },
+    {
+        "id": 2166952,
+        "name": "Fairfield",
+        "region": "New South Wales",
+        "lat": -33.86667,
+        "lng": 150.95,
+        "population": 17932
+    },
+    {
+        "id": 2176123,
+        "name": "Bentleigh",
+        "region": "Victoria",
+        "lat": -37.91806,
+        "lng": 145.03544,
+        "population": 17921
+    },
+    {
+        "id": 2172264,
+        "name": "Carnegie",
+        "region": "Victoria",
+        "lat": -37.89359,
+        "lng": 145.05534,
+        "population": 17909
+    },
+    {
+        "id": 8348768,
+        "name": "Yagoona",
+        "region": "New South Wales",
+        "lat": -33.9049,
+        "lng": 151.01996,
+        "population": 17908
+    },
+    {
+        "id": 9957350,
+        "name": "Sunnybank Hills",
+        "region": "Queensland",
+        "lat": -27.61025,
+        "lng": 153.05388,
+        "population": 17842
+    },
+    {
+        "id": 2143973,
+        "name": "Westmead",
+        "region": "New South Wales",
+        "lat": -33.80383,
+        "lng": 150.98768,
+        "population": 17835
+    },
+    {
+        "id": 2167840,
+        "name": "Eastwood",
+        "region": "New South Wales",
+        "lat": -33.79176,
+        "lng": 151.08057,
+        "population": 17792
+    },
+    {
+        "id": 2169956,
+        "name": "Cronulla",
+        "region": "New South Wales",
+        "lat": -34.06251,
+        "lng": 151.14961,
+        "population": 17703
+    },
+    {
+        "id": 2177233,
+        "name": "Bairnsdale",
+        "region": "Victoria",
+        "lat": -37.82289,
+        "lng": 147.61041,
+        "population": 17666
+    },
+    {
+        "id": 2145092,
+        "name": "Wahroonga",
+        "region": "New South Wales",
+        "lat": -33.71816,
+        "lng": 151.11561,
+        "population": 17652
+    },
+    {
+        "id": 2152658,
+        "name": "Port Melbourne",
+        "region": "Victoria",
+        "lat": -37.83961,
+        "lng": 144.94228,
+        "population": 17633
+    },
+    {
+        "id": 2061840,
+        "name": "Scarborough",
+        "region": "Western Australia",
+        "lat": -31.89578,
+        "lng": 115.76431,
+        "population": 17605
+    },
+    {
+        "id": 2167949,
+        "name": "Earlwood",
+        "region": "New South Wales",
+        "lat": -33.9209,
+        "lng": 151.12506,
+        "population": 17592
+    },
+    {
+        "id": 2176639,
+        "name": "Batemans Bay",
+        "region": "New South Wales",
+        "lat": -35.70658,
+        "lng": 150.17541,
+        "population": 17519
+    },
+    {
+        "id": 2173911,
+        "name": "Broken Hill",
+        "region": "New South Wales",
+        "lat": -31.9652,
+        "lng": 141.4512,
+        "population": 17456
+    },
+    {
+        "id": 2160188,
+        "name": "Lilydale",
+        "region": "Victoria",
+        "lat": -37.75,
+        "lng": 145.35,
+        "population": 17348
+    },
+    {
+        "id": 8349243,
+        "name": "Hillside",
+        "region": "Victoria",
+        "lat": -37.69047,
+        "lng": 144.74172,
+        "population": 17331
+    },
+    {
+        "id": 2149975,
+        "name": "Seaford",
+        "region": "Victoria",
+        "lat": -38.1,
+        "lng": 145.13333,
+        "population": 17215
+    },
+    {
+        "id": 2167312,
+        "name": "Engadine",
+        "region": "New South Wales",
+        "lat": -34.06564,
+        "lng": 151.01266,
+        "population": 17141
+    },
+    {
+        "id": 2166370,
+        "name": "Footscray",
+        "region": "Victoria",
+        "lat": -37.8,
+        "lng": 144.9,
+        "population": 17131
+    },
+    {
+        "id": 6620339,
+        "name": "Karratha",
+        "region": "Western Australia",
+        "lat": -20.73765,
+        "lng": 116.84629,
+        "population": 17013
+    },
+    {
+        "id": 2163055,
+        "name": "Horsham",
+        "region": "Victoria",
+        "lat": -36.71131,
+        "lng": 142.19981,
+        "population": 16985
+    },
+    {
+        "id": 2147140,
+        "name": "Templestowe",
+        "region": "Victoria",
+        "lat": -37.75405,
+        "lng": 145.14864,
+        "population": 16966
+    },
+    {
+        "id": 8348765,
+        "name": "Calamvale",
+        "region": "Queensland",
+        "lat": -27.62329,
+        "lng": 153.04785,
+        "population": 16927
+    },
+    {
+        "id": 2160744,
+        "name": "Lakemba",
+        "region": "New South Wales",
+        "lat": -33.91972,
+        "lng": 151.07592,
+        "population": 16921
+    },
+    {
+        "id": 2171945,
+        "name": "Caulfield North",
+        "region": "Victoria",
+        "lat": -37.8739,
+        "lng": 145.02485,
+        "population": 16903
+    },
+    {
+        "id": 8349238,
+        "name": "Parafield Gardens",
+        "region": "South Australia",
+        "lat": -34.78254,
+        "lng": 138.61077,
+        "population": 16872
+    },
+    {
+        "id": 7576707,
+        "name": "Helensvale",
+        "region": "Queensland",
+        "lat": -27.91828,
+        "lng": 153.33275,
+        "population": 16839
+    },
+    {
+        "id": 2157410,
+        "name": "Mitcham",
+        "region": "Victoria",
+        "lat": -37.81667,
+        "lng": 145.2,
+        "population": 16795
+    },
+    {
+        "id": 7932646,
+        "name": "Brighton East",
+        "region": "Victoria",
+        "lat": -37.90232,
+        "lng": 145.01734,
+        "population": 16757
+    },
+    {
+        "id": 2155542,
+        "name": "Nerang",
+        "region": "Queensland",
+        "lat": -27.98941,
+        "lng": 153.33633,
+        "population": 16739
+    },
+    {
+        "id": 2164691,
+        "name": "Granville",
+        "region": "New South Wales",
+        "lat": -33.8406,
+        "lng": 151.00748,
+        "population": 16716
+    },
+    {
+        "id": 6943558,
+        "name": "Bracken Ridge",
+        "region": "Queensland",
+        "lat": -27.3171,
+        "lng": 153.03097,
+        "population": 16701
+    },
+    {
+        "id": 2156671,
+        "name": "Mount Druitt",
+        "region": "New South Wales",
+        "lat": -33.76667,
+        "lng": 150.81667,
+        "population": 16682
+    },
+    {
+        "id": 8348920,
+        "name": "Pacific Pines",
+        "region": "Queensland",
+        "lat": -27.93994,
+        "lng": 153.31436,
+        "population": 16605
+    },
+    {
+        "id": 8349003,
+        "name": "Paralowie",
+        "region": "South Australia",
+        "lat": -34.75705,
+        "lng": 138.60819,
+        "population": 16530
+    },
+    {
+        "id": 2161185,
+        "name": "Kogarah",
+        "region": "New South Wales",
+        "lat": -33.9681,
+        "lng": 151.13564,
+        "population": 16416
+    },
+    {
+        "id": 2208313,
+        "name": "Umina Beach",
+        "region": "New South Wales",
+        "lat": -33.52314,
+        "lng": 151.31325,
+        "population": 16413
+    },
+    {
+        "id": 6943585,
+        "name": "The Gap",
+        "region": "Queensland",
+        "lat": -27.44187,
+        "lng": 152.93861,
+        "population": 16371
+    },
+    {
+        "id": 2147381,
+        "name": "Taree",
+        "region": "New South Wales",
+        "lat": -31.91099,
+        "lng": 152.45387,
+        "population": 16359
+    },
+    {
+        "id": 2157056,
+        "name": "Moonee Ponds",
+        "region": "Victoria",
+        "lat": -37.76667,
+        "lng": 144.91667,
+        "population": 16224
+    },
+    {
+        "id": 2158867,
+        "name": "Manly",
+        "region": "New South Wales",
+        "lat": -33.79798,
+        "lng": 151.28826,
+        "population": 16170
+    },
+    {
+        "id": 9972964,
+        "name": "West Pennant Hills",
+        "region": "New South Wales",
+        "lat": -33.7457,
+        "lng": 151.04764,
+        "population": 16162
+    },
+    {
+        "id": 2172293,
+        "name": "Carlton",
+        "region": "Victoria",
+        "lat": -37.8,
+        "lng": 144.96667,
+        "population": 16055
+    },
+    {
+        "id": 8348615,
+        "name": "Alexandra Hills",
+        "region": "Queensland",
+        "lat": -27.53221,
+        "lng": 153.22889,
+        "population": 16043
+    },
+    {
+        "id": 8348142,
+        "name": "Glenwood",
+        "region": "New South Wales",
+        "lat": -33.73333,
+        "lng": 150.93284,
+        "population": 16040
+    },
+    {
+        "id": 2156034,
+        "name": "Muswellbrook",
+        "region": "New South Wales",
+        "lat": -32.26118,
+        "lng": 150.89009,
+        "population": 16000
+    },
+    {
+        "id": 2077454,
+        "name": "Australind",
+        "region": "Western Australia",
+        "lat": -33.2792,
+        "lng": 115.71504,
+        "population": 15988
+    },
+    {
+        "id": 2158538,
+        "name": "Mascot",
+        "region": "New South Wales",
+        "lat": -33.92598,
+        "lng": 151.19347,
+        "population": 15985
+    },
+    {
+        "id": 8349052,
+        "name": "Duncraig",
+        "region": "Western Australia",
+        "lat": -31.83291,
+        "lng": 115.7759,
+        "population": 15982
+    },
+    {
+        "id": 2170435,
+        "name": "Coorparoo",
+        "region": "Queensland",
+        "lat": -27.49325,
+        "lng": 153.05826,
+        "population": 15965
+    },
+    {
+        "id": 2160560,
+        "name": "Lara",
+        "region": "Victoria",
+        "lat": -38.02388,
+        "lng": 144.40617,
+        "population": 15919
+    },
+    {
+        "id": 2176934,
+        "name": "Banora Point",
+        "region": "New South Wales",
+        "lat": -28.21298,
+        "lng": 153.53634,
+        "population": 15868
+    },
+    {
+        "id": 2147821,
+        "name": "Surry Hills",
+        "region": "New South Wales",
+        "lat": -33.88374,
+        "lng": 151.21282,
+        "population": 15828
+    },
+    {
+        "id": 8348477,
+        "name": "Casula",
+        "region": "New South Wales",
+        "lat": -33.95222,
+        "lng": 150.89949,
+        "population": 15695
+    },
+    {
+        "id": 8348511,
+        "name": "Cranebrook",
+        "region": "New South Wales",
+        "lat": -33.7061,
+        "lng": 150.7094,
+        "population": 15649
+    },
+    {
+        "id": 2142457,
+        "name": "Yarraville",
+        "region": "Victoria",
+        "lat": -37.81667,
+        "lng": 144.9,
+        "population": 15636
+    },
+    {
+        "id": 2178208,
+        "name": "Albany Creek",
+        "region": "Queensland",
+        "lat": -27.35364,
+        "lng": 152.96848,
+        "population": 15532
+    },
+    {
+        "id": 7521471,
+        "name": "Docklands",
+        "region": "Victoria",
+        "lat": -37.8149,
+        "lng": 144.95052,
+        "population": 15495
+    },
+    {
+        "id": 2151443,
+        "name": "Rockdale",
+        "region": "New South Wales",
+        "lat": -33.95,
+        "lng": 151.13333,
+        "population": 15436
+    },
+    {
+        "id": 9972586,
+        "name": "Taylors Hill",
+        "region": "Victoria",
+        "lat": -37.70988,
+        "lng": 144.75483,
+        "population": 15419
+    },
+    {
+        "id": 7281839,
+        "name": "Carindale",
+        "region": "Queensland",
+        "lat": -27.50578,
+        "lng": 153.10236,
+        "population": 15418
+    },
+    {
+        "id": 8349177,
+        "name": "Landsdale",
+        "region": "Western Australia",
+        "lat": -31.8075,
+        "lng": 115.86599,
+        "population": 15401
+    },
+    {
+        "id": 2154912,
+        "name": "North Melbourne",
+        "region": "Victoria",
+        "lat": -37.79798,
+        "lng": 144.94512,
+        "population": 15395
+    },
+    {
+        "id": 2144502,
+        "name": "Warwick",
+        "region": "Queensland",
+        "lat": -28.21901,
+        "lng": 152.03438,
+        "population": 15380
+    },
+    {
+        "id": 2167651,
+        "name": "Eight Mile Plains",
+        "region": "Queensland",
+        "lat": -27.58333,
+        "lng": 153.1,
+        "population": 15364
+    },
+    {
+        "id": 6621337,
+        "name": "Kingsford",
+        "region": "New South Wales",
+        "lat": -33.92399,
+        "lng": 151.22749,
+        "population": 15338
+    },
+    {
+        "id": 2170697,
+        "name": "Coogee",
+        "region": "New South Wales",
+        "lat": -33.9205,
+        "lng": 151.25522,
+        "population": 15333
+    },
+    {
+        "id": 8347914,
+        "name": "Prestons",
+        "region": "New South Wales",
+        "lat": -33.94185,
+        "lng": 150.8717,
+        "population": 15312
+    },
+    {
+        "id": 2062338,
+        "name": "Rockingham",
+        "region": "Western Australia",
+        "lat": -32.27682,
+        "lng": 115.72978,
+        "population": 15312
+    },
+    {
+        "id": 2063042,
+        "name": "Port Hedland",
+        "region": "Western Australia",
+        "lat": -20.31215,
+        "lng": 118.61059,
+        "population": 15298
+    },
+    {
+        "id": 2170307,
+        "name": "Corio",
+        "region": "Victoria",
+        "lat": -38.08333,
+        "lng": 144.38333,
+        "population": 15215
+    },
+    {
+        "id": 2153925,
+        "name": "Palm Beach",
+        "region": "Queensland",
+        "lat": -28.11694,
+        "lng": 153.46584,
+        "population": 15205
+    },
+    {
+        "id": 2177576,
+        "name": "Ascot Vale",
+        "region": "Victoria",
+        "lat": -37.77988,
+        "lng": 144.92276,
+        "population": 15197
+    },
+    {
+        "id": 8347847,
+        "name": "Taylors Lakes",
+        "region": "Victoria",
+        "lat": -37.69863,
+        "lng": 144.78631,
+        "population": 15174
+    },
+    {
+        "id": 7932620,
+        "name": "Elwood",
+        "region": "Victoria",
+        "lat": -37.88214,
+        "lng": 144.98215,
+        "population": 15153
+    },
+    {
+        "id": 7932622,
+        "name": "Burwood",
+        "region": "Victoria",
+        "lat": -37.84978,
+        "lng": 145.11901,
+        "population": 15147
+    },
+    {
+        "id": 2157495,
+        "name": "Miranda",
+        "region": "New South Wales",
+        "lat": -34.03857,
+        "lng": 151.10005,
+        "population": 15111
+    },
+    {
+        "id": 6693094,
+        "name": "Springfield Lakes",
+        "region": "Queensland",
+        "lat": -27.66757,
+        "lng": 152.92488,
+        "population": 15081
+    },
+    {
+        "id": 9972422,
+        "name": "Keilor East",
+        "region": "Victoria",
+        "lat": -37.73261,
+        "lng": 144.86504,
+        "population": 15078
+    },
+    {
+        "id": 9958114,
+        "name": "Rochedale South",
+        "region": "Queensland",
+        "lat": -27.59521,
+        "lng": 153.12332,
+        "population": 15073
+    },
+    {
+        "id": 2167817,
+        "name": "Echuca",
+        "region": "Victoria",
+        "lat": -36.14057,
+        "lng": 144.75185,
+        "population": 15056
+    },
+    {
+        "id": 2161608,
+        "name": "Kensington",
+        "region": "New South Wales",
+        "lat": -33.92019,
+        "lng": 151.22241,
+        "population": 15021
+    },
+    {
+        "id": 2144949,
+        "name": "Wallan",
+        "region": "Victoria",
+        "lat": -37.41625,
+        "lng": 144.97859,
+        "population": 15004
+    }
+]

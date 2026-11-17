@@ -1,0 +1,346 @@
+[
+    {
+        "id": 2964574,
+        "name": "Dublin",
+        "region": "Leinster",
+        "lat": 53.33306,
+        "lng": -6.24889,
+        "population": 1024027
+    },
+    {
+        "id": 6697759,
+        "name": "South Dublin",
+        "region": "Leinster",
+        "lat": 53.29026,
+        "lng": -6.34151,
+        "population": 301075
+    },
+    {
+        "id": 2965140,
+        "name": "Cork",
+        "region": "Munster",
+        "lat": 51.89797,
+        "lng": -8.47061,
+        "population": 224004
+    },
+    {
+        "id": 2962943,
+        "name": "Limerick",
+        "region": "Munster",
+        "lat": 52.66472,
+        "lng": -8.62306,
+        "population": 102287
+    },
+    {
+        "id": 2964180,
+        "name": "Galway",
+        "region": "Connacht",
+        "lat": 53.27245,
+        "lng": -9.05095,
+        "population": 85910
+    },
+    {
+        "id": 2961284,
+        "name": "Tallaght",
+        "region": "Leinster",
+        "lat": 53.2859,
+        "lng": -6.37344,
+        "population": 81022
+    },
+    {
+        "id": 2960992,
+        "name": "Waterford",
+        "region": "Munster",
+        "lat": 52.25833,
+        "lng": -7.11194,
+        "population": 60079
+    },
+    {
+        "id": 2964661,
+        "name": "Drogheda",
+        "region": "Leinster",
+        "lat": 53.71889,
+        "lng": -6.34778,
+        "population": 44135
+    },
+    {
+        "id": 2964540,
+        "name": "Dundalk",
+        "region": "Leinster",
+        "lat": 54,
+        "lng": -6.41667,
+        "population": 43112
+    },
+    {
+        "id": 2961297,
+        "name": "Swords",
+        "region": "Leinster",
+        "lat": 53.45972,
+        "lng": -6.21806,
+        "population": 40776
+    },
+    {
+        "id": 2962308,
+        "name": "Navan",
+        "region": "Leinster",
+        "lat": 53.65278,
+        "lng": -6.68139,
+        "population": 33886
+    },
+    {
+        "id": 2966022,
+        "name": "Bray",
+        "region": "Leinster",
+        "lat": 53.20278,
+        "lng": -6.09833,
+        "population": 33512
+    },
+    {
+        "id": 2964506,
+        "name": "Dún Laoghaire",
+        "region": "Leinster",
+        "lat": 53.29395,
+        "lng": -6.13586,
+        "population": 31239
+    },
+    {
+        "id": 2964405,
+        "name": "Ennis",
+        "region": "Munster",
+        "lat": 52.84361,
+        "lng": -8.98639,
+        "population": 27923
+    },
+    {
+        "id": 2965768,
+        "name": "Carlow",
+        "region": "Leinster",
+        "lat": 52.84083,
+        "lng": -6.92611,
+        "population": 27351
+    },
+    {
+        "id": 2964690,
+        "name": "Douglas",
+        "region": "Munster",
+        "lat": 51.87444,
+        "lng": -8.435,
+        "population": 26883
+    },
+    {
+        "id": 2961123,
+        "name": "Tralee",
+        "region": "Munster",
+        "lat": 52.27042,
+        "lng": -9.70264,
+        "population": 26079
+    },
+    {
+        "id": 2962026,
+        "name": "Portlaoise",
+        "region": "Leinster",
+        "lat": 53.03441,
+        "lng": -7.29979,
+        "population": 23494
+    },
+    {
+        "id": 3313472,
+        "name": "Athlone",
+        "region": "Leinster",
+        "lat": 53.42278,
+        "lng": -7.93722,
+        "population": 22869
+    },
+    {
+        "id": 2962290,
+        "name": "Droichead Nua",
+        "region": "Leinster",
+        "lat": 53.18194,
+        "lng": -6.79667,
+        "population": 22742
+    },
+    {
+        "id": 2962361,
+        "name": "An Muileann gCearr",
+        "region": "Leinster",
+        "lat": 53.52466,
+        "lng": -7.3385,
+        "population": 22667
+    },
+    {
+        "id": 2962961,
+        "name": "Letterkenny",
+        "region": "Ulster",
+        "lat": 54.95,
+        "lng": -7.73333,
+        "population": 22549
+    },
+    {
+        "id": 3315278,
+        "name": "Sandyford",
+        "region": "Leinster",
+        "lat": 53.2747,
+        "lng": -6.2253,
+        "population": 22288
+    },
+    {
+        "id": 2963848,
+        "name": "Greystones",
+        "region": "Leinster",
+        "lat": 53.14083,
+        "lng": -6.06306,
+        "population": 22009
+    },
+    {
+        "id": 2966794,
+        "name": "Balbriggan",
+        "region": "Leinster",
+        "lat": 53.60846,
+        "lng": -6.1831,
+        "population": 21722
+    },
+    {
+        "id": 2963398,
+        "name": "Kilkenny",
+        "region": "Leinster",
+        "lat": 52.65417,
+        "lng": -7.25222,
+        "population": 21589
+    },
+    {
+        "id": 2960964,
+        "name": "Wexford",
+        "region": "Leinster",
+        "lat": 52.33417,
+        "lng": -6.4575,
+        "population": 21524
+    },
+    {
+        "id": 2962334,
+        "name": "Naas",
+        "region": "Leinster",
+        "lat": 53.21583,
+        "lng": -6.66694,
+        "population": 20713
+    },
+    {
+        "id": 2961423,
+        "name": "Sligo",
+        "region": "Connacht",
+        "lat": 54.26969,
+        "lng": -8.46943,
+        "population": 20608
+    },
+    {
+        "id": 2965529,
+        "name": "Celbridge",
+        "region": "Leinster",
+        "lat": 53.34165,
+        "lng": -6.54419,
+        "population": 20288
+    },
+    {
+        "id": 2964303,
+        "name": "Finglas",
+        "region": "Leinster",
+        "lat": 53.38917,
+        "lng": -6.29694,
+        "population": 19768
+    },
+    {
+        "id": 2966749,
+        "name": "Ballincollig",
+        "region": "Munster",
+        "lat": 51.88333,
+        "lng": -8.58333,
+        "population": 18621
+    },
+    {
+        "id": 2965353,
+        "name": "Cluain Meala",
+        "region": "Munster",
+        "lat": 52.355,
+        "lng": -7.70389,
+        "population": 18369
+    },
+    {
+        "id": 2965715,
+        "name": "Carrigaline",
+        "region": "Munster",
+        "lat": 51.81167,
+        "lng": -8.39861,
+        "population": 18239
+    },
+    {
+        "id": 3315404,
+        "name": "Templeogue",
+        "region": "Leinster",
+        "lat": 53.29528,
+        "lng": -6.30889,
+        "population": 18076
+    },
+    {
+        "id": 2961911,
+        "name": "Rathfarnham",
+        "region": "Leinster",
+        "lat": 53.30056,
+        "lng": -6.28278,
+        "population": 17333
+    },
+    {
+        "id": 2962668,
+        "name": "Maynooth",
+        "region": "Leinster",
+        "lat": 53.385,
+        "lng": -6.59361,
+        "population": 17259
+    },
+    {
+        "id": 2962725,
+        "name": "Malahide",
+        "region": "Leinster",
+        "lat": 53.45083,
+        "lng": -6.15444,
+        "population": 16550
+    },
+    {
+        "id": 2966110,
+        "name": "Blanchardstown",
+        "region": "Leinster",
+        "lat": 53.38806,
+        "lng": -6.37556,
+        "population": 16511
+    },
+    {
+        "id": 2961086,
+        "name": "Tullamore",
+        "region": "Leinster",
+        "lat": 53.27389,
+        "lng": -7.48889,
+        "population": 15598
+    },
+    {
+        "id": 2962974,
+        "name": "Leixlip",
+        "region": "Leinster",
+        "lat": 53.36583,
+        "lng": -6.49556,
+        "population": 15504
+    },
+    {
+        "id": 6691033,
+        "name": "Donaghmede",
+        "region": "Leinster",
+        "lat": 53.39845,
+        "lng": -6.16179,
+        "population": 15299
+    },
+    {
+        "id": 2962785,
+        "name": "Lucan",
+        "region": "Leinster",
+        "lat": 53.35736,
+        "lng": -6.44859,
+        "population": 15269
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 290332,
+        "name": "Al Muharraq",
+        "region": "Muharraq",
+        "lat": 26.25722,
+        "lng": 50.61194,
+        "population": 176583
+    },
+    {
+        "id": 290340,
+        "name": "Manama",
+        "region": "Manama",
+        "lat": 26.22787,
+        "lng": 50.58565,
+        "population": 147074
+    },
+    {
+        "id": 290247,
+        "name": "Madīnat Ḩamad",
+        "region": "Northern",
+        "lat": 26.11528,
+        "lng": 50.50694,
+        "population": 133550
+    },
+    {
+        "id": 385038,
+        "name": "Ar Rifā‘",
+        "region": "Southern Governorate",
+        "lat": 26.13,
+        "lng": 50.555,
+        "population": 115495
+    },
+    {
+        "id": 290104,
+        "name": "Sitrah",
+        "region": "Manama",
+        "lat": 26.15472,
+        "lng": 50.62056,
+        "population": 72601
+    },
+    {
+        "id": 290215,
+        "name": "Jidd Ḩafş",
+        "region": "Manama",
+        "lat": 26.21861,
+        "lng": 50.54778,
+        "population": 66588
+    },
+    {
+        "id": 290269,
+        "name": "Dār Kulayb",
+        "region": "Southern Governorate",
+        "lat": 26.06861,
+        "lng": 50.50389,
+        "population": 65466
+    },
+    {
+        "id": 290187,
+        "name": "Madīnat ‘Īsá",
+        "region": "Southern Governorate",
+        "lat": 26.17361,
+        "lng": 50.54778,
+        "population": 38090
+    }
+]

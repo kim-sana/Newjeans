@@ -1,0 +1,26 @@
+[
+    {
+        "id": 934995,
+        "name": "Manzini",
+        "region": "Manzini Region",
+        "lat": -26.49884,
+        "lng": 31.38004,
+        "population": 110537
+    },
+    {
+        "id": 934985,
+        "name": "Mbabane",
+        "region": "Hhohho Region",
+        "lat": -26.31667,
+        "lng": 31.13333,
+        "population": 76218
+    },
+    {
+        "id": 935048,
+        "name": "Lobamba",
+        "region": "Hhohho Region",
+        "lat": -26.46667,
+        "lng": 31.2,
+        "population": 4557
+    }
+]

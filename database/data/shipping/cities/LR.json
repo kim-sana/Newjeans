@@ -1,0 +1,130 @@
+[
+    {
+        "id": 2274895,
+        "name": "Monrovia",
+        "region": "Montserrado County",
+        "lat": 6.30054,
+        "lng": -10.7969,
+        "population": 1542549
+    },
+    {
+        "id": 2277060,
+        "name": "Gbarnga",
+        "region": "Bong County",
+        "lat": 6.99543,
+        "lng": -9.47122,
+        "population": 86031
+    },
+    {
+        "id": 2278158,
+        "name": "Buchanan",
+        "region": "Grand Bassa County",
+        "lat": 5.87693,
+        "lng": -10.04964,
+        "population": 75854
+    },
+    {
+        "id": 2277241,
+        "name": "Ganta",
+        "region": "Nimba",
+        "lat": 7.235,
+        "lng": -8.98444,
+        "population": 63523
+    },
+    {
+        "id": 2276086,
+        "name": "Kakata",
+        "region": "Margibi County",
+        "lat": 6.53104,
+        "lng": -10.35368,
+        "population": 52247
+    },
+    {
+        "id": 2272491,
+        "name": "Zwedru",
+        "region": "Grand Gedeh County",
+        "lat": 6.06846,
+        "lng": -8.13559,
+        "population": 38269
+    },
+    {
+        "id": 2276506,
+        "name": "Harbel",
+        "region": "Margibi County",
+        "lat": 6.24683,
+        "lng": -10.35642,
+        "population": 38208
+    },
+    {
+        "id": 2276492,
+        "name": "Harper",
+        "region": "Maryland County",
+        "lat": 4.3782,
+        "lng": -7.71081,
+        "population": 35503
+    },
+    {
+        "id": 2274372,
+        "name": "Pleebo City",
+        "region": "Maryland County",
+        "lat": 4.58953,
+        "lng": -7.67218,
+        "population": 35423
+    },
+    {
+        "id": 2277301,
+        "name": "Foya Kamara",
+        "region": "Lofa County",
+        "lat": 8.36028,
+        "lng": -10.20639,
+        "population": 31052
+    },
+    {
+        "id": 2272790,
+        "name": "New Yekepa",
+        "region": "Nimba",
+        "lat": 7.57944,
+        "lng": -8.53778,
+        "population": 24695
+    },
+    {
+        "id": 2273312,
+        "name": "Voinjama",
+        "region": "Lofa County",
+        "lat": 8.42194,
+        "lng": -9.74778,
+        "population": 23051
+    },
+    {
+        "id": 2273435,
+        "name": "Tubmanburg",
+        "region": "Bomi County",
+        "lat": 6.87064,
+        "lng": -10.8211,
+        "population": 22005
+    },
+    {
+        "id": 2274222,
+        "name": "Saclepea",
+        "region": "Nimba",
+        "lat": 6.9625,
+        "lng": -8.84056,
+        "population": 20818
+    },
+    {
+        "id": 2276600,
+        "name": "Greenville",
+        "region": "Sinoe County",
+        "lat": 5.01133,
+        "lng": -9.0388,
+        "population": 20184
+    },
+    {
+        "id": 2274129,
+        "name": "Sanniquellie",
+        "region": "Nimba",
+        "lat": 7.36215,
+        "lng": -8.71326,
+        "population": 17895
+    }
+]

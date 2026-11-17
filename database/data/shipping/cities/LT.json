@@ -1,0 +1,290 @@
+[
+    {
+        "id": 593116,
+        "name": "Vilnius",
+        "region": "Vilnius",
+        "lat": 54.68916,
+        "lng": 25.2798,
+        "population": 542366
+    },
+    {
+        "id": 598316,
+        "name": "Kaunas",
+        "region": "Kaunas",
+        "lat": 54.90156,
+        "lng": 23.90909,
+        "population": 289380
+    },
+    {
+        "id": 598098,
+        "name": "Klaipėda",
+        "region": "Klaipėda County",
+        "lat": 55.7068,
+        "lng": 21.13912,
+        "population": 172292
+    },
+    {
+        "id": 594739,
+        "name": "Šiauliai",
+        "region": "Siauliai",
+        "lat": 55.93333,
+        "lng": 23.31667,
+        "population": 99462
+    },
+    {
+        "id": 596128,
+        "name": "Panevėžys",
+        "region": "Panevėžys",
+        "lat": 55.73186,
+        "lng": 24.35983,
+        "population": 85885
+    },
+    {
+        "id": 6618486,
+        "name": "Dainava (Kaunas)",
+        "region": "Kaunas",
+        "lat": 54.91525,
+        "lng": 23.96831,
+        "population": 70000
+    },
+    {
+        "id": 601084,
+        "name": "Alytus",
+        "region": "Alytus",
+        "lat": 54.39574,
+        "lng": 24.03885,
+        "population": 49195
+    },
+    {
+        "id": 9610004,
+        "name": "Šilainiai",
+        "region": "Kaunas",
+        "lat": 54.92911,
+        "lng": 23.88599,
+        "population": 40600
+    },
+    {
+        "id": 9610008,
+        "name": "Eiguliai",
+        "region": "Kaunas",
+        "lat": 54.93133,
+        "lng": 23.93243,
+        "population": 40453
+    },
+    {
+        "id": 601041,
+        "name": "Antakalnis",
+        "region": "Vilnius",
+        "lat": 54.70781,
+        "lng": 25.31706,
+        "population": 40000
+    },
+    {
+        "id": 596479,
+        "name": "Fabijoniškės",
+        "region": "Vilnius",
+        "lat": 54.73333,
+        "lng": 25.24167,
+        "population": 37000
+    },
+    {
+        "id": 596713,
+        "name": "Naujoji Vilnia",
+        "region": "Vilnius",
+        "lat": 54.69515,
+        "lng": 25.41969,
+        "population": 36800
+    },
+    {
+        "id": 10062602,
+        "name": "Šeškinė",
+        "region": "Vilnius",
+        "lat": 54.70972,
+        "lng": 25.25053,
+        "population": 36000
+    },
+    {
+        "id": 597231,
+        "name": "Marijampolė",
+        "region": "Marijampolė County",
+        "lat": 54.55787,
+        "lng": 23.35004,
+        "population": 34975
+    },
+    {
+        "id": 6955408,
+        "name": "Naujininkai",
+        "region": "Vilnius",
+        "lat": 54.66425,
+        "lng": 25.28418,
+        "population": 33500
+    },
+    {
+        "id": 10062599,
+        "name": "Pašilaičiai",
+        "region": "Vilnius",
+        "lat": 54.73429,
+        "lng": 25.21912,
+        "population": 33056
+    },
+    {
+        "id": 597188,
+        "name": "Mazeikiai",
+        "region": "Telsiai",
+        "lat": 56.31667,
+        "lng": 22.33333,
+        "population": 32470
+    },
+    {
+        "id": 8714608,
+        "name": "Karoliniškės",
+        "region": "Vilnius",
+        "lat": 54.69034,
+        "lng": 25.21903,
+        "population": 31200
+    },
+    {
+        "id": 10062605,
+        "name": "Lazdynai",
+        "region": "Vilnius",
+        "lat": 54.66815,
+        "lng": 25.20684,
+        "population": 31097
+    },
+    {
+        "id": 10062601,
+        "name": "Justiniškės",
+        "region": "Vilnius",
+        "lat": 54.71664,
+        "lng": 25.2174,
+        "population": 31000
+    },
+    {
+        "id": 10062607,
+        "name": "Naujamiestis",
+        "region": "Vilnius",
+        "lat": 54.67951,
+        "lng": 25.26855,
+        "population": 28157
+    },
+    {
+        "id": 598818,
+        "name": "Jonava",
+        "region": "Kaunas",
+        "lat": 55.08014,
+        "lng": 24.27544,
+        "population": 26423
+    },
+    {
+        "id": 593672,
+        "name": "Utena",
+        "region": "Utena",
+        "lat": 55.4978,
+        "lng": 25.60462,
+        "population": 25397
+    },
+    {
+        "id": 601138,
+        "name": "Aleksotas",
+        "region": "Kaunas",
+        "lat": 54.88037,
+        "lng": 23.90842,
+        "population": 24270
+    },
+    {
+        "id": 598272,
+        "name": "Kėdainiai",
+        "region": "Kaunas",
+        "lat": 55.28782,
+        "lng": 23.97275,
+        "population": 22677
+    },
+    {
+        "id": 10062606,
+        "name": "Vilkpėdė",
+        "region": "Vilnius",
+        "lat": 54.66969,
+        "lng": 25.2477,
+        "population": 21346
+    },
+    {
+        "id": 593926,
+        "name": "Telsiai",
+        "region": "Telsiai",
+        "lat": 55.98139,
+        "lng": 22.24722,
+        "population": 21294
+    },
+    {
+        "id": 593959,
+        "name": "Taurage",
+        "region": "Tauragė County",
+        "lat": 55.25222,
+        "lng": 22.28972,
+        "population": 21203
+    },
+    {
+        "id": 10062600,
+        "name": "Pilaitė",
+        "region": "Vilnius",
+        "lat": 54.69981,
+        "lng": 25.18393,
+        "population": 20320
+    },
+    {
+        "id": 593733,
+        "name": "Ukmerge",
+        "region": "Vilnius",
+        "lat": 55.25,
+        "lng": 24.75,
+        "population": 20154
+    },
+    {
+        "id": 595689,
+        "name": "Plunge",
+        "region": "Telsiai",
+        "lat": 55.91139,
+        "lng": 21.84417,
+        "population": 18904
+    },
+    {
+        "id": 596238,
+        "name": "Palanga",
+        "region": "Klaipėda County",
+        "lat": 55.9175,
+        "lng": 21.06861,
+        "population": 18207
+    },
+    {
+        "id": 593063,
+        "name": "Visaginas",
+        "region": "Utena",
+        "lat": 55.59678,
+        "lng": 26.43984,
+        "population": 18024
+    },
+    {
+        "id": 597989,
+        "name": "Kretinga",
+        "region": "Klaipėda County",
+        "lat": 55.8888,
+        "lng": 21.24448,
+        "population": 17249
+    },
+    {
+        "id": 599506,
+        "name": "Gargždai",
+        "region": "Klaipėda County",
+        "lat": 55.70951,
+        "lng": 21.39441,
+        "population": 16433
+    },
+    {
+        "id": 595449,
+        "name": "Radviliskis",
+        "region": "Siauliai",
+        "lat": 55.81667,
+        "lng": 23.53333,
+        "population": 16344
+    }
+]

@@ -1,0 +1,1826 @@
+[
+    {
+        "id": 160263,
+        "name": "Dar es Salaam",
+        "region": "Dar es Salaam Region",
+        "lat": -6.82349,
+        "lng": 39.26951,
+        "population": 5383728
+    },
+    {
+        "id": 152224,
+        "name": "Mwanza",
+        "region": "Mwanza",
+        "lat": -2.51667,
+        "lng": 32.9,
+        "population": 1104521
+    },
+    {
+        "id": 160196,
+        "name": "Dodoma",
+        "region": "Dodoma",
+        "lat": -6.17221,
+        "lng": 35.73947,
+        "population": 765179
+    },
+    {
+        "id": 148730,
+        "name": "Zanzibar",
+        "region": "Zanzibar Urban/West",
+        "lat": -6.16394,
+        "lng": 39.19793,
+        "population": 709809
+    },
+    {
+        "id": 161325,
+        "name": "Arusha",
+        "region": "Arusha",
+        "lat": -3.36667,
+        "lng": 36.68333,
+        "population": 617631
+    },
+    {
+        "id": 154380,
+        "name": "Mbeya",
+        "region": "Mbeya",
+        "lat": -8.9,
+        "lng": 33.45,
+        "population": 541603
+    },
+    {
+        "id": 153220,
+        "name": "Morogoro",
+        "region": "Morogoro",
+        "lat": -6.82102,
+        "lng": 37.66122,
+        "population": 471409
+    },
+    {
+        "id": 158597,
+        "name": "Kahama",
+        "region": "Shinyanga",
+        "lat": -3.83333,
+        "lng": 32.6,
+        "population": 453654
+    },
+    {
+        "id": 149606,
+        "name": "Tanga",
+        "region": "Tanga",
+        "lat": -5.06893,
+        "lng": 39.09875,
+        "population": 393429
+    },
+    {
+        "id": 159908,
+        "name": "Geita",
+        "region": "Geita",
+        "lat": -2.8725,
+        "lng": 32.2325,
+        "population": 318006
+    },
+    {
+        "id": 149658,
+        "name": "Tabora",
+        "region": "Tabora",
+        "lat": -5.01622,
+        "lng": 32.82663,
+        "population": 308741
+    },
+    {
+        "id": 149703,
+        "name": "Sumbawanga",
+        "region": "Rukwa",
+        "lat": -7.96667,
+        "lng": 31.61667,
+        "population": 303986
+    },
+    {
+        "id": 877401,
+        "name": "Songea",
+        "region": "Ruvuma",
+        "lat": -10.68333,
+        "lng": 35.65,
+        "population": 286285
+    },
+    {
+        "id": 158027,
+        "name": "Kibaha",
+        "region": "Pwani",
+        "lat": -6.76667,
+        "lng": 38.91667,
+        "population": 265360
+    },
+    {
+        "id": 161218,
+        "name": "Bariadi",
+        "region": "Simiyu",
+        "lat": -2.8,
+        "lng": 33.98333,
+        "population": 260927
+    },
+    {
+        "id": 158214,
+        "name": "Kasulu",
+        "region": "Kigoma",
+        "lat": -4.57667,
+        "lng": 30.1025,
+        "population": 238321
+    },
+    {
+        "id": 149879,
+        "name": "Singida",
+        "region": "Singida",
+        "lat": -4.81629,
+        "lng": 34.74358,
+        "population": 232459
+    },
+    {
+        "id": 157738,
+        "name": "Kigoma",
+        "region": "Kigoma",
+        "lat": -4.87694,
+        "lng": 29.62667,
+        "population": 232388
+    },
+    {
+        "id": 153209,
+        "name": "Moshi",
+        "region": "Kilimanjaro",
+        "lat": -3.35,
+        "lng": 37.33333,
+        "population": 221733
+    },
+    {
+        "id": 149402,
+        "name": "Tunduma",
+        "region": "Songwe",
+        "lat": -9.3,
+        "lng": 32.76667,
+        "population": 219309
+    },
+    {
+        "id": 159492,
+        "name": "Ifakara",
+        "region": "Morogoro",
+        "lat": -8.13333,
+        "lng": 36.68333,
+        "population": 205843
+    },
+    {
+        "id": 153176,
+        "name": "Mpanda",
+        "region": "Katavi",
+        "lat": -6.34379,
+        "lng": 31.06951,
+        "population": 204338
+    },
+    {
+        "id": 159071,
+        "name": "Iringa",
+        "region": "Iringa",
+        "lat": -7.76667,
+        "lng": 35.7,
+        "population": 202490
+    },
+    {
+        "id": 160892,
+        "name": "Bunda",
+        "region": "Mara",
+        "lat": -2.02153,
+        "lng": 33.87109,
+        "population": 182970
+    },
+    {
+        "id": 152451,
+        "name": "Musoma",
+        "region": "Mara",
+        "lat": -1.5,
+        "lng": 33.8,
+        "population": 164172
+    },
+    {
+        "id": 160961,
+        "name": "Bukoba",
+        "region": "Kagera",
+        "lat": -1.33167,
+        "lng": 31.81222,
+        "population": 144938
+    },
+    {
+        "id": 877747,
+        "name": "Mtwara",
+        "region": "Mtwara",
+        "lat": -10.26667,
+        "lng": 40.18333,
+        "population": 140793
+    },
+    {
+        "id": 150006,
+        "name": "Shinyanga",
+        "region": "Shinyanga",
+        "lat": -3.66393,
+        "lng": 33.42118,
+        "population": 139727
+    },
+    {
+        "id": 149581,
+        "name": "Tarime",
+        "region": "Mara",
+        "lat": -1.35,
+        "lng": 34.36667,
+        "population": 133043
+    },
+    {
+        "id": 150930,
+        "name": "Nzega",
+        "region": "Tabora",
+        "lat": -4.21667,
+        "lng": 33.18333,
+        "population": 125193
+    },
+    {
+        "id": 155101,
+        "name": "Makumbako",
+        "region": "Njombe",
+        "lat": -8.85,
+        "lng": 34.83333,
+        "population": 116232
+    },
+    {
+        "id": 150103,
+        "name": "Sengerema",
+        "region": "Mwanza",
+        "lat": -2.66667,
+        "lng": 32.65,
+        "population": 110000
+    },
+    {
+        "id": 159675,
+        "name": "Handeni",
+        "region": "Tanga",
+        "lat": -5.43333,
+        "lng": 38.01667,
+        "population": 108968
+    },
+    {
+        "id": 158151,
+        "name": "Katumba",
+        "region": "Mbeya",
+        "lat": -9.23333,
+        "lng": 33.61667,
+        "population": 108558
+    },
+    {
+        "id": 13132458,
+        "name": "Mafinga",
+        "region": "Iringa",
+        "lat": -8.30019,
+        "lng": 35.29366,
+        "population": 99305
+    },
+    {
+        "id": 878281,
+        "name": "Lindi",
+        "region": "Lindi",
+        "lat": -9.99709,
+        "lng": 39.71649,
+        "population": 95096
+    },
+    {
+        "id": 149129,
+        "name": "Ushirombo",
+        "region": "Geita",
+        "lat": -3.49194,
+        "lng": 31.96389,
+        "population": 95052
+    },
+    {
+        "id": 151479,
+        "name": "Njombe",
+        "region": "Njombe",
+        "lat": -9.34917,
+        "lng": 34.77167,
+        "population": 92537
+    },
+    {
+        "id": 157403,
+        "name": "Kilosa",
+        "region": "Morogoro",
+        "lat": -6.83333,
+        "lng": 36.98333,
+        "population": 91889
+    },
+    {
+        "id": 878058,
+        "name": "Masasi",
+        "region": "Mtwara",
+        "lat": -10.71667,
+        "lng": 38.8,
+        "population": 89700
+    },
+    {
+        "id": 148942,
+        "name": "Vwawa",
+        "region": "Songwe",
+        "lat": -9.10806,
+        "lng": 32.93472,
+        "population": 85000
+    },
+    {
+        "id": 161290,
+        "name": "Bagamoyo",
+        "region": "Pwani",
+        "lat": -6.44222,
+        "lng": 38.90422,
+        "population": 82426
+    },
+    {
+        "id": 156510,
+        "name": "Kondoa",
+        "region": "Dodoma",
+        "lat": -4.9,
+        "lng": 35.78333,
+        "population": 80443
+    },
+    {
+        "id": 158160,
+        "name": "Katoro",
+        "region": "Geita",
+        "lat": -2.99983,
+        "lng": 31.93261,
+        "population": 75000
+    },
+    {
+        "id": 148987,
+        "name": "Vikindu",
+        "region": "Pwani",
+        "lat": -7.00667,
+        "lng": 39.29849,
+        "population": 70000
+    },
+    {
+        "id": 161312,
+        "name": "Babati",
+        "region": "Manyara",
+        "lat": -4.21667,
+        "lng": 35.75,
+        "population": 67445
+    },
+    {
+        "id": 156479,
+        "name": "Korogwe",
+        "region": "Tanga",
+        "lat": -5.15,
+        "lng": 38.48333,
+        "population": 62032
+    },
+    {
+        "id": 877998,
+        "name": "Mbinga",
+        "region": "Ruvuma",
+        "lat": -10.93333,
+        "lng": 35.01667,
+        "population": 60868
+    },
+    {
+        "id": 149027,
+        "name": "Uyovu",
+        "region": "Geita",
+        "lat": -3.28333,
+        "lng": 31.52583,
+        "population": 60849
+    },
+    {
+        "id": 160833,
+        "name": "Buseresere",
+        "region": "Geita",
+        "lat": -3.04877,
+        "lng": 31.88542,
+        "population": 52870
+    },
+    {
+        "id": 160677,
+        "name": "Chake Chake",
+        "region": "Pemba South",
+        "lat": -5.24586,
+        "lng": 39.76659,
+        "population": 52047
+    },
+    {
+        "id": 13132456,
+        "name": "Kibaigwa",
+        "region": "Dodoma",
+        "lat": -6.08125,
+        "lng": 36.64657,
+        "population": 50054
+    },
+    {
+        "id": 154654,
+        "name": "Masumbwe",
+        "region": "Geita",
+        "lat": -3.63333,
+        "lng": 32.18333,
+        "population": 50000
+    },
+    {
+        "id": 6640202,
+        "name": "Merelani",
+        "region": "Arusha",
+        "lat": -3.56182,
+        "lng": 36.97895,
+        "population": 50000
+    },
+    {
+        "id": 149437,
+        "name": "Tukuyu",
+        "region": "Mbeya",
+        "lat": -9.25,
+        "lng": 33.65,
+        "population": 50000
+    },
+    {
+        "id": 149072,
+        "name": "Utengule",
+        "region": "Mbeya",
+        "lat": -8.9,
+        "lng": 33.33333,
+        "population": 50000
+    },
+    {
+        "id": 154321,
+        "name": "Mbuguni",
+        "region": "Arusha",
+        "lat": -3.56667,
+        "lng": 36.95,
+        "population": 49801
+    },
+    {
+        "id": 877378,
+        "name": "Tunduru",
+        "region": "Ruvuma",
+        "lat": -11.06667,
+        "lng": 37.35,
+        "population": 48000
+    },
+    {
+        "id": 156111,
+        "name": "Kyela",
+        "region": "Mbeya",
+        "lat": -9.58333,
+        "lng": 33.85,
+        "population": 47000
+    },
+    {
+        "id": 154313,
+        "name": "Mbulu",
+        "region": "Manyara",
+        "lat": -3.85,
+        "lng": 35.53333,
+        "population": 45384
+    },
+    {
+        "id": 13132454,
+        "name": "Diobahika",
+        "region": "Geita",
+        "lat": -3.33907,
+        "lng": 31.52344,
+        "population": 45000
+    },
+    {
+        "id": 159386,
+        "name": "Igunga",
+        "region": "Tabora",
+        "lat": -4.28333,
+        "lng": 33.88333,
+        "population": 45000
+    },
+    {
+        "id": 159242,
+        "name": "Ikwiriri",
+        "region": "Pwani",
+        "lat": -7.95618,
+        "lng": 38.97164,
+        "population": 45000
+    },
+    {
+        "id": 13132460,
+        "name": "Mwandege",
+        "region": "Pwani",
+        "lat": -6.97558,
+        "lng": 39.2893,
+        "population": 45000
+    },
+    {
+        "id": 151920,
+        "name": "Nansio",
+        "region": "Mara",
+        "lat": -2.13333,
+        "lng": 33.05,
+        "population": 44000
+    },
+    {
+        "id": 150453,
+        "name": "Rujewa",
+        "region": "Mbeya",
+        "lat": -8.7,
+        "lng": 34.38333,
+        "population": 42013
+    },
+    {
+        "id": 13132455,
+        "name": "Dumila",
+        "region": "Morogoro",
+        "lat": -6.38395,
+        "lng": 37.34331,
+        "population": 40000
+    },
+    {
+        "id": 159909,
+        "name": "Geiro",
+        "region": "Morogoro",
+        "lat": -6.15,
+        "lng": 36.86667,
+        "population": 40000
+    },
+    {
+        "id": 154805,
+        "name": "Mapinga",
+        "region": "Pwani",
+        "lat": -6.6,
+        "lng": 39.06667,
+        "population": 40000
+    },
+    {
+        "id": 153352,
+        "name": "Mlowo",
+        "region": "Songwe",
+        "lat": -9,
+        "lng": 32.98333,
+        "population": 40000
+    },
+    {
+        "id": 151986,
+        "name": "Namanyere",
+        "region": "Rukwa",
+        "lat": -7.51667,
+        "lng": 31.05,
+        "population": 40000
+    },
+    {
+        "id": 151567,
+        "name": "Nguruka",
+        "region": "Kigoma",
+        "lat": -5.10917,
+        "lng": 31.04194,
+        "population": 39135
+    },
+    {
+        "id": 877532,
+        "name": "Newala Kisimani",
+        "region": "Mtwara",
+        "lat": -10.95,
+        "lng": 39.28333,
+        "population": 38099
+    },
+    {
+        "id": 157863,
+        "name": "Kidatu",
+        "region": "Morogoro",
+        "lat": -7.69916,
+        "lng": 36.95722,
+        "population": 37542
+    },
+    {
+        "id": 161100,
+        "name": "Boma la Ngombe",
+        "region": "Kilimanjaro",
+        "lat": -3.33333,
+        "lng": 37.15,
+        "population": 37538
+    },
+    {
+        "id": 158253,
+        "name": "Kassambya",
+        "region": "Kagera",
+        "lat": -1.2,
+        "lng": 31.45,
+        "population": 37028
+    },
+    {
+        "id": 157826,
+        "name": "Kidodi",
+        "region": "Morogoro",
+        "lat": -7.60361,
+        "lng": 37.00438,
+        "population": 35953
+    },
+    {
+        "id": 148842,
+        "name": "Wete",
+        "region": "Pemba North",
+        "lat": -5.05589,
+        "lng": 39.72938,
+        "population": 35951
+    },
+    {
+        "id": 153759,
+        "name": "Misungwi",
+        "region": "Mwanza",
+        "lat": -2.85,
+        "lng": 33.08333,
+        "population": 35530
+    },
+    {
+        "id": 8549456,
+        "name": "Magu",
+        "region": "Mwanza",
+        "lat": -2.59075,
+        "lng": 33.44619,
+        "population": 35000
+    },
+    {
+        "id": 153384,
+        "name": "Mlimba",
+        "region": "Morogoro",
+        "lat": -8.8,
+        "lng": 35.81667,
+        "population": 34970
+    },
+    {
+        "id": 155405,
+        "name": "Mafinga",
+        "region": "Iringa",
+        "lat": -7.25,
+        "lng": 35.06667,
+        "population": 34958
+    },
+    {
+        "id": 877534,
+        "name": "Newala",
+        "region": "Mtwara",
+        "lat": -10.93333,
+        "lng": 39.3,
+        "population": 34862
+    },
+    {
+        "id": 160660,
+        "name": "Chalinze",
+        "region": "Pwani",
+        "lat": -6.63784,
+        "lng": 38.35396,
+        "population": 34335
+    },
+    {
+        "id": 150276,
+        "name": "Same",
+        "region": "Kilimanjaro",
+        "lat": -4.06667,
+        "lng": 37.73333,
+        "population": 34322
+    },
+    {
+        "id": 161154,
+        "name": "Biharamulo",
+        "region": "Kagera",
+        "lat": -2.63194,
+        "lng": 31.30889,
+        "population": 34038
+    },
+    {
+        "id": 155569,
+        "name": "Lushoto",
+        "region": "Tanga",
+        "lat": -4.78333,
+        "lng": 38.28333,
+        "population": 34000
+    },
+    {
+        "id": 149792,
+        "name": "Somanda",
+        "region": "Simiyu",
+        "lat": -3.36667,
+        "lng": 33.95,
+        "population": 33932
+    },
+    {
+        "id": 157107,
+        "name": "Kirando",
+        "region": "Rukwa",
+        "lat": -7.41667,
+        "lng": 30.6,
+        "population": 33111
+    },
+    {
+        "id": 149418,
+        "name": "Tumbi",
+        "region": "Tabora",
+        "lat": -5.06667,
+        "lng": 32.73333,
+        "population": 32900
+    },
+    {
+        "id": 161023,
+        "name": "Bugarama",
+        "region": "Kagera",
+        "lat": -2.87056,
+        "lng": 30.52806,
+        "population": 32494
+    },
+    {
+        "id": 151599,
+        "name": "Ngudu",
+        "region": "Mwanza",
+        "lat": -2.96667,
+        "lng": 33.33333,
+        "population": 32446
+    },
+    {
+        "id": 149172,
+        "name": "Urambo",
+        "region": "Tabora",
+        "lat": -5.06667,
+        "lng": 32.05,
+        "population": 31752
+    },
+    {
+        "id": 152403,
+        "name": "Mvomero",
+        "region": "Pwani",
+        "lat": -6.25,
+        "lng": 38.66667,
+        "population": 31324
+    },
+    {
+        "id": 160592,
+        "name": "Chanika",
+        "region": "Tanga",
+        "lat": -5.41667,
+        "lng": 38.01667,
+        "population": 30905
+    },
+    {
+        "id": 7284275,
+        "name": "Nungwi",
+        "region": "Zanzibar North",
+        "lat": -5.72651,
+        "lng": 39.2987,
+        "population": 30762
+    },
+    {
+        "id": 154987,
+        "name": "Mambali",
+        "region": "Tabora",
+        "lat": -4.55,
+        "lng": 32.68333,
+        "population": 30398
+    },
+    {
+        "id": 157977,
+        "name": "Kibiti",
+        "region": "Pwani",
+        "lat": -7.72178,
+        "lng": 38.93749,
+        "population": 30163
+    },
+    {
+        "id": 160552,
+        "name": "Chato",
+        "region": "Geita",
+        "lat": -2.63778,
+        "lng": 31.76694,
+        "population": 30000
+    },
+    {
+        "id": 156973,
+        "name": "Kisesa",
+        "region": "Mwanza",
+        "lat": -2.55,
+        "lng": 33.03333,
+        "population": 30000
+    },
+    {
+        "id": 153094,
+        "name": "Mpwapwa",
+        "region": "Dodoma",
+        "lat": -6.35,
+        "lng": 36.48333,
+        "population": 30000
+    },
+    {
+        "id": 156974,
+        "name": "Kisesa",
+        "region": "Simiyu",
+        "lat": -3.08333,
+        "lng": 34.15,
+        "population": 29804
+    },
+    {
+        "id": 878195,
+        "name": "Lukuledi",
+        "region": "Mtwara",
+        "lat": -10.56667,
+        "lng": 38.8,
+        "population": 29699
+    },
+    {
+        "id": 153412,
+        "name": "Mlandizi",
+        "region": "Pwani",
+        "lat": -6.7,
+        "lng": 38.73333,
+        "population": 29394
+    },
+    {
+        "id": 159179,
+        "name": "Ilula",
+        "region": "Iringa",
+        "lat": -7.6766,
+        "lng": 36.03658,
+        "population": 29193
+    },
+    {
+        "id": 152663,
+        "name": "Mugumu",
+        "region": "Mara",
+        "lat": -1.85,
+        "lng": 34.7,
+        "population": 29000
+    },
+    {
+        "id": 157960,
+        "name": "Kibondo",
+        "region": "Kigoma",
+        "lat": -3.58639,
+        "lng": 30.72028,
+        "population": 28666
+    },
+    {
+        "id": 153482,
+        "name": "Mkuranga",
+        "region": "Pwani",
+        "lat": -7.11799,
+        "lng": 39.20782,
+        "population": 28037
+    },
+    {
+        "id": 150044,
+        "name": "Shanwa",
+        "region": "Simiyu",
+        "lat": -3.16667,
+        "lng": 33.76667,
+        "population": 28000
+    },
+    {
+        "id": 160877,
+        "name": "Bungu",
+        "region": "Pwani",
+        "lat": -7.63369,
+        "lng": 39.05818,
+        "population": 27873
+    },
+    {
+        "id": 158289,
+        "name": "Kasamwa",
+        "region": "Geita",
+        "lat": -2.85,
+        "lng": 32.43333,
+        "population": 27681
+    },
+    {
+        "id": 149929,
+        "name": "Sikonge",
+        "region": "Tabora",
+        "lat": -5.63333,
+        "lng": 32.76667,
+        "population": 27113
+    },
+    {
+        "id": 155016,
+        "name": "Malinyi",
+        "region": "Morogoro",
+        "lat": -8.93333,
+        "lng": 36.13333,
+        "population": 27041
+    },
+    {
+        "id": 152781,
+        "name": "Mtinko",
+        "region": "Singida",
+        "lat": -4.55,
+        "lng": 34.85,
+        "population": 26725
+    },
+    {
+        "id": 9256290,
+        "name": "Mutukula",
+        "region": "Kagera",
+        "lat": -1.00111,
+        "lng": 31.415,
+        "population": 26532
+    },
+    {
+        "id": 154780,
+        "name": "Maramba",
+        "region": "Tanga",
+        "lat": -5.05,
+        "lng": 38.61667,
+        "population": 26531
+    },
+    {
+        "id": 389505,
+        "name": "Kakunyu",
+        "region": "Kagera",
+        "lat": -1.00611,
+        "lng": 30.94139,
+        "population": 26379
+    },
+    {
+        "id": 155310,
+        "name": "Magugu",
+        "region": "Manyara",
+        "lat": -4.01667,
+        "lng": 35.76667,
+        "population": 26131
+    },
+    {
+        "id": 154551,
+        "name": "Matundasi",
+        "region": "Mbeya",
+        "lat": -8.45,
+        "lng": 33.28333,
+        "population": 26073
+    },
+    {
+        "id": 149812,
+        "name": "Sokoni",
+        "region": "Zanzibar Central/South",
+        "lat": -6.43333,
+        "lng": 39.55,
+        "population": 25821
+    },
+    {
+        "id": 150099,
+        "name": "Sepuka",
+        "region": "Singida",
+        "lat": -4.75,
+        "lng": 34.53333,
+        "population": 25657
+    },
+    {
+        "id": 878223,
+        "name": "Luchingu",
+        "region": "Mtwara",
+        "lat": -10.9,
+        "lng": 39.33333,
+        "population": 25145
+    },
+    {
+        "id": 159380,
+        "name": "Igurusi",
+        "region": "Mbeya",
+        "lat": -8.85,
+        "lng": 33.85,
+        "population": 25000
+    },
+    {
+        "id": 155921,
+        "name": "Liwale",
+        "region": "Lindi",
+        "lat": -9.76667,
+        "lng": 37.93333,
+        "population": 25000
+    },
+    {
+        "id": 154837,
+        "name": "Manyoni",
+        "region": "Singida",
+        "lat": -5.75,
+        "lng": 34.83333,
+        "population": 25000
+    },
+    {
+        "id": 8549608,
+        "name": "Mhalamba",
+        "region": "Geita",
+        "lat": -2.5812,
+        "lng": 32.00991,
+        "population": 25000
+    },
+    {
+        "id": 149854,
+        "name": "Sirari",
+        "region": "Mara",
+        "lat": -1.25367,
+        "lng": 34.47596,
+        "population": 25000
+    },
+    {
+        "id": 160464,
+        "name": "Chimala",
+        "region": "Mbeya",
+        "lat": -8.85637,
+        "lng": 34.02393,
+        "population": 24817
+    },
+    {
+        "id": 150037,
+        "name": "Shelui",
+        "region": "Singida",
+        "lat": -4.36667,
+        "lng": 34.2,
+        "population": 24817
+    },
+    {
+        "id": 158563,
+        "name": "Kakonko",
+        "region": "Kigoma",
+        "lat": -3.28278,
+        "lng": 30.96417,
+        "population": 24688
+    },
+    {
+        "id": 149050,
+        "name": "Uvinza",
+        "region": "Kigoma",
+        "lat": -5.10361,
+        "lng": 30.39111,
+        "population": 24650
+    },
+    {
+        "id": 151211,
+        "name": "Nyalikungu",
+        "region": "Simiyu",
+        "lat": -3.18333,
+        "lng": 33.78333,
+        "population": 24648
+    },
+    {
+        "id": 154638,
+        "name": "Matai",
+        "region": "Rukwa",
+        "lat": -8.3,
+        "lng": 31.51667,
+        "population": 24070
+    },
+    {
+        "id": 158904,
+        "name": "Itigi",
+        "region": "Singida",
+        "lat": -5.7,
+        "lng": 34.48333,
+        "population": 24000
+    },
+    {
+        "id": 13132462,
+        "name": "Ruaha",
+        "region": "Morogoro",
+        "lat": -7.65685,
+        "lng": 36.98299,
+        "population": 24000
+    },
+    {
+        "id": 155125,
+        "name": "Makongolosi",
+        "region": "Mbeya",
+        "lat": -8.4,
+        "lng": 33.15,
+        "population": 23787
+    },
+    {
+        "id": 150885,
+        "name": "Old Shinyanga",
+        "region": "Shinyanga",
+        "lat": -3.55,
+        "lng": 33.4,
+        "population": 23747
+    },
+    {
+        "id": 153600,
+        "name": "Mkoani",
+        "region": "Pemba South",
+        "lat": -5.36667,
+        "lng": 39.65,
+        "population": 23719
+    },
+    {
+        "id": 154097,
+        "name": "Mgandu",
+        "region": "Singida",
+        "lat": -5.95,
+        "lng": 34.13333,
+        "population": 23718
+    },
+    {
+        "id": 149775,
+        "name": "Songwa",
+        "region": "Shinyanga",
+        "lat": -3.51667,
+        "lng": 33.51667,
+        "population": 23618
+    },
+    {
+        "id": 157198,
+        "name": "Kiomboi",
+        "region": "Singida",
+        "lat": -4.26667,
+        "lng": 34.36667,
+        "population": 23519
+    },
+    {
+        "id": 157429,
+        "name": "Kilindoni",
+        "region": "Pwani",
+        "lat": -7.91446,
+        "lng": 39.66204,
+        "population": 23426
+    },
+    {
+        "id": 152376,
+        "name": "Mwadui",
+        "region": "Shinyanga",
+        "lat": -3.55,
+        "lng": 33.6,
+        "population": 23296
+    },
+    {
+        "id": 877597,
+        "name": "Nangomba",
+        "region": "Mtwara",
+        "lat": -10.9,
+        "lng": 38.5,
+        "population": 23028
+    },
+    {
+        "id": 149158,
+        "name": "Urunda",
+        "region": "Mbeya",
+        "lat": -8.65,
+        "lng": 34.3,
+        "population": 23000
+    },
+    {
+        "id": 157268,
+        "name": "Kingori",
+        "region": "Arusha",
+        "lat": -3.28333,
+        "lng": 36.98333,
+        "population": 22839
+    },
+    {
+        "id": 159398,
+        "name": "Igugunu",
+        "region": "Singida",
+        "lat": -4.56667,
+        "lng": 34.63333,
+        "population": 22810
+    },
+    {
+        "id": 160670,
+        "name": "Chala",
+        "region": "Rukwa",
+        "lat": -7.58333,
+        "lng": 31.26667,
+        "population": 22624
+    },
+    {
+        "id": 156080,
+        "name": "Lalago",
+        "region": "Simiyu",
+        "lat": -3.45,
+        "lng": 33.95,
+        "population": 22551
+    },
+    {
+        "id": 878400,
+        "name": "Kigonsera",
+        "region": "Ruvuma",
+        "lat": -10.8,
+        "lng": 35.05,
+        "population": 22155
+    },
+    {
+        "id": 149512,
+        "name": "Tinde",
+        "region": "Shinyanga",
+        "lat": -3.88333,
+        "lng": 33.2,
+        "population": 22082
+    },
+    {
+        "id": 150436,
+        "name": "Rulenge",
+        "region": "Kagera",
+        "lat": -2.7175,
+        "lng": 30.6325,
+        "population": 22069
+    },
+    {
+        "id": 154648,
+        "name": "Maswa",
+        "region": "Simiyu",
+        "lat": -2.68333,
+        "lng": 33.98333,
+        "population": 22025
+    },
+    {
+        "id": 13132461,
+        "name": "Mwanhuzi",
+        "region": "Simiyu",
+        "lat": -3.52723,
+        "lng": 34.31513,
+        "population": 21664
+    },
+    {
+        "id": 154002,
+        "name": "Mhango",
+        "region": "Shinyanga",
+        "lat": -3.28333,
+        "lng": 32.85,
+        "population": 21553
+    },
+    {
+        "id": 157377,
+        "name": "Kilwa Masoko",
+        "region": "Lindi",
+        "lat": -8.9251,
+        "lng": 39.5131,
+        "population": 21519
+    },
+    {
+        "id": 158178,
+        "name": "Katesh",
+        "region": "Manyara",
+        "lat": -4.52483,
+        "lng": 35.3849,
+        "population": 21462
+    },
+    {
+        "id": 156627,
+        "name": "Kiwira",
+        "region": "Mbeya",
+        "lat": -9.17307,
+        "lng": 33.54152,
+        "population": 21342
+    },
+    {
+        "id": 159045,
+        "name": "Isaka",
+        "region": "Shinyanga",
+        "lat": -3.9,
+        "lng": 32.93333,
+        "population": 21094
+    },
+    {
+        "id": 159647,
+        "name": "Hedaru",
+        "region": "Kilimanjaro",
+        "lat": -4.5,
+        "lng": 37.9,
+        "population": 21000
+    },
+    {
+        "id": 877702,
+        "name": "Nachingwea",
+        "region": "Lindi",
+        "lat": -10.3725,
+        "lng": 38.76251,
+        "population": 21000
+    },
+    {
+        "id": 149155,
+        "name": "Usa River",
+        "region": "Arusha",
+        "lat": -3.36667,
+        "lng": 36.85,
+        "population": 21000
+    },
+    {
+        "id": 149143,
+        "name": "Usangi",
+        "region": "Kilimanjaro",
+        "lat": -3.7,
+        "lng": 37.66667,
+        "population": 21000
+    },
+    {
+        "id": 161197,
+        "name": "Basotu",
+        "region": "Manyara",
+        "lat": -4.36667,
+        "lng": 35.08333,
+        "population": 20937
+    },
+    {
+        "id": 154470,
+        "name": "Mazinde",
+        "region": "Tanga",
+        "lat": -4.8,
+        "lng": 38.21667,
+        "population": 20534
+    },
+    {
+        "id": 152497,
+        "name": "Muriti",
+        "region": "Mara",
+        "lat": -1.98333,
+        "lng": 32.91667,
+        "population": 20254
+    },
+    {
+        "id": 154566,
+        "name": "Matui",
+        "region": "Tanga",
+        "lat": -4.8,
+        "lng": 38.25,
+        "population": 20241
+    },
+    {
+        "id": 151363,
+        "name": "Nsunga",
+        "region": "Kagera",
+        "lat": -1.14389,
+        "lng": 31.39472,
+        "population": 20049
+    },
+    {
+        "id": 158324,
+        "name": "Kiratu",
+        "region": "Arusha",
+        "lat": -3.33333,
+        "lng": 35.66667,
+        "population": 20000
+    },
+    {
+        "id": 155077,
+        "name": "Makuyuni",
+        "region": "Arusha",
+        "lat": -3.55,
+        "lng": 36.1,
+        "population": 20000
+    },
+    {
+        "id": 13132459,
+        "name": "Matongo",
+        "region": "Mara",
+        "lat": -1.46771,
+        "lng": 34.52279,
+        "population": 20000
+    },
+    {
+        "id": 153871,
+        "name": "Mikumi",
+        "region": "Morogoro",
+        "lat": -7.40409,
+        "lng": 36.98309,
+        "population": 20000
+    },
+    {
+        "id": 152632,
+        "name": "Muheza",
+        "region": "Tanga",
+        "lat": -5.16667,
+        "lng": 38.78333,
+        "population": 20000
+    },
+    {
+        "id": 877433,
+        "name": "Ruangwa",
+        "region": "Lindi",
+        "lat": -10.06667,
+        "lng": 38.93333,
+        "population": 20000
+    },
+    {
+        "id": 877391,
+        "name": "Tandahimba",
+        "region": "Mtwara",
+        "lat": -10.75,
+        "lng": 39.63333,
+        "population": 20000
+    },
+    {
+        "id": 160266,
+        "name": "Dareda",
+        "region": "Manyara",
+        "lat": -4.21667,
+        "lng": 35.55,
+        "population": 19876
+    },
+    {
+        "id": 151373,
+        "name": "Nshamba",
+        "region": "Kagera",
+        "lat": -1.79833,
+        "lng": 31.55111,
+        "population": 19815
+    },
+    {
+        "id": 159267,
+        "name": "Ikungi",
+        "region": "Singida",
+        "lat": -5.13333,
+        "lng": 34.76667,
+        "population": 19692
+    },
+    {
+        "id": 877581,
+        "name": "Nanyamba",
+        "region": "Mtwara",
+        "lat": -10.68333,
+        "lng": 39.83333,
+        "population": 19555
+    },
+    {
+        "id": 158024,
+        "name": "Kibakwe",
+        "region": "Dodoma",
+        "lat": -6.71667,
+        "lng": 36.36667,
+        "population": 19526
+    },
+    {
+        "id": 878073,
+        "name": "Maposeni",
+        "region": "Ruvuma",
+        "lat": -10.58333,
+        "lng": 35.4,
+        "population": 19472
+    },
+    {
+        "id": 158684,
+        "name": "Kabanga",
+        "region": "Kagera",
+        "lat": -2.63861,
+        "lng": 30.46778,
+        "population": 19421
+    },
+    {
+        "id": 156098,
+        "name": "Laela",
+        "region": "Rukwa",
+        "lat": -8.56667,
+        "lng": 32.05,
+        "population": 19185
+    },
+    {
+        "id": 161204,
+        "name": "Bashanet",
+        "region": "Manyara",
+        "lat": -4.23333,
+        "lng": 35.41667,
+        "population": 19087
+    },
+    {
+        "id": 155321,
+        "name": "Magomeni",
+        "region": "Dar es Salaam Region",
+        "lat": -6.8,
+        "lng": 39.25,
+        "population": 19086
+    },
+    {
+        "id": 155307,
+        "name": "Kihangara",
+        "region": "Mwanza",
+        "lat": -2.58333,
+        "lng": 33.35,
+        "population": 19082
+    },
+    {
+        "id": 152718,
+        "name": "Mtwango",
+        "region": "Njombe",
+        "lat": -9.01667,
+        "lng": 34.8,
+        "population": 19040
+    },
+    {
+        "id": 149996,
+        "name": "Shirati",
+        "region": "Mara",
+        "lat": -1.13333,
+        "lng": 33.98333,
+        "population": 18904
+    },
+    {
+        "id": 159218,
+        "name": "Ilembula",
+        "region": "Njombe",
+        "lat": -8.9,
+        "lng": 34.58333,
+        "population": 18870
+    },
+    {
+        "id": 160172,
+        "name": "Dongobesh",
+        "region": "Manyara",
+        "lat": -4.06667,
+        "lng": 35.38333,
+        "population": 18864
+    },
+    {
+        "id": 878041,
+        "name": "Matiri",
+        "region": "Ruvuma",
+        "lat": -10.75,
+        "lng": 34.9,
+        "population": 18830
+    },
+    {
+        "id": 155334,
+        "name": "Magole",
+        "region": "Morogoro",
+        "lat": -6.37697,
+        "lng": 37.37373,
+        "population": 18753
+    },
+    {
+        "id": 151929,
+        "name": "Nangwa",
+        "region": "Manyara",
+        "lat": -4.46667,
+        "lng": 35.45,
+        "population": 18595
+    },
+    {
+        "id": 159951,
+        "name": "Galappo",
+        "region": "Manyara",
+        "lat": -4.26667,
+        "lng": 35.85,
+        "population": 18528
+    },
+    {
+        "id": 158179,
+        "name": "Katerero",
+        "region": "Kagera",
+        "lat": -1.4,
+        "lng": 31.73333,
+        "population": 18430
+    },
+    {
+        "id": 151266,
+        "name": "Nyakabindi",
+        "region": "Simiyu",
+        "lat": -2.63333,
+        "lng": 33.98333,
+        "population": 18428
+    },
+    {
+        "id": 158825,
+        "name": "Izazi",
+        "region": "Iringa",
+        "lat": -7.2,
+        "lng": 35.73333,
+        "population": 18010
+    },
+    {
+        "id": 155794,
+        "name": "Lubata",
+        "region": "Morogoro",
+        "lat": -6.1,
+        "lng": 37.45,
+        "population": 18000
+    },
+    {
+        "id": 13132457,
+        "name": "Madizini",
+        "region": "Morogoro",
+        "lat": -6.14089,
+        "lng": 37.63604,
+        "population": 18000
+    },
+    {
+        "id": 11905975,
+        "name": "Tarakea",
+        "region": "Kilimanjaro",
+        "lat": -3.00083,
+        "lng": 37.56416,
+        "population": 18000
+    },
+    {
+        "id": 152933,
+        "name": "Msowero",
+        "region": "Morogoro",
+        "lat": -6.53333,
+        "lng": 37.2,
+        "population": 17861
+    },
+    {
+        "id": 159107,
+        "name": "Ipinda",
+        "region": "Mbeya",
+        "lat": -9.48333,
+        "lng": 33.9,
+        "population": 17775
+    },
+    {
+        "id": 152743,
+        "name": "Mto wa Mbu",
+        "region": "Arusha",
+        "lat": -3.35,
+        "lng": 35.85,
+        "population": 17754
+    },
+    {
+        "id": 149132,
+        "name": "Usevia",
+        "region": "Katavi",
+        "lat": -7.1,
+        "lng": 31.23333,
+        "population": 17742
+    },
+    {
+        "id": 877605,
+        "name": "Nanganga",
+        "region": "Mtwara",
+        "lat": -10.38333,
+        "lng": 39.15,
+        "population": 17468
+    },
+    {
+        "id": 159186,
+        "name": "Ilongero",
+        "region": "Singida",
+        "lat": -4.66667,
+        "lng": 34.86667,
+        "population": 17342
+    },
+    {
+        "id": 158016,
+        "name": "Kibara",
+        "region": "Mara",
+        "lat": -2.15,
+        "lng": 33.45,
+        "population": 17211
+    },
+    {
+        "id": 151678,
+        "name": "Ngerengere",
+        "region": "Morogoro",
+        "lat": -6.75,
+        "lng": 38.11667,
+        "population": 17181
+    },
+    {
+        "id": 150634,
+        "name": "Puma",
+        "region": "Singida",
+        "lat": -5,
+        "lng": 34.73333,
+        "population": 17092
+    },
+    {
+        "id": 155056,
+        "name": "Malampaka",
+        "region": "Simiyu",
+        "lat": -3.13333,
+        "lng": 33.53333,
+        "population": 16916
+    },
+    {
+        "id": 155743,
+        "name": "Lugoba",
+        "region": "Pwani",
+        "lat": -6.45,
+        "lng": 38.33333,
+        "population": 16902
+    },
+    {
+        "id": 151711,
+        "name": "Ngara",
+        "region": "Kagera",
+        "lat": -2.51222,
+        "lng": 30.65583,
+        "population": 16890
+    },
+    {
+        "id": 153709,
+        "name": "Mwandiga",
+        "region": "Kigoma",
+        "lat": -4.83,
+        "lng": 29.65806,
+        "population": 16822
+    },
+    {
+        "id": 152546,
+        "name": "Mungaa",
+        "region": "Singida",
+        "lat": -4.96667,
+        "lng": 34.88333,
+        "population": 16715
+    },
+    {
+        "id": 151108,
+        "name": "Nyamuswa",
+        "region": "Mara",
+        "lat": -1.9,
+        "lng": 34.01667,
+        "population": 16507
+    },
+    {
+        "id": 160798,
+        "name": "Butiama",
+        "region": "Mara",
+        "lat": -1.76667,
+        "lng": 33.96667,
+        "population": 16376
+    },
+    {
+        "id": 156963,
+        "name": "Kishapu",
+        "region": "Shinyanga",
+        "lat": -3.61667,
+        "lng": 33.86667,
+        "population": 16371
+    },
+    {
+        "id": 877471,
+        "name": "Nyangao",
+        "region": "Lindi",
+        "lat": -10.33333,
+        "lng": 39.28333,
+        "population": 16343
+    },
+    {
+        "id": 877384,
+        "name": "Tingi",
+        "region": "Ruvuma",
+        "lat": -11.3,
+        "lng": 35.03333,
+        "population": 16315
+    },
+    {
+        "id": 878367,
+        "name": "Kitama",
+        "region": "Mtwara",
+        "lat": -10.71667,
+        "lng": 39.73333,
+        "population": 16232
+    },
+    {
+        "id": 156025,
+        "name": "Lembeni",
+        "region": "Kilimanjaro",
+        "lat": -3.78333,
+        "lng": 37.61667,
+        "population": 16008
+    },
+    {
+        "id": 158492,
+        "name": "Kamachumu",
+        "region": "Kagera",
+        "lat": -1.61861,
+        "lng": 31.62,
+        "population": 15701
+    },
+    {
+        "id": 153423,
+        "name": "Mlalo",
+        "region": "Tanga",
+        "lat": -4.93333,
+        "lng": 38.93333,
+        "population": 15576
+    },
+    {
+        "id": 155076,
+        "name": "Makuyuni",
+        "region": "Tanga",
+        "lat": -4.73333,
+        "lng": 38.1,
+        "population": 15516
+    },
+    {
+        "id": 149151,
+        "name": "Usagara",
+        "region": "Mwanza",
+        "lat": -2.68333,
+        "lng": 33,
+        "population": 15514
+    },
+    {
+        "id": 155515,
+        "name": "Mabama",
+        "region": "Tabora",
+        "lat": -5.13333,
+        "lng": 32.53333,
+        "population": 15320
+    },
+    {
+        "id": 153408,
+        "name": "Mlangali",
+        "region": "Njombe",
+        "lat": -9.78333,
+        "lng": 34.51667,
+        "population": 15168
+    },
+    {
+        "id": 155285,
+        "name": "Mahanje",
+        "region": "Ruvuma",
+        "lat": -9.93333,
+        "lng": 35.33333,
+        "population": 15009
+    }
+]

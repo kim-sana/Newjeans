@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1185241,
+        "name": "Dhaka",
+        "region": "Dhaka Division",
+        "lat": 23.7104,
+        "lng": 90.40744,
+        "population": 10356500
+    },
+    {
+        "id": 1205733,
+        "name": "Chattogram",
+        "region": "Chittagong",
+        "lat": 22.3384,
+        "lng": 91.83168,
+        "population": 3920222
+    },
+    {
+        "id": 1200109,
+        "name": "Gazipur",
+        "region": "Dhaka Division",
+        "lat": 23.99844,
+        "lng": 90.42234,
+        "population": 2674697
+    },
+    {
+        "id": 1336135,
+        "name": "Khulna",
+        "region": "Khulna Division",
+        "lat": 22.80979,
+        "lng": 89.56439,
+        "population": 1500689
+    },
+    {
+        "id": 1185188,
+        "name": "Rangpur",
+        "region": "Rangpur Division",
+        "lat": 25.74664,
+        "lng": 89.25166,
+        "population": 1031388
+    },
+    {
+        "id": 1185128,
+        "name": "Rajshahi",
+        "region": "Rajshahi Division",
+        "lat": 24.374,
+        "lng": 88.60114,
+        "population": 763580
+    },
+    {
+        "id": 1185186,
+        "name": "Comilla",
+        "region": "Chittagong",
+        "lat": 23.46186,
+        "lng": 91.18503,
+        "population": 634654
+    },
+    {
+        "id": 7696679,
+        "name": "Pallabi",
+        "region": "Dhaka Division",
+        "lat": 23.825,
+        "lng": 90.37,
+        "population": 597574
+    },
+    {
+        "id": 11395976,
+        "name": "Mirpur Model Thana",
+        "region": "Dhaka Division",
+        "lat": 23.80931,
+        "lng": 90.36093,
+        "population": 546503
+    },
+    {
+        "id": 1194041,
+        "name": "Mohammadpur",
+        "region": "Rajshahi Division",
+        "lat": 24.89843,
+        "lng": 88.52844,
+        "population": 527571
+    },
+    {
+        "id": 1462674,
+        "name": "Hāthazāri",
+        "region": "Chittagong",
+        "lat": 22.50515,
+        "lng": 91.81339,
+        "population": 498179
+    },
+    {
+        "id": 1337233,
+        "name": "Bogura",
+        "region": "Rajshahi Division",
+        "lat": 24.85098,
+        "lng": 89.37108,
+        "population": 421858
+    },
+    {
+        "id": 1349452,
+        "name": "Savar",
+        "region": "Dhaka Division",
+        "lat": 23.84858,
+        "lng": 90.25002,
+        "population": 379115
+    },
+    {
+        "id": 1185107,
+        "name": "Shibganj",
+        "region": "Rajshahi Division",
+        "lat": 25.00146,
+        "lng": 89.32266,
+        "population": 378701
+    },
+    {
+        "id": 7483813,
+        "name": "Natore",
+        "region": "Rajshahi Division",
+        "lat": 24.41112,
+        "lng": 88.98673,
+        "population": 369138
+    },
+    {
+        "id": 1199503,
+        "name": "Kafrul",
+        "region": "Dhaka Division",
+        "lat": 23.78822,
+        "lng": 90.37359,
+        "population": 339734
+    },
+    {
+        "id": 1185098,
+        "name": "Tungi",
+        "region": "Dhaka Division",
+        "lat": 23.89154,
+        "lng": 90.40232,
+        "population": 337579
+    },
+    {
+        "id": 1209106,
+        "name": "Bhatara",
+        "region": "Dhaka Division",
+        "lat": 23.8,
+        "lng": 90.45,
+        "population": 324300
+    },
+    {
+        "id": 1185117,
+        "name": "Narsingdi",
+        "region": "Dhaka Division",
+        "lat": 23.92298,
+        "lng": 90.71768,
+        "population": 281080
+    },
+    {
+        "id": 1336142,
+        "name": "Brāhmanbāria",
+        "region": "Chittagong",
+        "lat": 23.97464,
+        "lng": 91.11228,
+        "population": 279485
+    },
+    {
+        "id": 7733115,
+        "name": "Demra",
+        "region": "Dhaka Division",
+        "lat": 23.71,
+        "lng": 90.482,
+        "population": 278000
+    },
+    {
+        "id": 1193745,
+        "name": "Nagar Naluākot",
+        "region": "Dhaka Division",
+        "lat": 24.15608,
+        "lng": 90.7728,
+        "population": 273000
+    },
+    {
+        "id": 1185281,
+        "name": "Bagerhat",
+        "region": "Khulna Division",
+        "lat": 22.65657,
+        "lng": 89.79123,
+        "population": 266388
+    },
+    {
+        "id": 1336134,
+        "name": "Cox’s Bāzār",
+        "region": "Chittagong",
+        "lat": 21.43973,
+        "lng": 92.00955,
+        "population": 253788
+    },
+    {
+        "id": 9171969,
+        "name": "Kaliakair",
+        "region": "Dhaka Division",
+        "lat": 24.06956,
+        "lng": 90.22212,
+        "population": 245121
+    },
+    {
+        "id": 1336140,
+        "name": "Jessore",
+        "region": "Khulna Division",
+        "lat": 23.16971,
+        "lng": 89.21371,
+        "population": 243987
+    },
+    {
+        "id": 1185159,
+        "name": "Nāgarpur",
+        "region": "Dhaka Division",
+        "lat": 24.05783,
+        "lng": 89.87696,
+        "population": 238422
+    },
+    {
+        "id": 1185099,
+        "name": "Sylhet",
+        "region": "Sylhet Division",
+        "lat": 24.89904,
+        "lng": 91.87198,
+        "population": 237000
+    },
+    {
+        "id": 1185162,
+        "name": "Mymensingh",
+        "region": "Mymensingh Division",
+        "lat": 24.75636,
+        "lng": 90.40646,
+        "population": 225126
+    },
+    {
+        "id": 1185155,
+        "name": "Narayanganj",
+        "region": "Dhaka Division",
+        "lat": 23.61352,
+        "lng": 90.50298,
+        "population": 223622
+    },
+    {
+        "id": 1207337,
+        "name": "Chāndpur",
+        "region": "Chittagong",
+        "lat": 23.22714,
+        "lng": 90.65433,
+        "population": 212203
+    },
+    {
+        "id": 1212405,
+        "name": "Ashuganj City",
+        "region": "Chittagong",
+        "lat": 24.04016,
+        "lng": 91.0117,
+        "population": 210356
+    },
+    {
+        "id": 1203891,
+        "name": "Dinajpur",
+        "region": "Rangpur Division",
+        "lat": 25.62745,
+        "lng": 88.63779,
+        "population": 206234
+    },
+    {
+        "id": 8299875,
+        "name": "Karnaphuli",
+        "region": "Chittagong",
+        "lat": 22.69056,
+        "lng": 92.23472,
+        "population": 203697
+    },
+    {
+        "id": 13589478,
+        "name": "Motijheel",
+        "region": "Dhaka Division",
+        "lat": 23.72772,
+        "lng": 90.41919,
+        "population": 202308
+    },
+    {
+        "id": 1336137,
+        "name": "Barishal",
+        "region": "Barisal Division",
+        "lat": 22.70497,
+        "lng": 90.37013,
+        "population": 202242
+    },
+    {
+        "id": 1337240,
+        "name": "Nawābganj",
+        "region": "Rajshahi Division",
+        "lat": 24.59025,
+        "lng": 88.27444,
+        "population": 201030
+    },
+    {
+        "id": 6545349,
+        "name": "Saidpur",
+        "region": "Rangpur Division",
+        "lat": 25.77769,
+        "lng": 88.89169,
+        "population": 199422
+    },
+    {
+        "id": 1192366,
+        "name": "Pār Naogaon",
+        "region": "Rajshahi Division",
+        "lat": 24.80418,
+        "lng": 88.94875,
+        "population": 192464
+    },
+    {
+        "id": 1336143,
+        "name": "Pābna",
+        "region": "Rajshahi Division",
+        "lat": 24.00644,
+        "lng": 89.2372,
+        "population": 186781
+    },
+    {
+        "id": 9827976,
+        "name": "Paltan",
+        "region": "Dhaka Division",
+        "lat": 23.73625,
+        "lng": 90.41426,
+        "population": 184492
+    },
+    {
+        "id": 1336144,
+        "name": "Tangail",
+        "region": "Dhaka Division",
+        "lat": 24.24984,
+        "lng": 89.91655,
+        "population": 180144
+    },
+    {
+        "id": 1185106,
+        "name": "Jamālpur",
+        "region": "Mymensingh Division",
+        "lat": 24.91965,
+        "lng": 89.94812,
+        "population": 167900
+    },
+    {
+        "id": 7483743,
+        "name": "Puthia",
+        "region": "Rajshahi Division",
+        "lat": 24.36537,
+        "lng": 88.83431,
+        "population": 159406
+    },
+    {
+        "id": 1185240,
+        "name": "Ramna Maidan",
+        "region": "Dhaka Division",
+        "lat": 23.73333,
+        "lng": 90.4,
+        "population": 143677
+    },
+    {
+        "id": 1185191,
+        "name": "Kushtia",
+        "region": "Khulna Division",
+        "lat": 23.9028,
+        "lng": 89.11943,
+        "population": 135724
+    },
+    {
+        "id": 1195434,
+        "name": "Maijdi",
+        "region": "Chittagong",
+        "lat": 22.86667,
+        "lng": 91.1,
+        "population": 132185
+    },
+    {
+        "id": 1187530,
+        "name": "Sonārgaon",
+        "region": "Dhaka Division",
+        "lat": 23.65,
+        "lng": 90.61667,
+        "population": 130000
+    },
+    {
+        "id": 1185111,
+        "name": "Sātkhira",
+        "region": "Khulna Division",
+        "lat": 22.70817,
+        "lng": 89.07185,
+        "population": 128918
+    },
+    {
+        "id": 1185115,
+        "name": "Sirajganj",
+        "region": "Rajshahi Division",
+        "lat": 24.45771,
+        "lng": 89.70802,
+        "population": 127481
+    },
+    {
+        "id": 1185920,
+        "name": "Tungipara",
+        "region": "Dhaka Division",
+        "lat": 22.89983,
+        "lng": 89.90326,
+        "population": 114482
+    },
+    {
+        "id": 1203344,
+        "name": "Farīdpur",
+        "region": "Dhaka Division",
+        "lat": 23.60612,
+        "lng": 89.84064,
+        "population": 112187
+    },
+    {
+        "id": 11876505,
+        "name": "Gulshan",
+        "region": "Dhaka Division",
+        "lat": 23.78971,
+        "lng": 90.41043,
+        "population": 110213
+    },
+    {
+        "id": 1337248,
+        "name": "Sherpur",
+        "region": "Mymensingh Division",
+        "lat": 25.01881,
+        "lng": 90.01751,
+        "population": 107419
+    },
+    {
+        "id": 1336139,
+        "name": "Rangamati",
+        "region": "Chittagong",
+        "lat": 22.64317,
+        "lng": 92.19186,
+        "population": 106069
+    },
+    {
+        "id": 1185263,
+        "name": "Bhairab Bāzār",
+        "region": "Dhaka Division",
+        "lat": 24.0524,
+        "lng": 90.9764,
+        "population": 105457
+    },
+    {
+        "id": 1185121,
+        "name": "Shāhzādpur",
+        "region": "Rajshahi Division",
+        "lat": 24.17687,
+        "lng": 89.5988,
+        "population": 102420
+    },
+    {
+        "id": 1185092,
+        "name": "Thākurgaon",
+        "region": "Rangpur Division",
+        "lat": 26.03097,
+        "lng": 88.46989,
+        "population": 100442
+    },
+    {
+        "id": 1336136,
+        "name": "Bhola",
+        "region": "Barisal Division",
+        "lat": 22.68759,
+        "lng": 90.64403,
+        "population": 99079
+    },
+    {
+        "id": 7701354,
+        "name": "Azimpur",
+        "region": "Dhaka Division",
+        "lat": 23.7298,
+        "lng": 90.3854,
+        "population": 96641
+    },
+    {
+        "id": 1337249,
+        "name": "Kishorganj",
+        "region": "Dhaka Division",
+        "lat": 24.43944,
+        "lng": 90.78291,
+        "population": 90690
+    },
+    {
+        "id": 6414184,
+        "name": "Bibir Hat",
+        "region": "Chittagong",
+        "lat": 22.68347,
+        "lng": 91.79058,
+        "population": 89030
+    },
+    {
+        "id": 1185209,
+        "name": "Habiganj",
+        "region": "Sylhet Division",
+        "lat": 24.38044,
+        "lng": 91.41299,
+        "population": 88760
+    },
+    {
+        "id": 1337245,
+        "name": "Madaripur",
+        "region": "Dhaka Division",
+        "lat": 23.17097,
+        "lng": 90.20935,
+        "population": 84789
+    },
+    {
+        "id": 1185224,
+        "name": "Feni",
+        "region": "Chittagong",
+        "lat": 23.0144,
+        "lng": 91.3966,
+        "population": 84028
+    },
+    {
+        "id": 1185183,
+        "name": "Lākshām",
+        "region": "Chittagong",
+        "lat": 23.24018,
+        "lng": 91.12143,
+        "population": 82290
+    },
+    {
+        "id": 1185207,
+        "name": "Ishwardi",
+        "region": "Rajshahi Division",
+        "lat": 24.12858,
+        "lng": 89.06573,
+        "population": 81995
+    },
+    {
+        "id": 1188569,
+        "name": "Sarishābāri",
+        "region": "Mymensingh Division",
+        "lat": 24.75127,
+        "lng": 89.83126,
+        "population": 81325
+    },
+    {
+        "id": 1185116,
+        "name": "Netrakona",
+        "region": "Mymensingh Division",
+        "lat": 24.88352,
+        "lng": 90.72898,
+        "population": 79016
+    },
+    {
+        "id": 1200303,
+        "name": "Jāmirdia",
+        "region": "Mymensingh Division",
+        "lat": 24.29429,
+        "lng": 90.39535,
+        "population": 78893
+    },
+    {
+        "id": 1185105,
+        "name": "Sunāmganj",
+        "region": "Sylhet Division",
+        "lat": 25.06889,
+        "lng": 91.40243,
+        "population": 74570
+    },
+    {
+        "id": 1185206,
+        "name": "Joypur Hāt",
+        "region": "Rajshahi Division",
+        "lat": 25.10147,
+        "lng": 89.02734,
+        "population": 73068
+    },
+    {
+        "id": 1348441,
+        "name": "Mānikganj",
+        "region": "Dhaka Division",
+        "lat": 23.85768,
+        "lng": 90.00957,
+        "population": 71698
+    },
+    {
+        "id": 1191368,
+        "name": "Pālang",
+        "region": "Dhaka Division",
+        "lat": 23.21824,
+        "lng": 90.35076,
+        "population": 67652
+    },
+    {
+        "id": 1185181,
+        "name": "Lalmonirhat",
+        "region": "Rangpur Division",
+        "lat": 25.91719,
+        "lng": 89.44595,
+        "population": 65127
+    },
+    {
+        "id": 7646711,
+        "name": "Patuakhali",
+        "region": "Barisal Division",
+        "lat": 22.36833,
+        "lng": 90.3458,
+        "population": 65000
+    },
+    {
+        "id": 1201792,
+        "name": "Habirbāri",
+        "region": "Mymensingh Division",
+        "lat": 24.31667,
+        "lng": 90.4,
+        "population": 64720
+    },
+    {
+        "id": 1185236,
+        "name": "Rāipur",
+        "region": "Chittagong",
+        "lat": 23.0391,
+        "lng": 90.76808,
+        "population": 64652
+    },
+    {
+        "id": 1196292,
+        "name": "Lakshmīpur",
+        "region": "Chittagong",
+        "lat": 22.9443,
+        "lng": 90.83005,
+        "population": 61703
+    },
+    {
+        "id": 1185166,
+        "name": "Maulavi Bāzār",
+        "region": "Sylhet Division",
+        "lat": 24.48888,
+        "lng": 91.77075,
+        "population": 57441
+    },
+    {
+        "id": 1185127,
+        "name": "Rāmganj",
+        "region": "Chittagong",
+        "lat": 23.1006,
+        "lng": 90.84989,
+        "population": 55241
+    },
+    {
+        "id": 1185293,
+        "name": "Narail",
+        "region": "Khulna Division",
+        "lat": 23.15509,
+        "lng": 89.49515,
+        "population": 55112
+    },
+    {
+        "id": 1185270,
+        "name": "Bāndarban",
+        "region": "Chittagong",
+        "lat": 22.19534,
+        "lng": 92.21946,
+        "population": 54450
+    },
+    {
+        "id": 1185138,
+        "name": "Pirojpur",
+        "region": "Barisal Division",
+        "lat": 22.57965,
+        "lng": 89.97521,
+        "population": 54418
+    },
+    {
+        "id": 7683974,
+        "name": "Dhanmondi",
+        "region": "Dhaka Division",
+        "lat": 23.74,
+        "lng": 90.385,
+        "population": 54210
+    },
+    {
+        "id": 1185120,
+        "name": "Sandwīp",
+        "region": "Chittagong",
+        "lat": 22.51409,
+        "lng": 91.45491,
+        "population": 52152
+    },
+    {
+        "id": 1336133,
+        "name": "Sātkania",
+        "region": "Chittagong",
+        "lat": 22.07639,
+        "lng": 92.04955,
+        "population": 52005
+    },
+    {
+        "id": 1185148,
+        "name": "Patiya",
+        "region": "Chittagong",
+        "lat": 22.29543,
+        "lng": 91.979,
+        "population": 51360
+    },
+    {
+        "id": 1202120,
+        "name": "Gopālganj",
+        "region": "Dhaka Division",
+        "lat": 23.22348,
+        "lng": 90.06041,
+        "population": 51346
+    },
+    {
+        "id": 1185252,
+        "name": "Khagrachhari",
+        "region": "Chittagong",
+        "lat": 23.10787,
+        "lng": 91.97007,
+        "population": 50364
+    },
+    {
+        "id": 1185247,
+        "name": "Chilmāri",
+        "region": "Rangpur Division",
+        "lat": 25.55613,
+        "lng": 89.67097,
+        "population": 49736
+    },
+    {
+        "id": 1185160,
+        "name": "Nageswari",
+        "region": "Rangpur Division",
+        "lat": 25.96817,
+        "lng": 89.69153,
+        "population": 49425
+    },
+    {
+        "id": 1185141,
+        "name": "Panchagarh",
+        "region": "Rangpur Division",
+        "lat": 26.33338,
+        "lng": 88.55777,
+        "population": 48531
+    },
+    {
+        "id": 1205481,
+        "name": "Uttar Char Fasson",
+        "region": "Khulna Division",
+        "lat": 22.22647,
+        "lng": 90.71275,
+        "population": 48305
+    },
+    {
+        "id": 1185149,
+        "name": "Parbatipur",
+        "region": "Rangpur Division",
+        "lat": 25.66369,
+        "lng": 88.93093,
+        "population": 48020
+    },
+    {
+        "id": 7926419,
+        "name": "Paotana Hat",
+        "region": "Rangpur Division",
+        "lat": 25.66473,
+        "lng": 89.5026,
+        "population": 45911
+    },
+    {
+        "id": 1210565,
+        "name": "Burhānuddin",
+        "region": "Barisal Division",
+        "lat": 22.49518,
+        "lng": 90.72391,
+        "population": 45670
+    },
+    {
+        "id": 1185199,
+        "name": "Kālīganj",
+        "region": "Khulna Division",
+        "lat": 23.40964,
+        "lng": 89.13801,
+        "population": 45631
+    },
+    {
+        "id": 1185100,
+        "name": "Dohār",
+        "region": "Dhaka Division",
+        "lat": 23.59311,
+        "lng": 90.14251,
+        "population": 45543
+    },
+    {
+        "id": 1201753,
+        "name": "Hājīganj",
+        "region": "Chittagong",
+        "lat": 23.25191,
+        "lng": 90.85508,
+        "population": 44343
+    },
+    {
+        "id": 8740356,
+        "name": "Bhanga",
+        "region": "Dhaka Division",
+        "lat": 23.39194,
+        "lng": 89.98389,
+        "population": 43202
+    },
+    {
+        "id": 1185260,
+        "name": "Bhātpāra Abhaynagar",
+        "region": "Khulna Division",
+        "lat": 23.01472,
+        "lng": 89.43936,
+        "population": 42653
+    },
+    {
+        "id": 1185251,
+        "name": "Lālmohan",
+        "region": "Barisal Division",
+        "lat": 22.33774,
+        "lng": 90.73708,
+        "population": 42220
+    },
+    {
+        "id": 1185204,
+        "name": "Jhingergācha",
+        "region": "Khulna Division",
+        "lat": 23.11134,
+        "lng": 89.09061,
+        "population": 41957
+    },
+    {
+        "id": 1185165,
+        "name": "Mirzāpur",
+        "region": "Dhaka Division",
+        "lat": 24.10287,
+        "lng": 90.09841,
+        "population": 41137
+    },
+    {
+        "id": 1189056,
+        "name": "Sakhipur",
+        "region": "Dhaka Division",
+        "lat": 24.31988,
+        "lng": 90.16943,
+        "population": 40869
+    },
+    {
+        "id": 1185210,
+        "name": "Gaurnadi",
+        "region": "Barisal Division",
+        "lat": 22.97372,
+        "lng": 90.22376,
+        "population": 40519
+    },
+    {
+        "id": 1185272,
+        "name": "Kālia",
+        "region": "Khulna Division",
+        "lat": 23.043,
+        "lng": 89.63094,
+        "population": 40492
+    },
+    {
+        "id": 1203878,
+        "name": "Dohazāri",
+        "region": "Chittagong",
+        "lat": 22.16385,
+        "lng": 92.07333,
+        "population": 40147
+    },
+    {
+        "id": 1209562,
+        "name": "Bera",
+        "region": "Rajshahi Division",
+        "lat": 24.07821,
+        "lng": 89.63262,
+        "population": 39604
+    },
+    {
+        "id": 1185171,
+        "name": "Mehendiganj",
+        "region": "Barisal Division",
+        "lat": 22.82257,
+        "lng": 90.52859,
+        "population": 39424
+    },
+    {
+        "id": 1185249,
+        "name": "Chhāgalnāiya",
+        "region": "Chittagong",
+        "lat": 23.02475,
+        "lng": 91.51091,
+        "population": 39335
+    },
+    {
+        "id": 1185254,
+        "name": "Chhātak",
+        "region": "Sylhet Division",
+        "lat": 25.03852,
+        "lng": 91.66958,
+        "population": 39218
+    },
+    {
+        "id": 1185156,
+        "name": "Nālchiti",
+        "region": "Barisal Division",
+        "lat": 22.63696,
+        "lng": 90.27195,
+        "population": 38703
+    },
+    {
+        "id": 1185262,
+        "name": "Bherāmāra",
+        "region": "Khulna Division",
+        "lat": 24.02452,
+        "lng": 88.99234,
+        "population": 38159
+    },
+    {
+        "id": 1191139,
+        "name": "Phultala",
+        "region": "Khulna Division",
+        "lat": 22.71673,
+        "lng": 89.51194,
+        "population": 37985
+    },
+    {
+        "id": 1203762,
+        "name": "Dukuria",
+        "region": "Dhaka Division",
+        "lat": 23.71095,
+        "lng": 90.37414,
+        "population": 37894
+    },
+    {
+        "id": 1185274,
+        "name": "Baniachang",
+        "region": "Sylhet Division",
+        "lat": 24.51863,
+        "lng": 91.35787,
+        "population": 37807
+    },
+    {
+        "id": 1185239,
+        "name": "Sarankhola",
+        "region": "Khulna Division",
+        "lat": 22.31006,
+        "lng": 89.79113,
+        "population": 36470
+    },
+    {
+        "id": 1185108,
+        "name": "Shibganj",
+        "region": "Rajshahi Division",
+        "lat": 24.68501,
+        "lng": 88.15638,
+        "population": 35961
+    },
+    {
+        "id": 1190284,
+        "name": "Rājāsan",
+        "region": "Dhaka Division",
+        "lat": 23.84522,
+        "lng": 90.27363,
+        "population": 35201
+    },
+    {
+        "id": 1337239,
+        "name": "Pīrgaaj",
+        "region": "Rangpur Division",
+        "lat": 25.85587,
+        "lng": 88.35943,
+        "population": 34606
+    },
+    {
+        "id": 1185276,
+        "name": "Bājitpur",
+        "region": "Dhaka Division",
+        "lat": 24.21623,
+        "lng": 90.95002,
+        "population": 34560
+    },
+    {
+        "id": 1207047,
+        "name": "Char Bhadrāsan",
+        "region": "Dhaka Division",
+        "lat": 23.30916,
+        "lng": 90.22698,
+        "population": 34423
+    },
+    {
+        "id": 1194575,
+        "name": "Mātuail",
+        "region": "Dhaka Division",
+        "lat": 23.71211,
+        "lng": 90.45983,
+        "population": 34310
+    },
+    {
+        "id": 1185218,
+        "name": "Gafargaon",
+        "region": "Mymensingh Division",
+        "lat": 24.432,
+        "lng": 90.5585,
+        "population": 34177
+    },
+    {
+        "id": 1185283,
+        "name": "Badarganj",
+        "region": "Rangpur Division",
+        "lat": 25.67419,
+        "lng": 89.05377,
+        "population": 32600
+    },
+    {
+        "id": 1193823,
+        "name": "Nabīnagar",
+        "region": "Chittagong",
+        "lat": 23.88791,
+        "lng": 90.96792,
+        "population": 31671
+    },
+    {
+        "id": 1185167,
+        "name": "Morrelgonj",
+        "region": "Khulna Division",
+        "lat": 22.45566,
+        "lng": 89.85584,
+        "population": 31647
+    },
+    {
+        "id": 1197895,
+        "name": "Kesabpur",
+        "region": "Khulna Division",
+        "lat": 22.90725,
+        "lng": 89.21954,
+        "population": 30926
+    },
+    {
+        "id": 1477498,
+        "name": "Bhāndāria",
+        "region": "Barisal Division",
+        "lat": 22.48898,
+        "lng": 90.06273,
+        "population": 30219
+    },
+    {
+        "id": 1185095,
+        "name": "Teknāf",
+        "region": "Chittagong",
+        "lat": 20.85829,
+        "lng": 92.29773,
+        "population": 30140
+    },
+    {
+        "id": 1185173,
+        "name": "Mathba",
+        "region": "Barisal Division",
+        "lat": 22.28616,
+        "lng": 89.95883,
+        "population": 29760
+    },
+    {
+        "id": 1188204,
+        "name": "Shāhbāzpur Town",
+        "region": "Chittagong",
+        "lat": 24.05296,
+        "lng": 91.17193,
+        "population": 29757
+    },
+    {
+        "id": 1208011,
+        "name": "Burirchar",
+        "region": "Barisal Division",
+        "lat": 22.13991,
+        "lng": 90.20636,
+        "population": 29542
+    },
+    {
+        "id": 1202702,
+        "name": "Genda",
+        "region": "Dhaka Division",
+        "lat": 23.82837,
+        "lng": 90.26316,
+        "population": 26905
+    },
+    {
+        "id": 13731988,
+        "name": "Bank Colony",
+        "region": "Dhaka Division",
+        "lat": 23.84406,
+        "lng": 90.25299,
+        "population": 26142
+    },
+    {
+        "id": 1189638,
+        "name": "Raojān",
+        "region": "Chittagong",
+        "lat": 22.53511,
+        "lng": 91.91919,
+        "population": 25708
+    },
+    {
+        "id": 1462681,
+        "name": "Manikchari",
+        "region": "Chittagong",
+        "lat": 22.83957,
+        "lng": 91.84128,
+        "population": 24813
+    },
+    {
+        "id": 1185164,
+        "name": "Muktāgācha",
+        "region": "Mymensingh Division",
+        "lat": 24.76484,
+        "lng": 90.25698,
+        "population": 24684
+    },
+    {
+        "id": 7475889,
+        "name": "Taluker Char Doani",
+        "region": "Khulna Division",
+        "lat": 22.14002,
+        "lng": 89.94137,
+        "population": 24563
+    },
+    {
+        "id": 7646709,
+        "name": "Srimangal",
+        "region": "Sylhet Division",
+        "lat": 24.30652,
+        "lng": 91.72955,
+        "population": 23332
+    },
+    {
+        "id": 6415294,
+        "name": "Lāma",
+        "region": "Chittagong",
+        "lat": 21.77439,
+        "lng": 92.21907,
+        "population": 22648
+    },
+    {
+        "id": 1190723,
+        "name": "Purba Narsinghapur",
+        "region": "Dhaka Division",
+        "lat": 23.94183,
+        "lng": 90.30937,
+        "population": 20451
+    },
+    {
+        "id": 1212221,
+        "name": "Ayla Patakata",
+        "region": "Barisal Division",
+        "lat": 22.21726,
+        "lng": 90.20959,
+        "population": 19782
+    },
+    {
+        "id": 7476237,
+        "name": "Natona",
+        "region": "Barisal Division",
+        "lat": 22.05128,
+        "lng": 90.03197,
+        "population": 19705
+    },
+    {
+        "id": 13715450,
+        "name": "Jessore Cantonment",
+        "region": "Khulna Division",
+        "lat": 23.18369,
+        "lng": 89.17639,
+        "population": 18872
+    },
+    {
+        "id": 1207144,
+        "name": "Charāmaddi",
+        "region": "Barisal Division",
+        "lat": 22.642,
+        "lng": 90.42598,
+        "population": 18122
+    },
+    {
+        "id": 1199862,
+        "name": "Jirāba",
+        "region": "Dhaka Division",
+        "lat": 23.91072,
+        "lng": 90.32154,
+        "population": 17168
+    },
+    {
+        "id": 1198385,
+        "name": "Karnapāra",
+        "region": "Dhaka Division",
+        "lat": 23.8267,
+        "lng": 90.25513,
+        "population": 15884
+    }
+]

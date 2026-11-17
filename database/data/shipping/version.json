@@ -1,0 +1,17 @@
+{
+    "source": "GeoNames",
+    "source_url": "https://download.geonames.org/export/dump/",
+    "source_date": "2026-11-16",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "filter": "cities15000 + national capitals supplement; feature class P; official ISO 3166-1 alpha-2; population > 0",
+    "country_count": 244,
+    "city_count": 34224,
+    "excluded_countries": {
+        "AQ": "Antarctica has no permanent population.",
+        "BV": "Bouvet Island has no permanent population.",
+        "HM": "Heard Island and McDonald Islands have no permanent population.",
+        "IO": "British Indian Ocean Territory has no permanent civilian population.",
+        "UM": "United States Minor Outlying Islands have no permanent population."
+    }
+}

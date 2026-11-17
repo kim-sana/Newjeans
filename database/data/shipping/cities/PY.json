@@ -1,0 +1,242 @@
+[
+    {
+        "id": 3439389,
+        "name": "Asunción",
+        "region": "Asuncion",
+        "lat": -25.28646,
+        "lng": -57.647,
+        "population": 1482200
+    },
+    {
+        "id": 3439101,
+        "name": "Ciudad del Este",
+        "region": "Alto Paraná Department",
+        "lat": -25.5036,
+        "lng": -54.65067,
+        "population": 301815
+    },
+    {
+        "id": 3437056,
+        "name": "San Lorenzo",
+        "region": "Central Department",
+        "lat": -25.33968,
+        "lng": -57.50879,
+        "population": 227876
+    },
+    {
+        "id": 3439214,
+        "name": "Capiatá",
+        "region": "Central Department",
+        "lat": -25.3552,
+        "lng": -57.44545,
+        "population": 198553
+    },
+    {
+        "id": 3437863,
+        "name": "Lambaré",
+        "region": "Central Department",
+        "lat": -25.34682,
+        "lng": -57.60647,
+        "population": 126377
+    },
+    {
+        "id": 3438115,
+        "name": "Fernando de la Mora",
+        "region": "Central Department",
+        "lat": -25.3386,
+        "lng": -57.52167,
+        "population": 120167
+    },
+    {
+        "id": 3437842,
+        "name": "Limpio",
+        "region": "Central Department",
+        "lat": -25.16611,
+        "lng": -57.48562,
+        "population": 96143
+    },
+    {
+        "id": 3437665,
+        "name": "Nemby",
+        "region": "Central Department",
+        "lat": -25.3949,
+        "lng": -57.53574,
+        "population": 94641
+    },
+    {
+        "id": 3437547,
+        "name": "Pedro Juan Caballero",
+        "region": "Amambay Department",
+        "lat": -22.54925,
+        "lng": -55.7387,
+        "population": 75109
+    },
+    {
+        "id": 3438735,
+        "name": "Encarnación",
+        "region": "Itapúa",
+        "lat": -27.33176,
+        "lng": -55.86662,
+        "population": 74983
+    },
+    {
+        "id": 3438995,
+        "name": "Mariano Roque Alonso",
+        "region": "Central Department",
+        "lat": -25.20791,
+        "lng": -57.53202,
+        "population": 72008
+    },
+    {
+        "id": 3437918,
+        "name": "Itauguá",
+        "region": "Central Department",
+        "lat": -25.39258,
+        "lng": -57.35421,
+        "population": 64997
+    },
+    {
+        "id": 3436728,
+        "name": "Villa Elisa",
+        "region": "Central Department",
+        "lat": -25.3676,
+        "lng": -57.59274,
+        "population": 64099
+    },
+    {
+        "id": 3436725,
+        "name": "Villa Hayes",
+        "region": "Presidente Hayes",
+        "lat": -25.093,
+        "lng": -57.52725,
+        "population": 57217
+    },
+    {
+        "id": 3439320,
+        "name": "Caacupé",
+        "region": "Cordillera Department",
+        "lat": -25.38575,
+        "lng": -57.14217,
+        "population": 56864
+    },
+    {
+        "id": 3437127,
+        "name": "San Antonio",
+        "region": "Central Department",
+        "lat": -25.42126,
+        "lng": -57.54725,
+        "population": 55754
+    },
+    {
+        "id": 3439317,
+        "name": "Caaguazú",
+        "region": "Caaguazú Department",
+        "lat": -25.47104,
+        "lng": -56.01603,
+        "population": 54808
+    },
+    {
+        "id": 3437444,
+        "name": "Presidente Franco",
+        "region": "Alto Paraná Department",
+        "lat": -25.56384,
+        "lng": -54.61097,
+        "population": 54292
+    },
+    {
+        "id": 3438819,
+        "name": "Coronel Oviedo",
+        "region": "Caaguazú Department",
+        "lat": -25.44613,
+        "lng": -56.43928,
+        "population": 51286
+    },
+    {
+        "id": 3438834,
+        "name": "Concepción",
+        "region": "Concepción",
+        "lat": -23.39985,
+        "lng": -57.43236,
+        "population": 48123
+    },
+    {
+        "id": 3436714,
+        "name": "Villarrica",
+        "region": "Guairá",
+        "lat": -25.74946,
+        "lng": -56.43518,
+        "population": 41157
+    },
+    {
+        "id": 3437905,
+        "name": "Doctor Juan Eulogio Estigarribia",
+        "region": "Caaguazú Department",
+        "lat": -25.37184,
+        "lng": -55.70457,
+        "population": 38894
+    },
+    {
+        "id": 3436710,
+        "name": "Villeta",
+        "region": "Central Department",
+        "lat": -25.50691,
+        "lng": -57.56633,
+        "population": 36985
+    },
+    {
+        "id": 3437526,
+        "name": "Pilar",
+        "region": "Ñeembucú Department",
+        "lat": -26.85874,
+        "lng": -58.30639,
+        "population": 32810
+    },
+    {
+        "id": 3436622,
+        "name": "Yby Yaú",
+        "region": "Concepción",
+        "lat": -22.96611,
+        "lng": -56.54066,
+        "population": 31290
+    },
+    {
+        "id": 3439297,
+        "name": "Caazapá",
+        "region": "Caazapá",
+        "lat": -26.1966,
+        "lng": -56.36786,
+        "population": 23996
+    },
+    {
+        "id": 3867291,
+        "name": "Filadelfia",
+        "region": "Boquerón Department",
+        "lat": -22.33936,
+        "lng": -60.03157,
+        "population": 19927
+    },
+    {
+        "id": 3437954,
+        "name": "Itá",
+        "region": "Central Department",
+        "lat": -25.50054,
+        "lng": -57.36717,
+        "population": 18459
+    },
+    {
+        "id": 3437063,
+        "name": "San Juan Bautista",
+        "region": "Misiones Department",
+        "lat": -26.67028,
+        "lng": -57.14073,
+        "population": 16593
+    },
+    {
+        "id": 3437824,
+        "name": "Loma Plata",
+        "region": "Boquerón Department",
+        "lat": -22.3829,
+        "lng": -59.83549,
+        "population": 16460
+    }
+]

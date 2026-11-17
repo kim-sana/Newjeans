@@ -1,0 +1,362 @@
+[
+    {
+        "id": 7303419,
+        "name": "East Jerusalem",
+        "region": "West Bank",
+        "lat": 31.78336,
+        "lng": 35.23388,
+        "population": 428304
+    },
+    {
+        "id": 281133,
+        "name": "Gaza",
+        "region": "Gaza Strip",
+        "lat": 31.50161,
+        "lng": 34.46672,
+        "population": 410000
+    },
+    {
+        "id": 281124,
+        "name": "Khān Yūnis",
+        "region": "Gaza Strip",
+        "lat": 31.34018,
+        "lng": 34.30627,
+        "population": 173183
+    },
+    {
+        "id": 281129,
+        "name": "Jabālyā",
+        "region": "Gaza Strip",
+        "lat": 31.5272,
+        "lng": 34.48347,
+        "population": 168568
+    },
+    {
+        "id": 285066,
+        "name": "Hebron",
+        "region": "West Bank",
+        "lat": 31.52935,
+        "lng": 35.0938,
+        "population": 160470
+    },
+    {
+        "id": 282615,
+        "name": "Nablus",
+        "region": "West Bank",
+        "lat": 32.22111,
+        "lng": 35.25444,
+        "population": 130326
+    },
+    {
+        "id": 281102,
+        "name": "Rafaḩ",
+        "region": "Gaza Strip",
+        "lat": 31.29722,
+        "lng": 34.24357,
+        "population": 126305
+    },
+    {
+        "id": 281141,
+        "name": "Dayr al Balaḩ",
+        "region": "Gaza Strip",
+        "lat": 31.41834,
+        "lng": 34.34933,
+        "population": 59504
+    },
+    {
+        "id": 281145,
+        "name": "Bayt Lāhyā",
+        "region": "Gaza Strip",
+        "lat": 31.5464,
+        "lng": 34.49514,
+        "population": 56919
+    },
+    {
+        "id": 284375,
+        "name": "Battir",
+        "region": "West Bank",
+        "lat": 31.7,
+        "lng": 35.11667,
+        "population": 56746
+    },
+    {
+        "id": 281577,
+        "name": "Ţūlkarm",
+        "region": "West Bank",
+        "lat": 32.31156,
+        "lng": 35.0269,
+        "population": 44169
+    },
+    {
+        "id": 282239,
+        "name": "Ramallah",
+        "region": "West Bank",
+        "lat": 31.89964,
+        "lng": 35.20422,
+        "population": 43880
+    },
+    {
+        "id": 282457,
+        "name": "Qalqīlyah",
+        "region": "West Bank",
+        "lat": 32.18966,
+        "lng": 34.97063,
+        "population": 43212
+    },
+    {
+        "id": 281292,
+        "name": "Yaţţā",
+        "region": "West Bank",
+        "lat": 31.4459,
+        "lng": 35.09443,
+        "population": 41425
+    },
+    {
+        "id": 282993,
+        "name": "Ma‘ale Adummim",
+        "region": "West Bank",
+        "lat": 31.7774,
+        "lng": 35.29875,
+        "population": 38193
+    },
+    {
+        "id": 285108,
+        "name": "Al Bīrah",
+        "region": "West Bank",
+        "lat": 31.91001,
+        "lng": 35.21645,
+        "population": 38192
+    },
+    {
+        "id": 281146,
+        "name": "Bayt Ḩānūn",
+        "region": "Gaza Strip",
+        "lat": 31.5353,
+        "lng": 34.53579,
+        "population": 37392
+    },
+    {
+        "id": 281109,
+        "name": "An Nuşayrāt",
+        "region": "Gaza Strip",
+        "lat": 31.44861,
+        "lng": 34.3925,
+        "population": 36123
+    },
+    {
+        "id": 6945291,
+        "name": "Old City",
+        "region": "West Bank",
+        "lat": 31.77667,
+        "lng": 35.23417,
+        "population": 36000
+    },
+    {
+        "id": 281818,
+        "name": "Shu‘fāţ",
+        "region": "West Bank",
+        "lat": 31.81651,
+        "lng": 35.22745,
+        "population": 35000
+    },
+    {
+        "id": 281161,
+        "name": "Al Burayj",
+        "region": "Gaza Strip",
+        "lat": 31.43944,
+        "lng": 34.40306,
+        "population": 34951
+    },
+    {
+        "id": 283506,
+        "name": "Janīn",
+        "region": "West Bank",
+        "lat": 32.45943,
+        "lng": 35.30086,
+        "population": 34730
+    },
+    {
+        "id": 281148,
+        "name": "Banī Suhaylā",
+        "region": "Gaza Strip",
+        "lat": 31.34337,
+        "lng": 34.32337,
+        "population": 31272
+    },
+    {
+        "id": 284315,
+        "name": "Bethlehem",
+        "region": "West Bank",
+        "lat": 31.70487,
+        "lng": 35.20376,
+        "population": 29019
+    },
+    {
+        "id": 284486,
+        "name": "Az̧ Z̧āhirīyah",
+        "region": "West Bank",
+        "lat": 31.40967,
+        "lng": 34.97329,
+        "population": 27616
+    },
+    {
+        "id": 284335,
+        "name": "Bayt Ḩanīnā",
+        "region": "West Bank",
+        "lat": 31.82999,
+        "lng": 35.22539,
+        "population": 27000
+    },
+    {
+        "id": 284572,
+        "name": "‘Aţārūt",
+        "region": "West Bank",
+        "lat": 31.86667,
+        "lng": 35.21667,
+        "population": 25595
+    },
+    {
+        "id": 281715,
+        "name": "Surif City",
+        "region": "West Bank",
+        "lat": 31.65078,
+        "lng": 35.06439,
+        "population": 25242
+    },
+    {
+        "id": 284890,
+        "name": "Ar Rām wa Ḑāḩiyat al Barīd",
+        "region": "West Bank",
+        "lat": 31.84945,
+        "lng": 35.2342,
+        "population": 24838
+    },
+    {
+        "id": 283806,
+        "name": "Ḩalḩūl",
+        "region": "West Bank",
+        "lat": 31.58029,
+        "lng": 35.10178,
+        "population": 21076
+    },
+    {
+        "id": 284011,
+        "name": "Dūrā",
+        "region": "West Bank",
+        "lat": 31.50777,
+        "lng": 35.02929,
+        "population": 20835
+    },
+    {
+        "id": 284431,
+        "name": "Banī Na‘īm",
+        "region": "West Bank",
+        "lat": 31.51591,
+        "lng": 35.16416,
+        "population": 19783
+    },
+    {
+        "id": 284899,
+        "name": "Jericho",
+        "region": "West Bank",
+        "lat": 31.86667,
+        "lng": 35.45,
+        "population": 19783
+    },
+    {
+        "id": 6967865,
+        "name": "Al Qarārah",
+        "region": "Gaza Strip",
+        "lat": 31.37389,
+        "lng": 34.34085,
+        "population": 19500
+    },
+    {
+        "id": 284583,
+        "name": "As Samū‘",
+        "region": "West Bank",
+        "lat": 31.39671,
+        "lng": 35.06611,
+        "population": 19355
+    },
+    {
+        "id": 282476,
+        "name": "Qabāţīyah",
+        "region": "West Bank",
+        "lat": 32.41035,
+        "lng": 35.28087,
+        "population": 19127
+    },
+    {
+        "id": 283621,
+        "name": "Idhnā",
+        "region": "West Bank",
+        "lat": 31.55874,
+        "lng": 34.97436,
+        "population": 18727
+    },
+    {
+        "id": 281165,
+        "name": "‘Abasān al Kabīrah",
+        "region": "Gaza Strip",
+        "lat": 31.31913,
+        "lng": 34.34005,
+        "population": 18163
+    },
+    {
+        "id": 281793,
+        "name": "Sa‘īr",
+        "region": "West Bank",
+        "lat": 31.57855,
+        "lng": 35.14017,
+        "population": 17775
+    },
+    {
+        "id": 285111,
+        "name": "Al ‘Ayzarīyah",
+        "region": "West Bank",
+        "lat": 31.77078,
+        "lng": 35.26917,
+        "population": 17455
+    },
+    {
+        "id": 284446,
+        "name": "Balāţah",
+        "region": "West Bank",
+        "lat": 32.21207,
+        "lng": 35.28561,
+        "population": 17146
+    },
+    {
+        "id": 6967990,
+        "name": "Az Zuwāydah",
+        "region": "Gaza Strip",
+        "lat": 31.43954,
+        "lng": 34.38053,
+        "population": 16688
+    },
+    {
+        "id": 284324,
+        "name": "Bayt Jālā",
+        "region": "West Bank",
+        "lat": 31.71545,
+        "lng": 35.18788,
+        "population": 16183
+    },
+    {
+        "id": 284999,
+        "name": "Al Yāmūn",
+        "region": "West Bank",
+        "lat": 32.48563,
+        "lng": 35.23011,
+        "population": 16164
+    },
+    {
+        "id": 281581,
+        "name": "Ţūbās",
+        "region": "West Bank",
+        "lat": 32.32091,
+        "lng": 35.36989,
+        "population": 15591
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 4796512,
+        "name": "Saint Croix",
+        "region": "Saint Croix Island",
+        "lat": 17.72751,
+        "lng": -64.74698,
+        "population": 50601
+    },
+    {
+        "id": 4795467,
+        "name": "Charlotte Amalie",
+        "region": "Saint Thomas Island",
+        "lat": 18.3419,
+        "lng": -64.9307,
+        "population": 20000
+    }
+]

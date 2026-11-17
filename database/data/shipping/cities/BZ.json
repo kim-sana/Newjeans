@@ -1,0 +1,42 @@
+[
+    {
+        "id": 3582677,
+        "name": "Belize City",
+        "region": "Belize District",
+        "lat": 17.49952,
+        "lng": -88.19756,
+        "population": 65222
+    },
+    {
+        "id": 3581194,
+        "name": "San Ignacio",
+        "region": "Cayo District",
+        "lat": 17.1588,
+        "lng": -89.0696,
+        "population": 21229
+    },
+    {
+        "id": 3581164,
+        "name": "San Pedro",
+        "region": "Belize District",
+        "lat": 17.91598,
+        "lng": -87.9659,
+        "population": 17429
+    },
+    {
+        "id": 3581514,
+        "name": "Orange Walk",
+        "region": "Orange Walk District",
+        "lat": 18.08124,
+        "lng": -88.56328,
+        "population": 15298
+    },
+    {
+        "id": 3582672,
+        "name": "Belmopan",
+        "region": "Cayo District",
+        "lat": 17.25376,
+        "lng": -88.76401,
+        "population": 13381
+    }
+]

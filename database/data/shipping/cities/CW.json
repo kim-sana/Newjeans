@@ -1,0 +1,18 @@
+[
+    {
+        "id": 3513090,
+        "name": "Willemstad",
+        "region": null,
+        "lat": 12.12246,
+        "lng": -68.88641,
+        "population": 125000
+    },
+    {
+        "id": 13308487,
+        "name": "Bandariba",
+        "region": null,
+        "lat": 12.09257,
+        "lng": -68.83092,
+        "population": 20838
+    }
+]

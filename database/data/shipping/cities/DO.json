@@ -1,0 +1,402 @@
+[
+    {
+        "id": 3492908,
+        "name": "Santo Domingo",
+        "region": "Nacional",
+        "lat": 18.47186,
+        "lng": -69.89232,
+        "population": 2201941
+    },
+    {
+        "id": 3492914,
+        "name": "Santiago de los Caballeros",
+        "region": "Santiago Province",
+        "lat": 19.45036,
+        "lng": -70.69085,
+        "population": 1200000
+    },
+    {
+        "id": 7874116,
+        "name": "Santo Domingo Oeste",
+        "region": "Santo Domingo Province",
+        "lat": 18.5,
+        "lng": -70,
+        "population": 701269
+    },
+    {
+        "id": 8601412,
+        "name": "Santo Domingo Este",
+        "region": "Santo Domingo Province",
+        "lat": 18.48511,
+        "lng": -69.84757,
+        "population": 700000
+    },
+    {
+        "id": 3493032,
+        "name": "San Pedro de Macorís",
+        "region": "San Pedro de Macorís",
+        "lat": 18.4539,
+        "lng": -69.30864,
+        "population": 217899
+    },
+    {
+        "id": 3500957,
+        "name": "La Romana",
+        "region": "La Romana",
+        "lat": 18.42332,
+        "lng": -68.96635,
+        "population": 208437
+    },
+    {
+        "id": 3511550,
+        "name": "Bella Vista",
+        "region": "Nacional",
+        "lat": 18.45539,
+        "lng": -69.9454,
+        "population": 175683
+    },
+    {
+        "id": 3511540,
+        "name": "San Cristóbal",
+        "region": "San Cristóbal",
+        "lat": 18.41713,
+        "lng": -70.10682,
+        "population": 154040
+    },
+    {
+        "id": 3493175,
+        "name": "Puerto Plata",
+        "region": "Puerto Plata",
+        "lat": 19.79344,
+        "lng": -70.6884,
+        "population": 146000
+    },
+    {
+        "id": 3493146,
+        "name": "San Francisco de Macorís",
+        "region": "Duarte Province",
+        "lat": 19.29377,
+        "lng": -70.25285,
+        "population": 124763
+    },
+    {
+        "id": 3493240,
+        "name": "Salvaleón de Higüey",
+        "region": "La Altagracia Province",
+        "lat": 18.61501,
+        "lng": -68.70798,
+        "population": 123787
+    },
+    {
+        "id": 3509382,
+        "name": "La Vega",
+        "region": "La Vega",
+        "lat": 19.22031,
+        "lng": -70.53101,
+        "population": 102426
+    },
+    {
+        "id": 3494242,
+        "name": "Punta Cana",
+        "region": "La Altagracia Province",
+        "lat": 18.58182,
+        "lng": -68.40431,
+        "population": 100023
+    },
+    {
+        "id": 3492985,
+        "name": "Santa Cruz de Barahona",
+        "region": "Barahona Province",
+        "lat": 18.20861,
+        "lng": -71.10068,
+        "population": 77160
+    },
+    {
+        "id": 3511233,
+        "name": "Bonao",
+        "region": "Monseñor Nouel",
+        "lat": 18.94154,
+        "lng": -70.41111,
+        "population": 73269
+    },
+    {
+        "id": 3493081,
+        "name": "San Juan de la Maguana",
+        "region": "San Juan Province",
+        "lat": 18.8064,
+        "lng": -71.22626,
+        "population": 72950
+    },
+    {
+        "id": 3512128,
+        "name": "Bajos de Haina",
+        "region": "San Cristóbal",
+        "lat": 18.41538,
+        "lng": -70.03317,
+        "population": 66784
+    },
+    {
+        "id": 3512067,
+        "name": "Baní",
+        "region": "Peravia",
+        "lat": 18.27971,
+        "lng": -70.33181,
+        "population": 66709
+    },
+    {
+        "id": 3496331,
+        "name": "Moca",
+        "region": "Espaillat Province",
+        "lat": 19.39289,
+        "lng": -70.52347,
+        "population": 61834
+    },
+    {
+        "id": 3512208,
+        "name": "Azua",
+        "region": "Azua Province",
+        "lat": 18.45319,
+        "lng": -70.7349,
+        "population": 59139
+    },
+    {
+        "id": 3509183,
+        "name": "Cristo Rey",
+        "region": "Nacional",
+        "lat": 18.5,
+        "lng": -69.93333,
+        "population": 57084
+    },
+    {
+        "id": 3491941,
+        "name": "Villa Francisca",
+        "region": "Nacional",
+        "lat": 18.48278,
+        "lng": -69.88914,
+        "population": 50185
+    },
+    {
+        "id": 3496831,
+        "name": "Mao",
+        "region": "Valverde Province",
+        "lat": 19.54908,
+        "lng": -71.07808,
+        "population": 48297
+    },
+    {
+        "id": 3511336,
+        "name": "Boca Chica",
+        "region": "Santo Domingo Province",
+        "lat": 18.45,
+        "lng": -69.6,
+        "population": 46300
+    },
+    {
+        "id": 3493283,
+        "name": "Salcedo",
+        "region": "Hermanas Mirabal",
+        "lat": 19.37766,
+        "lng": -70.41719,
+        "population": 45299
+    },
+    {
+        "id": 3505855,
+        "name": "Esperanza",
+        "region": "Valverde Province",
+        "lat": 19.58469,
+        "lng": -70.98489,
+        "population": 42169
+    },
+    {
+        "id": 3509207,
+        "name": "Cotuí",
+        "region": "Sánchez Ramírez",
+        "lat": 19.05385,
+        "lng": -70.15116,
+        "population": 41641
+    },
+    {
+        "id": 3491952,
+        "name": "Villa Altagracia",
+        "region": "San Cristóbal",
+        "lat": 18.67297,
+        "lng": -70.17095,
+        "population": 40027
+    },
+    {
+        "id": 3504963,
+        "name": "Guayacanes",
+        "region": "San Pedro de Macorís",
+        "lat": 18.42495,
+        "lng": -69.4576,
+        "population": 37889
+    },
+    {
+        "id": 3504765,
+        "name": "Hato Mayor del Rey",
+        "region": "Hato Mayor Province",
+        "lat": 18.76575,
+        "lng": -69.25579,
+        "population": 35999
+    },
+    {
+        "id": 3496021,
+        "name": "Nagua",
+        "region": "María Trinidad Sánchez",
+        "lat": 19.3832,
+        "lng": -69.8474,
+        "population": 33862
+    },
+    {
+        "id": 3491948,
+        "name": "Villa Bisonó",
+        "region": "Santiago Province",
+        "lat": 19.56378,
+        "lng": -70.87582,
+        "population": 33137
+    },
+    {
+        "id": 3504158,
+        "name": "Jarabacoa",
+        "region": "La Vega",
+        "lat": 19.11683,
+        "lng": -70.63595,
+        "population": 29983
+    },
+    {
+        "id": 3509363,
+        "name": "Constanza",
+        "region": "La Vega",
+        "lat": 18.90919,
+        "lng": -70.74499,
+        "population": 29481
+    },
+    {
+        "id": 3491946,
+        "name": "Villa Consuelo",
+        "region": "Nacional",
+        "lat": 18.48333,
+        "lng": -69.9,
+        "population": 28621
+    },
+    {
+        "id": 3492984,
+        "name": "Santa Cruz de El Seibo",
+        "region": "El Seíbo",
+        "lat": 18.76484,
+        "lng": -69.03991,
+        "population": 23547
+    },
+    {
+        "id": 3492517,
+        "name": "Tamboril",
+        "region": "Santiago Province",
+        "lat": 19.48538,
+        "lng": -70.61104,
+        "population": 23304
+    },
+    {
+        "id": 3500370,
+        "name": "Las Matas de Farfán",
+        "region": "San Juan Province",
+        "lat": 18.87309,
+        "lng": -71.51656,
+        "population": 21802
+    },
+    {
+        "id": 3493100,
+        "name": "San José de Ocoa",
+        "region": "San José de Ocoa",
+        "lat": 18.54685,
+        "lng": -70.50692,
+        "population": 21148
+    },
+    {
+        "id": 3511626,
+        "name": "Bayaguana",
+        "region": "Monte Plata Province",
+        "lat": 18.75031,
+        "lng": -69.63525,
+        "population": 21055
+    },
+    {
+        "id": 3493769,
+        "name": "Río Grande",
+        "region": "Puerto Plata",
+        "lat": 19.66667,
+        "lng": -70.76667,
+        "population": 20154
+    },
+    {
+        "id": 3496150,
+        "name": "Monte Llano",
+        "region": "Puerto Plata",
+        "lat": 19.7346,
+        "lng": -70.59915,
+        "population": 19029
+    },
+    {
+        "id": 3509578,
+        "name": "Ciudad Nueva",
+        "region": "Nacional",
+        "lat": 18.46707,
+        "lng": -69.89339,
+        "population": 18756
+    },
+    {
+        "id": 3495857,
+        "name": "Neiba",
+        "region": "Baoruco Province",
+        "lat": 18.4898,
+        "lng": -71.41894,
+        "population": 18670
+    },
+    {
+        "id": 3494121,
+        "name": "Quisqueya",
+        "region": "San Pedro de Macorís",
+        "lat": 18.55542,
+        "lng": -69.40814,
+        "population": 17694
+    },
+    {
+        "id": 3493174,
+        "name": "San Fernando de Monte Cristi",
+        "region": "Monte Cristi Province",
+        "lat": 19.84799,
+        "lng": -71.64604,
+        "population": 17001
+    },
+    {
+        "id": 3493482,
+        "name": "Sabana Grande de Boyá",
+        "region": "Monte Plata Province",
+        "lat": 18.94498,
+        "lng": -69.79331,
+        "population": 16834
+    },
+    {
+        "id": 3508952,
+        "name": "Dajabón",
+        "region": "Dajabón",
+        "lat": 19.54811,
+        "lng": -71.70821,
+        "population": 16398
+    },
+    {
+        "id": 3493383,
+        "name": "San Ignacio de Sabaneta",
+        "region": "Santiago Rodríguez",
+        "lat": 19.47837,
+        "lng": -71.33932,
+        "population": 16380
+    },
+    {
+        "id": 3496134,
+        "name": "Monte Plata",
+        "region": "Monte Plata Province",
+        "lat": 18.80748,
+        "lng": -69.78431,
+        "population": 15532
+    }
+]

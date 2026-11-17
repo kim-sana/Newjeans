@@ -14,6 +14,7 @@ $navItems = [
     ['key' => 'members', 'label' => 'Members', 'icon' => 'bi-people', 'url' => url('/admin/members')],
     ['key' => 'histories', 'label' => 'Histories', 'icon' => 'bi-clock-history', 'url' => url('/admin/histories')],
     ['key' => 'gallery', 'label' => 'Gallery', 'icon' => 'bi-images', 'url' => url('/admin/gallery')],
+    ['key' => 'orders', 'label' => 'Orders', 'icon' => 'bi-receipt', 'url' => url('/admin/orders')],
 ];
 ?>
 <!doctype html>

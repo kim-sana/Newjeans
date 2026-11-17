@@ -1,0 +1,130 @@
+[
+    {
+        "id": 373303,
+        "name": "Juba",
+        "region": "Central Equatoria",
+        "lat": 4.85165,
+        "lng": 31.58247,
+        "population": 450000
+    },
+    {
+        "id": 363807,
+        "name": "Winejok",
+        "region": "Northern Bahr al Ghazal",
+        "lat": 9.01222,
+        "lng": 27.57081,
+        "population": 300000
+    },
+    {
+        "id": 363619,
+        "name": "Yei",
+        "region": "Central Equatoria",
+        "lat": 4.09444,
+        "lng": 30.67639,
+        "population": 260720
+    },
+    {
+        "id": 370737,
+        "name": "Malakal",
+        "region": "Upper Nile",
+        "lat": 9.53342,
+        "lng": 31.66049,
+        "population": 160765
+    },
+    {
+        "id": 363885,
+        "name": "Wau",
+        "region": "Western Bahr al Ghazal",
+        "lat": 7.70111,
+        "lng": 27.98972,
+        "population": 127384
+    },
+    {
+        "id": 371712,
+        "name": "Kuacjok",
+        "region": "Warrap",
+        "lat": 8.30278,
+        "lng": 27.98,
+        "population": 78000
+    },
+    {
+        "id": 375495,
+        "name": "Pajok",
+        "region": "Eastern Equatoria",
+        "lat": 3.86512,
+        "lng": 32.48212,
+        "population": 49000
+    },
+    {
+        "id": 374739,
+        "name": "Gogrial",
+        "region": "Warrap",
+        "lat": 8.53324,
+        "lng": 28.10037,
+        "population": 44600
+    },
+    {
+        "id": 363656,
+        "name": "Yambio",
+        "region": "Western Equatoria",
+        "lat": 4.57083,
+        "lng": 28.39417,
+        "population": 40382
+    },
+    {
+        "id": 364367,
+        "name": "Aweil",
+        "region": "Northern Bahr al Ghazal",
+        "lat": 8.76194,
+        "lng": 27.39194,
+        "population": 38745
+    },
+    {
+        "id": 367927,
+        "name": "Rumbek",
+        "region": "Lakes",
+        "lat": 6.80619,
+        "lng": 29.67742,
+        "population": 32083
+    },
+    {
+        "id": 377241,
+        "name": "Bor",
+        "region": "Jonglei",
+        "lat": 6.20889,
+        "lng": 31.55861,
+        "population": 26782
+    },
+    {
+        "id": 365742,
+        "name": "Torit",
+        "region": "Eastern Equatoria",
+        "lat": 4.41177,
+        "lng": 32.57046,
+        "population": 20048
+    },
+    {
+        "id": 371466,
+        "name": "Leer",
+        "region": "Unity",
+        "lat": 8.30306,
+        "lng": 30.14056,
+        "population": 17827
+    },
+    {
+        "id": 365763,
+        "name": "Tonj",
+        "region": "Warrap",
+        "lat": 7.27389,
+        "lng": 28.6775,
+        "population": 17338
+    },
+    {
+        "id": 373130,
+        "name": "Kafia Kingi",
+        "region": "Western Bahr al Ghazal",
+        "lat": 9.27345,
+        "lng": 24.41701,
+        "population": 16000
+    }
+]

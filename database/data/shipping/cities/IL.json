@@ -1,0 +1,906 @@
+[
+    {
+        "id": 281184,
+        "name": "Jerusalem",
+        "region": "Jerusalem",
+        "lat": 31.76904,
+        "lng": 35.21633,
+        "population": 971800
+    },
+    {
+        "id": 293397,
+        "name": "Tel Aviv",
+        "region": "Tel Aviv",
+        "lat": 32.08088,
+        "lng": 34.78057,
+        "population": 432892
+    },
+    {
+        "id": 7498240,
+        "name": "West Jerusalem",
+        "region": "Jerusalem",
+        "lat": 31.78199,
+        "lng": 35.21961,
+        "population": 400000
+    },
+    {
+        "id": 294801,
+        "name": "Haifa",
+        "region": "Haifa",
+        "lat": 32.81303,
+        "lng": 34.99928,
+        "population": 285316
+    },
+    {
+        "id": 293918,
+        "name": "Petaẖ Tiqva",
+        "region": "Central District",
+        "lat": 32.0888,
+        "lng": 34.88666,
+        "population": 270403
+    },
+    {
+        "id": 293703,
+        "name": "Rishon LeTsiyyon",
+        "region": "Central District",
+        "lat": 31.97102,
+        "lng": 34.78939,
+        "population": 259275
+    },
+    {
+        "id": 295514,
+        "name": "Bnei Brak",
+        "region": "Tel Aviv",
+        "lat": 32.08074,
+        "lng": 34.8338,
+        "population": 229996
+    },
+    {
+        "id": 295629,
+        "name": "Ashdod",
+        "region": "Southern District",
+        "lat": 31.79213,
+        "lng": 34.64966,
+        "population": 228562
+    },
+    {
+        "id": 294071,
+        "name": "Netanya",
+        "region": "Central District",
+        "lat": 32.33294,
+        "lng": 34.85917,
+        "population": 228204
+    },
+    {
+        "id": 294751,
+        "name": "H̱olon",
+        "region": "Tel Aviv",
+        "lat": 32.0122,
+        "lng": 34.77826,
+        "population": 191829
+    },
+    {
+        "id": 295530,
+        "name": "Beersheba",
+        "region": "Southern District",
+        "lat": 31.25181,
+        "lng": 34.7913,
+        "population": 186600
+    },
+    {
+        "id": 295432,
+        "name": "Bet Shemesh",
+        "region": "Jerusalem",
+        "lat": 31.73072,
+        "lng": 34.99293,
+        "population": 176786
+    },
+    {
+        "id": 293788,
+        "name": "Ramat Gan",
+        "region": "Tel Aviv",
+        "lat": 32.08227,
+        "lng": 34.81065,
+        "population": 172242
+    },
+    {
+        "id": 295620,
+        "name": "Ashkelon",
+        "region": "Southern District",
+        "lat": 31.66926,
+        "lng": 34.57149,
+        "population": 166864
+    },
+    {
+        "id": 293725,
+        "name": "Reẖovot",
+        "region": "Central District",
+        "lat": 31.89415,
+        "lng": 34.8095,
+        "population": 166864
+    },
+    {
+        "id": 295548,
+        "name": "Bat Yam",
+        "region": "Tel Aviv",
+        "lat": 32.01798,
+        "lng": 34.75003,
+        "population": 129494
+    },
+    {
+        "id": 294778,
+        "name": "Herzliya",
+        "region": "Tel Aviv",
+        "lat": 32.16627,
+        "lng": 34.82536,
+        "population": 110884
+    },
+    {
+        "id": 294946,
+        "name": "Hadera",
+        "region": "Haifa",
+        "lat": 32.44192,
+        "lng": 34.9039,
+        "population": 107974
+    },
+    {
+        "id": 293253,
+        "name": "Jaffa",
+        "region": "Tel Aviv",
+        "lat": 32.05043,
+        "lng": 34.75224,
+        "population": 100000
+    },
+    {
+        "id": 294514,
+        "name": "Kfar Saba",
+        "region": "Central District",
+        "lat": 32.175,
+        "lng": 34.90694,
+        "population": 99410
+    },
+    {
+        "id": 294421,
+        "name": "Lod",
+        "region": "Central District",
+        "lat": 31.95257,
+        "lng": 34.89167,
+        "population": 94189
+    },
+    {
+        "id": 282926,
+        "name": "Modi‘in Makkabbim Re‘ut",
+        "region": "Central District",
+        "lat": 31.89385,
+        "lng": 35.01504,
+        "population": 93277
+    },
+    {
+        "id": 8199378,
+        "name": "Modiin Ilit",
+        "region": "Jerusalem",
+        "lat": 31.93221,
+        "lng": 35.04416,
+        "population": 89627
+    },
+    {
+        "id": 293807,
+        "name": "Ra'anana",
+        "region": "Central District",
+        "lat": 32.1836,
+        "lng": 34.87386,
+        "population": 82964
+    },
+    {
+        "id": 293690,
+        "name": "Rosh Ha‘Ayin",
+        "region": "Central District",
+        "lat": 32.09547,
+        "lng": 34.95444,
+        "population": 79023
+    },
+    {
+        "id": 8184212,
+        "name": "Rahat",
+        "region": "Southern District",
+        "lat": 31.39547,
+        "lng": 34.75699,
+        "population": 77997
+    },
+    {
+        "id": 294098,
+        "name": "Nazareth",
+        "region": "Northern District",
+        "lat": 32.70087,
+        "lng": 35.29719,
+        "population": 77445
+    },
+    {
+        "id": 293768,
+        "name": "Ramla",
+        "region": "Central District",
+        "lat": 31.92624,
+        "lng": 34.8635,
+        "population": 76246
+    },
+    {
+        "id": 293842,
+        "name": "Kiryat Gat",
+        "region": "Southern District",
+        "lat": 31.60998,
+        "lng": 34.76422,
+        "population": 72140
+    },
+    {
+        "id": 294117,
+        "name": "Nahariyya",
+        "region": "Northern District",
+        "lat": 33.00892,
+        "lng": 35.09814,
+        "population": 67877
+    },
+    {
+        "id": 294760,
+        "name": "Hod HaSharon",
+        "region": "Central District",
+        "lat": 32.15912,
+        "lng": 34.89277,
+        "population": 66398
+    },
+    {
+        "id": 295740,
+        "name": "Afula",
+        "region": "Northern District",
+        "lat": 32.60907,
+        "lng": 35.2892,
+        "population": 64452
+    },
+    {
+        "id": 293845,
+        "name": "Qiryat Ata",
+        "region": "Haifa",
+        "lat": 32.81149,
+        "lng": 35.11323,
+        "population": 62585
+    },
+    {
+        "id": 294999,
+        "name": "Givatayim",
+        "region": "Tel Aviv",
+        "lat": 32.07225,
+        "lng": 34.81253,
+        "population": 60644
+    },
+    {
+        "id": 293286,
+        "name": "Umm el Faḥm",
+        "region": "Haifa",
+        "lat": 32.51758,
+        "lng": 35.15397,
+        "population": 60209
+    },
+    {
+        "id": 293222,
+        "name": "Yavné",
+        "region": "Central District",
+        "lat": 31.87808,
+        "lng": 34.73983,
+        "population": 58090
+    },
+    {
+        "id": 294068,
+        "name": "Netivot",
+        "region": "Southern District",
+        "lat": 31.42305,
+        "lng": 34.58911,
+        "population": 56019
+    },
+    {
+        "id": 295277,
+        "name": "Eilat",
+        "region": "Southern District",
+        "lat": 29.55805,
+        "lng": 34.94821,
+        "population": 56004
+    },
+    {
+        "id": 295721,
+        "name": "Acre",
+        "region": "Northern District",
+        "lat": 32.92814,
+        "lng": 35.07647,
+        "population": 52885
+    },
+    {
+        "id": 293322,
+        "name": "Tiberias",
+        "region": "Northern District",
+        "lat": 32.79396,
+        "lng": 35.53152,
+        "population": 52123
+    },
+    {
+        "id": 293831,
+        "name": "Qiryat Motsqin",
+        "region": "Haifa",
+        "lat": 32.83706,
+        "lng": 35.0776,
+        "population": 51488
+    },
+    {
+        "id": 8428480,
+        "name": "El‘ad",
+        "region": "Central District",
+        "lat": 32.05108,
+        "lng": 34.95704,
+        "population": 50846
+    },
+    {
+        "id": 294074,
+        "name": "Ness Ziona",
+        "region": "Central District",
+        "lat": 31.92933,
+        "lng": 34.79868,
+        "population": 50351
+    },
+    {
+        "id": 293783,
+        "name": "Ramat HaSharon",
+        "region": "Tel Aviv",
+        "lat": 32.1459,
+        "lng": 34.83859,
+        "population": 47970
+    },
+    {
+        "id": 294577,
+        "name": "Karmi’el",
+        "region": "Northern District",
+        "lat": 32.90951,
+        "lng": 35.29768,
+        "population": 47941
+    },
+    {
+        "id": 293844,
+        "name": "Qiryat Bialik",
+        "region": "Haifa",
+        "lat": 32.8275,
+        "lng": 35.08583,
+        "population": 47073
+    },
+    {
+        "id": 295130,
+        "name": "Eṭ Ṭaiyiba",
+        "region": "Central District",
+        "lat": 32.26616,
+        "lng": 35.00893,
+        "population": 46870
+    },
+    {
+        "id": 293943,
+        "name": "Pardés H̱anna Karkur",
+        "region": "Haifa",
+        "lat": 32.47408,
+        "lng": 34.97781,
+        "population": 46601
+    },
+    {
+        "id": 294097,
+        "name": "Naẕerat ‘Illit",
+        "region": "Northern District",
+        "lat": 32.70816,
+        "lng": 35.32469,
+        "population": 45805
+    },
+    {
+        "id": 12031840,
+        "name": "Kiryat Ono",
+        "region": "Tel Aviv",
+        "lat": 32.06124,
+        "lng": 34.85618,
+        "population": 45049
+    },
+    {
+        "id": 293539,
+        "name": "Shefar‘am",
+        "region": "Northern District",
+        "lat": 32.80583,
+        "lng": 35.16895,
+        "population": 43858
+    },
+    {
+        "id": 293822,
+        "name": "Qiryat Yam",
+        "region": "Haifa",
+        "lat": 32.84966,
+        "lng": 35.06973,
+        "population": 41957
+    },
+    {
+        "id": 293962,
+        "name": "Or Yehuda",
+        "region": "Tel Aviv",
+        "lat": 32.02936,
+        "lng": 34.85281,
+        "population": 41130
+    },
+    {
+        "id": 293992,
+        "name": "Ofaqim",
+        "region": "Southern District",
+        "lat": 31.3141,
+        "lng": 34.62025,
+        "population": 39893
+    },
+    {
+        "id": 295328,
+        "name": "Dimona",
+        "region": "Southern District",
+        "lat": 31.07079,
+        "lng": 35.03269,
+        "population": 39590
+    },
+    {
+        "id": 293100,
+        "name": "Safed",
+        "region": "Northern District",
+        "lat": 32.96465,
+        "lng": 35.496,
+        "population": 38687
+    },
+    {
+        "id": 295525,
+        "name": "Be’er Ya‘aqov",
+        "region": "Central District",
+        "lat": 31.94433,
+        "lng": 34.83902,
+        "population": 37491
+    },
+    {
+        "id": 293619,
+        "name": "Sderot",
+        "region": "Southern District",
+        "lat": 31.525,
+        "lng": 34.59693,
+        "population": 37239
+    },
+    {
+        "id": 293426,
+        "name": "Tamra",
+        "region": "Northern District",
+        "lat": 32.85301,
+        "lng": 35.1987,
+        "population": 36918
+    },
+    {
+        "id": 293655,
+        "name": "Sakhnīn",
+        "region": "Northern District",
+        "lat": 32.86506,
+        "lng": 35.29771,
+        "population": 33728
+    },
+    {
+        "id": 293308,
+        "name": "Tirat Karmel",
+        "region": "Haifa",
+        "lat": 32.76025,
+        "lng": 34.96874,
+        "population": 32167
+    },
+    {
+        "id": 295064,
+        "name": "Gedera",
+        "region": "Central District",
+        "lat": 31.81456,
+        "lng": 34.77998,
+        "population": 31389
+    },
+    {
+        "id": 295571,
+        "name": "Bāqa el Gharbīya",
+        "region": "Haifa",
+        "lat": 32.42061,
+        "lng": 35.04266,
+        "population": 31275
+    },
+    {
+        "id": 294492,
+        "name": "Kfar Yona",
+        "region": "Central District",
+        "lat": 32.31517,
+        "lng": 34.9357,
+        "population": 29820
+    },
+    {
+        "id": 295657,
+        "name": "Arad",
+        "region": "Southern District",
+        "lat": 31.25882,
+        "lng": 35.21282,
+        "population": 29504
+    },
+    {
+        "id": 294981,
+        "name": "Giv'at Shmuel",
+        "region": "Tel Aviv",
+        "lat": 32.07817,
+        "lng": 34.84858,
+        "population": 29405
+    },
+    {
+        "id": 10227184,
+        "name": "Yehud-Monosson",
+        "region": "Tel Aviv",
+        "lat": 32.0284,
+        "lng": 34.8796,
+        "population": 29312
+    },
+    {
+        "id": 294210,
+        "name": "Migdal Ha‘Emeq",
+        "region": "Northern District",
+        "lat": 32.67788,
+        "lng": 35.24158,
+        "population": 28430
+    },
+    {
+        "id": 294604,
+        "name": "Kafr Qāsim",
+        "region": "Central District",
+        "lat": 32.11443,
+        "lng": 34.9756,
+        "population": 27996
+    },
+    {
+        "id": 293835,
+        "name": "Qiryat Mal’akhi",
+        "region": "Southern District",
+        "lat": 31.72888,
+        "lng": 34.74632,
+        "population": 27959
+    },
+    {
+        "id": 295127,
+        "name": "Eṭ Ṭīra",
+        "region": "Central District",
+        "lat": 32.2341,
+        "lng": 34.95023,
+        "population": 27680
+    },
+    {
+        "id": 294245,
+        "name": "Mevasseret Tsiyyon",
+        "region": "Jerusalem",
+        "lat": 31.80186,
+        "lng": 35.15072,
+        "population": 26534
+    },
+    {
+        "id": 293969,
+        "name": "Or Akiva",
+        "region": "Haifa",
+        "lat": 32.5064,
+        "lng": 34.92087,
+        "population": 25922
+    },
+    {
+        "id": 293207,
+        "name": "Yehud Monosson",
+        "region": "Central District",
+        "lat": 32.0325,
+        "lng": 34.8884,
+        "population": 25600
+    },
+    {
+        "id": 295089,
+        "name": "Ganei Tikva",
+        "region": "Central District",
+        "lat": 32.05971,
+        "lng": 34.8732,
+        "population": 25488
+    },
+    {
+        "id": 295080,
+        "name": "Gan Yavne",
+        "region": "Central District",
+        "lat": 31.78737,
+        "lng": 34.70659,
+        "population": 25144
+    },
+    {
+        "id": 295365,
+        "name": "Daliyat al Karmel",
+        "region": "Haifa",
+        "lat": 32.69383,
+        "lng": 35.04686,
+        "population": 25000
+    },
+    {
+        "id": 293837,
+        "name": "Qiryat HaYovel",
+        "region": "Jerusalem",
+        "lat": 31.76667,
+        "lng": 35.16667,
+        "population": 25000
+    },
+    {
+        "id": 293153,
+        "name": "Yoqne‘am ‘Illit",
+        "region": "Northern District",
+        "lat": 32.64661,
+        "lng": 35.09202,
+        "population": 24928
+    },
+    {
+        "id": 295655,
+        "name": "‘Ara-‘Ar‘ara",
+        "region": "Haifa",
+        "lat": 32.49565,
+        "lng": 35.09261,
+        "population": 24904
+    },
+    {
+        "id": 8310136,
+        "name": "Tel Sheva‘",
+        "region": "Southern District",
+        "lat": 31.24864,
+        "lng": 34.86007,
+        "population": 24782
+    },
+    {
+        "id": 293825,
+        "name": "Qiryat Shmona",
+        "region": "Northern District",
+        "lat": 33.21204,
+        "lng": 35.57044,
+        "population": 24437
+    },
+    {
+        "id": 293067,
+        "name": "Zikhron Ya‘aqov",
+        "region": "Haifa",
+        "lat": 32.56883,
+        "lng": 34.95427,
+        "population": 24201
+    },
+    {
+        "id": 8428283,
+        "name": "Shoham",
+        "region": "Central District",
+        "lat": 31.9987,
+        "lng": 34.94624,
+        "population": 23592
+    },
+    {
+        "id": 294387,
+        "name": "Maghār",
+        "region": "Northern District",
+        "lat": 32.88888,
+        "lng": 35.40831,
+        "population": 23486
+    },
+    {
+        "id": 293420,
+        "name": "maalot Tarshīhā",
+        "region": "Northern District",
+        "lat": 33.01667,
+        "lng": 35.26667,
+        "population": 23042
+    },
+    {
+        "id": 8374209,
+        "name": "H̱ura",
+        "region": "Southern District",
+        "lat": 31.30084,
+        "lng": 34.93606,
+        "population": 23034
+    },
+    {
+        "id": 294078,
+        "name": "Nesher",
+        "region": "Haifa",
+        "lat": 32.76622,
+        "lng": 35.04425,
+        "population": 22896
+    },
+    {
+        "id": 294610,
+        "name": "Kafr Kannā",
+        "region": "Northern District",
+        "lat": 32.7466,
+        "lng": 35.34242,
+        "population": 22751
+    },
+    {
+        "id": 11524864,
+        "name": "Kadima Zoran",
+        "region": "Central District",
+        "lat": 32.27782,
+        "lng": 34.9194,
+        "population": 22655
+    },
+    {
+        "id": 294608,
+        "name": "Kafr Mandā",
+        "region": "Northern District",
+        "lat": 32.81095,
+        "lng": 35.26071,
+        "population": 22268
+    },
+    {
+        "id": 8374203,
+        "name": "‘Ar‘ara BaNegev",
+        "region": "Southern District",
+        "lat": 31.16046,
+        "lng": 35.02274,
+        "population": 21259
+    },
+    {
+        "id": 8374220,
+        "name": "Kuseifa",
+        "region": "Southern District",
+        "lat": 31.24535,
+        "lng": 35.0931,
+        "population": 21079
+    },
+    {
+        "id": 294605,
+        "name": "Kafr Qari‘",
+        "region": "Haifa",
+        "lat": 32.50527,
+        "lng": 35.05215,
+        "population": 21066
+    },
+    {
+        "id": 295174,
+        "name": "Ar Rayna",
+        "region": "Northern District",
+        "lat": 32.7222,
+        "lng": 35.3156,
+        "population": 20653
+    },
+    {
+        "id": 8199394,
+        "name": "Ariel",
+        "region": "Judea and Samaria Area",
+        "lat": 32.1065,
+        "lng": 35.18449,
+        "population": 20540
+    },
+    {
+        "id": 295435,
+        "name": "Bet She’an",
+        "region": "Northern District",
+        "lat": 32.49658,
+        "lng": 35.4965,
+        "population": 20252
+    },
+    {
+        "id": 294622,
+        "name": "Judeida Makr",
+        "region": "Northern District",
+        "lat": 32.9282,
+        "lng": 35.15705,
+        "population": 20231
+    },
+    {
+        "id": 8184241,
+        "name": "Laqiyya",
+        "region": "Southern District",
+        "lat": 31.3185,
+        "lng": 34.8589,
+        "population": 19362
+    },
+    {
+        "id": 293823,
+        "name": "Qiryat Tiv‘on",
+        "region": "Haifa",
+        "lat": 32.71217,
+        "lng": 35.12505,
+        "population": 19158
+    },
+    {
+        "id": 293254,
+        "name": "Yāfā",
+        "region": "Northern District",
+        "lat": 32.68923,
+        "lng": 35.27832,
+        "population": 18837
+    },
+    {
+        "id": 293181,
+        "name": "Yirkā",
+        "region": "Northern District",
+        "lat": 32.95435,
+        "lng": 35.21197,
+        "population": 17171
+    },
+    {
+        "id": 293896,
+        "name": "Qalansuwa",
+        "region": "Central District",
+        "lat": 32.28493,
+        "lng": 34.98106,
+        "population": 16898
+    },
+    {
+        "id": 8184332,
+        "name": "Segev Shalom",
+        "region": "Southern District",
+        "lat": 31.19918,
+        "lng": 34.83956,
+        "population": 16736
+    },
+    {
+        "id": 294303,
+        "name": "Mazkeret Batya",
+        "region": "Central District",
+        "lat": 31.85357,
+        "lng": 34.84646,
+        "population": 16334
+    },
+    {
+        "id": 12156557,
+        "name": "Binyamina-Giv'at Ada",
+        "region": "Haifa",
+        "lat": 32.51824,
+        "lng": 34.95398,
+        "population": 15847
+    },
+    {
+        "id": 294626,
+        "name": "Jisr ez Zarqā",
+        "region": "Haifa",
+        "lat": 32.53684,
+        "lng": 34.9127,
+        "population": 15824
+    },
+    {
+        "id": 295410,
+        "name": "Binyamina-Giv‘at ‘Ada",
+        "region": "Haifa",
+        "lat": 32.52305,
+        "lng": 34.94487,
+        "population": 15566
+    },
+    {
+        "id": 281187,
+        "name": "Giv`at H̱ananya",
+        "region": "Jerusalem",
+        "lat": 31.76667,
+        "lng": 35.23333,
+        "population": 15500
+    },
+    {
+        "id": 11979755,
+        "name": "Maale Iron",
+        "region": "Northern District",
+        "lat": 32.55382,
+        "lng": 35.18412,
+        "population": 15486
+    },
+    {
+        "id": 294373,
+        "name": "Majd el Kurūm",
+        "region": "Northern District",
+        "lat": 32.92094,
+        "lng": 35.25438,
+        "population": 15429
+    },
+    {
+        "id": 295122,
+        "name": "Even Yehuda",
+        "region": "Central District",
+        "lat": 32.27162,
+        "lng": 34.88563,
+        "population": 15370
+    },
+    {
+        "id": 293721,
+        "name": "Rekhasim",
+        "region": "Haifa",
+        "lat": 32.74958,
+        "lng": 35.10057,
+        "population": 15086
+    }
+]

@@ -1,0 +1,714 @@
+[
+    {
+        "id": 170063,
+        "name": "Aleppo",
+        "region": "Aleppo",
+        "lat": 36.20124,
+        "lng": 37.16117,
+        "population": 2098210
+    },
+    {
+        "id": 170654,
+        "name": "Damascus",
+        "region": "Damascus Governorate",
+        "lat": 33.5102,
+        "lng": 36.29128,
+        "population": 1569394
+    },
+    {
+        "id": 169577,
+        "name": "Homs",
+        "region": "Homs",
+        "lat": 34.72405,
+        "lng": 36.72559,
+        "population": 775404
+    },
+    {
+        "id": 173576,
+        "name": "Latakia",
+        "region": "Latakia",
+        "lat": 35.53125,
+        "lng": 35.79088,
+        "population": 709000
+    },
+    {
+        "id": 172955,
+        "name": "Ar Raqqah",
+        "region": "Raqqa",
+        "lat": 35.95283,
+        "lng": 39.00788,
+        "population": 531952
+    },
+    {
+        "id": 170017,
+        "name": "Ḩamāh",
+        "region": "Hama",
+        "lat": 35.13179,
+        "lng": 36.75783,
+        "population": 460602
+    },
+    {
+        "id": 163345,
+        "name": "Ţarţūs",
+        "region": "Tartus",
+        "lat": 34.88902,
+        "lng": 35.88659,
+        "population": 458327
+    },
+    {
+        "id": 173811,
+        "name": "Al Ḩasakah",
+        "region": "Al-Hasakah",
+        "lat": 36.50237,
+        "lng": 40.74772,
+        "population": 422445
+    },
+    {
+        "id": 170794,
+        "name": "Deir ez-Zor",
+        "region": "Deir ez-Zor",
+        "lat": 35.33588,
+        "lng": 40.14084,
+        "population": 271800
+    },
+    {
+        "id": 173377,
+        "name": "Al Qāmishlī",
+        "region": "Al-Hasakah",
+        "lat": 37.05215,
+        "lng": 41.23142,
+        "population": 184231
+    },
+    {
+        "id": 174018,
+        "name": "Al Bāb",
+        "region": "Aleppo",
+        "lat": 36.37051,
+        "lng": 37.5157,
+        "population": 130745
+    },
+    {
+        "id": 169389,
+        "name": "Idlib",
+        "region": "Idlib",
+        "lat": 35.93062,
+        "lng": 36.63393,
+        "population": 128840
+    },
+    {
+        "id": 170592,
+        "name": "Dūmā",
+        "region": "Rif-dimashq",
+        "lat": 33.57175,
+        "lng": 36.4027,
+        "population": 111864
+    },
+    {
+        "id": 166716,
+        "name": "al-Yarmūk",
+        "region": "Damascus Governorate",
+        "lat": 33.4699,
+        "lng": 36.3018,
+        "population": 99999
+    },
+    {
+        "id": 169174,
+        "name": "Jaramānā",
+        "region": "Rif-dimashq",
+        "lat": 33.4862,
+        "lng": 36.34614,
+        "population": 99999
+    },
+    {
+        "id": 167357,
+        "name": "Manbij",
+        "region": "Aleppo",
+        "lat": 36.52815,
+        "lng": 37.95495,
+        "population": 99497
+    },
+    {
+        "id": 170905,
+        "name": "Dar‘ā",
+        "region": "Daraa",
+        "lat": 32.61889,
+        "lng": 36.10213,
+        "population": 97969
+    },
+    {
+        "id": 164947,
+        "name": "As Salamīyah",
+        "region": "Hama",
+        "lat": 35.01127,
+        "lng": 37.05324,
+        "population": 94887
+    },
+    {
+        "id": 172374,
+        "name": "Al-Tabqa",
+        "region": "Raqqa",
+        "lat": 35.83758,
+        "lng": 38.54828,
+        "population": 87880
+    },
+    {
+        "id": 170892,
+        "name": "Dārayyā",
+        "region": "Rif-dimashq",
+        "lat": 33.45835,
+        "lng": 36.23256,
+        "population": 71596
+    },
+    {
+        "id": 172082,
+        "name": "I‘zāz",
+        "region": "Aleppo",
+        "lat": 36.58742,
+        "lng": 37.04661,
+        "population": 66138
+    },
+    {
+        "id": 169304,
+        "name": "Jablah",
+        "region": "Latakia",
+        "lat": 35.36211,
+        "lng": 35.92759,
+        "population": 65915
+    },
+    {
+        "id": 172503,
+        "name": "As Safīrah",
+        "region": "Aleppo",
+        "lat": 36.07696,
+        "lng": 37.37251,
+        "population": 63708
+    },
+    {
+        "id": 172408,
+        "name": "As-Suwayda",
+        "region": "Suwayda",
+        "lat": 32.70896,
+        "lng": 36.56951,
+        "population": 59052
+    },
+    {
+        "id": 174448,
+        "name": "Ālbū Kamāl",
+        "region": "Deir ez-Zor",
+        "lat": 34.45226,
+        "lng": 40.91854,
+        "population": 57572
+    },
+    {
+        "id": 172349,
+        "name": "At Tall",
+        "region": "Rif-dimashq",
+        "lat": 33.61033,
+        "lng": 36.3107,
+        "population": 55561
+    },
+    {
+        "id": 173480,
+        "name": "Al Mayādīn",
+        "region": "Deir ez-Zor",
+        "lat": 35.01982,
+        "lng": 40.45154,
+        "population": 54534
+    },
+    {
+        "id": 172946,
+        "name": "Ar Rastan",
+        "region": "Homs",
+        "lat": 34.92667,
+        "lng": 36.73241,
+        "population": 53152
+    },
+    {
+        "id": 166833,
+        "name": "Muadamiyat al-Sham",
+        "region": "Rif-dimashq",
+        "lat": 33.46466,
+        "lng": 36.20175,
+        "population": 52738
+    },
+    {
+        "id": 166285,
+        "name": "Kabbasin",
+        "region": "Aleppo",
+        "lat": 36.43274,
+        "lng": 37.56857,
+        "population": 51230
+    },
+    {
+        "id": 163808,
+        "name": "Tadmur",
+        "region": "Homs",
+        "lat": 34.5624,
+        "lng": 38.28402,
+        "population": 51015
+    },
+    {
+        "id": 171998,
+        "name": "Babīlā",
+        "region": "Rif-dimashq",
+        "lat": 33.47101,
+        "lng": 36.33076,
+        "population": 50880
+    },
+    {
+        "id": 172256,
+        "name": "‘Ayn al ‘Arab",
+        "region": "Aleppo",
+        "lat": 36.89095,
+        "lng": 38.35347,
+        "population": 50000
+    },
+    {
+        "id": 173193,
+        "name": "An Nabk",
+        "region": "Rif-dimashq",
+        "lat": 34.02403,
+        "lng": 36.72848,
+        "population": 49372
+    },
+    {
+        "id": 168325,
+        "name": "Khān Shaykhūn",
+        "region": "Idlib",
+        "lat": 35.44208,
+        "lng": 36.65095,
+        "population": 48975
+    },
+    {
+        "id": 174186,
+        "name": "‘Afrīn",
+        "region": "Aleppo",
+        "lat": 36.51194,
+        "lng": 36.86954,
+        "population": 48693
+    },
+    {
+        "id": 166365,
+        "name": "Nawá",
+        "region": "Daraa",
+        "lat": 32.88646,
+        "lng": 36.03905,
+        "population": 47066
+    },
+    {
+        "id": 168661,
+        "name": "Kafranbel",
+        "region": "Idlib",
+        "lat": 35.61376,
+        "lng": 36.56449,
+        "population": 45652
+    },
+    {
+        "id": 169372,
+        "name": "‘Irbīn",
+        "region": "Rif-dimashq",
+        "lat": 33.53719,
+        "lng": 36.36635,
+        "population": 42474
+    },
+    {
+        "id": 173322,
+        "name": "Al Quşayr",
+        "region": "Homs",
+        "lat": 34.5078,
+        "lng": 36.58029,
+        "population": 41062
+    },
+    {
+        "id": 162627,
+        "name": "Yabrūd",
+        "region": "Rif-dimashq",
+        "lat": 33.96921,
+        "lng": 36.65729,
+        "population": 40502
+    },
+    {
+        "id": 169023,
+        "name": "Jisr ash Shughūr",
+        "region": "Idlib",
+        "lat": 35.81418,
+        "lng": 36.31983,
+        "population": 39311
+    },
+    {
+        "id": 171830,
+        "name": "Bāniyās",
+        "region": "Tartus",
+        "lat": 35.18188,
+        "lng": 35.94871,
+        "population": 39066
+    },
+    {
+        "id": 163779,
+        "name": "Tallbīsah",
+        "region": "Homs",
+        "lat": 34.84072,
+        "lng": 36.73092,
+        "population": 38491
+    },
+    {
+        "id": 169897,
+        "name": "Ḩarastā",
+        "region": "Rif-dimashq",
+        "lat": 33.55869,
+        "lng": 36.36515,
+        "population": 37348
+    },
+    {
+        "id": 173334,
+        "name": "Al Qunayţirah",
+        "region": "Quneitra",
+        "lat": 33.12595,
+        "lng": 35.82461,
+        "population": 36143
+    },
+    {
+        "id": 163811,
+        "name": "Tādif",
+        "region": "Aleppo",
+        "lat": 36.34814,
+        "lng": 37.5309,
+        "population": 34670
+    },
+    {
+        "id": 164816,
+        "name": "Saraqib",
+        "region": "Idlib",
+        "lat": 35.86447,
+        "lng": 36.80591,
+        "population": 34231
+    },
+    {
+        "id": 169113,
+        "name": "Jayrūd",
+        "region": "Rif-dimashq",
+        "lat": 33.80709,
+        "lng": 36.73861,
+        "population": 32352
+    },
+    {
+        "id": 167046,
+        "name": "Maşyāf",
+        "region": "Hama",
+        "lat": 35.0653,
+        "lng": 36.3406,
+        "population": 32262
+    },
+    {
+        "id": 167605,
+        "name": "Ma‘arratmişrīn",
+        "region": "Idlib",
+        "lat": 36.01152,
+        "lng": 36.67183,
+        "population": 32163
+    },
+    {
+        "id": 173361,
+        "name": "Al Qaryatayn",
+        "region": "Homs",
+        "lat": 34.22956,
+        "lng": 37.24066,
+        "population": 31748
+    },
+    {
+        "id": 164898,
+        "name": "Salqīn",
+        "region": "Idlib",
+        "lat": 36.13865,
+        "lng": 36.45244,
+        "population": 31608
+    },
+    {
+        "id": 163806,
+        "name": "Ţafas",
+        "region": "Daraa",
+        "lat": 32.73709,
+        "lng": 36.06654,
+        "population": 31249
+    },
+    {
+        "id": 163915,
+        "name": "Şūrān",
+        "region": "Hama",
+        "lat": 35.29193,
+        "lng": 36.74848,
+        "population": 30716
+    },
+    {
+        "id": 164994,
+        "name": "Şaḩnāyā",
+        "region": "Rif-dimashq",
+        "lat": 33.42531,
+        "lng": 36.22552,
+        "population": 30519
+    },
+    {
+        "id": 171451,
+        "name": "Binnish",
+        "region": "Idlib",
+        "lat": 35.95664,
+        "lng": 36.7138,
+        "population": 30354
+    },
+    {
+        "id": 165997,
+        "name": "Jāsim",
+        "region": "Daraa",
+        "lat": 32.99125,
+        "lng": 36.06093,
+        "population": 30283
+    },
+    {
+        "id": 171147,
+        "name": "Burj Islām",
+        "region": "Latakia",
+        "lat": 35.67396,
+        "lng": 35.80259,
+        "population": 30000
+    },
+    {
+        "id": 163533,
+        "name": "Tallkalakh",
+        "region": "Homs",
+        "lat": 34.66842,
+        "lng": 36.25995,
+        "population": 29754
+    },
+    {
+        "id": 172059,
+        "name": "Az Zabadānī",
+        "region": "Rif-dimashq",
+        "lat": 33.72488,
+        "lng": 36.1005,
+        "population": 29549
+    },
+    {
+        "id": 170959,
+        "name": "Dā‘il",
+        "region": "Daraa",
+        "lat": 32.75355,
+        "lng": 36.13076,
+        "population": 29408
+    },
+    {
+        "id": 163270,
+        "name": "Ţayyibat al Imām",
+        "region": "Hama",
+        "lat": 35.26592,
+        "lng": 36.71219,
+        "population": 29259
+    },
+    {
+        "id": 174506,
+        "name": "Hajīn",
+        "region": "Deir ez-Zor",
+        "lat": 34.69508,
+        "lng": 40.83138,
+        "population": 29237
+    },
+    {
+        "id": 169375,
+        "name": "Inkhil",
+        "region": "Daraa",
+        "lat": 33.01809,
+        "lng": 36.12828,
+        "population": 29076
+    },
+    {
+        "id": 170785,
+        "name": "Dayr Ḩāfir",
+        "region": "Aleppo",
+        "lat": 36.15694,
+        "lng": 37.70778,
+        "population": 28905
+    },
+    {
+        "id": 165060,
+        "name": "Şāfītā",
+        "region": "Tartus",
+        "lat": 34.82099,
+        "lng": 36.11773,
+        "population": 27815
+    },
+    {
+        "id": 173230,
+        "name": "‘Āmūdā",
+        "region": "Al-Hasakah",
+        "lat": 37.10417,
+        "lng": 40.93,
+        "population": 26821
+    },
+    {
+        "id": 173530,
+        "name": "Al Mālikīyah",
+        "region": "Al-Hasakah",
+        "lat": 37.17701,
+        "lng": 42.14006,
+        "population": 26311
+    },
+    {
+        "id": 164328,
+        "name": "Shaykh Miskīn",
+        "region": "Daraa",
+        "lat": 32.82666,
+        "lng": 36.16052,
+        "population": 25920
+    },
+    {
+        "id": 172469,
+        "name": "Aş Şanamayn",
+        "region": "Daraa",
+        "lat": 33.07186,
+        "lng": 36.18316,
+        "population": 25702
+    },
+    {
+        "id": 163476,
+        "name": "Tall Rif‘at",
+        "region": "Aleppo",
+        "lat": 36.47229,
+        "lng": 37.09471,
+        "population": 25658
+    },
+    {
+        "id": 171694,
+        "name": "Batabo",
+        "region": "Aleppo",
+        "lat": 36.13447,
+        "lng": 36.73979,
+        "population": 25560
+    },
+    {
+        "id": 166331,
+        "name": "Nubl",
+        "region": "Aleppo",
+        "lat": 36.37867,
+        "lng": 36.99294,
+        "population": 25546
+    },
+    {
+        "id": 164025,
+        "name": "Subaykhān",
+        "region": "Deir ez-Zor",
+        "lat": 34.85305,
+        "lng": 40.59987,
+        "population": 25514
+    },
+    {
+        "id": 169179,
+        "name": "Jarābulus",
+        "region": "Aleppo",
+        "lat": 36.8175,
+        "lng": 38.01111,
+        "population": 24997
+    },
+    {
+        "id": 173819,
+        "name": "Al Ḩirāk",
+        "region": "Daraa",
+        "lat": 32.74948,
+        "lng": 36.30582,
+        "population": 23784
+    },
+    {
+        "id": 173598,
+        "name": "Al Kiswah",
+        "region": "Rif-dimashq",
+        "lat": 33.3581,
+        "lng": 36.2419,
+        "population": 23526
+    },
+    {
+        "id": 170044,
+        "name": "Ḩalfāyā",
+        "region": "Hama",
+        "lat": 35.26014,
+        "lng": 36.60581,
+        "population": 23403
+    },
+    {
+        "id": 168629,
+        "name": "Kafr Takhārīm",
+        "region": "Idlib",
+        "lat": 36.1168,
+        "lng": 36.51522,
+        "population": 22436
+    },
+    {
+        "id": 174259,
+        "name": "Ad Dānā",
+        "region": "Idlib",
+        "lat": 36.21254,
+        "lng": 36.76998,
+        "population": 21987
+    },
+    {
+        "id": 168620,
+        "name": "Kafr Zaytā",
+        "region": "Hama",
+        "lat": 35.37425,
+        "lng": 36.6033,
+        "population": 21845
+    },
+    {
+        "id": 168668,
+        "name": "Kafr Lāhā",
+        "region": "Homs",
+        "lat": 34.89469,
+        "lng": 36.49582,
+        "population": 21819
+    },
+    {
+        "id": 170887,
+        "name": "Ad Darbāsīyah",
+        "region": "Al-Hasakah",
+        "lat": 37.07279,
+        "lng": 40.65199,
+        "population": 21481
+    },
+    {
+        "id": 166111,
+        "name": "Qārah",
+        "region": "Rif-dimashq",
+        "lat": 34.15558,
+        "lng": 36.74284,
+        "population": 20656
+    },
+    {
+        "id": 162560,
+        "name": "Zākīyah",
+        "region": "Rif-dimashq",
+        "lat": 33.33406,
+        "lng": 36.1588,
+        "population": 18553
+    },
+    {
+        "id": 165929,
+        "name": "Qaţanā",
+        "region": "Rif-dimashq",
+        "lat": 33.43757,
+        "lng": 36.07888,
+        "population": 18511
+    },
+    {
+        "id": 166742,
+        "name": "Maharda",
+        "region": "Hama",
+        "lat": 35.2479,
+        "lng": 36.5725,
+        "population": 17578
+    },
+    {
+        "id": 173312,
+        "name": "Al Quţayfah",
+        "region": "Rif-dimashq",
+        "lat": 33.73848,
+        "lng": 36.60071,
+        "population": 16118
+    }
+]

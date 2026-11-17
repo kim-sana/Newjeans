@@ -1,0 +1,202 @@
+[
+    {
+        "id": 933773,
+        "name": "Gaborone",
+        "region": "Gaborone",
+        "lat": -24.65451,
+        "lng": 25.90859,
+        "population": 246325
+    },
+    {
+        "id": 933778,
+        "name": "Francistown",
+        "region": "City of Francistown",
+        "lat": -21.17,
+        "lng": 27.50778,
+        "population": 103417
+    },
+    {
+        "id": 933331,
+        "name": "Mogoditshane",
+        "region": "Kweneng",
+        "lat": -24.62694,
+        "lng": 25.86556,
+        "population": 88004
+    },
+    {
+        "id": 933366,
+        "name": "Maun",
+        "region": "North-West",
+        "lat": -19.98333,
+        "lng": 23.41667,
+        "population": 85350
+    },
+    {
+        "id": 933305,
+        "name": "Molepolole",
+        "region": "Kweneng",
+        "lat": -24.40659,
+        "lng": 25.49508,
+        "population": 74861
+    },
+    {
+        "id": 933088,
+        "name": "Serowe",
+        "region": "Central",
+        "lat": -22.38754,
+        "lng": 26.71077,
+        "population": 55676
+    },
+    {
+        "id": 933004,
+        "name": "Tlokweng",
+        "region": "South-East",
+        "lat": -24.66861,
+        "lng": 25.97111,
+        "population": 55508
+    },
+    {
+        "id": 933182,
+        "name": "Palapye",
+        "region": "Central",
+        "lat": -22.54605,
+        "lng": 27.12507,
+        "population": 52636
+    },
+    {
+        "id": 933340,
+        "name": "Mochudi",
+        "region": "Kgatleng",
+        "lat": -24.41667,
+        "lng": 26.15,
+        "population": 50321
+    },
+    {
+        "id": 933471,
+        "name": "Mahalapye",
+        "region": "Central",
+        "lat": -23.10407,
+        "lng": 26.81421,
+        "population": 48431
+    },
+    {
+        "id": 933685,
+        "name": "Kanye",
+        "region": "Ngwaketsi",
+        "lat": -24.96675,
+        "lng": 25.33273,
+        "population": 48028
+    },
+    {
+        "id": 933099,
+        "name": "Selebi-Phikwe",
+        "region": "Selibe Phikwe",
+        "lat": -21.97895,
+        "lng": 27.84296,
+        "population": 42488
+    },
+    {
+        "id": 933535,
+        "name": "Letlhakane",
+        "region": "Central",
+        "lat": -21.41494,
+        "lng": 25.59263,
+        "population": 36404
+    },
+    {
+        "id": 933141,
+        "name": "Ramotswa",
+        "region": "South-East",
+        "lat": -24.87158,
+        "lng": 25.86989,
+        "population": 33271
+    },
+    {
+        "id": 933521,
+        "name": "Lobatse",
+        "region": "Lobatse",
+        "lat": -25.22435,
+        "lng": 25.67728,
+        "population": 29772
+    },
+    {
+        "id": 1106213,
+        "name": "Mmopone",
+        "region": "Kweneng",
+        "lat": -24.56694,
+        "lng": 25.87417,
+        "population": 25460
+    },
+    {
+        "id": 933018,
+        "name": "Thamaga",
+        "region": "Kweneng",
+        "lat": -24.67014,
+        "lng": 25.53975,
+        "population": 25300
+    },
+    {
+        "id": 933271,
+        "name": "Mosopa",
+        "region": "Ngwaketsi",
+        "lat": -24.7718,
+        "lng": 25.42156,
+        "population": 23858
+    },
+    {
+        "id": 933000,
+        "name": "Tonota",
+        "region": "Central",
+        "lat": -21.44236,
+        "lng": 27.46153,
+        "population": 23296
+    },
+    {
+        "id": 933885,
+        "name": "Bobonong",
+        "region": "Central",
+        "lat": -21.96554,
+        "lng": 28.43625,
+        "population": 21216
+    },
+    {
+        "id": 933777,
+        "name": "Gabane",
+        "region": "Kweneng",
+        "lat": -24.66667,
+        "lng": 25.78222,
+        "population": 20027
+    },
+    {
+        "id": 933759,
+        "name": "Ghanzi",
+        "region": "Ghanzi",
+        "lat": -21.69785,
+        "lng": 21.64581,
+        "population": 19012
+    },
+    {
+        "id": 8308627,
+        "name": "Jwaneng",
+        "region": "Jwaneng",
+        "lat": -24.60167,
+        "lng": 24.72806,
+        "population": 18784
+    },
+    {
+        "id": 7573818,
+        "name": "Tutume",
+        "region": "Central",
+        "lat": -20.4943,
+        "lng": 27.03479,
+        "population": 18582
+    },
+    {
+        "id": 933719,
+        "name": "Janeng",
+        "region": "South-East",
+        "lat": -25.41667,
+        "lng": 25.55,
+        "population": 16853
+    }
+]

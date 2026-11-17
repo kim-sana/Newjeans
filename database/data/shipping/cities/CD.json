@@ -1,0 +1,914 @@
+[
+    {
+        "id": 2314302,
+        "name": "Kinshasa",
+        "region": "Kinshasa",
+        "lat": -4.32758,
+        "lng": 15.31357,
+        "population": 16000000
+    },
+    {
+        "id": 922704,
+        "name": "Lubumbashi",
+        "region": "Haut-Katanga",
+        "lat": -11.66089,
+        "lng": 27.47938,
+        "population": 2221925
+    },
+    {
+        "id": 209228,
+        "name": "Mbuji-Mayi",
+        "region": "East Kasai",
+        "lat": -6.13603,
+        "lng": 23.58979,
+        "population": 2101332
+    },
+    {
+        "id": 212730,
+        "name": "Kisangani",
+        "region": "Tshopo",
+        "lat": 0.51528,
+        "lng": 25.19099,
+        "population": 1602144
+    },
+    {
+        "id": 214481,
+        "name": "Kananga",
+        "region": "Kasai-Central",
+        "lat": -5.89624,
+        "lng": 22.41659,
+        "population": 1271704
+    },
+    {
+        "id": 217831,
+        "name": "Bukavu",
+        "region": "South Kivu",
+        "lat": -2.49077,
+        "lng": 28.84281,
+        "population": 816811
+    },
+    {
+        "id": 922773,
+        "name": "Kolwezi",
+        "region": "Lualaba",
+        "lat": -10.71484,
+        "lng": 25.46674,
+        "population": 790248
+    },
+    {
+        "id": 922741,
+        "name": "Likasi",
+        "region": "Haut-Katanga",
+        "lat": -10.98303,
+        "lng": 26.7384,
+        "population": 635768
+    },
+    {
+        "id": 204953,
+        "name": "Tshikapa",
+        "region": "Kasai",
+        "lat": -6.41621,
+        "lng": 20.79995,
+        "population": 634529
+    },
+    {
+        "id": 2314705,
+        "name": "Kikwit",
+        "region": "Kwilu",
+        "lat": -5.04098,
+        "lng": 18.81619,
+        "population": 509367
+    },
+    {
+        "id": 2593460,
+        "name": "Masina",
+        "region": "Kinshasa",
+        "lat": -4.38361,
+        "lng": 15.39139,
+        "population": 485167
+    },
+    {
+        "id": 2312895,
+        "name": "Mbandaka",
+        "region": "Équateur",
+        "lat": 0.04865,
+        "lng": 18.26034,
+        "population": 455011
+    },
+    {
+        "id": 2313002,
+        "name": "Matadi",
+        "region": "Bas-Congo",
+        "lat": -5.83861,
+        "lng": 13.46306,
+        "population": 425662
+    },
+    {
+        "id": 204405,
+        "name": "Uvira",
+        "region": "South Kivu",
+        "lat": -3.39534,
+        "lng": 29.13779,
+        "population": 407092
+    },
+    {
+        "id": 217695,
+        "name": "Bunia",
+        "region": "Ituri",
+        "lat": 1.55941,
+        "lng": 30.25224,
+        "population": 399282
+    },
+    {
+        "id": 2316702,
+        "name": "Boma",
+        "region": "Bas-Congo",
+        "lat": -5.85098,
+        "lng": 13.05364,
+        "population": 297009
+    },
+    {
+        "id": 8461573,
+        "name": "Mwene",
+        "region": "Lualaba",
+        "lat": -9.81697,
+        "lng": 22.87023,
+        "population": 295683
+    },
+    {
+        "id": 217562,
+        "name": "Butembo",
+        "region": "North Kivu",
+        "lat": 0.14164,
+        "lng": 29.29117,
+        "population": 286242
+    },
+    {
+        "id": 215771,
+        "name": "Isiro",
+        "region": "Haut-Uele",
+        "lat": 2.77391,
+        "lng": 27.61603,
+        "population": 255409
+    },
+    {
+        "id": 212902,
+        "name": "Kindu",
+        "region": "Maniema",
+        "lat": -2.94373,
+        "lng": 25.92237,
+        "population": 234651
+    },
+    {
+        "id": 215527,
+        "name": "Kabinda",
+        "region": "Lomami",
+        "lat": -6.13791,
+        "lng": 24.48179,
+        "population": 219396
+    },
+    {
+        "id": 216449,
+        "name": "Gandajika",
+        "region": "Lomami",
+        "lat": -6.74504,
+        "lng": 23.95328,
+        "population": 208051
+    },
+    {
+        "id": 2317397,
+        "name": "Bandundu Province",
+        "region": "Kwilu",
+        "lat": -3.31687,
+        "lng": 17.38063,
+        "population": 202904
+    },
+    {
+        "id": 214614,
+        "name": "Kamina",
+        "region": "Haut-Lomami",
+        "lat": -8.73508,
+        "lng": 24.99798,
+        "population": 200184
+    },
+    {
+        "id": 2315728,
+        "name": "Gemena",
+        "region": "Sud-Ubangi",
+        "lat": 3.25651,
+        "lng": 19.77234,
+        "population": 197159
+    },
+    {
+        "id": 207570,
+        "name": "Mwene-Ditu",
+        "region": "Lomami",
+        "lat": -7.00906,
+        "lng": 23.45278,
+        "population": 189177
+    },
+    {
+        "id": 922806,
+        "name": "Kipushi",
+        "region": "Haut-Katanga",
+        "lat": -11.76097,
+        "lng": 27.25135,
+        "population": 169635
+    },
+    {
+        "id": 214974,
+        "name": "Kalemie",
+        "region": "Tanganyika",
+        "lat": -5.94749,
+        "lng": 29.19471,
+        "population": 160961
+    },
+    {
+        "id": 217745,
+        "name": "Bumba",
+        "region": "Mongala",
+        "lat": 2.18771,
+        "lng": 22.46827,
+        "population": 154586
+    },
+    {
+        "id": 2312888,
+        "name": "Mbanza-Ngungu",
+        "region": "Bas-Congo",
+        "lat": -5.25837,
+        "lng": 14.85838,
+        "population": 142773
+    },
+    {
+        "id": 219057,
+        "name": "Beni",
+        "region": "North Kivu",
+        "lat": 0.49113,
+        "lng": 29.47306,
+        "population": 140731
+    },
+    {
+        "id": 2312393,
+        "name": "Moanda",
+        "region": "Bas-Congo",
+        "lat": -5.92753,
+        "lng": 12.37148,
+        "population": 128804
+    },
+    {
+        "id": 211734,
+        "name": "Lisala",
+        "region": "Mongala",
+        "lat": 2.15127,
+        "lng": 21.51672,
+        "population": 117464
+    },
+    {
+        "id": 215976,
+        "name": "Ilebo",
+        "region": "Kasai",
+        "lat": -4.33111,
+        "lng": 20.58638,
+        "population": 117245
+    },
+    {
+        "id": 922083,
+        "name": "Tshilenge",
+        "region": "Lualaba",
+        "lat": -10.96667,
+        "lng": 22.9,
+        "population": 116073
+    },
+    {
+        "id": 2315419,
+        "name": "Inkisi",
+        "region": "Bas-Congo",
+        "lat": -5.13122,
+        "lng": 15.0541,
+        "population": 115317
+    },
+    {
+        "id": 217834,
+        "name": "Bukama",
+        "region": "Haut-Lomami",
+        "lat": -9.20443,
+        "lng": 25.85475,
+        "population": 105530
+    },
+    {
+        "id": 220075,
+        "name": "Bakwa",
+        "region": "Haut-Uele",
+        "lat": 4.1263,
+        "lng": 27.39527,
+        "population": 100575
+    },
+    {
+        "id": 923058,
+        "name": "Kambove",
+        "region": "Haut-Katanga",
+        "lat": -10.87352,
+        "lng": 26.59746,
+        "population": 99884
+    },
+    {
+        "id": 218855,
+        "name": "Binga",
+        "region": "Mongala",
+        "lat": 2.37351,
+        "lng": 20.49769,
+        "population": 96790
+    },
+    {
+        "id": 211647,
+        "name": "Lodja",
+        "region": "Sankuru",
+        "lat": -3.52105,
+        "lng": 23.6005,
+        "population": 91409
+    },
+    {
+        "id": 213666,
+        "name": "Katwa",
+        "region": "North Kivu",
+        "lat": 0.08928,
+        "lng": 29.30858,
+        "population": 89352
+    },
+    {
+        "id": 208182,
+        "name": "Mulongo",
+        "region": "Haut-Lomami",
+        "lat": -7.83486,
+        "lng": 26.99852,
+        "population": 89340
+    },
+    {
+        "id": 2315579,
+        "name": "Idiofa",
+        "region": "Kwilu",
+        "lat": -4.96589,
+        "lng": 19.59151,
+        "population": 87882
+    },
+    {
+        "id": 212360,
+        "name": "Kongolo",
+        "region": "Tanganyika",
+        "lat": -5.38532,
+        "lng": 27.00029,
+        "population": 86932
+    },
+    {
+        "id": 206047,
+        "name": "Rutshuru",
+        "region": "North Kivu",
+        "lat": -1.18666,
+        "lng": 29.44669,
+        "population": 82680
+    },
+    {
+        "id": 209598,
+        "name": "Manono",
+        "region": "Tanganyika",
+        "lat": -7.29862,
+        "lng": 27.39894,
+        "population": 82465
+    },
+    {
+        "id": 220121,
+        "name": "Babamba",
+        "region": "Tshopo",
+        "lat": 0.18333,
+        "lng": 27.48333,
+        "population": 81740
+    },
+    {
+        "id": 213940,
+        "name": "Kasongo",
+        "region": "Maniema",
+        "lat": -4.42741,
+        "lng": 26.66656,
+        "population": 81629
+    },
+    {
+        "id": 2316259,
+        "name": "Bulungu",
+        "region": "Kwilu",
+        "lat": -4.54437,
+        "lng": 18.60364,
+        "population": 81393
+    },
+    {
+        "id": 207596,
+        "name": "Mweka",
+        "region": "Kasai",
+        "lat": -4.85187,
+        "lng": 21.5595,
+        "population": 81267
+    },
+    {
+        "id": 215668,
+        "name": "Kabalo",
+        "region": "Tanganyika",
+        "lat": -6.05255,
+        "lng": 26.9143,
+        "population": 81191
+    },
+    {
+        "id": 209000,
+        "name": "Baudhuinville",
+        "region": "Tanganyika",
+        "lat": -7.08408,
+        "lng": 29.73681,
+        "population": 81181
+    },
+    {
+        "id": 217570,
+        "name": "Buta",
+        "region": "Bas-Uele",
+        "lat": 2.78582,
+        "lng": 24.72997,
+        "population": 80751
+    },
+    {
+        "id": 214390,
+        "name": "Kanyama",
+        "region": "Haut-Lomami",
+        "lat": -7.51668,
+        "lng": 24.17404,
+        "population": 80043
+    },
+    {
+        "id": 209161,
+        "name": "Miabi",
+        "region": "East Kasai",
+        "lat": -6.22149,
+        "lng": 23.39254,
+        "population": 79929
+    },
+    {
+        "id": 2316770,
+        "name": "Bolenge",
+        "region": "Équateur",
+        "lat": 0,
+        "lng": 18.21667,
+        "population": 79648
+    },
+    {
+        "id": 2314523,
+        "name": "Kimpese",
+        "region": "Bas-Congo",
+        "lat": -5.5615,
+        "lng": 14.43159,
+        "population": 79539
+    },
+    {
+        "id": 216281,
+        "name": "Goma",
+        "region": "North Kivu",
+        "lat": -1.67409,
+        "lng": 29.22845,
+        "population": 78200
+    },
+    {
+        "id": 219414,
+        "name": "Basoko",
+        "region": "Tshopo",
+        "lat": 1.23909,
+        "lng": 23.61598,
+        "population": 76371
+    },
+    {
+        "id": 8329635,
+        "name": "Hyosha",
+        "region": "North Kivu",
+        "lat": 0.69781,
+        "lng": 29.51863,
+        "population": 74502
+    },
+    {
+        "id": 216404,
+        "name": "Gbadolite",
+        "region": "Nord-Ubangi",
+        "lat": 4.279,
+        "lng": 21.00284,
+        "population": 73835
+    },
+    {
+        "id": 214925,
+        "name": "Kalima",
+        "region": "Tanganyika",
+        "lat": -5.4854,
+        "lng": 28.21601,
+        "population": 72327
+    },
+    {
+        "id": 2315417,
+        "name": "Inongo",
+        "region": "Mai-Ndombe",
+        "lat": -1.9275,
+        "lng": 18.2881,
+        "population": 68852
+    },
+    {
+        "id": 9946557,
+        "name": "Kituku",
+        "region": "Tanganyika",
+        "lat": -7.58157,
+        "lng": 30.20604,
+        "population": 66378
+    },
+    {
+        "id": 2311127,
+        "name": "Tshela",
+        "region": "Bas-Congo",
+        "lat": -4.99707,
+        "lng": 12.9484,
+        "population": 64210
+    },
+    {
+        "id": 2313084,
+        "name": "Mangai",
+        "region": "Kwilu",
+        "lat": -4.02328,
+        "lng": 19.53385,
+        "population": 63713
+    },
+    {
+        "id": 2314935,
+        "name": "Kenge",
+        "region": "Bas-Congo",
+        "lat": -5.76521,
+        "lng": 13.65711,
+        "population": 63317
+    },
+    {
+        "id": 206847,
+        "name": "Nyunzu",
+        "region": "Tanganyika",
+        "lat": -5.95609,
+        "lng": 28.01649,
+        "population": 62565
+    },
+    {
+        "id": 2311968,
+        "name": "Nioki",
+        "region": "Mai-Ndombe",
+        "lat": -2.72037,
+        "lng": 17.69001,
+        "population": 62153
+    },
+    {
+        "id": 203717,
+        "name": "Yangambi",
+        "region": "Tshopo",
+        "lat": 0.76755,
+        "lng": 24.43973,
+        "population": 62082
+    },
+    {
+        "id": 220448,
+        "name": "Aketi",
+        "region": "Bas-Uele",
+        "lat": 2.73877,
+        "lng": 23.78326,
+        "population": 61437
+    },
+    {
+        "id": 2312249,
+        "name": "Mushie",
+        "region": "Mai-Ndombe",
+        "lat": -3.01728,
+        "lng": 16.92238,
+        "population": 61336
+    },
+    {
+        "id": 2313874,
+        "name": "Kutu",
+        "region": "Mai-Ndombe",
+        "lat": -2.7249,
+        "lng": 18.14756,
+        "population": 56061
+    },
+    {
+        "id": 2316091,
+        "name": "Dibaya-Lubwe",
+        "region": "Kwilu",
+        "lat": -4.15869,
+        "lng": 19.8619,
+        "population": 55672
+    },
+    {
+        "id": 11905965,
+        "name": "Mangina",
+        "region": "North Kivu",
+        "lat": 0.60419,
+        "lng": 29.31004,
+        "population": 55439
+    },
+    {
+        "id": 210399,
+        "name": "Luputa",
+        "region": "Lomami",
+        "lat": -7.16177,
+        "lng": 23.70057,
+        "population": 54676
+    },
+    {
+        "id": 212760,
+        "name": "Kirumba",
+        "region": "North Kivu",
+        "lat": -1.09056,
+        "lng": 29.2925,
+        "population": 52041
+    },
+    {
+        "id": 213576,
+        "name": "Kayna",
+        "region": "North Kivu",
+        "lat": -0.60927,
+        "lng": 29.17249,
+        "population": 51103
+    },
+    {
+        "id": 218680,
+        "name": "Boende",
+        "region": "Tshuapa",
+        "lat": -0.28163,
+        "lng": 20.88053,
+        "population": 50794
+    },
+    {
+        "id": 923186,
+        "name": "Fungurume",
+        "region": "Lualaba",
+        "lat": -10.61771,
+        "lng": 26.32107,
+        "population": 50100
+    },
+    {
+        "id": 210379,
+        "name": "Lusambo",
+        "region": "Sankuru",
+        "lat": -4.97503,
+        "lng": 23.44391,
+        "population": 49376
+    },
+    {
+        "id": 2310763,
+        "name": "Zongo",
+        "region": "Sud-Ubangi",
+        "lat": 4.34283,
+        "lng": 18.59447,
+        "population": 48658
+    },
+    {
+        "id": 217637,
+        "name": "Businga",
+        "region": "Nord-Ubangi",
+        "lat": 3.33863,
+        "lng": 20.88577,
+        "population": 48339
+    },
+    {
+        "id": 204283,
+        "name": "Watsa",
+        "region": "Haut-Uele",
+        "lat": 3.03716,
+        "lng": 29.53551,
+        "population": 47278
+    },
+    {
+        "id": 2316748,
+        "name": "Bolobo",
+        "region": "Mai-Ndombe",
+        "lat": -2.158,
+        "lng": 16.23249,
+        "population": 47032
+    },
+    {
+        "id": 210674,
+        "name": "Lukula",
+        "region": "Sankuru",
+        "lat": -3.86881,
+        "lng": 23.88348,
+        "population": 46534
+    },
+    {
+        "id": 212795,
+        "name": "Kipamba",
+        "region": "Haut-Lomami",
+        "lat": -8.20591,
+        "lng": 26.42036,
+        "population": 46430
+    },
+    {
+        "id": 2313011,
+        "name": "Masi-Manimba",
+        "region": "Kwilu",
+        "lat": -4.77549,
+        "lng": 17.89095,
+        "population": 45775
+    },
+    {
+        "id": 220223,
+        "name": "Aru",
+        "region": "Ituri",
+        "lat": 2.86218,
+        "lng": 30.84138,
+        "population": 45516
+    },
+    {
+        "id": 210939,
+        "name": "Luebo",
+        "region": "Kasai",
+        "lat": -5.35218,
+        "lng": 21.42192,
+        "population": 45443
+    },
+    {
+        "id": 2315057,
+        "name": "Kasangulu",
+        "region": "Bas-Congo",
+        "lat": -4.5833,
+        "lng": 15.16554,
+        "population": 45400
+    },
+    {
+        "id": 208725,
+        "name": "Mangbwalu",
+        "region": "Ituri",
+        "lat": 1.94468,
+        "lng": 30.03861,
+        "population": 45318
+    },
+    {
+        "id": 214297,
+        "name": "Kanyobagonga",
+        "region": "North Kivu",
+        "lat": -0.69978,
+        "lng": 29.17181,
+        "population": 44146
+    },
+    {
+        "id": 215558,
+        "name": "Kabeya-Kamwanga",
+        "region": "East Kasai",
+        "lat": -5.9988,
+        "lng": 23.25386,
+        "population": 44093
+    },
+    {
+        "id": 922597,
+        "name": "Malemba",
+        "region": "Lualaba",
+        "lat": -10.37812,
+        "lng": 24.54516,
+        "population": 44027
+    },
+    {
+        "id": 213851,
+        "name": "Katanda",
+        "region": "North Kivu",
+        "lat": -0.82535,
+        "lng": 29.36451,
+        "population": 42105
+    },
+    {
+        "id": 211069,
+        "name": "Lubero",
+        "region": "North Kivu",
+        "lat": -0.15837,
+        "lng": 29.23859,
+        "population": 41722
+    },
+    {
+        "id": 217100,
+        "name": "Djugu",
+        "region": "Ituri",
+        "lat": 1.91932,
+        "lng": 30.50257,
+        "population": 41409
+    },
+    {
+        "id": 2317285,
+        "name": "Basankusu",
+        "region": "Équateur",
+        "lat": 1.22095,
+        "lng": 19.80205,
+        "population": 41141
+    },
+    {
+        "id": 2315961,
+        "name": "Dungu",
+        "region": "Mai-Ndombe",
+        "lat": -3.62437,
+        "lng": 18.84943,
+        "population": 41076
+    },
+    {
+        "id": 206113,
+        "name": "Pweto",
+        "region": "Haut-Katanga",
+        "lat": -8.46604,
+        "lng": 28.90079,
+        "population": 38298
+    },
+    {
+        "id": 211098,
+        "name": "Lubao",
+        "region": "Lomami",
+        "lat": -5.38771,
+        "lng": 25.74885,
+        "population": 37818
+    },
+    {
+        "id": 2313762,
+        "name": "Libenge",
+        "region": "Sud-Ubangi",
+        "lat": 3.65332,
+        "lng": 18.63566,
+        "population": 37344
+    },
+    {
+        "id": 215605,
+        "name": "Kabare",
+        "region": "South Kivu",
+        "lat": -2.49682,
+        "lng": 28.79081,
+        "population": 37034
+    },
+    {
+        "id": 214575,
+        "name": "Kampene",
+        "region": "Maniema",
+        "lat": -3.59678,
+        "lng": 26.66715,
+        "population": 37034
+    },
+    {
+        "id": 922559,
+        "name": "Mokambo",
+        "region": "Haut-Katanga",
+        "lat": -12.42765,
+        "lng": 28.34684,
+        "population": 34762
+    },
+    {
+        "id": 209856,
+        "name": "Malemba-Nkulu",
+        "region": "Haut-Lomami",
+        "lat": -8.04475,
+        "lng": 26.79625,
+        "population": 25430
+    },
+    {
+        "id": 206289,
+        "name": "Pepa",
+        "region": "Tanganyika",
+        "lat": -7.69811,
+        "lng": 29.7772,
+        "population": 24767
+    },
+    {
+        "id": 217389,
+        "name": "Demba",
+        "region": "Kasai-Central",
+        "lat": -5.49573,
+        "lng": 22.26962,
+        "population": 22263
+    },
+    {
+        "id": 2315026,
+        "name": "Kasongo-Lunda",
+        "region": "Kwango",
+        "lat": -6.47833,
+        "lng": 16.81735,
+        "population": 20060
+    },
+    {
+        "id": 218253,
+        "name": "Bondo",
+        "region": "Bas-Uele",
+        "lat": 3.81461,
+        "lng": 23.68665,
+        "population": 17860
+    },
+    {
+        "id": 204318,
+        "name": "Wamba",
+        "region": "Haut-Uele",
+        "lat": 2.14838,
+        "lng": 27.99466,
+        "population": 17373
+    },
+    {
+        "id": 205970,
+        "name": "Sake",
+        "region": "North Kivu",
+        "lat": -1.57386,
+        "lng": 29.04339,
+        "population": 17151
+    }
+]

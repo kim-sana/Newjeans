@@ -1,0 +1,450 @@
+[
+    {
+        "id": 625144,
+        "name": "Minsk",
+        "region": "Minsk City",
+        "lat": 53.90019,
+        "lng": 27.56653,
+        "population": 1742124
+    },
+    {
+        "id": 627907,
+        "name": "Homyel'",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.4345,
+        "lng": 30.9754,
+        "population": 501193
+    },
+    {
+        "id": 627904,
+        "name": "Hrodna",
+        "region": "Grodnenskaya",
+        "lat": 53.6758,
+        "lng": 23.82887,
+        "population": 363718
+    },
+    {
+        "id": 620127,
+        "name": "Vitebsk",
+        "region": "Vitebsk",
+        "lat": 55.1904,
+        "lng": 30.2049,
+        "population": 358927
+    },
+    {
+        "id": 625665,
+        "name": "Mahilyow",
+        "region": "Mogilev",
+        "lat": 53.90876,
+        "lng": 30.34044,
+        "population": 352896
+    },
+    {
+        "id": 629634,
+        "name": "Brest",
+        "region": "Brest",
+        "lat": 52.10894,
+        "lng": 23.71749,
+        "population": 347138
+    },
+    {
+        "id": 630468,
+        "name": "Bobruysk",
+        "region": "Mogilev",
+        "lat": 53.14676,
+        "lng": 29.20548,
+        "population": 205502
+    },
+    {
+        "id": 630429,
+        "name": "Baranovichi",
+        "region": "Brest",
+        "lat": 53.13255,
+        "lng": 26.00775,
+        "population": 170039
+    },
+    {
+        "id": 630376,
+        "name": "Barysaw",
+        "region": "Minsk",
+        "lat": 54.2279,
+        "lng": 28.505,
+        "population": 133700
+    },
+    {
+        "id": 623549,
+        "name": "Pinsk",
+        "region": "Brest",
+        "lat": 52.12153,
+        "lng": 26.06726,
+        "population": 123283
+    },
+    {
+        "id": 625324,
+        "name": "Mazyr",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.04162,
+        "lng": 29.21631,
+        "population": 104517
+    },
+    {
+        "id": 626081,
+        "name": "Lida",
+        "region": "Grodnenskaya",
+        "lat": 53.88333,
+        "lng": 25.29972,
+        "population": 103262
+    },
+    {
+        "id": 624079,
+        "name": "Orsha",
+        "region": "Vitebsk",
+        "lat": 54.51362,
+        "lng": 30.40365,
+        "population": 101662
+    },
+    {
+        "id": 622428,
+        "name": "Soligorsk",
+        "region": "Minsk",
+        "lat": 52.78981,
+        "lng": 27.53583,
+        "population": 96418
+    },
+    {
+        "id": 624784,
+        "name": "Novopolotsk",
+        "region": "Vitebsk",
+        "lat": 55.52618,
+        "lng": 28.59308,
+        "population": 95370
+    },
+    {
+        "id": 625625,
+        "name": "Maladziečna",
+        "region": "Minsk",
+        "lat": 54.3167,
+        "lng": 26.854,
+        "population": 87339
+    },
+    {
+        "id": 623317,
+        "name": "Polotsk",
+        "region": "Vitebsk",
+        "lat": 55.4879,
+        "lng": 28.7856,
+        "population": 79285
+    },
+    {
+        "id": 618806,
+        "name": "Zhlobin",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.8926,
+        "lng": 30.024,
+        "population": 76304
+    },
+    {
+        "id": 622794,
+        "name": "Rechytsa",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.3617,
+        "lng": 30.3916,
+        "population": 64733
+    },
+    {
+        "id": 618800,
+        "name": "Horad Zhodzina",
+        "region": "Minsk",
+        "lat": 54.0985,
+        "lng": 28.3331,
+        "population": 62983
+    },
+    {
+        "id": 621074,
+        "name": "Svetlogorsk",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.6329,
+        "lng": 29.7389,
+        "population": 61812
+    },
+    {
+        "id": 621741,
+        "name": "Slutsk",
+        "region": "Minsk",
+        "lat": 53.01522,
+        "lng": 27.54159,
+        "population": 58995
+    },
+    {
+        "id": 627145,
+        "name": "Kobryn",
+        "region": "Brest",
+        "lat": 52.21173,
+        "lng": 24.3563,
+        "population": 52235
+    },
+    {
+        "id": 621754,
+        "name": "Slonim",
+        "region": "Grodnenskaya",
+        "lat": 53.08751,
+        "lng": 25.31707,
+        "population": 48402
+    },
+    {
+        "id": 620391,
+        "name": "Vaukavysk",
+        "region": "Grodnenskaya",
+        "lat": 53.1561,
+        "lng": 24.4513,
+        "population": 41020
+    },
+    {
+        "id": 627751,
+        "name": "Kalinkovichi",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.1323,
+        "lng": 29.3257,
+        "population": 36656
+    },
+    {
+        "id": 621713,
+        "name": "Smarhoń",
+        "region": "Grodnenskaya",
+        "lat": 54.4798,
+        "lng": 26.3957,
+        "population": 35072
+    },
+    {
+        "id": 622739,
+        "name": "Rahachow",
+        "region": "Homyel’ Voblasc’",
+        "lat": 53.09255,
+        "lng": 30.04862,
+        "population": 31490
+    },
+    {
+        "id": 628634,
+        "name": "Dzyarzhynsk",
+        "region": "Minsk",
+        "lat": 53.68477,
+        "lng": 27.13171,
+        "population": 29607
+    },
+    {
+        "id": 624034,
+        "name": "Osipovichi",
+        "region": "Mogilev",
+        "lat": 53.30588,
+        "lng": 28.62872,
+        "population": 28745
+    },
+    {
+        "id": 627905,
+        "name": "Horki",
+        "region": "Mogilev",
+        "lat": 54.28606,
+        "lng": 30.98604,
+        "population": 28626
+    },
+    {
+        "id": 629454,
+        "name": "Byaroza",
+        "region": "Brest",
+        "lat": 52.53129,
+        "lng": 24.9782,
+        "population": 27986
+    },
+    {
+        "id": 624785,
+        "name": "Novogrudok",
+        "region": "Grodnenskaya",
+        "lat": 53.5942,
+        "lng": 25.8191,
+        "population": 27624
+    },
+    {
+        "id": 620181,
+        "name": "Vileyka",
+        "region": "Minsk",
+        "lat": 54.4914,
+        "lng": 26.9111,
+        "population": 26015
+    },
+    {
+        "id": 621729,
+        "name": "Smaliavičy",
+        "region": "Minsk",
+        "lat": 54.0249,
+        "lng": 28.0894,
+        "population": 24402
+    },
+    {
+        "id": 625818,
+        "name": "Luninyets",
+        "region": "Brest",
+        "lat": 52.24864,
+        "lng": 26.80061,
+        "population": 23396
+    },
+    {
+        "id": 626450,
+        "name": "Krychaw",
+        "region": "Mogilev",
+        "lat": 53.71924,
+        "lng": 31.71356,
+        "population": 22973
+    },
+    {
+        "id": 627800,
+        "name": "Ivatsevichi",
+        "region": "Brest",
+        "lat": 52.70793,
+        "lng": 25.33509,
+        "population": 22189
+    },
+    {
+        "id": 625409,
+        "name": "Mar’ina Gorka",
+        "region": "Minsk",
+        "lat": 53.509,
+        "lng": 28.147,
+        "population": 19892
+    },
+    {
+        "id": 6846555,
+        "name": "Fanipol",
+        "region": "Minsk",
+        "lat": 53.74998,
+        "lng": 27.33338,
+        "population": 19006
+    },
+    {
+        "id": 622997,
+        "name": "Pruzhany",
+        "region": "Brest",
+        "lat": 52.55464,
+        "lng": 24.45483,
+        "population": 18994
+    },
+    {
+        "id": 623760,
+        "name": "Pastavy",
+        "region": "Vitebsk",
+        "lat": 55.11676,
+        "lng": 26.83263,
+        "population": 18450
+    },
+    {
+        "id": 629018,
+        "name": "Dobrush",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.41471,
+        "lng": 31.31429,
+        "population": 17901
+    },
+    {
+        "id": 627908,
+        "name": "Hlybokaye",
+        "region": "Vitebsk",
+        "lat": 55.13933,
+        "lng": 27.69143,
+        "population": 17807
+    },
+    {
+        "id": 621266,
+        "name": "Stowbtsy",
+        "region": "Minsk",
+        "lat": 53.47994,
+        "lng": 26.7351,
+        "population": 17603
+    },
+    {
+        "id": 625743,
+        "name": "Lyepyel’",
+        "region": "Vitebsk",
+        "lat": 54.8814,
+        "lng": 28.699,
+        "population": 17400
+    },
+    {
+        "id": 619066,
+        "name": "Zaslawye",
+        "region": "Minsk",
+        "lat": 54.0114,
+        "lng": 27.2695,
+        "population": 17166
+    },
+    {
+        "id": 627083,
+        "name": "Kalodzishchy",
+        "region": "Minsk",
+        "lat": 53.944,
+        "lng": 27.7823,
+        "population": 17000
+    },
+    {
+        "id": 630515,
+        "name": "Oshmyany",
+        "region": "Grodnenskaya",
+        "lat": 54.41815,
+        "lng": 25.93734,
+        "population": 16804
+    },
+    {
+        "id": 629447,
+        "name": "Bykhov",
+        "region": "Mogilev",
+        "lat": 53.52131,
+        "lng": 30.23078,
+        "population": 16296
+    },
+    {
+        "id": 624700,
+        "name": "Nesvizh",
+        "region": "Minsk",
+        "lat": 53.22186,
+        "lng": 26.67679,
+        "population": 15897
+    },
+    {
+        "id": 627811,
+        "name": "Ivanovo",
+        "region": "Brest",
+        "lat": 52.14724,
+        "lng": 25.53198,
+        "population": 15833
+    },
+    {
+        "id": 618815,
+        "name": "Žytkavičy",
+        "region": "Homyel’ Voblasc’",
+        "lat": 52.2168,
+        "lng": 27.8561,
+        "population": 15788
+    },
+    {
+        "id": 625972,
+        "name": "Logoysk",
+        "region": "Minsk",
+        "lat": 54.2064,
+        "lng": 27.8512,
+        "population": 15543
+    },
+    {
+        "id": 623941,
+        "name": "Astraviec",
+        "region": "Grodnenskaya",
+        "lat": 54.61378,
+        "lng": 25.95537,
+        "population": 15265
+    },
+    {
+        "id": 622113,
+        "name": "Shchuchyn",
+        "region": "Grodnenskaya",
+        "lat": 53.6014,
+        "lng": 24.7465,
+        "population": 15127
+    }
+]

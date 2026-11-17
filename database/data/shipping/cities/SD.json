@@ -1,0 +1,610 @@
+[
+    {
+        "id": 379252,
+        "name": "Khartoum",
+        "region": "Khartoum",
+        "lat": 15.55177,
+        "lng": 32.53241,
+        "population": 1974647
+    },
+    {
+        "id": 365137,
+        "name": "Omdurman",
+        "region": "Khartoum",
+        "lat": 15.64453,
+        "lng": 32.47773,
+        "population": 1849659
+    },
+    {
+        "id": 379251,
+        "name": "Khartoum North",
+        "region": "Khartoum",
+        "lat": 15.64925,
+        "lng": 32.53458,
+        "population": 1012211
+    },
+    {
+        "id": 369004,
+        "name": "Nyala",
+        "region": "Southern Darfur",
+        "lat": 12.04888,
+        "lng": 24.88069,
+        "population": 565734
+    },
+    {
+        "id": 377039,
+        "name": "Port Sudan",
+        "region": "Red Sea",
+        "lat": 19.61745,
+        "lng": 37.21644,
+        "population": 489725
+    },
+    {
+        "id": 372753,
+        "name": "Kassala",
+        "region": "Kassala",
+        "lat": 15.45099,
+        "lng": 36.39998,
+        "population": 401477
+    },
+    {
+        "id": 379003,
+        "name": "El Obeid",
+        "region": "North Kordofan",
+        "lat": 13.18421,
+        "lng": 30.21669,
+        "population": 393311
+    },
+    {
+        "id": 379062,
+        "name": "Al Qadarif",
+        "region": "Al Qaḑārif",
+        "lat": 14.03493,
+        "lng": 35.38344,
+        "population": 363945
+    },
+    {
+        "id": 371760,
+        "name": "Kosti",
+        "region": "White Nile",
+        "lat": 13.1629,
+        "lng": 32.66347,
+        "population": 345068
+    },
+    {
+        "id": 364103,
+        "name": "Wad Medani",
+        "region": "Al Jazirah",
+        "lat": 14.40118,
+        "lng": 33.51989,
+        "population": 332714
+    },
+    {
+        "id": 380148,
+        "name": "El Daein",
+        "region": "Eastern Darfur",
+        "lat": 11.46186,
+        "lng": 26.12583,
+        "population": 264734
+    },
+    {
+        "id": 379555,
+        "name": "El Fasher",
+        "region": "Northern Darfur",
+        "lat": 13.62793,
+        "lng": 25.34936,
+        "population": 252609
+    },
+    {
+        "id": 366847,
+        "name": "Singa",
+        "region": "Sennar",
+        "lat": 13.1483,
+        "lng": 33.93117,
+        "population": 250000
+    },
+    {
+        "id": 380174,
+        "name": "Ad-Damazin",
+        "region": "Blue Nile",
+        "lat": 11.7891,
+        "lng": 34.3592,
+        "population": 186051
+    },
+    {
+        "id": 379303,
+        "name": "Al-Junaynah",
+        "region": "Western Darfur",
+        "lat": 13.45262,
+        "lng": 22.44725,
+        "population": 162981
+    },
+    {
+        "id": 368277,
+        "name": "Rabak",
+        "region": "White Nile",
+        "lat": 13.18087,
+        "lng": 32.73999,
+        "population": 135281
+    },
+    {
+        "id": 379302,
+        "name": "El Geneina Fort",
+        "region": "Western Darfur",
+        "lat": 13.47481,
+        "lng": 22.45744,
+        "population": 134264
+    },
+    {
+        "id": 367644,
+        "name": "Sennar",
+        "region": "Sennar",
+        "lat": 13.56907,
+        "lng": 33.56718,
+        "population": 130122
+    },
+    {
+        "id": 379149,
+        "name": "Al Manāqil",
+        "region": "Al Jazirah",
+        "lat": 14.2459,
+        "lng": 32.9891,
+        "population": 128297
+    },
+    {
+        "id": 8504621,
+        "name": "Gereida",
+        "region": "Southern Darfur",
+        "lat": 11.27543,
+        "lng": 25.14026,
+        "population": 120000
+    },
+    {
+        "id": 378231,
+        "name": "Atbara",
+        "region": "River Nile",
+        "lat": 17.70217,
+        "lng": 33.98638,
+        "population": 112021
+    },
+    {
+        "id": 378699,
+        "name": "An Nuhūd",
+        "region": "West Kordofan",
+        "lat": 12.7,
+        "lng": 28.43333,
+        "population": 108008
+    },
+    {
+        "id": 380173,
+        "name": "Ad-Damir",
+        "region": "River Nile",
+        "lat": 17.59898,
+        "lng": 33.97205,
+        "population": 103941
+    },
+    {
+        "id": 373141,
+        "name": "Kadugli",
+        "region": "Southern Kordofan",
+        "lat": 11.01111,
+        "lng": 29.71833,
+        "population": 87666
+    },
+    {
+        "id": 380129,
+        "name": "Ad Douiem",
+        "region": "White Nile",
+        "lat": 14.0012,
+        "lng": 32.3116,
+        "population": 87068
+    },
+    {
+        "id": 377108,
+        "name": "Burām",
+        "region": "Southern Darfur",
+        "lat": 10.85826,
+        "lng": 25.15921,
+        "population": 65473
+    },
+    {
+        "id": 367308,
+        "name": "Shendi",
+        "region": "River Nile",
+        "lat": 16.6915,
+        "lng": 33.4341,
+        "population": 63746
+    },
+    {
+        "id": 374272,
+        "name": "New Halfa",
+        "region": "Kassala",
+        "lat": 15.33021,
+        "lng": 35.59854,
+        "population": 63589
+    },
+    {
+        "id": 376450,
+        "name": "Dilling",
+        "region": "Southern Kordofan",
+        "lat": 12.05,
+        "lng": 29.65,
+        "population": 59089
+    },
+    {
+        "id": 378459,
+        "name": "Er Roseires",
+        "region": "Blue Nile",
+        "lat": 11.8659,
+        "lng": 34.3869,
+        "population": 58712
+    },
+    {
+        "id": 364706,
+        "name": "Umm Ruwaba",
+        "region": "North Kordofan",
+        "lat": 12.9061,
+        "lng": 31.2158,
+        "population": 56833
+    },
+    {
+        "id": 363417,
+        "name": "Dongola",
+        "region": "Northern State",
+        "lat": 19.18163,
+        "lng": 30.47689,
+        "population": 56167
+    },
+    {
+        "id": 13132452,
+        "name": "'Ārdamatā",
+        "region": "Western Darfur",
+        "lat": 13.47546,
+        "lng": 22.48531,
+        "population": 55637
+    },
+    {
+        "id": 372773,
+        "name": "Kas",
+        "region": "Southern Darfur",
+        "lat": 12.50974,
+        "lng": 24.28519,
+        "population": 55255
+    },
+    {
+        "id": 370181,
+        "name": "Mellit",
+        "region": "Northern Darfur",
+        "lat": 14.13333,
+        "lng": 25.55,
+        "population": 50165
+    },
+    {
+        "id": 13132453,
+        "name": "Sh'īarīah",
+        "region": "Eastern Darfur",
+        "lat": 12.43883,
+        "lng": 25.58112,
+        "population": 48966
+    },
+    {
+        "id": 379427,
+        "name": "Al Hasaheisa",
+        "region": "Al Jazirah",
+        "lat": 14.75264,
+        "lng": 33.29836,
+        "population": 47408
+    },
+    {
+        "id": 380757,
+        "name": "Abu Jibeha",
+        "region": "Southern Kordofan",
+        "lat": 11.4562,
+        "lng": 31.2285,
+        "population": 47188
+    },
+    {
+        "id": 372527,
+        "name": "Khashm al Qirbah",
+        "region": "Al Qaḑārif",
+        "lat": 14.96667,
+        "lng": 35.91667,
+        "population": 42900
+    },
+    {
+        "id": 367544,
+        "name": "Suakin",
+        "region": "Red Sea",
+        "lat": 19.1059,
+        "lng": 37.3321,
+        "population": 42456
+    },
+    {
+        "id": 373198,
+        "name": "Kabkābīyah",
+        "region": "Northern Darfur",
+        "lat": 13.65,
+        "lng": 24.08333,
+        "population": 42376
+    },
+    {
+        "id": 365641,
+        "name": "Tullus",
+        "region": "Southern Darfur",
+        "lat": 11.0904,
+        "lng": 24.53015,
+        "population": 41807
+    },
+    {
+        "id": 379102,
+        "name": "Al Mijlad",
+        "region": "West Kordofan",
+        "lat": 11.03333,
+        "lng": 27.73333,
+        "population": 40418
+    },
+    {
+        "id": 366323,
+        "name": "Tokār",
+        "region": "Red Sea",
+        "lat": 18.4254,
+        "lng": 37.729,
+        "population": 37051
+    },
+    {
+        "id": 378493,
+        "name": "Ar Rahad",
+        "region": "North Kordofan",
+        "lat": 12.71667,
+        "lng": 30.65,
+        "population": 36518
+    },
+    {
+        "id": 366846,
+        "name": "Sinkat",
+        "region": "Red Sea",
+        "lat": 18.8405,
+        "lng": 36.8351,
+        "population": 35617
+    },
+    {
+        "id": 363533,
+        "name": "Zalinjay",
+        "region": "Central Darfur",
+        "lat": 12.90918,
+        "lng": 23.47058,
+        "population": 35061
+    },
+    {
+        "id": 371745,
+        "name": "Kutum",
+        "region": "Northern Darfur",
+        "lat": 14.2,
+        "lng": 24.66667,
+        "population": 34694
+    },
+    {
+        "id": 378271,
+        "name": "As Sūkī",
+        "region": "Sennar",
+        "lat": 13.31667,
+        "lng": 33.88333,
+        "population": 33524
+    },
+    {
+        "id": 377962,
+        "name": "Babanūsah",
+        "region": "West Kordofan",
+        "lat": 11.33333,
+        "lng": 27.8,
+        "population": 32759
+    },
+    {
+        "id": 366426,
+        "name": "Tandaltī",
+        "region": "White Nile",
+        "lat": 13.01667,
+        "lng": 31.86667,
+        "population": 31329
+    },
+    {
+        "id": 373296,
+        "name": "Jubayt",
+        "region": "Red Sea",
+        "lat": 18.9533,
+        "lng": 36.8336,
+        "population": 30856
+    },
+    {
+        "id": 13132450,
+        "name": "Al-Fāw",
+        "region": "Al Qaḑārif",
+        "lat": 14.10776,
+        "lng": 34.09197,
+        "population": 30629
+    },
+    {
+        "id": 379416,
+        "name": "Al Ḩawātah",
+        "region": "Al Qaḑārif",
+        "lat": 13.41667,
+        "lng": 34.63333,
+        "population": 30184
+    },
+    {
+        "id": 370838,
+        "name": "Maiurno",
+        "region": "Sennar",
+        "lat": 13.41667,
+        "lng": 33.66667,
+        "population": 28727
+    },
+    {
+        "id": 367972,
+        "name": "Rufā‘a",
+        "region": "Al Jazirah",
+        "lat": 14.75969,
+        "lng": 33.36754,
+        "population": 28374
+    },
+    {
+        "id": 13132451,
+        "name": "Al-Quṭaynah",
+        "region": "White Nile",
+        "lat": 14.72775,
+        "lng": 32.26928,
+        "population": 26893
+    },
+    {
+        "id": 372386,
+        "name": "Kināna",
+        "region": "Sennar",
+        "lat": 14.0361,
+        "lng": 33.1712,
+        "population": 26233
+    },
+    {
+        "id": 377690,
+        "name": "Berber",
+        "region": "River Nile",
+        "lat": 18.02158,
+        "lng": 33.98299,
+        "population": 26203
+    },
+    {
+        "id": 379535,
+        "name": "Al Fūlah",
+        "region": "Southern Kordofan",
+        "lat": 11.73292,
+        "lng": 28.35786,
+        "population": 26020
+    },
+    {
+        "id": 13132448,
+        "name": "Ad-Dindar",
+        "region": "Sennar",
+        "lat": 13.334,
+        "lng": 34.09268,
+        "population": 25567
+    },
+    {
+        "id": 368230,
+        "name": "Rahad al Bardi",
+        "region": "Southern Darfur",
+        "lat": 11.3,
+        "lng": 23.88333,
+        "population": 24768
+    },
+    {
+        "id": 380348,
+        "name": "Abū Zabad",
+        "region": "West Kordofan",
+        "lat": 12.35,
+        "lng": 29.25,
+        "population": 23317
+    },
+    {
+        "id": 374866,
+        "name": "Ghubaysh",
+        "region": "West Kordofan",
+        "lat": 12.15,
+        "lng": 27.35,
+        "population": 22733
+    },
+    {
+        "id": 12493849,
+        "name": "Al Jazeera Aba",
+        "region": "White Nile",
+        "lat": 13.31926,
+        "lng": 32.61316,
+        "population": 21683
+    },
+    {
+        "id": 13132449,
+        "name": "Al-Fashaqah",
+        "region": "Al Qaḑārif",
+        "lat": 14.39729,
+        "lng": 35.86668,
+        "population": 21106
+    },
+    {
+        "id": 364621,
+        "name": "Umm Shawkah",
+        "region": "Sennar",
+        "lat": 13.31667,
+        "lng": 33.76667,
+        "population": 20302
+    },
+    {
+        "id": 380308,
+        "name": "Abyei",
+        "region": "West Kordofan",
+        "lat": 9.59525,
+        "lng": 28.43493,
+        "population": 20000
+    },
+    {
+        "id": 376332,
+        "name": "Doka",
+        "region": "Al Qaḑārif",
+        "lat": 13.51667,
+        "lng": 35.76667,
+        "population": 19821
+    },
+    {
+        "id": 371870,
+        "name": "Kuraymah",
+        "region": "Northern State",
+        "lat": 18.55,
+        "lng": 31.85,
+        "population": 19593
+    },
+    {
+        "id": 379630,
+        "name": "El Bauga",
+        "region": "River Nile",
+        "lat": 18.26197,
+        "lng": 33.90812,
+        "population": 19141
+    },
+    {
+        "id": 379014,
+        "name": "Al Qiţena",
+        "region": "White Nile",
+        "lat": 14.8648,
+        "lng": 32.3668,
+        "population": 18321
+    },
+    {
+        "id": 379406,
+        "name": "Al Hilāliyya",
+        "region": "Al Jazirah",
+        "lat": 14.9398,
+        "lng": 33.234,
+        "population": 17345
+    },
+    {
+        "id": 377724,
+        "name": "Bārah",
+        "region": "North Kordofan",
+        "lat": 13.7,
+        "lng": 30.36667,
+        "population": 16969
+    },
+    {
+        "id": 364132,
+        "name": "Wadi Halfa",
+        "region": "Northern State",
+        "lat": 21.79577,
+        "lng": 31.37129,
+        "population": 15725
+    },
+    {
+        "id": 380151,
+        "name": "Ad Dindar",
+        "region": "Sennar",
+        "lat": 13.2,
+        "lng": 34.16667,
+        "population": 15144
+    }
+]

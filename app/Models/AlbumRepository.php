@@ -22,6 +22,40 @@ final class AlbumRepository extends Repository
         )->fetchAll();
     }
 
+    /**
+     * @param array<int, int> $ids
+     * @return array<int, array<string, mixed>> keyed by album id
+     */
+    public function findMany(array $ids): array
+    {
+        $ids = array_values(array_unique(array_filter(
+            array_map(static fn (mixed $id): int => (int) $id, $ids),
+            static fn (int $id): bool => $id > 0
+        )));
+
+        if ($ids === []) {
+            return [];
+        }
+
+        $placeholders = implode(', ', array_fill(0, count($ids), '?'));
+        $statement = $this->pdo->prepare(
+            'SELECT * FROM albums WHERE id IN (' . $placeholders . ') AND deleted_at IS NULL'
+        );
+
+        foreach ($ids as $index => $id) {
+            $statement->bindValue($index + 1, $id, PDO::PARAM_INT);
+        }
+
+        $statement->execute();
+        $rows = [];
+
+        foreach ($statement->fetchAll() as $row) {
+            $rows[(int) $row['id']] = $row;
+        }
+
+        return $rows;
+    }
+
     public function findWithType(int $id): ?array
     {
         $statement = $this->pdo->prepare(

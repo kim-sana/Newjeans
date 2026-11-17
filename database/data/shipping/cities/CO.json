@@ -1,0 +1,2554 @@
+[
+    {
+        "id": 3688689,
+        "name": "Bogotá",
+        "region": "Bogota D.C.",
+        "lat": 4.60971,
+        "lng": -74.08175,
+        "population": 7674366
+    },
+    {
+        "id": 3687925,
+        "name": "Cali",
+        "region": "Valle del Cauca Department",
+        "lat": 3.43054,
+        "lng": -76.5199,
+        "population": 2392877
+    },
+    {
+        "id": 3674962,
+        "name": "Medellín",
+        "region": "Antioquia",
+        "lat": 6.245,
+        "lng": -75.57151,
+        "population": 1999979
+    },
+    {
+        "id": 3689147,
+        "name": "Barranquilla",
+        "region": "Atlántico",
+        "lat": 10.96854,
+        "lng": -74.78132,
+        "population": 1206319
+    },
+    {
+        "id": 7033318,
+        "name": "Kennedy",
+        "region": "Bogota D.C.",
+        "lat": 4.6165,
+        "lng": -74.14597,
+        "population": 979914
+    },
+    {
+        "id": 3687238,
+        "name": "Cartagena",
+        "region": "Bolívar",
+        "lat": 10.39817,
+        "lng": -75.49328,
+        "population": 914552
+    },
+    {
+        "id": 3685533,
+        "name": "Cúcuta",
+        "region": "Norte de Santander Department",
+        "lat": 7.90745,
+        "lng": -72.5049,
+        "population": 777106
+    },
+    {
+        "id": 3667905,
+        "name": "Soacha",
+        "region": "Cundinamarca",
+        "lat": 4.57937,
+        "lng": -74.21682,
+        "population": 655025
+    },
+    {
+        "id": 3688465,
+        "name": "Bucaramanga",
+        "region": "Santander Department",
+        "lat": 7.125,
+        "lng": -73.11895,
+        "population": 581130
+    },
+    {
+        "id": 3680656,
+        "name": "Ibagué",
+        "region": "Tolima Department",
+        "lat": 4.43573,
+        "lng": -75.20289,
+        "population": 529635
+    },
+    {
+        "id": 3668605,
+        "name": "Santa Marta",
+        "region": "Magdalena Department",
+        "lat": 11.23855,
+        "lng": -74.19427,
+        "population": 499192
+    },
+    {
+        "id": 3674453,
+        "name": "Montería",
+        "region": "Córdoba",
+        "lat": 8.75081,
+        "lng": -75.87823,
+        "population": 490935
+    },
+    {
+        "id": 3666304,
+        "name": "Valledupar",
+        "region": "Cesar Department",
+        "lat": 10.46538,
+        "lng": -73.2531,
+        "population": 490075
+    },
+    {
+        "id": 3672486,
+        "name": "Pereira",
+        "region": "Risaralda Department",
+        "lat": 4.81428,
+        "lng": -75.69488,
+        "population": 467269
+    },
+    {
+        "id": 3675443,
+        "name": "Manizales",
+        "region": "Caldas Department",
+        "lat": 5.0668,
+        "lng": -75.50684,
+        "population": 434403
+    },
+    {
+        "id": 3688452,
+        "name": "Buenaventura",
+        "region": "Valle del Cauca Department",
+        "lat": 3.58333,
+        "lng": -77,
+        "population": 432385
+    },
+    {
+        "id": 3688928,
+        "name": "Bello",
+        "region": "Antioquia",
+        "lat": 6.33732,
+        "lng": -75.55795,
+        "population": 392939
+    },
+    {
+        "id": 3672778,
+        "name": "Pasto",
+        "region": "Nariño",
+        "lat": 1.21456,
+        "lng": -77.27846,
+        "population": 392930
+    },
+    {
+        "id": 3673899,
+        "name": "Neiva",
+        "region": "Huila Department",
+        "lat": 2.93001,
+        "lng": -75.27973,
+        "population": 357392
+    },
+    {
+        "id": 3667849,
+        "name": "Soledad",
+        "region": "Atlántico",
+        "lat": 10.91843,
+        "lng": -74.76459,
+        "population": 342556
+    },
+    {
+        "id": 3665900,
+        "name": "Villavicencio",
+        "region": "Meta Department",
+        "lat": 4.13238,
+        "lng": -73.62564,
+        "population": 321717
+    },
+    {
+        "id": 3671916,
+        "name": "Popayán",
+        "region": "Cauca Department",
+        "lat": 2.43823,
+        "lng": -76.61316,
+        "population": 318059
+    },
+    {
+        "id": 3673164,
+        "name": "Palmira",
+        "region": "Valle del Cauca Department",
+        "lat": 3.53479,
+        "lng": -76.29774,
+        "population": 312519
+    },
+    {
+        "id": 3689560,
+        "name": "Armenia",
+        "region": "Quindío Department",
+        "lat": 4.53656,
+        "lng": -75.67263,
+        "population": 304314
+    },
+    {
+        "id": 3680450,
+        "name": "Itagüí",
+        "region": "Antioquia",
+        "lat": 6.18461,
+        "lng": -75.59913,
+        "population": 281853
+    },
+    {
+        "id": 3667983,
+        "name": "Sincelejo",
+        "region": "Sucre Department",
+        "lat": 9.3045,
+        "lng": -75.3905,
+        "population": 277773
+    },
+    {
+        "id": 3682385,
+        "name": "Floridablanca",
+        "region": "Santander Department",
+        "lat": 7.06222,
+        "lng": -73.08644,
+        "population": 267591
+    },
+    {
+        "id": 3688451,
+        "name": "Buenaventura",
+        "region": "Valle del Cauca Department",
+        "lat": 3.87962,
+        "lng": -77.03105,
+        "population": 240387
+    },
+    {
+        "id": 3666645,
+        "name": "Tuluá",
+        "region": "Valle del Cauca Department",
+        "lat": 4.08484,
+        "lng": -76.19548,
+        "population": 221684
+    },
+    {
+        "id": 3685095,
+        "name": "Dosquebradas",
+        "region": "Risaralda Department",
+        "lat": 4.83659,
+        "lng": -75.66926,
+        "population": 206693
+    },
+    {
+        "id": 3689169,
+        "name": "Barrancabermeja",
+        "region": "Santander Department",
+        "lat": 7.06528,
+        "lng": -73.85472,
+        "population": 191403
+    },
+    {
+        "id": 3670745,
+        "name": "Riohacha",
+        "region": "La Guajira Department",
+        "lat": 11.54444,
+        "lng": -72.90722,
+        "population": 188014
+    },
+    {
+        "id": 3666608,
+        "name": "Tunja",
+        "region": "Boyacá",
+        "lat": 5.54481,
+        "lng": -73.35756,
+        "population": 172548
+    },
+    {
+        "id": 3665688,
+        "name": "Yopal",
+        "region": "Casanare Department",
+        "lat": 5.33573,
+        "lng": -72.3939,
+        "population": 168433
+    },
+    {
+        "id": 3682426,
+        "name": "Florencia",
+        "region": "Caquetá",
+        "lat": 1.61549,
+        "lng": -75.60412,
+        "population": 168346
+    },
+    {
+        "id": 3675657,
+        "name": "Maicao",
+        "region": "La Guajira Department",
+        "lat": 11.37837,
+        "lng": -72.2395,
+        "population": 166603
+    },
+    {
+        "id": 3672328,
+        "name": "Piedecuesta",
+        "region": "Santander Department",
+        "lat": 6.98789,
+        "lng": -73.04953,
+        "population": 163362
+    },
+    {
+        "id": 3682631,
+        "name": "Envigado",
+        "region": "Antioquia",
+        "lat": 6.17591,
+        "lng": -75.59174,
+        "population": 163007
+    },
+    {
+        "id": 3682516,
+        "name": "Facatativá",
+        "region": "Cundinamarca",
+        "lat": 4.81367,
+        "lng": -74.35453,
+        "population": 141762
+    },
+    {
+        "id": 3672110,
+        "name": "Pitalito",
+        "region": "Huila Department",
+        "lat": 1.85371,
+        "lng": -76.05071,
+        "population": 135711
+    },
+    {
+        "id": 3675707,
+        "name": "Madrid",
+        "region": "Cundinamarca",
+        "lat": 4.73245,
+        "lng": -74.26419,
+        "population": 135000
+    },
+    {
+        "id": 3687230,
+        "name": "Cartago",
+        "region": "Valle del Cauca Department",
+        "lat": 4.7454,
+        "lng": -75.91247,
+        "population": 134972
+    },
+    {
+        "id": 3665542,
+        "name": "Zipaquirá",
+        "region": "Cundinamarca",
+        "lat": 5.02208,
+        "lng": -74.00481,
+        "population": 130432
+    },
+    {
+        "id": 3671116,
+        "name": "Quibdó",
+        "region": "Chocó",
+        "lat": 5.69188,
+        "lng": -76.65835,
+        "population": 129237
+    },
+    {
+        "id": 3675595,
+        "name": "Malambo",
+        "region": "Atlántico",
+        "lat": 10.85953,
+        "lng": -74.77386,
+        "population": 129148
+    },
+    {
+        "id": 3670730,
+        "name": "Rionegro",
+        "region": "Antioquia",
+        "lat": 6.15515,
+        "lng": -75.37371,
+        "population": 128153
+    },
+    {
+        "id": 3674292,
+        "name": "Mosquera",
+        "region": "Cundinamarca",
+        "lat": 4.70592,
+        "lng": -74.23021,
+        "population": 128012
+    },
+    {
+        "id": 3686675,
+        "name": "Chía",
+        "region": "Cundinamarca",
+        "lat": 4.85876,
+        "lng": -74.05866,
+        "population": 124309
+    },
+    {
+        "id": 3675692,
+        "name": "Magangué",
+        "region": "Bolívar",
+        "lat": 9.24202,
+        "lng": -74.75467,
+        "population": 123982
+    },
+    {
+        "id": 3682281,
+        "name": "Funza",
+        "region": "Cundinamarca",
+        "lat": 4.71638,
+        "lng": -74.21195,
+        "population": 116890
+    },
+    {
+        "id": 3688256,
+        "name": "Guadalajara de Buga",
+        "region": "Valle del Cauca Department",
+        "lat": 3.901,
+        "lng": -76.29826,
+        "population": 114316
+    },
+    {
+        "id": 3667873,
+        "name": "Sogamoso",
+        "region": "Boyacá",
+        "lat": 5.71434,
+        "lng": -72.93391,
+        "population": 111336
+    },
+    {
+        "id": 3682018,
+        "name": "Girón",
+        "region": "Santander Department",
+        "lat": 7.0682,
+        "lng": -73.16981,
+        "population": 108466
+    },
+    {
+        "id": 3682028,
+        "name": "Girardot City",
+        "region": "Cundinamarca",
+        "lat": 4.30079,
+        "lng": -74.80754,
+        "population": 107324
+    },
+    {
+        "id": 3670502,
+        "name": "Sabanalarga",
+        "region": "Atlántico",
+        "lat": 10.63072,
+        "lng": -74.92214,
+        "population": 102334
+    },
+    {
+        "id": 3673662,
+        "name": "Ocaña",
+        "region": "Norte de Santander Department",
+        "lat": 8.23773,
+        "lng": -73.35604,
+        "population": 101158
+    },
+    {
+        "id": 3668572,
+        "name": "Santander de Quilichao",
+        "region": "Cauca Department",
+        "lat": 3.00975,
+        "lng": -76.48499,
+        "population": 99354
+    },
+    {
+        "id": 3690465,
+        "name": "Aguachica",
+        "region": "Cesar Department",
+        "lat": 8.30844,
+        "lng": -73.6166,
+        "population": 97525
+    },
+    {
+        "id": 3686922,
+        "name": "Cereté",
+        "region": "Córdoba",
+        "lat": 8.88479,
+        "lng": -75.79052,
+        "population": 94935
+    },
+    {
+        "id": 3685084,
+        "name": "Duitama",
+        "region": "Boyacá",
+        "lat": 5.8245,
+        "lng": -73.03408,
+        "population": 92040
+    },
+    {
+        "id": 3674470,
+        "name": "Montelíbano",
+        "region": "Córdoba",
+        "lat": 7.97917,
+        "lng": -75.4202,
+        "population": 90450
+    },
+    {
+        "id": 3682274,
+        "name": "Fusagasugá",
+        "region": "Cundinamarca",
+        "lat": 4.33646,
+        "lng": -74.36378,
+        "population": 88820
+    },
+    {
+        "id": 3686279,
+        "name": "Ciénaga",
+        "region": "Magdalena Department",
+        "lat": 11.00703,
+        "lng": -74.24765,
+        "population": 88311
+    },
+    {
+        "id": 3666640,
+        "name": "Tumaco",
+        "region": "Nariño",
+        "lat": 1.79112,
+        "lng": -78.79275,
+        "population": 86713
+    },
+    {
+        "id": 3689798,
+        "name": "Apartadó",
+        "region": "Antioquia",
+        "lat": 7.88299,
+        "lng": -76.62587,
+        "population": 86438
+    },
+    {
+        "id": 3686636,
+        "name": "Chigorodó",
+        "region": "Antioquia",
+        "lat": 7.66638,
+        "lng": -76.68106,
+        "population": 86239
+    },
+    {
+        "id": 3689718,
+        "name": "Arauca",
+        "region": "Arauca Department",
+        "lat": 7.08471,
+        "lng": -70.75908,
+        "population": 85585
+    },
+    {
+        "id": 3670475,
+        "name": "Sabaneta",
+        "region": "Antioquia",
+        "lat": 6.15153,
+        "lng": -75.61657,
+        "population": 82375
+    },
+    {
+        "id": 3687952,
+        "name": "Caldas",
+        "region": "Antioquia",
+        "lat": 6.09106,
+        "lng": -75.63569,
+        "population": 82234
+    },
+    {
+        "id": 3679277,
+        "name": "La Dorada",
+        "region": "Caldas Department",
+        "lat": 5.44783,
+        "lng": -74.66311,
+        "population": 81950
+    },
+    {
+        "id": 3687964,
+        "name": "Calarcá",
+        "region": "Quindío Department",
+        "lat": 4.52863,
+        "lng": -75.64024,
+        "population": 79569
+    },
+    {
+        "id": 3680539,
+        "name": "Ipiales",
+        "region": "Nariño",
+        "lat": 0.82501,
+        "lng": -77.63966,
+        "population": 77729
+    },
+    {
+        "id": 3665657,
+        "name": "Yumbo",
+        "region": "Valle del Cauca Department",
+        "lat": 3.58236,
+        "lng": -76.49147,
+        "population": 71436
+    },
+    {
+        "id": 3672068,
+        "name": "Planeta Rica",
+        "region": "Córdoba",
+        "lat": 8.4115,
+        "lng": -75.58508,
+        "population": 69708
+    },
+    {
+        "id": 3681957,
+        "name": "Granada",
+        "region": "Meta Department",
+        "lat": 3.54625,
+        "lng": -73.70687,
+        "population": 68876
+    },
+    {
+        "id": 3686561,
+        "name": "Chinchiná",
+        "region": "Caldas Department",
+        "lat": 4.9832,
+        "lng": -75.60488,
+        "population": 68512
+    },
+    {
+        "id": 3689235,
+        "name": "Baranoa",
+        "region": "Atlántico",
+        "lat": 10.79408,
+        "lng": -74.9164,
+        "population": 68383
+    },
+    {
+        "id": 3665913,
+        "name": "Villa del Rosario",
+        "region": "Norte de Santander Department",
+        "lat": 7.83389,
+        "lng": -72.47417,
+        "population": 64951
+    },
+    {
+        "id": 3669346,
+        "name": "San Marcos",
+        "region": "Sucre Department",
+        "lat": 8.65972,
+        "lng": -75.12809,
+        "population": 60735
+    },
+    {
+        "id": 3670419,
+        "name": "Sahagún",
+        "region": "Córdoba",
+        "lat": 8.94617,
+        "lng": -75.44275,
+        "population": 59188
+    },
+    {
+        "id": 3682292,
+        "name": "Fundación",
+        "region": "Magdalena Department",
+        "lat": 10.52066,
+        "lng": -74.18504,
+        "population": 59175
+    },
+    {
+        "id": 3675975,
+        "name": "Los Patios",
+        "region": "Norte de Santander Department",
+        "lat": 7.83793,
+        "lng": -72.5037,
+        "population": 58661
+    },
+    {
+        "id": 3670218,
+        "name": "San Andrés",
+        "region": "San Andres y Providencia",
+        "lat": 12.57858,
+        "lng": -81.69973,
+        "population": 58257
+    },
+    {
+        "id": 3687025,
+        "name": "Caucasia",
+        "region": "Antioquia",
+        "lat": 7.98654,
+        "lng": -75.19349,
+        "population": 58034
+    },
+    {
+        "id": 3668454,
+        "name": "Santa Rosa de Cabal",
+        "region": "Risaralda Department",
+        "lat": 4.86889,
+        "lng": -75.62195,
+        "population": 57928
+    },
+    {
+        "id": 3829343,
+        "name": "Orito",
+        "region": "Putumayo Department",
+        "lat": 0.66749,
+        "lng": -76.87297,
+        "population": 57774
+    },
+    {
+        "id": 3675263,
+        "name": "Marinilla",
+        "region": "Antioquia",
+        "lat": 6.17358,
+        "lng": -75.33621,
+        "population": 57403
+    },
+    {
+        "id": 3674654,
+        "name": "Mocoa",
+        "region": "Putumayo Department",
+        "lat": 1.15284,
+        "lng": -76.65208,
+        "population": 56398
+    },
+    {
+        "id": 3682573,
+        "name": "Espinal",
+        "region": "Tolima Department",
+        "lat": 4.14924,
+        "lng": -74.88429,
+        "population": 56213
+    },
+    {
+        "id": 3666577,
+        "name": "Turbaco",
+        "region": "Bolívar",
+        "lat": 10.32944,
+        "lng": -75.41137,
+        "population": 56171
+    },
+    {
+        "id": 3689381,
+        "name": "Ayapel",
+        "region": "Córdoba",
+        "lat": 8.31372,
+        "lng": -75.13982,
+        "population": 56082
+    },
+    {
+        "id": 3684917,
+        "name": "El Banco",
+        "region": "Magdalena Department",
+        "lat": 9.00114,
+        "lng": -73.97581,
+        "population": 54522
+    },
+    {
+        "id": 3688006,
+        "name": "Cajicá",
+        "region": "Cundinamarca",
+        "lat": 4.91857,
+        "lng": -74.02799,
+        "population": 54111
+    },
+    {
+        "id": 3689205,
+        "name": "Barbosa",
+        "region": "Antioquia",
+        "lat": 6.43809,
+        "lng": -75.33136,
+        "population": 53943
+    },
+    {
+        "id": 3673045,
+        "name": "Pamplona",
+        "region": "Norte de Santander Department",
+        "lat": 7.37565,
+        "lng": -72.64795,
+        "population": 53587
+    },
+    {
+        "id": 3828545,
+        "name": "San José del Guaviare",
+        "region": "Guaviare Department",
+        "lat": 2.56799,
+        "lng": -72.63972,
+        "population": 52815
+    },
+    {
+        "id": 3792383,
+        "name": "Agustín Codazzi",
+        "region": "Cesar Department",
+        "lat": 10.03672,
+        "lng": -73.23558,
+        "population": 51478
+    },
+    {
+        "id": 3684945,
+        "name": "El Bagre",
+        "region": "Antioquia",
+        "lat": 7.60347,
+        "lng": -74.80951,
+        "population": 51150
+    },
+    {
+        "id": 3671540,
+        "name": "Puerto Berrío",
+        "region": "Antioquia",
+        "lat": 6.49156,
+        "lng": -74.40326,
+        "population": 51079
+    },
+    {
+        "id": 3686255,
+        "name": "Cimitarra",
+        "region": "Santander Department",
+        "lat": 6.31419,
+        "lng": -73.94968,
+        "population": 50892
+    },
+    {
+        "id": 3686540,
+        "name": "Chinú",
+        "region": "Córdoba",
+        "lat": 9.10569,
+        "lng": -75.39812,
+        "population": 50743
+    },
+    {
+        "id": 3666570,
+        "name": "Turbo",
+        "region": "Antioquia",
+        "lat": 8.09263,
+        "lng": -76.72822,
+        "population": 50508
+    },
+    {
+        "id": 3689570,
+        "name": "Arjona",
+        "region": "Bolívar",
+        "lat": 10.25444,
+        "lng": -75.34389,
+        "population": 50405
+    },
+    {
+        "id": 3687318,
+        "name": "Carmen de Viboral",
+        "region": "Antioquia",
+        "lat": 6.08236,
+        "lng": -75.33509,
+        "population": 49642
+    },
+    {
+        "id": 3679065,
+        "name": "La Estrella",
+        "region": "Antioquia",
+        "lat": 6.15769,
+        "lng": -75.64317,
+        "population": 49386
+    },
+    {
+        "id": 3685949,
+        "name": "Copacabana",
+        "region": "Antioquia",
+        "lat": 6.34633,
+        "lng": -75.50888,
+        "population": 49169
+    },
+    {
+        "id": 3670293,
+        "name": "Samaniego",
+        "region": "Nariño",
+        "lat": 1.33849,
+        "lng": -77.5957,
+        "population": 49085
+    },
+    {
+        "id": 3792392,
+        "name": "Plato",
+        "region": "Magdalena Department",
+        "lat": 9.79029,
+        "lng": -74.78244,
+        "population": 48606
+    },
+    {
+        "id": 3676623,
+        "name": "Leticia",
+        "region": "Amazonas Department",
+        "lat": -4.21079,
+        "lng": -69.93944,
+        "population": 48144
+    },
+    {
+        "id": 3684666,
+        "name": "El Carmen de Bolívar",
+        "region": "Bolívar",
+        "lat": 9.7174,
+        "lng": -75.12023,
+        "population": 47957
+    },
+    {
+        "id": 3682393,
+        "name": "Florida",
+        "region": "Valle del Cauca Department",
+        "lat": 3.32401,
+        "lng": -76.23436,
+        "population": 47173
+    },
+    {
+        "id": 3671315,
+        "name": "Puerto Tejada",
+        "region": "Cauca Department",
+        "lat": 3.23229,
+        "lng": -76.41784,
+        "population": 46215
+    },
+    {
+        "id": 3669808,
+        "name": "San Gil",
+        "region": "Santander Department",
+        "lat": 6.55952,
+        "lng": -73.13637,
+        "population": 46152
+    },
+    {
+        "id": 3686513,
+        "name": "Chiquinquirá",
+        "region": "Boyacá",
+        "lat": 5.61637,
+        "lng": -73.81748,
+        "population": 45294
+    },
+    {
+        "id": 3680387,
+        "name": "Jamundí",
+        "region": "Valle del Cauca Department",
+        "lat": 3.26177,
+        "lng": -76.54021,
+        "population": 44833
+    },
+    {
+        "id": 3671772,
+        "name": "Pradera",
+        "region": "Valle del Cauca Department",
+        "lat": 3.41974,
+        "lng": -76.24187,
+        "population": 44630
+    },
+    {
+        "id": 8633918,
+        "name": "Piendamo",
+        "region": "Cauca Department",
+        "lat": 2.63918,
+        "lng": -76.53055,
+        "population": 44000
+    },
+    {
+        "id": 3668132,
+        "name": "Sevilla",
+        "region": "Valle del Cauca Department",
+        "lat": 4.26548,
+        "lng": -75.93151,
+        "population": 43738
+    },
+    {
+        "id": 3674702,
+        "name": "Miranda",
+        "region": "Cauca Department",
+        "lat": 3.24987,
+        "lng": -76.22807,
+        "population": 43333
+    },
+    {
+        "id": 3674463,
+        "name": "Montenegro",
+        "region": "Quindío Department",
+        "lat": 4.56594,
+        "lng": -75.7499,
+        "population": 41996
+    },
+    {
+        "id": 3689759,
+        "name": "Aracataca",
+        "region": "Magdalena Department",
+        "lat": 10.59181,
+        "lng": -74.18983,
+        "population": 41872
+    },
+    {
+        "id": 3681702,
+        "name": "Guaduas",
+        "region": "Cundinamarca",
+        "lat": 5.06692,
+        "lng": -74.59499,
+        "population": 41838
+    },
+    {
+        "id": 3676928,
+        "name": "La Unión",
+        "region": "Valle del Cauca Department",
+        "lat": 4.53314,
+        "lng": -76.10337,
+        "population": 41013
+    },
+    {
+        "id": 3690577,
+        "name": "Acacías",
+        "region": "Meta Department",
+        "lat": 3.98695,
+        "lng": -73.75797,
+        "population": 40627
+    },
+    {
+        "id": 3676397,
+        "name": "Lorica",
+        "region": "Córdoba",
+        "lat": 9.23648,
+        "lng": -75.8135,
+        "population": 40605
+    },
+    {
+        "id": 3688566,
+        "name": "Bosconia",
+        "region": "Cesar Department",
+        "lat": 9.97106,
+        "lng": -73.88817,
+        "population": 40562
+    },
+    {
+        "id": 3669469,
+        "name": "San Juan del Cesar",
+        "region": "La Guajira Department",
+        "lat": 10.77107,
+        "lng": -73.00314,
+        "population": 40069
+    },
+    {
+        "id": 3666582,
+        "name": "Túquerres",
+        "region": "Nariño",
+        "lat": 1.08647,
+        "lng": -77.61858,
+        "population": 40038
+    },
+    {
+        "id": 3668175,
+        "name": "Segovia",
+        "region": "Antioquia",
+        "lat": 7.07993,
+        "lng": -74.6989,
+        "population": 39938
+    },
+    {
+        "id": 3685823,
+        "name": "Corozal",
+        "region": "Sucre Department",
+        "lat": 9.31847,
+        "lng": -75.2933,
+        "population": 39800
+    },
+    {
+        "id": 3676604,
+        "name": "Líbano",
+        "region": "Tolima Department",
+        "lat": 4.9218,
+        "lng": -75.06232,
+        "population": 39459
+    },
+    {
+        "id": 3684615,
+        "name": "El Cerrito",
+        "region": "Valle del Cauca Department",
+        "lat": 3.68532,
+        "lng": -76.31203,
+        "population": 38390
+    },
+    {
+        "id": 3689162,
+        "name": "Barrancas",
+        "region": "La Guajira Department",
+        "lat": 10.95672,
+        "lng": -72.79456,
+        "population": 38232
+    },
+    {
+        "id": 3668451,
+        "name": "Santa Rosa de Osos",
+        "region": "Antioquia",
+        "lat": 6.64738,
+        "lng": -75.46031,
+        "population": 37864
+    },
+    {
+        "id": 3672761,
+        "name": "Patía",
+        "region": "Cauca Department",
+        "lat": 2.06895,
+        "lng": -77.05273,
+        "population": 37781
+    },
+    {
+        "id": 3781636,
+        "name": "Bosconia",
+        "region": "Cundinamarca",
+        "lat": 4.85583,
+        "lng": -73.98167,
+        "population": 37676
+    },
+    {
+        "id": 3672664,
+        "name": "Payandé",
+        "region": "Tolima Department",
+        "lat": 4.2975,
+        "lng": -75.09667,
+        "population": 37496
+    },
+    {
+        "id": 3669188,
+        "name": "San Pablo",
+        "region": "Bolívar",
+        "lat": 10.05154,
+        "lng": -75.26775,
+        "population": 37160
+    },
+    {
+        "id": 3673398,
+        "name": "Belalcázar",
+        "region": "Cauca Department",
+        "lat": 2.64644,
+        "lng": -75.97269,
+        "population": 36977
+    },
+    {
+        "id": 3679554,
+        "name": "La Ceja",
+        "region": "Antioquia",
+        "lat": 6.03131,
+        "lng": -75.43333,
+        "population": 36584
+    },
+    {
+        "id": 3682047,
+        "name": "Gigante",
+        "region": "Huila Department",
+        "lat": 2.38678,
+        "lng": -75.54736,
+        "population": 36055
+    },
+    {
+        "id": 3671098,
+        "name": "Quimbaya",
+        "region": "Quindío Department",
+        "lat": 4.62406,
+        "lng": -75.7627,
+        "population": 35350
+    },
+    {
+        "id": 3665973,
+        "name": "Villamaría",
+        "region": "Caldas Department",
+        "lat": 5.04509,
+        "lng": -75.51249,
+        "population": 35302
+    },
+    {
+        "id": 3670513,
+        "name": "Sabanagrande",
+        "region": "Atlántico",
+        "lat": 10.79115,
+        "lng": -74.76059,
+        "population": 35044
+    },
+    {
+        "id": 3685335,
+        "name": "Curumaní",
+        "region": "Cesar Department",
+        "lat": 9.19992,
+        "lng": -73.54274,
+        "population": 34838
+    },
+    {
+        "id": 3672653,
+        "name": "Paz de Ariporo",
+        "region": "Casanare Department",
+        "lat": 5.88148,
+        "lng": -71.89167,
+        "population": 34446
+    },
+    {
+        "id": 3670199,
+        "name": "San Antero",
+        "region": "Córdoba",
+        "lat": 9.3741,
+        "lng": -75.75891,
+        "population": 34196
+    },
+    {
+        "id": 3669454,
+        "name": "San Juan Nepomuceno",
+        "region": "Bolívar",
+        "lat": 9.95157,
+        "lng": -75.08198,
+        "population": 34110
+    },
+    {
+        "id": 3671091,
+        "name": "Quinchía",
+        "region": "Risaralda Department",
+        "lat": 5.33948,
+        "lng": -75.72956,
+        "population": 34069
+    },
+    {
+        "id": 3685871,
+        "name": "Corinto",
+        "region": "Cauca Department",
+        "lat": 3.17301,
+        "lng": -76.26275,
+        "population": 33846
+    },
+    {
+        "id": 3671348,
+        "name": "Puerto Rico",
+        "region": "Caquetá",
+        "lat": 1.90999,
+        "lng": -75.15931,
+        "population": 33765
+    },
+    {
+        "id": 3671615,
+        "name": "Puebloviejo",
+        "region": "Magdalena Department",
+        "lat": 10.99376,
+        "lng": -74.28439,
+        "population": 33720
+    },
+    {
+        "id": 3667820,
+        "name": "Sonsón",
+        "region": "Antioquia",
+        "lat": 5.71062,
+        "lng": -75.31069,
+        "population": 33598
+    },
+    {
+        "id": 3667918,
+        "name": "Sitionuevo",
+        "region": "Magdalena Department",
+        "lat": 10.77737,
+        "lng": -74.72049,
+        "population": 33440
+    },
+    {
+        "id": 3675252,
+        "name": "San Sebastián de Mariquita",
+        "region": "Tolima Department",
+        "lat": 5.19889,
+        "lng": -74.89295,
+        "population": 33340
+    },
+    {
+        "id": 3689833,
+        "name": "Anserma",
+        "region": "Risaralda Department",
+        "lat": 5.33278,
+        "lng": -75.79111,
+        "population": 33146
+    },
+    {
+        "id": 3672093,
+        "name": "Pivijay",
+        "region": "Magdalena Department",
+        "lat": 10.46167,
+        "lng": -74.61621,
+        "population": 33047
+    },
+    {
+        "id": 3669218,
+        "name": "San Onofre",
+        "region": "Sucre Department",
+        "lat": 9.73586,
+        "lng": -75.52626,
+        "population": 32957
+    },
+    {
+        "id": 3688071,
+        "name": "Caicedonia",
+        "region": "Valle del Cauca Department",
+        "lat": 4.33267,
+        "lng": -75.8265,
+        "population": 32417
+    },
+    {
+        "id": 3682374,
+        "name": "Fonseca",
+        "region": "La Guajira Department",
+        "lat": 10.88606,
+        "lng": -72.8487,
+        "population": 32220
+    },
+    {
+        "id": 3665951,
+        "name": "Villanueva",
+        "region": "Casanare Department",
+        "lat": 5.28333,
+        "lng": -71.96667,
+        "population": 31727
+    },
+    {
+        "id": 3671287,
+        "name": "Puerto Wilches",
+        "region": "Santander Department",
+        "lat": 7.34828,
+        "lng": -73.89601,
+        "population": 31698
+    },
+    {
+        "id": 3674597,
+        "name": "Mompós",
+        "region": "Bolívar",
+        "lat": 9.24194,
+        "lng": -74.42667,
+        "population": 30861
+    },
+    {
+        "id": 3667991,
+        "name": "San Luis de Sincé",
+        "region": "Sucre Department",
+        "lat": 9.24391,
+        "lng": -75.14675,
+        "population": 30768
+    },
+    {
+        "id": 3669087,
+        "name": "San Pedro de Urabá",
+        "region": "Antioquia",
+        "lat": 8.27515,
+        "lng": -76.37641,
+        "population": 30527
+    },
+    {
+        "id": 3681563,
+        "name": "Guamo",
+        "region": "Tolima Department",
+        "lat": 4.03078,
+        "lng": -74.9701,
+        "population": 30516
+    },
+    {
+        "id": 3686585,
+        "name": "Chimichagua",
+        "region": "Cesar Department",
+        "lat": 9.25778,
+        "lng": -73.81228,
+        "population": 30289
+    },
+    {
+        "id": 3667887,
+        "name": "Socorro",
+        "region": "Santander Department",
+        "lat": 6.46838,
+        "lng": -73.26022,
+        "population": 29997
+    },
+    {
+        "id": 3674676,
+        "name": "Mitú",
+        "region": "Vaupés",
+        "lat": 1.25744,
+        "lng": -70.23551,
+        "population": 29850
+    },
+    {
+        "id": 3671549,
+        "name": "Puerto Asís",
+        "region": "Putumayo Department",
+        "lat": 0.50514,
+        "lng": -76.49571,
+        "population": 29782
+    },
+    {
+        "id": 3770718,
+        "name": "Morales",
+        "region": "Cauca Department",
+        "lat": 2.75446,
+        "lng": -76.62791,
+        "population": 29737
+    },
+    {
+        "id": 3671208,
+        "name": "Purificación",
+        "region": "Tolima Department",
+        "lat": 3.85871,
+        "lng": -74.93129,
+        "population": 29539
+    },
+    {
+        "id": 3682108,
+        "name": "Garzón",
+        "region": "Huila Department",
+        "lat": 2.19593,
+        "lng": -75.62777,
+        "population": 29451
+    },
+    {
+        "id": 3682458,
+        "name": "Flandes",
+        "region": "Tolima Department",
+        "lat": 4.29005,
+        "lng": -74.81612,
+        "population": 29296
+    },
+    {
+        "id": 3667478,
+        "name": "Tame",
+        "region": "Arauca Department",
+        "lat": 6.46065,
+        "lng": -71.73618,
+        "population": 29099
+    },
+    {
+        "id": 3665559,
+        "name": "Zarzal",
+        "region": "Valle del Cauca Department",
+        "lat": 4.3958,
+        "lng": -76.07113,
+        "population": 28761
+    },
+    {
+        "id": 3668332,
+        "name": "Santo Tomás",
+        "region": "Atlántico",
+        "lat": 10.75773,
+        "lng": -74.75451,
+        "population": 28693
+    },
+    {
+        "id": 3684579,
+        "name": "El Charco",
+        "region": "Nariño",
+        "lat": 2.48075,
+        "lng": -78.10972,
+        "population": 28673
+    },
+    {
+        "id": 3684452,
+        "name": "El Copey",
+        "region": "Cesar Department",
+        "lat": 10.15031,
+        "lng": -73.9614,
+        "population": 28550
+    },
+    {
+        "id": 3680840,
+        "name": "Honda",
+        "region": "Tolima Department",
+        "lat": 5.20856,
+        "lng": -74.73584,
+        "population": 28158
+    },
+    {
+        "id": 3670520,
+        "name": "Sabana de Torres",
+        "region": "Santander Department",
+        "lat": 7.3915,
+        "lng": -73.49574,
+        "population": 27845
+    },
+    {
+        "id": 3675826,
+        "name": "Luruaco",
+        "region": "Atlántico",
+        "lat": 10.61712,
+        "lng": -75.15146,
+        "population": 27647
+    },
+    {
+        "id": 3670644,
+        "name": "Roldanillo",
+        "region": "Valle del Cauca Department",
+        "lat": 4.41369,
+        "lng": -76.15259,
+        "population": 27561
+    },
+    {
+        "id": 3666939,
+        "name": "Santiago de Tolú",
+        "region": "Sucre Department",
+        "lat": 9.52392,
+        "lng": -75.58139,
+        "population": 27390
+    },
+    {
+        "id": 3671531,
+        "name": "Puerto Boyacá",
+        "region": "Boyacá",
+        "lat": 5.976,
+        "lng": -74.58516,
+        "population": 27310
+    },
+    {
+        "id": 3686233,
+        "name": "Circasia",
+        "region": "Quindío Department",
+        "lat": 4.61905,
+        "lng": -75.63584,
+        "population": 27135
+    },
+    {
+        "id": 3677010,
+        "name": "La Tebaida",
+        "region": "Quindío Department",
+        "lat": 4.45242,
+        "lng": -75.7869,
+        "population": 27098
+    },
+    {
+        "id": 3673220,
+        "name": "Palmar de Varela",
+        "region": "Atlántico",
+        "lat": 10.74055,
+        "lng": -74.75443,
+        "population": 27098
+    },
+    {
+        "id": 3686479,
+        "name": "Chiriguaná",
+        "region": "Cesar Department",
+        "lat": 9.36238,
+        "lng": -73.60313,
+        "population": 27006
+    },
+    {
+        "id": 3690250,
+        "name": "Albania",
+        "region": "La Guajira Department",
+        "lat": 11.16099,
+        "lng": -72.59238,
+        "population": 26940
+    },
+    {
+        "id": 3678405,
+        "name": "La Mesa",
+        "region": "Cundinamarca",
+        "lat": 5.26667,
+        "lng": -73.91667,
+        "population": 26699
+    },
+    {
+        "id": 3667697,
+        "name": "Supía",
+        "region": "Caldas Department",
+        "lat": 5.45182,
+        "lng": -75.65107,
+        "population": 26571
+    },
+    {
+        "id": 3689589,
+        "name": "Ariguaní",
+        "region": "Cesar Department",
+        "lat": 10.25,
+        "lng": -74,
+        "population": 26246
+    },
+    {
+        "id": 3667158,
+        "name": "Tierralta",
+        "region": "Córdoba",
+        "lat": 8.17361,
+        "lng": -76.05917,
+        "population": 26242
+    },
+    {
+        "id": 3671497,
+        "name": "Puerto Colombia",
+        "region": "Atlántico",
+        "lat": 10.98778,
+        "lng": -74.95472,
+        "population": 26227
+    },
+    {
+        "id": 3675668,
+        "name": "Mahates",
+        "region": "Bolívar",
+        "lat": 10.23293,
+        "lng": -75.18985,
+        "population": 26075
+    },
+    {
+        "id": 3682682,
+        "name": "El Zulia",
+        "region": "Norte de Santander Department",
+        "lat": 7.93248,
+        "lng": -72.60125,
+        "population": 26019
+    },
+    {
+        "id": 3674885,
+        "name": "Melgar",
+        "region": "Tolima Department",
+        "lat": 4.20475,
+        "lng": -74.64075,
+        "population": 25980
+    },
+    {
+        "id": 3676720,
+        "name": "La Virginia",
+        "region": "Risaralda Department",
+        "lat": 4.90006,
+        "lng": -75.88278,
+        "population": 25900
+    },
+    {
+        "id": 3689952,
+        "name": "Anaime",
+        "region": "Tolima Department",
+        "lat": 4.39639,
+        "lng": -75.445,
+        "population": 25715
+    },
+    {
+        "id": 3670874,
+        "name": "Repelón",
+        "region": "Atlántico",
+        "lat": 10.4952,
+        "lng": -75.12448,
+        "population": 25467
+    },
+    {
+        "id": 3681596,
+        "name": "Guamal",
+        "region": "Magdalena Department",
+        "lat": 9.14334,
+        "lng": -74.22384,
+        "population": 25312
+    },
+    {
+        "id": 3680944,
+        "name": "Hatonuevo",
+        "region": "La Guajira Department",
+        "lat": 11.06944,
+        "lng": -72.76694,
+        "population": 24792
+    },
+    {
+        "id": 3792389,
+        "name": "Isnos",
+        "region": "Huila Department",
+        "lat": 1.93556,
+        "lng": -76.24056,
+        "population": 24593
+    },
+    {
+        "id": 3665566,
+        "name": "Zaragoza",
+        "region": "Antioquia",
+        "lat": 7.48971,
+        "lng": -74.86919,
+        "population": 24067
+    },
+    {
+        "id": 3673976,
+        "name": "Nechí",
+        "region": "Antioquia",
+        "lat": 8.09419,
+        "lng": -74.77573,
+        "population": 24066
+    },
+    {
+        "id": 3685435,
+        "name": "Cumaribo",
+        "region": "Vichada Department",
+        "lat": 4.44552,
+        "lng": -69.79897,
+        "population": 23990
+    },
+    {
+        "id": 3687644,
+        "name": "Candelaria",
+        "region": "Valle del Cauca Department",
+        "lat": 3.40807,
+        "lng": -76.34804,
+        "population": 23989
+    },
+    {
+        "id": 3680434,
+        "name": "Ituango",
+        "region": "Antioquia",
+        "lat": 7.17117,
+        "lng": -75.76404,
+        "population": 23784
+    },
+    {
+        "id": 3669736,
+        "name": "San Jacinto",
+        "region": "Bolívar",
+        "lat": 9.82767,
+        "lng": -75.1217,
+        "population": 23576
+    },
+    {
+        "id": 3669997,
+        "name": "San Carlos",
+        "region": "Córdoba",
+        "lat": 8.79577,
+        "lng": -75.69947,
+        "population": 23532
+    },
+    {
+        "id": 3671936,
+        "name": "Ponedera",
+        "region": "Atlántico",
+        "lat": 10.64297,
+        "lng": -74.75393,
+        "population": 23420
+    },
+    {
+        "id": 3675287,
+        "name": "María la Baja",
+        "region": "Bolívar",
+        "lat": 9.9832,
+        "lng": -75.30155,
+        "population": 23401
+    },
+    {
+        "id": 3792376,
+        "name": "Ciudad Bolívar",
+        "region": "Antioquia",
+        "lat": 5.85389,
+        "lng": -76.02528,
+        "population": 23361
+    },
+    {
+        "id": 3672197,
+        "name": "Pinillos",
+        "region": "Bolívar",
+        "lat": 8.91925,
+        "lng": -74.46771,
+        "population": 23349
+    },
+    {
+        "id": 3689816,
+        "name": "Santa Fe de Antioquia",
+        "region": "Antioquia",
+        "lat": 6.55687,
+        "lng": -75.82806,
+        "population": 23216
+    },
+    {
+        "id": 3667728,
+        "name": "Sucre",
+        "region": "Sucre Department",
+        "lat": 8.81136,
+        "lng": -74.72084,
+        "population": 23210
+    },
+    {
+        "id": 3668087,
+        "name": "Sibaté",
+        "region": "Cundinamarca",
+        "lat": 4.49154,
+        "lng": -74.25957,
+        "population": 23208
+    },
+    {
+        "id": 3670692,
+        "name": "Rivera",
+        "region": "Huila Department",
+        "lat": 2.77717,
+        "lng": -75.25642,
+        "population": 22877
+    },
+    {
+        "id": 3687758,
+        "name": "Campo de la Cruz",
+        "region": "Atlántico",
+        "lat": 10.37808,
+        "lng": -74.88356,
+        "population": 22810
+    },
+    {
+        "id": 3685295,
+        "name": "Dabeiba",
+        "region": "Antioquia",
+        "lat": 7.00017,
+        "lng": -76.26915,
+        "population": 22717
+    },
+    {
+        "id": 3687806,
+        "name": "Campoalegre",
+        "region": "Huila Department",
+        "lat": 2.68489,
+        "lng": -75.32311,
+        "population": 22568
+    },
+    {
+        "id": 3674010,
+        "name": "Natagaima",
+        "region": "Tolima Department",
+        "lat": 3.62057,
+        "lng": -75.09415,
+        "population": 22455
+    },
+    {
+        "id": 3665741,
+        "name": "Yarumal",
+        "region": "Antioquia",
+        "lat": 6.96321,
+        "lng": -75.41738,
+        "population": 22368
+    },
+    {
+        "id": 3669332,
+        "name": "San Martín",
+        "region": "Meta Department",
+        "lat": 3.69637,
+        "lng": -73.69957,
+        "population": 22281
+    },
+    {
+        "id": 3667355,
+        "name": "Tauramena",
+        "region": "Casanare Department",
+        "lat": 5.01789,
+        "lng": -72.74675,
+        "population": 21709
+    },
+    {
+        "id": 3667070,
+        "name": "Timbiquí",
+        "region": "Cauca Department",
+        "lat": 2.7717,
+        "lng": -77.66536,
+        "population": 21618
+    },
+    {
+        "id": 3672077,
+        "name": "Planadas",
+        "region": "Tolima Department",
+        "lat": 3.19698,
+        "lng": -75.64506,
+        "population": 21557
+    },
+    {
+        "id": 3688989,
+        "name": "Belén de Umbría",
+        "region": "Risaralda Department",
+        "lat": 5.20199,
+        "lng": -75.86753,
+        "population": 21450
+    },
+    {
+        "id": 3678674,
+        "name": "La Jagua de Ibirico",
+        "region": "Cesar Department",
+        "lat": 9.56228,
+        "lng": -73.33405,
+        "population": 21386
+    },
+    {
+        "id": 3670280,
+        "name": "Sampués",
+        "region": "Sucre Department",
+        "lat": 9.18361,
+        "lng": -75.38167,
+        "population": 21204
+    },
+    {
+        "id": 3671519,
+        "name": "Puerto Carreño",
+        "region": "Vichada Department",
+        "lat": 6.19041,
+        "lng": -67.48391,
+        "population": 20936
+    },
+    {
+        "id": 3674572,
+        "name": "Moniquirá",
+        "region": "Boyacá",
+        "lat": 5.87638,
+        "lng": -73.57284,
+        "population": 20848
+    },
+    {
+        "id": 3676923,
+        "name": "La Unión",
+        "region": "Antioquia",
+        "lat": 5.97431,
+        "lng": -75.36195,
+        "population": 20769
+    },
+    {
+        "id": 3690431,
+        "name": "Aguadas",
+        "region": "Caldas Department",
+        "lat": 5.61161,
+        "lng": -75.45624,
+        "population": 20712
+    },
+    {
+        "id": 3670849,
+        "name": "Retiro",
+        "region": "Antioquia",
+        "lat": 6.05861,
+        "lng": -75.50306,
+        "population": 20700
+    },
+    {
+        "id": 3665895,
+        "name": "Villeta",
+        "region": "Cundinamarca",
+        "lat": 5.00886,
+        "lng": -74.47226,
+        "population": 20689
+    },
+    {
+        "id": 3792375,
+        "name": "Carepa",
+        "region": "Antioquia",
+        "lat": 7.75849,
+        "lng": -76.65255,
+        "population": 20627
+    },
+    {
+        "id": 3668028,
+        "name": "Silvania",
+        "region": "Cundinamarca",
+        "lat": 4.40367,
+        "lng": -74.3867,
+        "population": 20581
+    },
+    {
+        "id": 3673902,
+        "name": "Neira",
+        "region": "Caldas Department",
+        "lat": 5.16648,
+        "lng": -75.5199,
+        "population": 20495
+    },
+    {
+        "id": 3666519,
+        "name": "Villa de San Diego de Ubaté",
+        "region": "Cundinamarca",
+        "lat": 5.30933,
+        "lng": -73.81575,
+        "population": 20485
+    },
+    {
+        "id": 3689026,
+        "name": "Becerril",
+        "region": "Cesar Department",
+        "lat": 9.70413,
+        "lng": -73.2793,
+        "population": 20477
+    },
+    {
+        "id": 3685733,
+        "name": "Cota",
+        "region": "Cundinamarca",
+        "lat": 4.80938,
+        "lng": -74.098,
+        "population": 20462
+    },
+    {
+        "id": 3670587,
+        "name": "Rovira",
+        "region": "Tolima Department",
+        "lat": 4.23921,
+        "lng": -75.24021,
+        "population": 20452
+    },
+    {
+        "id": 3792385,
+        "name": "San Martín",
+        "region": "Cesar Department",
+        "lat": 8.00181,
+        "lng": -73.51143,
+        "population": 20452
+    },
+    {
+        "id": 3689206,
+        "name": "Barbosa",
+        "region": "Santander Department",
+        "lat": 5.93168,
+        "lng": -73.61507,
+        "population": 20372
+    },
+    {
+        "id": 3682232,
+        "name": "Galeras",
+        "region": "Sucre Department",
+        "lat": 9.16095,
+        "lng": -75.04811,
+        "population": 20239
+    },
+    {
+        "id": 3682313,
+        "name": "Frontino",
+        "region": "Antioquia",
+        "lat": 6.77133,
+        "lng": -76.13324,
+        "population": 20156
+    },
+    {
+        "id": 3671437,
+        "name": "Puerto Leguízamo",
+        "region": "Putumayo Department",
+        "lat": -0.19337,
+        "lng": -74.78189,
+        "population": 20045
+    },
+    {
+        "id": 3666936,
+        "name": "Tolú Viejo",
+        "region": "Sucre Department",
+        "lat": 9.45082,
+        "lng": -75.43864,
+        "population": 20033
+    },
+    {
+        "id": 3669461,
+        "name": "San Juan de Urabá",
+        "region": "Antioquia",
+        "lat": 8.75924,
+        "lng": -76.52969,
+        "population": 19992
+    },
+    {
+        "id": 3686793,
+        "name": "Chaparral",
+        "region": "Tolima Department",
+        "lat": 3.72412,
+        "lng": -75.48386,
+        "population": 19982
+    },
+    {
+        "id": 3688266,
+        "name": "Buesaco",
+        "region": "Nariño",
+        "lat": 1.38364,
+        "lng": -77.15622,
+        "population": 19951
+    },
+    {
+        "id": 3675605,
+        "name": "Málaga",
+        "region": "Santander Department",
+        "lat": 6.69903,
+        "lng": -72.73233,
+        "population": 19884
+    },
+    {
+        "id": 3682238,
+        "name": "Galapa",
+        "region": "Atlántico",
+        "lat": 10.89686,
+        "lng": -74.886,
+        "population": 19732
+    },
+    {
+        "id": 3667773,
+        "name": "Suárez",
+        "region": "Cauca Department",
+        "lat": 2.95395,
+        "lng": -76.69644,
+        "population": 19690
+    },
+    {
+        "id": 3681797,
+        "name": "Guacarí",
+        "region": "Valle del Cauca Department",
+        "lat": 3.76388,
+        "lng": -76.33201,
+        "population": 19637
+    },
+    {
+        "id": 3671950,
+        "name": "Polonuevo",
+        "region": "Atlántico",
+        "lat": 10.77697,
+        "lng": -74.85344,
+        "population": 19454
+    },
+    {
+        "id": 3666232,
+        "name": "Vélez",
+        "region": "Santander Department",
+        "lat": 6.01335,
+        "lng": -73.67352,
+        "population": 19376
+    },
+    {
+        "id": 3683233,
+        "name": "El Retén",
+        "region": "Magdalena Department",
+        "lat": 10.61135,
+        "lng": -74.26824,
+        "population": 19345
+    },
+    {
+        "id": 3673404,
+        "name": "Padua",
+        "region": "Tolima Department",
+        "lat": 5.13429,
+        "lng": -75.14001,
+        "population": 19311
+    },
+    {
+        "id": 3678097,
+        "name": "La Plata",
+        "region": "Huila Department",
+        "lat": 2.39341,
+        "lng": -75.89232,
+        "population": 19275
+    },
+    {
+        "id": 3675512,
+        "name": "Manatí",
+        "region": "Atlántico",
+        "lat": 10.44589,
+        "lng": -74.95869,
+        "population": 19233
+    },
+    {
+        "id": 3670764,
+        "name": "Rioblanco",
+        "region": "Tolima Department",
+        "lat": 3.52973,
+        "lng": -75.64525,
+        "population": 19090
+    },
+    {
+        "id": 3670719,
+        "name": "Riosucio",
+        "region": "Caldas Department",
+        "lat": 5.42126,
+        "lng": -75.70271,
+        "population": 18950
+    },
+    {
+        "id": 3689292,
+        "name": "Balboa",
+        "region": "Cauca Department",
+        "lat": 2.04183,
+        "lng": -77.21646,
+        "population": 18910
+    },
+    {
+        "id": 3666395,
+        "name": "Urrao",
+        "region": "Antioquia",
+        "lat": 6.31696,
+        "lng": -76.1342,
+        "population": 18846
+    },
+    {
+        "id": 3680176,
+        "name": "Juan de Acosta",
+        "region": "Atlántico",
+        "lat": 10.8293,
+        "lng": -75.03346,
+        "population": 18828
+    },
+    {
+        "id": 3780602,
+        "name": "Fredonia",
+        "region": "Antioquia",
+        "lat": 5.92583,
+        "lng": -75.67056,
+        "population": 18790
+    },
+    {
+        "id": 3770955,
+        "name": "Villa Rica",
+        "region": "Cauca Department",
+        "lat": 2.5142,
+        "lng": -76.84939,
+        "population": 18761
+    },
+    {
+        "id": 3665934,
+        "name": "Villanueva",
+        "region": "La Guajira Department",
+        "lat": 10.60768,
+        "lng": -72.97901,
+        "population": 18699
+    },
+    {
+        "id": 3674412,
+        "name": "Morales",
+        "region": "Bolívar",
+        "lat": 8.27621,
+        "lng": -73.86803,
+        "population": 18678
+    },
+    {
+        "id": 3672086,
+        "name": "Pizarro",
+        "region": "Chocó",
+        "lat": 4.95499,
+        "lng": -77.36409,
+        "population": 18561
+    },
+    {
+        "id": 3669947,
+        "name": "San Diego",
+        "region": "Cesar Department",
+        "lat": 10.33384,
+        "lng": -73.18048,
+        "population": 18531
+    },
+    {
+        "id": 3689458,
+        "name": "Astrea",
+        "region": "Cesar Department",
+        "lat": 9.49828,
+        "lng": -73.97591,
+        "population": 18434
+    },
+    {
+        "id": 3668472,
+        "name": "Santa Rosa",
+        "region": "Bolívar",
+        "lat": 10.44472,
+        "lng": -75.36972,
+        "population": 18375
+    },
+    {
+        "id": 3686445,
+        "name": "Chivolo",
+        "region": "Magdalena Department",
+        "lat": 10.02502,
+        "lng": -74.62279,
+        "population": 18208
+    },
+    {
+        "id": 3670038,
+        "name": "San Benito Abad",
+        "region": "Sucre Department",
+        "lat": 8.92901,
+        "lng": -75.02709,
+        "population": 18181
+    },
+    {
+        "id": 3689905,
+        "name": "Andalucía",
+        "region": "Valle del Cauca Department",
+        "lat": 4.16983,
+        "lng": -76.16716,
+        "population": 18132
+    },
+    {
+        "id": 3670370,
+        "name": "Salamina",
+        "region": "Caldas Department",
+        "lat": 5.40733,
+        "lng": -75.48749,
+        "population": 18076
+    },
+    {
+        "id": 3668302,
+        "name": "San Vicente",
+        "region": "Antioquia",
+        "lat": 6.28535,
+        "lng": -75.33385,
+        "population": 18051
+    },
+    {
+        "id": 3792380,
+        "name": "Tiquisio",
+        "region": "Bolívar",
+        "lat": 8.55666,
+        "lng": -74.26355,
+        "population": 17939
+    },
+    {
+        "id": 3684276,
+        "name": "El Doncello",
+        "region": "Caquetá",
+        "lat": 1.67817,
+        "lng": -75.28466,
+        "population": 17775
+    },
+    {
+        "id": 3668323,
+        "name": "Santuario",
+        "region": "Antioquia",
+        "lat": 6.13833,
+        "lng": -75.26417,
+        "population": 17722
+    },
+    {
+        "id": 3682330,
+        "name": "Fresno",
+        "region": "Tolima Department",
+        "lat": 5.15264,
+        "lng": -75.03624,
+        "population": 17668
+    },
+    {
+        "id": 3684689,
+        "name": "El Carmen de Chucurí",
+        "region": "Santander Department",
+        "lat": 6.69736,
+        "lng": -73.51117,
+        "population": 17638
+    },
+    {
+        "id": 3686272,
+        "name": "Ciénaga de Oro",
+        "region": "Córdoba",
+        "lat": 8.87443,
+        "lng": -75.62028,
+        "population": 17623
+    },
+    {
+        "id": 3670855,
+        "name": "Restrepo",
+        "region": "Meta Department",
+        "lat": 4.25833,
+        "lng": -73.56142,
+        "population": 17610
+    },
+    {
+        "id": 3690592,
+        "name": "Abejorral",
+        "region": "Antioquia",
+        "lat": 5.78928,
+        "lng": -75.42725,
+        "population": 17599
+    },
+    {
+        "id": 3665691,
+        "name": "Yondó",
+        "region": "Antioquia",
+        "lat": 7.00621,
+        "lng": -73.90972,
+        "population": 17597
+    },
+    {
+        "id": 3673756,
+        "name": "Nueva Granada",
+        "region": "Magdalena Department",
+        "lat": 9.80168,
+        "lng": -74.39304,
+        "population": 17470
+    },
+    {
+        "id": 3671308,
+        "name": "Puerto Triunfo",
+        "region": "Antioquia",
+        "lat": 5.87259,
+        "lng": -74.6405,
+        "population": 17231
+    },
+    {
+        "id": 3676626,
+        "name": "Lérida",
+        "region": "Tolima Department",
+        "lat": 4.86242,
+        "lng": -74.90977,
+        "population": 17197
+    },
+    {
+        "id": 3667579,
+        "name": "Tadó",
+        "region": "Chocó",
+        "lat": 5.26353,
+        "lng": -76.56174,
+        "population": 17000
+    },
+    {
+        "id": 3673379,
+        "name": "Pailitas",
+        "region": "Cesar Department",
+        "lat": 8.95671,
+        "lng": -73.62378,
+        "population": 16800
+    },
+    {
+        "id": 3673424,
+        "name": "Pacho",
+        "region": "Cundinamarca",
+        "lat": 5.13278,
+        "lng": -74.15977,
+        "population": 16698
+    },
+    {
+        "id": 3671418,
+        "name": "Puerto López",
+        "region": "Meta Department",
+        "lat": 4.09912,
+        "lng": -72.95647,
+        "population": 16678
+    },
+    {
+        "id": 3669440,
+        "name": "San Lorenzo",
+        "region": "Nariño",
+        "lat": 1.50294,
+        "lng": -77.21537,
+        "population": 16653
+    },
+    {
+        "id": 3675409,
+        "name": "Manzanares",
+        "region": "Caldas Department",
+        "lat": 5.25397,
+        "lng": -75.15403,
+        "population": 16532
+    },
+    {
+        "id": 3669929,
+        "name": "San Estanislao",
+        "region": "Bolívar",
+        "lat": 10.39833,
+        "lng": -75.15111,
+        "population": 16518
+    },
+    {
+        "id": 3671228,
+        "name": "Pupiales",
+        "region": "Nariño",
+        "lat": 0.87136,
+        "lng": -77.64027,
+        "population": 16431
+    },
+    {
+        "id": 3689899,
+        "name": "Andes",
+        "region": "Antioquia",
+        "lat": 5.65576,
+        "lng": -75.87959,
+        "population": 16419
+    },
+    {
+        "id": 3671325,
+        "name": "Puerto Santander",
+        "region": "Norte de Santander Department",
+        "lat": 8.36361,
+        "lng": -72.4063,
+        "population": 16275
+    },
+    {
+        "id": 3674603,
+        "name": "Momil",
+        "region": "Córdoba",
+        "lat": 9.23767,
+        "lng": -75.67489,
+        "population": 16264
+    },
+    {
+        "id": 3685724,
+        "name": "Cotorra",
+        "region": "Córdoba",
+        "lat": 9.03886,
+        "lng": -75.78969,
+        "population": 16215
+    },
+    {
+        "id": 3667386,
+        "name": "Tarqui",
+        "region": "Huila Department",
+        "lat": 2.11248,
+        "lng": -75.82419,
+        "population": 16108
+    },
+    {
+        "id": 3686013,
+        "name": "Concordia",
+        "region": "Antioquia",
+        "lat": 6.04639,
+        "lng": -75.90705,
+        "population": 16095
+    },
+    {
+        "id": 3681733,
+        "name": "Guadalupe",
+        "region": "Huila Department",
+        "lat": 2.0248,
+        "lng": -75.75589,
+        "population": 15913
+    },
+    {
+        "id": 3670350,
+        "name": "Salgar",
+        "region": "Antioquia",
+        "lat": 5.96502,
+        "lng": -75.96541,
+        "population": 15782
+    },
+    {
+        "id": 3685273,
+        "name": "Darien",
+        "region": "Valle del Cauca Department",
+        "lat": 3.93135,
+        "lng": -76.48481,
+        "population": 15763
+    },
+    {
+        "id": 3668655,
+        "name": "Santa Lucía",
+        "region": "Atlántico",
+        "lat": 10.3242,
+        "lng": -74.96017,
+        "population": 15760
+    },
+    {
+        "id": 3690316,
+        "name": "Aguazul",
+        "region": "Casanare Department",
+        "lat": 5.17282,
+        "lng": -72.54706,
+        "population": 15669
+    },
+    {
+        "id": 3687634,
+        "name": "Candelaria",
+        "region": "Atlántico",
+        "lat": 10.45912,
+        "lng": -74.8797,
+        "population": 15631
+    },
+    {
+        "id": 3675212,
+        "name": "Marsella",
+        "region": "Risaralda Department",
+        "lat": 4.93697,
+        "lng": -75.73793,
+        "population": 15455
+    },
+    {
+        "id": 3666997,
+        "name": "Tocancipá",
+        "region": "Cundinamarca",
+        "lat": 4.96531,
+        "lng": -73.91301,
+        "population": 15355
+    },
+    {
+        "id": 3668012,
+        "name": "Simití",
+        "region": "Bolívar",
+        "lat": 7.9579,
+        "lng": -73.9436,
+        "population": 15353
+    },
+    {
+        "id": 3688840,
+        "name": "Betulia",
+        "region": "Antioquia",
+        "lat": 6.11284,
+        "lng": -75.98378,
+        "population": 15097
+    },
+    {
+        "id": 3676934,
+        "name": "La Unión",
+        "region": "Nariño",
+        "lat": 1.6045,
+        "lng": -77.13152,
+        "population": 15061
+    },
+    {
+        "id": 3671330,
+        "name": "Puerto Salgar",
+        "region": "Cundinamarca",
+        "lat": 5.46304,
+        "lng": -74.65436,
+        "population": 15019
+    }
+]

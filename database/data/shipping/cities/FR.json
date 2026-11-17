@@ -1,0 +1,5538 @@
+[
+    {
+        "id": 2988507,
+        "name": "Paris",
+        "region": "Île-de-France",
+        "lat": 48.85341,
+        "lng": 2.3488,
+        "population": 2138551
+    },
+    {
+        "id": 2995469,
+        "name": "Marseille",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29695,
+        "lng": 5.38107,
+        "population": 877215
+    },
+    {
+        "id": 2996944,
+        "name": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.74906,
+        "lng": 4.84789,
+        "population": 520774
+    },
+    {
+        "id": 2972315,
+        "name": "Toulouse",
+        "region": "Occitanie",
+        "lat": 43.60426,
+        "lng": 1.44367,
+        "population": 511684
+    },
+    {
+        "id": 2990440,
+        "name": "Nice",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.70313,
+        "lng": 7.26608,
+        "population": 342669
+    },
+    {
+        "id": 2990969,
+        "name": "Nantes",
+        "region": "Pays de la Loire",
+        "lat": 47.21725,
+        "lng": -1.55336,
+        "population": 325070
+    },
+    {
+        "id": 12278193,
+        "name": "Marne La Vallée",
+        "region": "Île-de-France",
+        "lat": 48.83584,
+        "lng": 2.64241,
+        "population": 318325
+    },
+    {
+        "id": 2973783,
+        "name": "Strasbourg",
+        "region": "Grand Est",
+        "lat": 48.58392,
+        "lng": 7.74553,
+        "population": 274845
+    },
+    {
+        "id": 3031582,
+        "name": "Bordeaux",
+        "region": "New Aquitaine",
+        "lat": 44.84124,
+        "lng": -0.58046,
+        "population": 265328
+    },
+    {
+        "id": 2992166,
+        "name": "Montpellier",
+        "region": "Occitanie",
+        "lat": 43.61093,
+        "lng": 3.87635,
+        "population": 248252
+    },
+    {
+        "id": 2998324,
+        "name": "Lille",
+        "region": "Hauts-de-France",
+        "lat": 50.63391,
+        "lng": 3.05512,
+        "population": 238695
+    },
+    {
+        "id": 2970479,
+        "name": "Paris 15 Vaugirard",
+        "region": "Île-de-France",
+        "lat": 48.8412,
+        "lng": 2.3003,
+        "population": 229713
+    },
+    {
+        "id": 2983990,
+        "name": "Rennes",
+        "region": "Brittany",
+        "lat": 48.11109,
+        "lng": -1.67431,
+        "population": 227830
+    },
+    {
+        "id": 2984114,
+        "name": "Reims",
+        "region": "Grand Est",
+        "lat": 49.26526,
+        "lng": 4.02853,
+        "population": 196565
+    },
+    {
+        "id": 3003796,
+        "name": "Le Havre",
+        "region": "Normandy",
+        "lat": 49.49346,
+        "lng": 0.10785,
+        "population": 185972
+    },
+    {
+        "id": 2994540,
+        "name": "Paris 20 Ménilmontant",
+        "region": "Île-de-France",
+        "lat": 48.8646,
+        "lng": 2.3984,
+        "population": 185140
+    },
+    {
+        "id": 8555643,
+        "name": "Cergy-Pontoise",
+        "region": "Île-de-France",
+        "lat": 49.03894,
+        "lng": 2.07805,
+        "population": 183430
+    },
+    {
+        "id": 3029374,
+        "name": "Paris 18 Buttes-Montmartre",
+        "region": "Île-de-France",
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "population": 183127
+    },
+    {
+        "id": 3015772,
+        "name": "Paris 13 Gobelins",
+        "region": "Île-de-France",
+        "lat": 48.8322,
+        "lng": 2.3561,
+        "population": 181271
+    },
+    {
+        "id": 3029372,
+        "name": "Paris 19 Buttes-Chaumont",
+        "region": "Île-de-France",
+        "lat": 48.8817,
+        "lng": 2.3822,
+        "population": 178691
+    },
+    {
+        "id": 12808673,
+        "name": "Paris 13e Arrondissement",
+        "region": "Île-de-France",
+        "lat": 48.8262,
+        "lng": 2.35986,
+        "population": 177833
+    },
+    {
+        "id": 2980291,
+        "name": "Saint-Étienne",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.43389,
+        "lng": 4.39,
+        "population": 176280
+    },
+    {
+        "id": 2972328,
+        "name": "Toulon",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.12442,
+        "lng": 5.92836,
+        "population": 168701
+    },
+    {
+        "id": 3037656,
+        "name": "Angers",
+        "region": "Pays de la Loire",
+        "lat": 47.47156,
+        "lng": -0.55202,
+        "population": 168279
+    },
+    {
+        "id": 3021372,
+        "name": "Dijon",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.31344,
+        "lng": 5.01391,
+        "population": 159941
+    },
+    {
+        "id": 2988394,
+        "name": "Paris 16 Passy",
+        "region": "Île-de-France",
+        "lat": 48.8637,
+        "lng": 2.2769,
+        "population": 159386
+    },
+    {
+        "id": 3034610,
+        "name": "Paris 17 Batignolles-Monceau",
+        "region": "Île-de-France",
+        "lat": 48.8835,
+        "lng": 2.3219,
+        "population": 159212
+    },
+    {
+        "id": 3014728,
+        "name": "Grenoble",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.17869,
+        "lng": 5.71479,
+        "population": 158552
+    },
+    {
+        "id": 2990363,
+        "name": "Nîmes",
+        "region": "Occitanie",
+        "lat": 43.83665,
+        "lng": 4.35788,
+        "population": 148236
+    },
+    {
+        "id": 3024635,
+        "name": "Clermont-Ferrand",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.77969,
+        "lng": 3.08682,
+        "population": 147865
+    },
+    {
+        "id": 3038354,
+        "name": "Aix-en-Provence",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.5283,
+        "lng": 5.44973,
+        "population": 146821
+    },
+    {
+        "id": 8533870,
+        "name": "Saint-Quentin-en-Yvelines",
+        "region": "Île-de-France",
+        "lat": 48.77186,
+        "lng": 2.01891,
+        "population": 146598
+    },
+    {
+        "id": 3030300,
+        "name": "Brest",
+        "region": "Brittany",
+        "lat": 48.39029,
+        "lng": -4.48628,
+        "population": 144899
+    },
+    {
+        "id": 3003603,
+        "name": "Le Mans",
+        "region": "Pays de la Loire",
+        "lat": 48.0021,
+        "lng": 0.20251,
+        "population": 144515
+    },
+    {
+        "id": 12808658,
+        "name": "Paris 11e Arrondissement",
+        "region": "Île-de-France",
+        "lat": 48.85834,
+        "lng": 2.37952,
+        "population": 144292
+    },
+    {
+        "id": 3037854,
+        "name": "Amiens",
+        "region": "Hauts-de-France",
+        "lat": 49.9,
+        "lng": 2.3,
+        "population": 143086
+    },
+    {
+        "id": 2972191,
+        "name": "Tours",
+        "region": "Centre-Val de Loire",
+        "lat": 47.39484,
+        "lng": 0.70398,
+        "population": 141621
+    },
+    {
+        "id": 2998286,
+        "name": "Limoges",
+        "region": "New Aquitaine",
+        "lat": 45.83362,
+        "lng": 1.24759,
+        "population": 141176
+    },
+    {
+        "id": 12808663,
+        "name": "Paris 12e Arrondissement",
+        "region": "Île-de-France",
+        "lat": 48.83523,
+        "lng": 2.43505,
+        "population": 140311
+    },
+    {
+        "id": 2986082,
+        "name": "Paris 11 Popincourt",
+        "region": "Île-de-France",
+        "lat": 48.8574,
+        "lng": 2.3795,
+        "population": 138170
+    },
+    {
+        "id": 2983854,
+        "name": "Paris 12 Reuilly",
+        "region": "Île-de-France",
+        "lat": 48.8412,
+        "lng": 2.3876,
+        "population": 138024
+    },
+    {
+        "id": 2989781,
+        "name": "Paris 14 Observatoire",
+        "region": "Île-de-France",
+        "lat": 48.8331,
+        "lng": 2.3264,
+        "population": 136455
+    },
+    {
+        "id": 2968254,
+        "name": "Villeurbanne",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76601,
+        "lng": 4.8795,
+        "population": 131445
+    },
+    {
+        "id": 3033123,
+        "name": "Besançon",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.24878,
+        "lng": 6.01815,
+        "population": 128426
+    },
+    {
+        "id": 2994160,
+        "name": "Metz",
+        "region": "Grand Est",
+        "lat": 49.11911,
+        "lng": 6.17269,
+        "population": 123914
+    },
+    {
+        "id": 2989317,
+        "name": "Orléans",
+        "region": "Centre-Val de Loire",
+        "lat": 47.90248,
+        "lng": 1.90407,
+        "population": 116344
+    },
+    {
+        "id": 2982652,
+        "name": "Rouen",
+        "region": "Normandy",
+        "lat": 49.44313,
+        "lng": 1.09932,
+        "population": 116331
+    },
+    {
+        "id": 2991214,
+        "name": "Mulhouse",
+        "region": "Grand Est",
+        "lat": 47.75205,
+        "lng": 7.32866,
+        "population": 111430
+    },
+    {
+        "id": 2992090,
+        "name": "Montreuil",
+        "region": "Île-de-France",
+        "lat": 48.86415,
+        "lng": 2.44322,
+        "population": 111240
+    },
+    {
+        "id": 2987914,
+        "name": "Perpignan",
+        "region": "Occitanie",
+        "lat": 42.69764,
+        "lng": 2.89541,
+        "population": 110706
+    },
+    {
+        "id": 3029241,
+        "name": "Caen",
+        "region": "Normandy",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "population": 110624
+    },
+    {
+        "id": 3031137,
+        "name": "Boulogne-Billancourt",
+        "region": "Île-de-France",
+        "lat": 48.83545,
+        "lng": 2.24128,
+        "population": 108782
+    },
+    {
+        "id": 2990999,
+        "name": "Nancy",
+        "region": "Grand Est",
+        "lat": 48.68439,
+        "lng": 6.18496,
+        "population": 105058
+    },
+    {
+        "id": 6543969,
+        "name": "Lyon 03",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76124,
+        "lng": 4.85184,
+        "population": 102725
+    },
+    {
+        "id": 3037044,
+        "name": "Argenteuil",
+        "region": "Île-de-France",
+        "lat": 48.94788,
+        "lng": 2.24744,
+        "population": 101475
+    },
+    {
+        "id": 2982681,
+        "name": "Roubaix",
+        "region": "Hauts-de-France",
+        "lat": 50.69421,
+        "lng": 3.17456,
+        "population": 99507
+    },
+    {
+        "id": 2972284,
+        "name": "Tourcoing",
+        "region": "Hauts-de-France",
+        "lat": 50.72391,
+        "lng": 3.16117,
+        "population": 99160
+    },
+    {
+        "id": 2980916,
+        "name": "Saint-Denis",
+        "region": "Île-de-France",
+        "lat": 48.93564,
+        "lng": 2.35387,
+        "population": 96128
+    },
+    {
+        "id": 3035681,
+        "name": "Avignon",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.94834,
+        "lng": 4.80892,
+        "population": 89769
+    },
+    {
+        "id": 7284894,
+        "name": "Marseille 13",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.31856,
+        "lng": 5.40836,
+        "population": 89316
+    },
+    {
+        "id": 3036572,
+        "name": "Asnières-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.91667,
+        "lng": 2.28333,
+        "population": 86742
+    },
+    {
+        "id": 2990970,
+        "name": "Nanterre",
+        "region": "Île-de-France",
+        "lat": 48.89198,
+        "lng": 2.20675,
+        "population": 86719
+    },
+    {
+        "id": 3020686,
+        "name": "Dunkirk",
+        "region": "Hauts-de-France",
+        "lat": 51.0344,
+        "lng": 2.37681,
+        "population": 86263
+    },
+    {
+        "id": 6543974,
+        "name": "Lyon 08",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.73626,
+        "lng": 4.86866,
+        "population": 86154
+    },
+    {
+        "id": 2986495,
+        "name": "Poitiers",
+        "region": "New Aquitaine",
+        "lat": 46.58261,
+        "lng": 0.34348,
+        "population": 85960
+    },
+    {
+        "id": 2969679,
+        "name": "Versailles",
+        "region": "Île-de-France",
+        "lat": 48.80359,
+        "lng": 2.13424,
+        "population": 85416
+    },
+    {
+        "id": 3023141,
+        "name": "Courbevoie",
+        "region": "Île-de-France",
+        "lat": 48.89672,
+        "lng": 2.25666,
+        "population": 85158
+    },
+    {
+        "id": 3022530,
+        "name": "Créteil",
+        "region": "Île-de-France",
+        "lat": 48.79266,
+        "lng": 2.46569,
+        "population": 84833
+    },
+    {
+        "id": 3020216,
+        "name": "Paris 10 Entrepôt",
+        "region": "Île-de-France",
+        "lat": 48.8709,
+        "lng": 2.3561,
+        "population": 83873
+    },
+    {
+        "id": 12808653,
+        "name": "Paris 10e Arrondissement",
+        "region": "Île-de-France",
+        "lat": 48.87668,
+        "lng": 2.35904,
+        "population": 83459
+    },
+    {
+        "id": 2988358,
+        "name": "Pau",
+        "region": "New Aquitaine",
+        "lat": 43.31117,
+        "lng": -0.35583,
+        "population": 82697
+    },
+    {
+        "id": 6543973,
+        "name": "Lyon 07",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.74525,
+        "lng": 4.84197,
+        "population": 82573
+    },
+    {
+        "id": 3024266,
+        "name": "Colombes",
+        "region": "Île-de-France",
+        "lat": 48.91882,
+        "lng": 2.25404,
+        "population": 82300
+    },
+    {
+        "id": 2967849,
+        "name": "Vitry-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.78716,
+        "lng": 2.40332,
+        "population": 81001
+    },
+    {
+        "id": 3036145,
+        "name": "Aulnay-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.93814,
+        "lng": 2.49402,
+        "population": 80615
+    },
+    {
+        "id": 7284889,
+        "name": "Marseille 08",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.27083,
+        "lng": 5.3821,
+        "population": 78837
+    },
+    {
+        "id": 7284896,
+        "name": "Marseille 15",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.37224,
+        "lng": 5.35386,
+        "population": 77770
+    },
+    {
+        "id": 7284891,
+        "name": "Marseille 09",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.25433,
+        "lng": 5.4057,
+        "population": 76868
+    },
+    {
+        "id": 3006787,
+        "name": "La Rochelle",
+        "region": "New Aquitaine",
+        "lat": 46.16308,
+        "lng": -1.15222,
+        "population": 76810
+    },
+    {
+        "id": 3027105,
+        "name": "Champigny-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.81642,
+        "lng": 2.49366,
+        "population": 76726
+    },
+    {
+        "id": 2982235,
+        "name": "Rueil-Malmaison",
+        "region": "Île-de-France",
+        "lat": 48.8765,
+        "lng": 2.18967,
+        "population": 76616
+    },
+    {
+        "id": 3037456,
+        "name": "Antibes",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.58127,
+        "lng": 7.12487,
+        "population": 76393
+    },
+    {
+        "id": 12808675,
+        "name": "Gare",
+        "region": "Île-de-France",
+        "lat": 48.83337,
+        "lng": 2.37513,
+        "population": 75580
+    },
+    {
+        "id": 2978179,
+        "name": "Saint-Maur-des-Fossés",
+        "region": "Île-de-France",
+        "lat": 48.79395,
+        "lng": 2.49323,
+        "population": 75402
+    },
+    {
+        "id": 3028808,
+        "name": "Cannes",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.55135,
+        "lng": 7.01275,
+        "population": 74545
+    },
+    {
+        "id": 3029162,
+        "name": "Calais",
+        "region": "Hauts-de-France",
+        "lat": 50.95194,
+        "lng": 1.85635,
+        "population": 74433
+    },
+    {
+        "id": 3032833,
+        "name": "Béziers",
+        "region": "Occitanie",
+        "lat": 43.34122,
+        "lng": 3.21402,
+        "population": 74081
+    },
+    {
+        "id": 3036386,
+        "name": "Aubervilliers",
+        "region": "Île-de-France",
+        "lat": 48.91667,
+        "lng": 2.38333,
+        "population": 70914
+    },
+    {
+        "id": 2994393,
+        "name": "Mérignac",
+        "region": "New Aquitaine",
+        "lat": 44.84247,
+        "lng": -0.64512,
+        "population": 69791
+    },
+    {
+        "id": 3031005,
+        "name": "Bourges",
+        "region": "Centre-Val de Loire",
+        "lat": 47.08333,
+        "lng": 2.4,
+        "population": 67987
+    },
+    {
+        "id": 2977921,
+        "name": "Saint-Nazaire",
+        "region": "Pays de la Loire",
+        "lat": 47.27506,
+        "lng": -2.2179,
+        "population": 67054
+    },
+    {
+        "id": 3024297,
+        "name": "Colmar",
+        "region": "Grand Est",
+        "lat": 48.08078,
+        "lng": 7.35584,
+        "population": 65405
+    },
+    {
+        "id": 12808676,
+        "name": "Maison Blanche",
+        "region": "Île-de-France",
+        "lat": 48.82586,
+        "lng": 2.3508,
+        "population": 64302
+    },
+    {
+        "id": 2971053,
+        "name": "Valence",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 44.9256,
+        "lng": 4.90956,
+        "population": 63864
+    },
+    {
+        "id": 2984701,
+        "name": "Quimper",
+        "region": "Brittany",
+        "lat": 47.99597,
+        "lng": -4.09795,
+        "population": 63849
+    },
+    {
+        "id": 3020839,
+        "name": "Drancy",
+        "region": "Île-de-France",
+        "lat": 48.92578,
+        "lng": 2.44533,
+        "population": 62488
+    },
+    {
+        "id": 2990189,
+        "name": "Noisy-le-Grand",
+        "region": "Île-de-France",
+        "lat": 48.84979,
+        "lng": 2.56266,
+        "population": 62420
+    },
+    {
+        "id": 6543862,
+        "name": "Villeneuve-d'Ascq",
+        "region": "Hauts-de-France",
+        "lat": 50.61669,
+        "lng": 3.16664,
+        "population": 62400
+    },
+    {
+        "id": 3006414,
+        "name": "La Seyne-sur-Mer",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.10322,
+        "lng": 5.87816,
+        "population": 62330
+    },
+    {
+        "id": 2998975,
+        "name": "Levallois-Perret",
+        "region": "Île-de-France",
+        "lat": 48.89389,
+        "lng": 2.28864,
+        "population": 62178
+    },
+    {
+        "id": 7284895,
+        "name": "Marseille 14",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.34447,
+        "lng": 5.38004,
+        "population": 61920
+    },
+    {
+        "id": 12547038,
+        "name": "Picpus",
+        "region": "Île-de-France",
+        "lat": 48.84258,
+        "lng": 2.40014,
+        "population": 61920
+    },
+    {
+        "id": 3027422,
+        "name": "Chambéry",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.56628,
+        "lng": 5.92079,
+        "population": 61640
+    },
+    {
+        "id": 3012649,
+        "name": "Issy-les-Moulineaux",
+        "region": "Île-de-France",
+        "lat": 48.82104,
+        "lng": 2.27718,
+        "population": 61447
+    },
+    {
+        "id": 2990611,
+        "name": "Neuilly-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.8846,
+        "lng": 2.26965,
+        "population": 61300
+    },
+    {
+        "id": 2971549,
+        "name": "Troyes",
+        "region": "Grand Est",
+        "lat": 48.30073,
+        "lng": 4.08524,
+        "population": 60785
+    },
+    {
+        "id": 3012142,
+        "name": "Juan-les-Pins",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.56945,
+        "lng": 7.11309,
+        "population": 60000
+    },
+    {
+        "id": 3037423,
+        "name": "Antony",
+        "region": "Île-de-France",
+        "lat": 48.75329,
+        "lng": 2.29668,
+        "population": 59845
+    },
+    {
+        "id": 3006767,
+        "name": "La Roche-sur-Yon",
+        "region": "Pays de la Loire",
+        "lat": 46.66974,
+        "lng": -1.42757,
+        "population": 59410
+    },
+    {
+        "id": 7284893,
+        "name": "Marseille 12",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29614,
+        "lng": 5.43617,
+        "population": 58734
+    },
+    {
+        "id": 2997577,
+        "name": "Lorient",
+        "region": "Brittany",
+        "lat": 47.74817,
+        "lng": -3.37177,
+        "population": 58112
+    },
+    {
+        "id": 2976043,
+        "name": "Sarcelles",
+        "region": "Île-de-France",
+        "lat": 48.99739,
+        "lng": 2.37821,
+        "population": 57979
+    },
+    {
+        "id": 2987805,
+        "name": "Pessac",
+        "region": "New Aquitaine",
+        "lat": 44.80565,
+        "lng": -0.6324,
+        "population": 57944
+    },
+    {
+        "id": 3012621,
+        "name": "Ivry-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.81568,
+        "lng": 2.38487,
+        "population": 57897
+    },
+    {
+        "id": 3019265,
+        "name": "Évreux",
+        "region": "Normandy",
+        "lat": 49.02414,
+        "lng": 1.15082,
+        "population": 57795
+    },
+    {
+        "id": 2970072,
+        "name": "Vénissieux",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.69706,
+        "lng": 4.88593,
+        "population": 57584
+    },
+    {
+        "id": 3027883,
+        "name": "Cergy",
+        "region": "Île-de-France",
+        "lat": 49.03645,
+        "lng": 2.07613,
+        "population": 57576
+    },
+    {
+        "id": 3024597,
+        "name": "Clichy",
+        "region": "Île-de-France",
+        "lat": 48.90018,
+        "lng": 2.30952,
+        "population": 57467
+    },
+    {
+        "id": 2989487,
+        "name": "Paris 09 Opéra",
+        "region": "Île-de-France",
+        "lat": 48.8718,
+        "lng": 2.3399,
+        "population": 57271
+    },
+    {
+        "id": 7284892,
+        "name": "Marseille 11",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.2907,
+        "lng": 5.4384,
+        "population": 56792
+    },
+    {
+        "id": 2977295,
+        "name": "Saint-Quentin",
+        "region": "Hauts-de-France",
+        "lat": 49.84889,
+        "lng": 3.28757,
+        "population": 55407
+    },
+    {
+        "id": 2988623,
+        "name": "Paris 05 Panthéon",
+        "region": "Île-de-France",
+        "lat": 48.8448,
+        "lng": 2.3471,
+        "population": 55252
+    },
+    {
+        "id": 2990355,
+        "name": "Niort",
+        "region": "New Aquitaine",
+        "lat": 46.32313,
+        "lng": -0.45877,
+        "population": 54660
+    },
+    {
+        "id": 3033791,
+        "name": "Belfort",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.64218,
+        "lng": 6.85385,
+        "population": 54562
+    },
+    {
+        "id": 3038334,
+        "name": "Ajaccio",
+        "region": "Corsica",
+        "lat": 41.91886,
+        "lng": 8.73812,
+        "population": 54364
+    },
+    {
+        "id": 2970777,
+        "name": "Vannes",
+        "region": "Brittany",
+        "lat": 47.65688,
+        "lng": -2.76205,
+        "population": 54020
+    },
+    {
+        "id": 2975921,
+        "name": "Sartrouville",
+        "region": "Île-de-France",
+        "lat": 48.9482,
+        "lng": 2.19169,
+        "population": 53980
+    },
+    {
+        "id": 2996568,
+        "name": "Maisons-Alfort",
+        "region": "Île-de-France",
+        "lat": 48.81171,
+        "lng": 2.43945,
+        "population": 53964
+    },
+    {
+        "id": 2994798,
+        "name": "Meaux",
+        "region": "Île-de-France",
+        "lat": 48.96014,
+        "lng": 2.87885,
+        "population": 53811
+    },
+    {
+        "id": 3032213,
+        "name": "Blois",
+        "region": "Centre-Val de Loire",
+        "lat": 47.59432,
+        "lng": 1.32912,
+        "population": 53660
+    },
+    {
+        "id": 3029974,
+        "name": "Brive-la-Gaillarde",
+        "region": "New Aquitaine",
+        "lat": 45.1589,
+        "lng": 1.53326,
+        "population": 53466
+    },
+    {
+        "id": 3036938,
+        "name": "Arles",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.67681,
+        "lng": 4.63031,
+        "population": 53431
+    },
+    {
+        "id": 3034006,
+        "name": "Beauvais",
+        "region": "Hauts-de-France",
+        "lat": 49.43333,
+        "lng": 2.08333,
+        "population": 53393
+    },
+    {
+        "id": 3026204,
+        "name": "Châteauroux",
+        "region": "Centre-Val de Loire",
+        "lat": 46.81248,
+        "lng": 1.69362,
+        "population": 53301
+    },
+    {
+        "id": 3025053,
+        "name": "Cholet",
+        "region": "Pays de la Loire",
+        "lat": 47.05893,
+        "lng": -0.87974,
+        "population": 53160
+    },
+    {
+        "id": 3017253,
+        "name": "Fréjus",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.43325,
+        "lng": 6.73555,
+        "population": 53098
+    },
+    {
+        "id": 2988621,
+        "name": "Pantin",
+        "region": "Île-de-France",
+        "lat": 48.89437,
+        "lng": 2.40935,
+        "population": 52922
+    },
+    {
+        "id": 6543972,
+        "name": "Lyon 06",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76788,
+        "lng": 4.85064,
+        "population": 52862
+    },
+    {
+        "id": 2981280,
+        "name": "Saint-Brieuc",
+        "region": "Brittany",
+        "lat": 48.51513,
+        "lng": -2.76838,
+        "population": 52774
+    },
+    {
+        "id": 2993002,
+        "name": "Montauban",
+        "region": "Occitanie",
+        "lat": 44.01759,
+        "lng": 1.3542,
+        "population": 52434
+    },
+    {
+        "id": 3026613,
+        "name": "Charleville-Mézières",
+        "region": "Grand Est",
+        "lat": 49.7685,
+        "lng": 4.72487,
+        "population": 52415
+    },
+    {
+        "id": 3038261,
+        "name": "Albi",
+        "region": "Occitanie",
+        "lat": 43.9298,
+        "lng": 2.148,
+        "population": 52409
+    },
+    {
+        "id": 2973385,
+        "name": "Tarbes",
+        "region": "Occitanie",
+        "lat": 43.23407,
+        "lng": 0.07139,
+        "population": 52106
+    },
+    {
+        "id": 3017910,
+        "name": "Fontenay-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.85442,
+        "lng": 2.48268,
+        "population": 52075
+    },
+    {
+        "id": 6543975,
+        "name": "Lyon 09",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.77255,
+        "lng": 4.80326,
+        "population": 51983
+    },
+    {
+        "id": 3019256,
+        "name": "Évry",
+        "region": "Île-de-France",
+        "lat": 48.6328,
+        "lng": 2.44049,
+        "population": 51900
+    },
+    {
+        "id": 3024783,
+        "name": "Clamart",
+        "region": "Île-de-France",
+        "lat": 48.80299,
+        "lng": 2.26692,
+        "population": 51400
+    },
+    {
+        "id": 7284890,
+        "name": "Marseille 10",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.27889,
+        "lng": 5.41523,
+        "population": 51299
+    },
+    {
+        "id": 3027487,
+        "name": "Châlons-en-Champagne",
+        "region": "Grand Est",
+        "lat": 48.95393,
+        "lng": 4.36724,
+        "population": 51257
+    },
+    {
+        "id": 2990919,
+        "name": "Narbonne",
+        "region": "Occitanie",
+        "lat": 43.18396,
+        "lng": 3.00141,
+        "population": 50776
+    },
+    {
+        "id": 2978640,
+        "name": "Saint-Malo",
+        "region": "Brittany",
+        "lat": 48.64738,
+        "lng": -2.00877,
+        "population": 50676
+    },
+    {
+        "id": 3005866,
+        "name": "Laval",
+        "region": "Pays de la Loire",
+        "lat": 48.07247,
+        "lng": -0.77019,
+        "population": 50489
+    },
+    {
+        "id": 3012937,
+        "name": "Hyères",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.12038,
+        "lng": 6.12857,
+        "population": 50487
+    },
+    {
+        "id": 6543971,
+        "name": "Lyon 05",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76106,
+        "lng": 4.82677,
+        "population": 49664
+    },
+    {
+        "id": 3028641,
+        "name": "Carcassonne",
+        "region": "Occitanie",
+        "lat": 43.21649,
+        "lng": 2.34863,
+        "population": 49600
+    },
+    {
+        "id": 3037598,
+        "name": "Angoulême",
+        "region": "New Aquitaine",
+        "lat": 45.64997,
+        "lng": 0.15345,
+        "population": 49468
+    },
+    {
+        "id": 3037543,
+        "name": "Annecy",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.90878,
+        "lng": 6.12565,
+        "population": 49232
+    },
+    {
+        "id": 3031815,
+        "name": "Bondy",
+        "region": "Île-de-France",
+        "lat": 48.9018,
+        "lng": 2.48931,
+        "population": 48268
+    },
+    {
+        "id": 3005269,
+        "name": "Le Blanc-Mesnil",
+        "region": "Île-de-France",
+        "lat": 48.93872,
+        "lng": 2.46138,
+        "population": 48077
+    },
+    {
+        "id": 2968705,
+        "name": "Villejuif",
+        "region": "Île-de-France",
+        "lat": 48.7939,
+        "lng": 2.35992,
+        "population": 48048
+    },
+    {
+        "id": 2988760,
+        "name": "Paris 07 Palais-Bourbon",
+        "region": "Île-de-France",
+        "lat": 48.8565,
+        "lng": 2.321,
+        "population": 48015
+    },
+    {
+        "id": 3014856,
+        "name": "Grasse",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.65783,
+        "lng": 6.92537,
+        "population": 47581
+    },
+    {
+        "id": 2974681,
+        "name": "Sevran",
+        "region": "Île-de-France",
+        "lat": 48.94472,
+        "lng": 2.52746,
+        "population": 47334
+    },
+    {
+        "id": 3028263,
+        "name": "Castres",
+        "region": "Occitanie",
+        "lat": 43.60527,
+        "lng": 2.24088,
+        "population": 47275
+    },
+    {
+        "id": 3027484,
+        "name": "Chalon-sur-Saône",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.78112,
+        "lng": 4.85372,
+        "population": 47251
+    },
+    {
+        "id": 7284885,
+        "name": "Marseille 04",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.30213,
+        "lng": 5.40141,
+        "population": 47193
+    },
+    {
+        "id": 3036784,
+        "name": "Arras",
+        "region": "Hauts-de-France",
+        "lat": 50.29301,
+        "lng": 2.78186,
+        "population": 47052
+    },
+    {
+        "id": 3031133,
+        "name": "Boulogne-sur-Mer",
+        "region": "Hauts-de-France",
+        "lat": 50.72485,
+        "lng": 1.61373,
+        "population": 47013
+    },
+    {
+        "id": 3025622,
+        "name": "Chelles",
+        "region": "Île-de-France",
+        "lat": 48.88109,
+        "lng": 2.59295,
+        "population": 46947
+    },
+    {
+        "id": 3029227,
+        "name": "Cagnes-sur-Mer",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.66352,
+        "lng": 7.1479,
+        "population": 46923
+    },
+    {
+        "id": 2979590,
+        "name": "Saint-Herblain",
+        "region": "Pays de la Loire",
+        "lat": 47.21154,
+        "lng": -1.651,
+        "population": 46898
+    },
+    {
+        "id": 3021000,
+        "name": "Douai",
+        "region": "Hauts-de-France",
+        "lat": 50.37069,
+        "lng": 3.07922,
+        "population": 46531
+    },
+    {
+        "id": 3020020,
+        "name": "Épinay-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.9535,
+        "lng": 2.31514,
+        "population": 46145
+    },
+    {
+        "id": 2968054,
+        "name": "Vincennes",
+        "region": "Île-de-France",
+        "lat": 48.8486,
+        "lng": 2.43769,
+        "population": 45923
+    },
+    {
+        "id": 12808660,
+        "name": "Roquette",
+        "region": "Île-de-France",
+        "lat": 48.858,
+        "lng": 2.38147,
+        "population": 45842
+    },
+    {
+        "id": 2995387,
+        "name": "Martigues",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.40735,
+        "lng": 5.05526,
+        "population": 45749
+    },
+    {
+        "id": 7284884,
+        "name": "Marseille 03",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.30257,
+        "lng": 5.37583,
+        "population": 45414
+    },
+    {
+        "id": 3031009,
+        "name": "Bourg-en-Bresse",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.20574,
+        "lng": 5.2258,
+        "population": 45340
+    },
+    {
+        "id": 3032179,
+        "name": "Bobigny",
+        "region": "Île-de-France",
+        "lat": 48.90982,
+        "lng": 2.45012,
+        "population": 44962
+    },
+    {
+        "id": 2992292,
+        "name": "Montluçon",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.34015,
+        "lng": 2.60254,
+        "population": 44960
+    },
+    {
+        "id": 3036433,
+        "name": "Aubagne",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29276,
+        "lng": 5.57067,
+        "population": 44844
+    },
+    {
+        "id": 2971041,
+        "name": "Valenciennes",
+        "region": "Hauts-de-France",
+        "lat": 50.35909,
+        "lng": 3.52506,
+        "population": 44821
+    },
+    {
+        "id": 2973675,
+        "name": "Suresnes",
+        "region": "Île-de-France",
+        "lat": 48.87143,
+        "lng": 2.22929,
+        "population": 44697
+    },
+    {
+        "id": 2994144,
+        "name": "Meudon",
+        "region": "Île-de-France",
+        "lat": 48.81381,
+        "lng": 2.235,
+        "population": 44652
+    },
+    {
+        "id": 7284886,
+        "name": "Marseille 05",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29551,
+        "lng": 5.40055,
+        "population": 44583
+    },
+    {
+        "id": 3034475,
+        "name": "Bayonne",
+        "region": "New Aquitaine",
+        "lat": 43.49316,
+        "lng": -1.473,
+        "population": 44396
+    },
+    {
+        "id": 3012647,
+        "name": "Istres",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.51345,
+        "lng": 4.98747,
+        "population": 44373
+    },
+    {
+        "id": 2972811,
+        "name": "Thionville",
+        "region": "Grand Est",
+        "lat": 49.35994,
+        "lng": 6.16044,
+        "population": 44311
+    },
+    {
+        "id": 2996148,
+        "name": "Mantes-la-Jolie",
+        "region": "Île-de-France",
+        "lat": 48.99048,
+        "lng": 1.7167,
+        "population": 44263
+    },
+    {
+        "id": 3024066,
+        "name": "Compiègne",
+        "region": "Hauts-de-France",
+        "lat": 49.41794,
+        "lng": 2.82606,
+        "population": 44243
+    },
+    {
+        "id": 2990474,
+        "name": "Nevers",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.98956,
+        "lng": 3.159,
+        "population": 43988
+    },
+    {
+        "id": 3026467,
+        "name": "Chartres",
+        "region": "Centre-Val de Loire",
+        "lat": 48.44685,
+        "lng": 1.48925,
+        "population": 43838
+    },
+    {
+        "id": 7284887,
+        "name": "Marseille 06",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.28764,
+        "lng": 5.37918,
+        "population": 43360
+    },
+    {
+        "id": 3004871,
+        "name": "Le Cannet",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.57662,
+        "lng": 7.01912,
+        "population": 43353
+    },
+    {
+        "id": 2967421,
+        "name": "Wattrelos",
+        "region": "Hauts-de-France",
+        "lat": 50.70118,
+        "lng": 3.21812,
+        "population": 42826
+    },
+    {
+        "id": 3029096,
+        "name": "Caluire-et-Cuire",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.79462,
+        "lng": 4.8464,
+        "population": 42763
+    },
+    {
+        "id": 3016702,
+        "name": "Gap",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 44.55858,
+        "lng": 6.07868,
+        "population": 42715
+    },
+    {
+        "id": 2973495,
+        "name": "Talence",
+        "region": "New Aquitaine",
+        "lat": 44.80849,
+        "lng": -0.58915,
+        "population": 42579
+    },
+    {
+        "id": 3038224,
+        "name": "Alès",
+        "region": "Occitanie",
+        "lat": 44.12489,
+        "lng": 4.08082,
+        "population": 42410
+    },
+    {
+        "id": 3016321,
+        "name": "Gennevilliers",
+        "region": "Île-de-France",
+        "lat": 48.93333,
+        "lng": 2.3,
+        "population": 42294
+    },
+    {
+        "id": 2977356,
+        "name": "Saint-Priest",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.69651,
+        "lng": 4.94385,
+        "population": 41641
+    },
+    {
+        "id": 2982757,
+        "name": "Rosny-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.87017,
+        "lng": 2.4991,
+        "population": 41627
+    },
+    {
+        "id": 3035843,
+        "name": "Auxerre",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.7996,
+        "lng": 3.57033,
+        "population": 41516
+    },
+    {
+        "id": 2976341,
+        "name": "Salon-de-Provence",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.64229,
+        "lng": 5.09478,
+        "population": 41397
+    },
+    {
+        "id": 2979783,
+        "name": "Saint-Germain-en-Laye",
+        "region": "Île-de-France",
+        "lat": 48.89643,
+        "lng": 2.0904,
+        "population": 41142
+    },
+    {
+        "id": 3034640,
+        "name": "Bastia",
+        "region": "Corsica",
+        "lat": 42.70219,
+        "lng": 9.45123,
+        "population": 41001
+    },
+    {
+        "id": 7284882,
+        "name": "Marseille 01",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29814,
+        "lng": 5.38407,
+        "population": 40919
+    },
+    {
+        "id": 2974733,
+        "name": "Sète",
+        "region": "Occitanie",
+        "lat": 43.4028,
+        "lng": 3.69278,
+        "population": 40736
+    },
+    {
+        "id": 3037612,
+        "name": "Anglet",
+        "region": "New Aquitaine",
+        "lat": 43.48921,
+        "lng": -1.51921,
+        "population": 40658
+    },
+    {
+        "id": 2985034,
+        "name": "Puteaux",
+        "region": "Île-de-France",
+        "lat": 48.88341,
+        "lng": 2.23894,
+        "population": 40646
+    },
+    {
+        "id": 3023763,
+        "name": "Corbeil-Essonnes",
+        "region": "Île-de-France",
+        "lat": 48.60603,
+        "lng": 2.48757,
+        "population": 40527
+    },
+    {
+        "id": 2997000,
+        "name": "Paris 06 Luxembourg",
+        "region": "Île-de-France",
+        "lat": 48.8493,
+        "lng": 2.33,
+        "population": 40389
+    },
+    {
+        "id": 3016621,
+        "name": "Garges-lès-Gonesse",
+        "region": "Île-de-France",
+        "lat": 48.96791,
+        "lng": 2.39781,
+        "population": 39847
+    },
+    {
+        "id": 2983362,
+        "name": "Roanne",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.03624,
+        "lng": 4.06802,
+        "population": 39840
+    },
+    {
+        "id": 2975525,
+        "name": "Savigny-sur-Orge",
+        "region": "Île-de-France",
+        "lat": 48.67677,
+        "lng": 2.34835,
+        "population": 39698
+    },
+    {
+        "id": 2998056,
+        "name": "Livry-Gargan",
+        "region": "Île-de-France",
+        "lat": 48.9193,
+        "lng": 2.54305,
+        "population": 39518
+    },
+    {
+        "id": 3020035,
+        "name": "Épinal",
+        "region": "Grand Est",
+        "lat": 48.18324,
+        "lng": 6.45304,
+        "population": 39518
+    },
+    {
+        "id": 2977824,
+        "name": "Saint-Ouen",
+        "region": "Île-de-France",
+        "lat": 48.90654,
+        "lng": 2.33339,
+        "population": 39353
+    },
+    {
+        "id": 2983770,
+        "name": "Rezé",
+        "region": "Pays de la Loire",
+        "lat": 47.19058,
+        "lng": -1.56885,
+        "population": 39248
+    },
+    {
+        "id": 2992415,
+        "name": "Montigny-le-Bretonneux",
+        "region": "Île-de-France",
+        "lat": 48.76636,
+        "lng": 2.03405,
+        "population": 39063
+    },
+    {
+        "id": 2990187,
+        "name": "Noisy-le-Sec",
+        "region": "Île-de-France",
+        "lat": 48.89148,
+        "lng": 2.46451,
+        "population": 38955
+    },
+    {
+        "id": 2994651,
+        "name": "Melun",
+        "region": "Île-de-France",
+        "lat": 48.5457,
+        "lng": 2.65356,
+        "population": 38953
+    },
+    {
+        "id": 3035409,
+        "name": "Bagneux",
+        "region": "Île-de-France",
+        "lat": 48.79565,
+        "lng": 2.30796,
+        "population": 38900
+    },
+    {
+        "id": 2995206,
+        "name": "Massy",
+        "region": "Île-de-France",
+        "lat": 48.72692,
+        "lng": 2.28301,
+        "population": 38768
+    },
+    {
+        "id": 3014078,
+        "name": "Haguenau",
+        "region": "Grand Est",
+        "lat": 48.81557,
+        "lng": 7.79051,
+        "population": 38721
+    },
+    {
+        "id": 2992017,
+        "name": "Montrouge",
+        "region": "Île-de-France",
+        "lat": 48.8162,
+        "lng": 2.31393,
+        "population": 38708
+    },
+    {
+        "id": 2995908,
+        "name": "Marcq-en-Barœul",
+        "region": "Hauts-de-France",
+        "lat": 50.66667,
+        "lng": 3.08333,
+        "population": 38629
+    },
+    {
+        "id": 2967870,
+        "name": "Vitrolles",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.46,
+        "lng": 5.24861,
+        "population": 38591
+    },
+    {
+        "id": 3020850,
+        "name": "Draguignan",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.53692,
+        "lng": 6.46458,
+        "population": 38573
+    },
+    {
+        "id": 3003093,
+        "name": "Lens",
+        "region": "Hauts-de-France",
+        "lat": 50.43302,
+        "lng": 2.82791,
+        "population": 38265
+    },
+    {
+        "id": 3016830,
+        "name": "Gagny",
+        "region": "Île-de-France",
+        "lat": 48.88333,
+        "lng": 2.53333,
+        "population": 38134
+    },
+    {
+        "id": 2981206,
+        "name": "Saint-Chamond",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.4759,
+        "lng": 4.51294,
+        "population": 38014
+    },
+    {
+        "id": 3029931,
+        "name": "Bron",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.73865,
+        "lng": 4.91303,
+        "population": 37825
+    },
+    {
+        "id": 2970456,
+        "name": "Vaulx-en-Velin",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.78693,
+        "lng": 4.9251,
+        "population": 37489
+    },
+    {
+        "id": 3012219,
+        "name": "Joué-lès-Tours",
+        "region": "Centre-Val de Loire",
+        "lat": 47.34907,
+        "lng": 0.66513,
+        "population": 37466
+    },
+    {
+        "id": 3038213,
+        "name": "Alfortville",
+        "region": "Île-de-France",
+        "lat": 48.80575,
+        "lng": 2.4204,
+        "population": 37290
+    },
+    {
+        "id": 3009824,
+        "name": "La Courneuve",
+        "region": "Île-de-France",
+        "lat": 48.92805,
+        "lng": 2.39627,
+        "population": 37287
+    },
+    {
+        "id": 3026141,
+        "name": "Châtellerault",
+        "region": "New Aquitaine",
+        "lat": 46.81705,
+        "lng": 0.54518,
+        "population": 37210
+    },
+    {
+        "id": 2968482,
+        "name": "Villepinte",
+        "region": "Île-de-France",
+        "lat": 48.96203,
+        "lng": 2.53253,
+        "population": 37114
+    },
+    {
+        "id": 3029030,
+        "name": "Cambrai",
+        "region": "Hauts-de-France",
+        "lat": 50.17596,
+        "lng": 3.23472,
+        "population": 36492
+    },
+    {
+        "id": 2986501,
+        "name": "Poissy",
+        "region": "Île-de-France",
+        "lat": 48.92902,
+        "lng": 2.04952,
+        "population": 36431
+    },
+    {
+        "id": 3023924,
+        "name": "Conflans-Sainte-Honorine",
+        "region": "Île-de-France",
+        "lat": 49.00158,
+        "lng": 2.09694,
+        "population": 36358
+    },
+    {
+        "id": 12808662,
+        "name": "Sainte-Marguerite",
+        "region": "Île-de-France",
+        "lat": 48.85232,
+        "lng": 2.38932,
+        "population": 36345
+    },
+    {
+        "id": 12808664,
+        "name": "Bel-Air",
+        "region": "Île-de-France",
+        "lat": 48.84169,
+        "lng": 2.40489,
+        "population": 36279
+    },
+    {
+        "id": 2992771,
+        "name": "Mont-de-Marsan",
+        "region": "New Aquitaine",
+        "lat": 43.89022,
+        "lng": -0.49713,
+        "population": 36205
+    },
+    {
+        "id": 2986930,
+        "name": "Plaisir",
+        "region": "Île-de-France",
+        "lat": 48.82319,
+        "lng": 1.9541,
+        "population": 36121
+    },
+    {
+        "id": 6543970,
+        "name": "Lyon 04",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.77507,
+        "lng": 4.82712,
+        "population": 36064
+    },
+    {
+        "id": 7284888,
+        "name": "Marseille 07",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.28289,
+        "lng": 5.36021,
+        "population": 35981
+    },
+    {
+        "id": 2995750,
+        "name": "Marignane",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.41727,
+        "lng": 5.21462,
+        "population": 35873
+    },
+    {
+        "id": 3021411,
+        "name": "Dieppe",
+        "region": "Normandy",
+        "lat": 49.9216,
+        "lng": 1.07772,
+        "population": 35707
+    },
+    {
+        "id": 2992703,
+        "name": "Montélimar",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 44.55468,
+        "lng": 4.75469,
+        "population": 35637
+    },
+    {
+        "id": 2971874,
+        "name": "Tremblay-en-France",
+        "region": "Île-de-France",
+        "lat": 48.94956,
+        "lng": 2.5684,
+        "population": 35591
+    },
+    {
+        "id": 3025055,
+        "name": "Choisy-le-Roi",
+        "region": "Île-de-France",
+        "lat": 48.76846,
+        "lng": 2.41874,
+        "population": 35590
+    },
+    {
+        "id": 2978317,
+        "name": "Saint-Martin-d'Hères",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.1787,
+        "lng": 5.76281,
+        "population": 35528
+    },
+    {
+        "id": 2996882,
+        "name": "Mâcon",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.31407,
+        "lng": 4.82823,
+        "population": 35484
+    },
+    {
+        "id": 3020270,
+        "name": "Paris 08 Élysée",
+        "region": "Île-de-France",
+        "lat": 48.8763,
+        "lng": 2.3183,
+        "population": 35317
+    },
+    {
+        "id": 2983011,
+        "name": "Romans-sur-Isère",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.0496,
+        "lng": 5.06602,
+        "population": 35002
+    },
+    {
+        "id": 2977246,
+        "name": "Saint-Raphaël",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.42332,
+        "lng": 6.7735,
+        "population": 34918
+    },
+    {
+        "id": 3024195,
+        "name": "Pontault-Combault",
+        "region": "Île-de-France",
+        "lat": 48.79813,
+        "lng": 2.60676,
+        "population": 34798
+    },
+    {
+        "id": 2974427,
+        "name": "Six-Fours-les-Plages",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.09174,
+        "lng": 5.82465,
+        "population": 34779
+    },
+    {
+        "id": 2987967,
+        "name": "Périgueux",
+        "region": "New Aquitaine",
+        "lat": 45.18691,
+        "lng": 0.71439,
+        "population": 34770
+    },
+    {
+        "id": 3036016,
+        "name": "Aurillac",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 44.92539,
+        "lng": 2.43983,
+        "population": 34724
+    },
+    {
+        "id": 2990612,
+        "name": "Neuilly-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.85373,
+        "lng": 2.54903,
+        "population": 34465
+    },
+    {
+        "id": 2998431,
+        "name": "Liévin",
+        "region": "Hauts-de-France",
+        "lat": 50.4198,
+        "lng": 2.78068,
+        "population": 34370
+    },
+    {
+        "id": 3038634,
+        "name": "Agen",
+        "region": "New Aquitaine",
+        "lat": 44.20199,
+        "lng": 0.62055,
+        "population": 34367
+    },
+    {
+        "id": 3017341,
+        "name": "Franconville",
+        "region": "Île-de-France",
+        "lat": 48.98333,
+        "lng": 2.23333,
+        "population": 34284
+    },
+    {
+        "id": 2980558,
+        "name": "Sainte-Geneviève-des-Bois",
+        "region": "Île-de-France",
+        "lat": 48.64682,
+        "lng": 2.31965,
+        "population": 33689
+    },
+    {
+        "id": 2995150,
+        "name": "Maubeuge",
+        "region": "Hauts-de-France",
+        "lat": 50.27875,
+        "lng": 3.97267,
+        "population": 33684
+    },
+    {
+        "id": 3035403,
+        "name": "Bagnolet",
+        "region": "Île-de-France",
+        "lat": 48.86667,
+        "lng": 2.41667,
+        "population": 33504
+    },
+    {
+        "id": 2975758,
+        "name": "Saumur",
+        "region": "Pays de la Loire",
+        "lat": 47.25931,
+        "lng": -0.07808,
+        "population": 33229
+    },
+    {
+        "id": 3032797,
+        "name": "Biarritz",
+        "region": "New Aquitaine",
+        "lat": 43.48055,
+        "lng": -1.55684,
+        "population": 33188
+    },
+    {
+        "id": 3010025,
+        "name": "La Ciotat",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.17476,
+        "lng": 5.60449,
+        "population": 33113
+    },
+    {
+        "id": 3020495,
+        "name": "Échirolles",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.14603,
+        "lng": 5.71441,
+        "population": 33088
+    },
+    {
+        "id": 2968748,
+        "name": "Villefranche-sur-Saône",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.98967,
+        "lng": 4.71961,
+        "population": 32994
+    },
+    {
+        "id": 3026108,
+        "name": "Châtenay-Malabry",
+        "region": "Île-de-France",
+        "lat": 48.76507,
+        "lng": 2.26655,
+        "population": 32715
+    },
+    {
+        "id": 2973841,
+        "name": "Stains",
+        "region": "Île-de-France",
+        "lat": 48.95,
+        "lng": 2.38333,
+        "population": 32601
+    },
+    {
+        "id": 3026083,
+        "name": "Châtillon",
+        "region": "Île-de-France",
+        "lat": 48.8024,
+        "lng": 2.29346,
+        "population": 32383
+    },
+    {
+        "id": 2969284,
+        "name": "Vienne",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.52569,
+        "lng": 4.87484,
+        "population": 32293
+    },
+    {
+        "id": 2975446,
+        "name": "Schiltigheim",
+        "region": "Grand Est",
+        "lat": 48.60749,
+        "lng": 7.74931,
+        "population": 32289
+    },
+    {
+        "id": 2973189,
+        "name": "Paris 03 Temple",
+        "region": "Île-de-France",
+        "lat": 48.8637,
+        "lng": 2.3615,
+        "population": 32179
+    },
+    {
+        "id": 3000192,
+        "name": "Les Mureaux",
+        "region": "Île-de-France",
+        "lat": 48.99173,
+        "lng": 1.90972,
+        "population": 32134
+    },
+    {
+        "id": 3002965,
+        "name": "Le Perreux-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.85,
+        "lng": 2.5,
+        "population": 32015
+    },
+    {
+        "id": 3014143,
+        "name": "Guyancourt",
+        "region": "Île-de-France",
+        "lat": 48.77334,
+        "lng": 2.07393,
+        "population": 31989
+    },
+    {
+        "id": 2988758,
+        "name": "Palaiseau",
+        "region": "Île-de-France",
+        "lat": 48.71828,
+        "lng": 2.2498,
+        "population": 31987
+    },
+    {
+        "id": 2980816,
+        "name": "Saint-Dizier",
+        "region": "Grand Est",
+        "lat": 48.63773,
+        "lng": 4.94892,
+        "population": 31918
+    },
+    {
+        "id": 3022610,
+        "name": "Creil",
+        "region": "Hauts-de-France",
+        "lat": 49.25672,
+        "lng": 2.48477,
+        "population": 31863
+    },
+    {
+        "id": 2970797,
+        "name": "Vandœuvre-lès-Nancy",
+        "region": "Grand Est",
+        "lat": 48.66115,
+        "lng": 6.17114,
+        "population": 31785
+    },
+    {
+        "id": 2972742,
+        "name": "Thonon-les-Bains",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.37049,
+        "lng": 6.47985,
+        "population": 31684
+    },
+    {
+        "id": 3033002,
+        "name": "Béthune",
+        "region": "Hauts-de-France",
+        "lat": 50.52965,
+        "lng": 2.64003,
+        "population": 31568
+    },
+    {
+        "id": 3024223,
+        "name": "Colomiers",
+        "region": "Occitanie",
+        "lat": 43.61058,
+        "lng": 1.33467,
+        "population": 31363
+    },
+    {
+        "id": 6543968,
+        "name": "Lyon 02",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.75423,
+        "lng": 4.83089,
+        "population": 31303
+    },
+    {
+        "id": 12808659,
+        "name": "Folie Méricourt",
+        "region": "Île-de-France",
+        "lat": 48.86625,
+        "lng": 2.37142,
+        "population": 31299
+    },
+    {
+        "id": 2990265,
+        "name": "Nogent-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.83669,
+        "lng": 2.48255,
+        "population": 31236
+    },
+    {
+        "id": 3036460,
+        "name": "Athis-Mons",
+        "region": "Île-de-France",
+        "lat": 48.70522,
+        "lng": 2.39147,
+        "population": 31225
+    },
+    {
+        "id": 2967917,
+        "name": "Viry-Châtillon",
+        "region": "Île-de-France",
+        "lat": 48.67211,
+        "lng": 2.39318,
+        "population": 31131
+    },
+    {
+        "id": 3013097,
+        "name": "Houilles",
+        "region": "Île-de-France",
+        "lat": 48.92161,
+        "lng": 2.19263,
+        "population": 31121
+    },
+    {
+        "id": 2974389,
+        "name": "Soissons",
+        "region": "Hauts-de-France",
+        "lat": 49.38167,
+        "lng": 3.32361,
+        "population": 31100
+    },
+    {
+        "id": 3020810,
+        "name": "Dreux",
+        "region": "Centre-Val de Loire",
+        "lat": 48.73649,
+        "lng": 1.36566,
+        "population": 31058
+    },
+    {
+        "id": 3026637,
+        "name": "Charenton-le-Pont",
+        "region": "Île-de-France",
+        "lat": 48.82209,
+        "lng": 2.41217,
+        "population": 30910
+    },
+    {
+        "id": 2968529,
+        "name": "Villeneuve-Saint-Georges",
+        "region": "Île-de-France",
+        "lat": 48.73219,
+        "lng": 2.44925,
+        "population": 30881
+    },
+    {
+        "id": 3020310,
+        "name": "Élancourt",
+        "region": "Île-de-France",
+        "lat": 48.78421,
+        "lng": 1.9552,
+        "population": 30831
+    },
+    {
+        "id": 12808661,
+        "name": "Saint-Ambroise",
+        "region": "Île-de-France",
+        "lat": 48.86174,
+        "lng": 2.37538,
+        "population": 30802
+    },
+    {
+        "id": 3038230,
+        "name": "Alençon",
+        "region": "Normandy",
+        "lat": 48.43476,
+        "lng": 0.09311,
+        "population": 30786
+    },
+    {
+        "id": 2974153,
+        "name": "Sotteville-lès-Rouen",
+        "region": "Normandy",
+        "lat": 49.40972,
+        "lng": 1.09005,
+        "population": 30619
+    },
+    {
+        "id": 2989460,
+        "name": "Orange",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 44.13806,
+        "lng": 4.81025,
+        "population": 30530
+    },
+    {
+        "id": 2968620,
+        "name": "Villenave-d'Ornon",
+        "region": "New Aquitaine",
+        "lat": 44.77935,
+        "lng": -0.56707,
+        "population": 30347
+    },
+    {
+        "id": 2986140,
+        "name": "Pontoise",
+        "region": "Île-de-France",
+        "lat": 49.05,
+        "lng": 2.1,
+        "population": 30290
+    },
+    {
+        "id": 2968142,
+        "name": "Villiers-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.831,
+        "lng": 2.54844,
+        "population": 30252
+    },
+    {
+        "id": 3026033,
+        "name": "Chatou",
+        "region": "Île-de-France",
+        "lat": 48.8898,
+        "lng": 2.15863,
+        "population": 30091
+    },
+    {
+        "id": 3015490,
+        "name": "Goussainville",
+        "region": "Île-de-France",
+        "lat": 49.01367,
+        "lng": 2.46595,
+        "population": 30047
+    },
+    {
+        "id": 2997803,
+        "name": "Lomme",
+        "region": "Hauts-de-France",
+        "lat": 50.64358,
+        "lng": 2.98715,
+        "population": 29892
+    },
+    {
+        "id": 2969257,
+        "name": "Vierzon",
+        "region": "Centre-Val de Loire",
+        "lat": 47.22186,
+        "lng": 2.0684,
+        "population": 29876
+    },
+    {
+        "id": 2978072,
+        "name": "Saint-Médard-en-Jalles",
+        "region": "New Aquitaine",
+        "lat": 44.8955,
+        "lng": -0.71779,
+        "population": 29742
+    },
+    {
+        "id": 2972893,
+        "name": "Thiais",
+        "region": "Île-de-France",
+        "lat": 48.76496,
+        "lng": 2.3961,
+        "population": 29724
+    },
+    {
+        "id": 3028542,
+        "name": "Carpentras",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 44.05507,
+        "lng": 5.04813,
+        "population": 29709
+    },
+    {
+        "id": 2998632,
+        "name": "L'Haÿ-les-Roses",
+        "region": "Île-de-France",
+        "lat": 48.77935,
+        "lng": 2.33729,
+        "population": 29703
+    },
+    {
+        "id": 2994497,
+        "name": "Menton",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.77649,
+        "lng": 7.50435,
+        "population": 29649
+    },
+    {
+        "id": 6949674,
+        "name": "Lyon 01",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76758,
+        "lng": 4.8345,
+        "population": 29641
+    },
+    {
+        "id": 2978891,
+        "name": "Saint-Laurent-du-Var",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.67323,
+        "lng": 7.19,
+        "population": 29516
+    },
+    {
+        "id": 2980340,
+        "name": "Saintes",
+        "region": "New Aquitaine",
+        "lat": 45.74742,
+        "lng": -0.63489,
+        "population": 29512
+    },
+    {
+        "id": 2983276,
+        "name": "Rochefort",
+        "region": "New Aquitaine",
+        "lat": 45.94304,
+        "lng": -0.96774,
+        "population": 29427
+    },
+    {
+        "id": 2996514,
+        "name": "Malakoff",
+        "region": "Île-de-France",
+        "lat": 48.81999,
+        "lng": 2.29998,
+        "population": 29420
+    },
+    {
+        "id": 3020832,
+        "name": "Draveil",
+        "region": "Île-de-France",
+        "lat": 48.68466,
+        "lng": 2.41418,
+        "population": 29316
+    },
+    {
+        "id": 2978771,
+        "name": "Saint-Leu",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.7306,
+        "lng": 4.50083,
+        "population": 29278
+    },
+    {
+        "id": 2976984,
+        "name": "Saint-Sébastien-sur-Loire",
+        "region": "Pays de la Loire",
+        "lat": 47.20768,
+        "lng": -1.50332,
+        "population": 29238
+    },
+    {
+        "id": 3004630,
+        "name": "Le Chesnay",
+        "region": "Île-de-France",
+        "lat": 48.8222,
+        "lng": 2.12213,
+        "population": 29154
+    },
+    {
+        "id": 2972237,
+        "name": "Tournefeuille",
+        "region": "Occitanie",
+        "lat": 43.58872,
+        "lng": 1.31922,
+        "population": 29124
+    },
+    {
+        "id": 3024596,
+        "name": "Clichy-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.9102,
+        "lng": 2.55323,
+        "population": 29062
+    },
+    {
+        "id": 3025892,
+        "name": "Chaumont",
+        "region": "Grand Est",
+        "lat": 48.11121,
+        "lng": 5.14134,
+        "population": 28981
+    },
+    {
+        "id": 2980236,
+        "name": "Saint-Étienne-du-Rouvray",
+        "region": "Normandy",
+        "lat": 49.37794,
+        "lng": 1.10467,
+        "population": 28953
+    },
+    {
+        "id": 2994048,
+        "name": "Meyzieu",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76637,
+        "lng": 5.00277,
+        "population": 28929
+    },
+    {
+        "id": 2967245,
+        "name": "Yerres",
+        "region": "Île-de-France",
+        "lat": 48.71785,
+        "lng": 2.49338,
+        "population": 28897
+    },
+    {
+        "id": 2992938,
+        "name": "Montbéliard",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.50957,
+        "lng": 6.79823,
+        "population": 28865
+    },
+    {
+        "id": 2981041,
+        "name": "Saint-Cloud",
+        "region": "Île-de-France",
+        "lat": 48.84598,
+        "lng": 2.20289,
+        "population": 28839
+    },
+    {
+        "id": 2975050,
+        "name": "Sens",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 48.19738,
+        "lng": 3.28328,
+        "population": 28700
+    },
+    {
+        "id": 3007477,
+        "name": "Laon",
+        "region": "Hauts-de-France",
+        "lat": 49.5631,
+        "lng": 3.62714,
+        "population": 28688
+    },
+    {
+        "id": 3008218,
+        "name": "Lambersart",
+        "region": "Hauts-de-France",
+        "lat": 50.65,
+        "lng": 3.03333,
+        "population": 28613
+    },
+    {
+        "id": 2972049,
+        "name": "Trappes",
+        "region": "Île-de-France",
+        "lat": 48.77413,
+        "lng": 2.01781,
+        "population": 28367
+    },
+    {
+        "id": 2983154,
+        "name": "Rodez",
+        "region": "Occitanie",
+        "lat": 44.35258,
+        "lng": 2.57338,
+        "population": 28337
+    },
+    {
+        "id": 3033391,
+        "name": "Bergerac",
+        "region": "New Aquitaine",
+        "lat": 44.85157,
+        "lng": 0.48171,
+        "population": 28317
+    },
+    {
+        "id": 3037538,
+        "name": "Annemasse",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.19439,
+        "lng": 6.23775,
+        "population": 28275
+    },
+    {
+        "id": 3009223,
+        "name": "La Garde",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.12468,
+        "lng": 6.01033,
+        "population": 28257
+    },
+    {
+        "id": 3019897,
+        "name": "Ermont",
+        "region": "Île-de-France",
+        "lat": 48.99004,
+        "lng": 2.25804,
+        "population": 28117
+    },
+    {
+        "id": 2983536,
+        "name": "Rillieux-la-Pape",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.81667,
+        "lng": 4.9,
+        "population": 28076
+    },
+    {
+        "id": 2968653,
+        "name": "Villemomble",
+        "region": "Île-de-France",
+        "lat": 48.88333,
+        "lng": 2.5,
+        "population": 28001
+    },
+    {
+        "id": 2987271,
+        "name": "Pierrefitte-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.96691,
+        "lng": 2.36104,
+        "population": 27914
+    },
+    {
+        "id": 3003737,
+        "name": "Le Kremlin-Bicêtre",
+        "region": "Île-de-France",
+        "lat": 48.81471,
+        "lng": 2.36073,
+        "population": 27867
+    },
+    {
+        "id": 3027014,
+        "name": "Champs-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.85,
+        "lng": 2.6,
+        "population": 27776
+    },
+    {
+        "id": 3038350,
+        "name": "Aix-les-Bains",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.69173,
+        "lng": 5.90863,
+        "population": 27651
+    },
+    {
+        "id": 3032824,
+        "name": "Bezons",
+        "region": "Île-de-France",
+        "lat": 48.92426,
+        "lng": 2.2128,
+        "population": 27570
+    },
+    {
+        "id": 3013131,
+        "name": "Paris 04 Hôtel-de-Ville",
+        "region": "Île-de-France",
+        "lat": 48.8601,
+        "lng": 2.3507,
+        "population": 27332
+    },
+    {
+        "id": 2970962,
+        "name": "Vallauris",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.57803,
+        "lng": 7.05451,
+        "population": 27286
+    },
+    {
+        "id": 2973258,
+        "name": "Taverny",
+        "region": "Île-de-France",
+        "lat": 49.02542,
+        "lng": 2.21691,
+        "population": 27271
+    },
+    {
+        "id": 3012834,
+        "name": "Illkirch-Graffenstaden",
+        "region": "Grand Est",
+        "lat": 48.52894,
+        "lng": 7.71523,
+        "population": 27261
+    },
+    {
+        "id": 3006283,
+        "name": "La Teste-de-Buch",
+        "region": "New Aquitaine",
+        "lat": 44.63278,
+        "lng": -1.14513,
+        "population": 27253
+    },
+    {
+        "id": 3020062,
+        "name": "Épernay",
+        "region": "Grand Est",
+        "lat": 49.04,
+        "lng": 3.95922,
+        "population": 27082
+    },
+    {
+        "id": 2968176,
+        "name": "Villiers-le-Bel",
+        "region": "Île-de-France",
+        "lat": 49.00875,
+        "lng": 2.39819,
+        "population": 27028
+    },
+    {
+        "id": 2969392,
+        "name": "Vichy",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.12709,
+        "lng": 3.42577,
+        "population": 27019
+    },
+    {
+        "id": 12808654,
+        "name": "Hôpital Saint-Louis",
+        "region": "Île-de-France",
+        "lat": 48.8772,
+        "lng": 2.36689,
+        "population": 26926
+    },
+    {
+        "id": 2976179,
+        "name": "Sannois",
+        "region": "Île-de-France",
+        "lat": 48.96667,
+        "lng": 2.25,
+        "population": 26869
+    },
+    {
+        "id": 3015689,
+        "name": "Gonesse",
+        "region": "Île-de-France",
+        "lat": 48.98693,
+        "lng": 2.44892,
+        "population": 26758
+    },
+    {
+        "id": 2969109,
+        "name": "Vigneux-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.70291,
+        "lng": 2.41357,
+        "population": 26692
+    },
+    {
+        "id": 3028134,
+        "name": "Cavaillon",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.83125,
+        "lng": 5.03586,
+        "population": 26689
+    },
+    {
+        "id": 2984513,
+        "name": "Rambouillet",
+        "region": "Île-de-France",
+        "lat": 48.64374,
+        "lng": 1.82992,
+        "population": 26674
+    },
+    {
+        "id": 3025466,
+        "name": "Cherbourg",
+        "region": "Normandy",
+        "lat": 49.63984,
+        "lng": -1.61636,
+        "population": 26655
+    },
+    {
+        "id": 3036903,
+        "name": "Armentières",
+        "region": "Hauts-de-France",
+        "lat": 50.68568,
+        "lng": 2.88214,
+        "population": 26646
+    },
+    {
+        "id": 2997116,
+        "name": "Lunel",
+        "region": "Occitanie",
+        "lat": 43.67778,
+        "lng": 4.13611,
+        "population": 26588
+    },
+    {
+        "id": 3029276,
+        "name": "Cachan",
+        "region": "Île-de-France",
+        "lat": 48.79632,
+        "lng": 2.33661,
+        "population": 26540
+    },
+    {
+        "id": 3003952,
+        "name": "Le Grand-Quevilly",
+        "region": "Normandy",
+        "lat": 49.40076,
+        "lng": 1.04582,
+        "population": 26522
+    },
+    {
+        "id": 3038789,
+        "name": "Abbeville",
+        "region": "Hauts-de-France",
+        "lat": 50.10521,
+        "lng": 1.83547,
+        "population": 26461
+    },
+    {
+        "id": 3009169,
+        "name": "La Garenne-Colombes",
+        "region": "Île-de-France",
+        "lat": 48.90472,
+        "lng": 2.2469,
+        "population": 26385
+    },
+    {
+        "id": 2992402,
+        "name": "Montigny-lès-Metz",
+        "region": "Grand Est",
+        "lat": 49.0956,
+        "lng": 6.15271,
+        "population": 26369
+    },
+    {
+        "id": 12306362,
+        "name": "Quinze-Vingts",
+        "region": "Île-de-France",
+        "lat": 48.84656,
+        "lng": 2.37439,
+        "population": 26265
+    },
+    {
+        "id": 2970761,
+        "name": "Vanves",
+        "region": "Île-de-France",
+        "lat": 48.82345,
+        "lng": 2.29025,
+        "population": 26068
+    },
+    {
+        "id": 2969766,
+        "name": "Vernon",
+        "region": "Normandy",
+        "lat": 49.09292,
+        "lng": 1.46332,
+        "population": 26037
+    },
+    {
+        "id": 2975536,
+        "name": "Savigny-le-Temple",
+        "region": "Île-de-France",
+        "lat": 48.57409,
+        "lng": 2.58287,
+        "population": 25925
+    },
+    {
+        "id": 3021263,
+        "name": "Dole",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.09225,
+        "lng": 5.48966,
+        "population": 25878
+    },
+    {
+        "id": 2968515,
+        "name": "Villeneuve-sur-Lot",
+        "region": "New Aquitaine",
+        "lat": 44.40854,
+        "lng": 0.70415,
+        "population": 25869
+    },
+    {
+        "id": 6615536,
+        "name": "Les Ulis",
+        "region": "Île-de-France",
+        "lat": 48.68167,
+        "lng": 2.16944,
+        "population": 25785
+    },
+    {
+        "id": 7284883,
+        "name": "Marseille 02",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29664,
+        "lng": 5.37034,
+        "population": 25779
+    },
+    {
+        "id": 2988888,
+        "name": "Oyonnax",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.25917,
+        "lng": 5.65727,
+        "population": 25697
+    },
+    {
+        "id": 2988998,
+        "name": "Oullins",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.71404,
+        "lng": 4.80755,
+        "population": 25592
+    },
+    {
+        "id": 3004427,
+        "name": "Le Creusot",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.80714,
+        "lng": 4.41632,
+        "population": 25590
+    },
+    {
+        "id": 3013525,
+        "name": "Hénin-Beaumont",
+        "region": "Hauts-de-France",
+        "lat": 50.41359,
+        "lng": 2.96485,
+        "population": 25371
+    },
+    {
+        "id": 2989170,
+        "name": "Orvault",
+        "region": "Pays de la Loire",
+        "lat": 47.27117,
+        "lng": -1.62361,
+        "population": 25338
+    },
+    {
+        "id": 3023356,
+        "name": "Coudekerque-Branche",
+        "region": "Hauts-de-France",
+        "lat": 51.02288,
+        "lng": 2.39359,
+        "population": 25201
+    },
+    {
+        "id": 3013477,
+        "name": "Herblay-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.98994,
+        "lng": 2.1699,
+        "population": 25153
+    },
+    {
+        "id": 2983440,
+        "name": "Ris-Orangis",
+        "region": "Île-de-France",
+        "lat": 48.6511,
+        "lng": 2.41406,
+        "population": 25082
+    },
+    {
+        "id": 2973745,
+        "name": "Sucy-en-Brie",
+        "region": "Île-de-France",
+        "lat": 48.76872,
+        "lng": 2.53474,
+        "population": 25014
+    },
+    {
+        "id": 3014646,
+        "name": "Grigny",
+        "region": "Île-de-France",
+        "lat": 48.65412,
+        "lng": 2.39343,
+        "population": 24940
+    },
+    {
+        "id": 3017178,
+        "name": "Fresnes",
+        "region": "Île-de-France",
+        "lat": 48.75568,
+        "lng": 2.32241,
+        "population": 24803
+    },
+    {
+        "id": 2983026,
+        "name": "Romainville",
+        "region": "Île-de-France",
+        "lat": 48.8854,
+        "lng": 2.43482,
+        "population": 24772
+    },
+    {
+        "id": 3017924,
+        "name": "Fontenay-aux-Roses",
+        "region": "Île-de-France",
+        "lat": 48.79325,
+        "lng": 2.29275,
+        "population": 24680
+    },
+    {
+        "id": 3021662,
+        "name": "Décines-Charpieu",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.76873,
+        "lng": 4.95883,
+        "population": 24674
+    },
+    {
+        "id": 2980827,
+        "name": "Saint-Dié-des-Vosges",
+        "region": "Grand Est",
+        "lat": 48.28429,
+        "lng": 6.94921,
+        "population": 24628
+    },
+    {
+        "id": 3018095,
+        "name": "Fontaine",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.19275,
+        "lng": 5.68821,
+        "population": 24588
+    },
+    {
+        "id": 3036281,
+        "name": "Auch",
+        "region": "Occitanie",
+        "lat": 43.64561,
+        "lng": 0.58856,
+        "population": 24494
+    },
+    {
+        "id": 3029825,
+        "name": "Bruay-la-Buissière",
+        "region": "Hauts-de-France",
+        "lat": 50.48333,
+        "lng": 2.55,
+        "population": 24474
+    },
+    {
+        "id": 2998150,
+        "name": "Lisieux",
+        "region": "Normandy",
+        "lat": 49.1466,
+        "lng": 0.22925,
+        "population": 24473
+    },
+    {
+        "id": 2975964,
+        "name": "Sarreguemines",
+        "region": "Grand Est",
+        "lat": 49.10995,
+        "lng": 7.06747,
+        "population": 24446
+    },
+    {
+        "id": 2972444,
+        "name": "Torcy",
+        "region": "Île-de-France",
+        "lat": 48.85064,
+        "lng": 2.65078,
+        "population": 24386
+    },
+    {
+        "id": 3015419,
+        "name": "Gradignan",
+        "region": "New Aquitaine",
+        "lat": 44.77362,
+        "lng": -0.61395,
+        "population": 24385
+    },
+    {
+        "id": 3007794,
+        "name": "Lanester",
+        "region": "Brittany",
+        "lat": 47.76316,
+        "lng": -3.3393,
+        "population": 24352
+    },
+    {
+        "id": 3030257,
+        "name": "Brétigny-sur-Orge",
+        "region": "Île-de-France",
+        "lat": 48.61135,
+        "lng": 2.30593,
+        "population": 24317
+    },
+    {
+        "id": 2991153,
+        "name": "Muret",
+        "region": "Occitanie",
+        "lat": 43.45998,
+        "lng": 1.32541,
+        "population": 24313
+    },
+    {
+        "id": 3032070,
+        "name": "Bois-Colombes",
+        "region": "Île-de-France",
+        "lat": 48.91936,
+        "lng": 2.27485,
+        "population": 24300
+    },
+    {
+        "id": 3032469,
+        "name": "Blagnac",
+        "region": "Occitanie",
+        "lat": 43.63675,
+        "lng": 1.38971,
+        "population": 24263
+    },
+    {
+        "id": 3013403,
+        "name": "Hérouville-Saint-Clair",
+        "region": "Normandy",
+        "lat": 49.21088,
+        "lng": -0.30653,
+        "population": 24258
+    },
+    {
+        "id": 2998517,
+        "name": "Libourne",
+        "region": "New Aquitaine",
+        "lat": 44.91449,
+        "lng": -0.24186,
+        "population": 24240
+    },
+    {
+        "id": 3005066,
+        "name": "Le Bouscat",
+        "region": "New Aquitaine",
+        "lat": 44.86488,
+        "lng": -0.59864,
+        "population": 24232
+    },
+    {
+        "id": 2993760,
+        "name": "Miramas",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.58508,
+        "lng": 5.00268,
+        "population": 24173
+    },
+    {
+        "id": 3034126,
+        "name": "Beaune",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.02413,
+        "lng": 4.83887,
+        "population": 24162
+    },
+    {
+        "id": 3029748,
+        "name": "Brunoy",
+        "region": "Île-de-France",
+        "lat": 48.6942,
+        "lng": 2.49223,
+        "population": 24096
+    },
+    {
+        "id": 3020601,
+        "name": "Eaubonne",
+        "region": "Île-de-France",
+        "lat": 48.99712,
+        "lng": 2.28249,
+        "population": 24096
+    },
+    {
+        "id": 2968496,
+        "name": "Villeparisis",
+        "region": "Île-de-France",
+        "lat": 48.94208,
+        "lng": 2.61463,
+        "population": 23931
+    },
+    {
+        "id": 2992616,
+        "name": "Montfermeil",
+        "region": "Île-de-France",
+        "lat": 48.8982,
+        "lng": 2.57913,
+        "population": 23829
+    },
+    {
+        "id": 2974678,
+        "name": "Sèvres",
+        "region": "Île-de-France",
+        "lat": 48.82292,
+        "lng": 2.21757,
+        "population": 23724
+    },
+    {
+        "id": 3017609,
+        "name": "Fougères",
+        "region": "Brittany",
+        "lat": 48.35157,
+        "lng": -1.19961,
+        "population": 23719
+    },
+    {
+        "id": 2977388,
+        "name": "Saint-Pol-sur-Mer",
+        "region": "Hauts-de-France",
+        "lat": 51.03116,
+        "lng": 2.33983,
+        "population": 23635
+    },
+    {
+        "id": 3008379,
+        "name": "La Madeleine",
+        "region": "Hauts-de-France",
+        "lat": 50.64603,
+        "lng": 3.07585,
+        "population": 23572
+    },
+    {
+        "id": 3016078,
+        "name": "Gif-sur-Yvette",
+        "region": "Île-de-France",
+        "lat": 48.68333,
+        "lng": 2.13333,
+        "population": 23541
+    },
+    {
+        "id": 3033881,
+        "name": "Bègles",
+        "region": "New Aquitaine",
+        "lat": 44.80759,
+        "lng": -0.55144,
+        "population": 23504
+    },
+    {
+        "id": 3029213,
+        "name": "Cahors",
+        "region": "Occitanie",
+        "lat": 44.4491,
+        "lng": 1.43663,
+        "population": 23331
+    },
+    {
+        "id": 3013619,
+        "name": "Hazebrouck",
+        "region": "Hauts-de-France",
+        "lat": 50.72374,
+        "lng": 2.53729,
+        "population": 23307
+    },
+    {
+        "id": 2993875,
+        "name": "Millau",
+        "region": "Occitanie",
+        "lat": 44.09973,
+        "lng": 3.07848,
+        "population": 23307
+    },
+    {
+        "id": 3015160,
+        "name": "Grande-Synthe",
+        "region": "Hauts-de-France",
+        "lat": 51.0154,
+        "lng": 2.29975,
+        "population": 23213
+    },
+    {
+        "id": 3005825,
+        "name": "La Valette-du-Var",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.13763,
+        "lng": 5.98317,
+        "population": 23134
+    },
+    {
+        "id": 2991481,
+        "name": "Moulins",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.56459,
+        "lng": 3.33243,
+        "population": 23095
+    },
+    {
+        "id": 2992003,
+        "name": "Mont-Saint-Aignan",
+        "region": "Normandy",
+        "lat": 49.46307,
+        "lng": 1.09364,
+        "population": 23078
+    },
+    {
+        "id": 3019459,
+        "name": "Étampes",
+        "region": "Île-de-France",
+        "lat": 48.43507,
+        "lng": 2.16233,
+        "population": 23012
+    },
+    {
+        "id": 2993207,
+        "name": "Mons-en-Barœul",
+        "region": "Hauts-de-France",
+        "lat": 50.63333,
+        "lng": 3.11667,
+        "population": 23006
+    },
+    {
+        "id": 3038638,
+        "name": "Agde",
+        "region": "Occitanie",
+        "lat": 43.31083,
+        "lng": 3.47583,
+        "population": 23001
+    },
+    {
+        "id": 2977800,
+        "name": "Saint-Ouen-l'Aumône",
+        "region": "Île-de-France",
+        "lat": 49.04353,
+        "lng": 2.12134,
+        "population": 22977
+    },
+    {
+        "id": 2969612,
+        "name": "Vertou",
+        "region": "Pays de la Loire",
+        "lat": 47.16878,
+        "lng": -1.4729,
+        "population": 22921
+    },
+    {
+        "id": 2992536,
+        "name": "Montgeron",
+        "region": "Île-de-France",
+        "lat": 48.70543,
+        "lng": 2.45039,
+        "population": 22843
+    },
+    {
+        "id": 2996564,
+        "name": "Maisons-Laffitte",
+        "region": "Île-de-France",
+        "lat": 48.95264,
+        "lng": 2.14521,
+        "population": 22772
+    },
+    {
+        "id": 3002465,
+        "name": "Le Puy-en-Velay",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.04366,
+        "lng": 3.88523,
+        "population": 22718
+    },
+    {
+        "id": 3002880,
+        "name": "Le Petit-Quevilly",
+        "region": "Normandy",
+        "lat": 49.41338,
+        "lng": 1.06155,
+        "population": 22691
+    },
+    {
+        "id": 2997556,
+        "name": "Lormont",
+        "region": "New Aquitaine",
+        "lat": 44.8765,
+        "lng": -0.51919,
+        "population": 22636
+    },
+    {
+        "id": 2989611,
+        "name": "Olivet",
+        "region": "Centre-Val de Loire",
+        "lat": 47.86219,
+        "lng": 1.8991,
+        "population": 22604
+    },
+    {
+        "id": 2988867,
+        "name": "Ozoir-la-Ferrière",
+        "region": "Île-de-France",
+        "lat": 48.76699,
+        "lng": 2.66871,
+        "population": 22530
+    },
+    {
+        "id": 3002650,
+        "name": "Le Plessis-Robinson",
+        "region": "Île-de-France",
+        "lat": 48.78889,
+        "lng": 2.27078,
+        "population": 22510
+    },
+    {
+        "id": 3027950,
+        "name": "Cenon",
+        "region": "New Aquitaine",
+        "lat": 44.85614,
+        "lng": -0.53355,
+        "population": 22393
+    },
+    {
+        "id": 3024107,
+        "name": "Combs-la-Ville",
+        "region": "Île-de-France",
+        "lat": 48.66497,
+        "lng": 2.56957,
+        "population": 22322
+    },
+    {
+        "id": 3021670,
+        "name": "Dax",
+        "region": "New Aquitaine",
+        "lat": 43.71032,
+        "lng": -1.05366,
+        "population": 22305
+    },
+    {
+        "id": 3016956,
+        "name": "Frontignan",
+        "region": "Occitanie",
+        "lat": 43.44775,
+        "lng": 3.75524,
+        "population": 22251
+    },
+    {
+        "id": 2967758,
+        "name": "Voiron",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.36471,
+        "lng": 5.5856,
+        "population": 22114
+    },
+    {
+        "id": 2997620,
+        "name": "Loos",
+        "region": "Hauts-de-France",
+        "lat": 50.60982,
+        "lng": 3.01874,
+        "population": 22107
+    },
+    {
+        "id": 3003481,
+        "name": "Le Mée-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.53157,
+        "lng": 2.62829,
+        "population": 22058
+    },
+    {
+        "id": 2968555,
+        "name": "Villeneuve-la-Garenne",
+        "region": "Île-de-France",
+        "lat": 48.93935,
+        "lng": 2.31478,
+        "population": 22036
+    },
+    {
+        "id": 3018794,
+        "name": "Fécamp",
+        "region": "Normandy",
+        "lat": 49.75787,
+        "lng": 0.37457,
+        "population": 22003
+    },
+    {
+        "id": 3023645,
+        "name": "Cormeilles-en-Parisis",
+        "region": "Île-de-France",
+        "lat": 48.97111,
+        "lng": 2.20491,
+        "population": 21973
+    },
+    {
+        "id": 2980586,
+        "name": "Sainte-Foy-lès-Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.73375,
+        "lng": 4.80259,
+        "population": 21893
+    },
+    {
+        "id": 2969958,
+        "name": "Verdun",
+        "region": "Grand Est",
+        "lat": 49.15964,
+        "lng": 5.3829,
+        "population": 21798
+    },
+    {
+        "id": 2970203,
+        "name": "Vélizy-Villacoublay",
+        "region": "Île-de-France",
+        "lat": 48.78198,
+        "lng": 2.19395,
+        "population": 21741
+    },
+    {
+        "id": 2978758,
+        "name": "Saint-Lô",
+        "region": "Normandy",
+        "lat": 49.11624,
+        "lng": -1.09031,
+        "population": 21722
+    },
+    {
+        "id": 3038712,
+        "name": "Achères",
+        "region": "Île-de-France",
+        "lat": 48.96115,
+        "lng": 2.06882,
+        "population": 21660
+    },
+    {
+        "id": 2997110,
+        "name": "Lunéville",
+        "region": "Grand Est",
+        "lat": 48.59273,
+        "lng": 6.49383,
+        "population": 21582
+    },
+    {
+        "id": 3021516,
+        "name": "Deuil-la-Barre",
+        "region": "Île-de-France",
+        "lat": 48.97674,
+        "lng": 2.32722,
+        "population": 21560
+    },
+    {
+        "id": 3010529,
+        "name": "La Celle-Saint-Cloud",
+        "region": "Île-de-France",
+        "lat": 48.85029,
+        "lng": 2.14523,
+        "population": 21539
+    },
+    {
+        "id": 3037540,
+        "name": "Annecy-le-Vieux",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.91971,
+        "lng": 6.14393,
+        "population": 21521
+    },
+    {
+        "id": 2975469,
+        "name": "Sceaux",
+        "region": "Île-de-France",
+        "lat": 48.77644,
+        "lng": 2.29026,
+        "population": 21511
+    },
+    {
+        "id": 3007609,
+        "name": "Lannion",
+        "region": "Brittany",
+        "lat": 48.73264,
+        "lng": -3.45657,
+        "population": 21473
+    },
+    {
+        "id": 3021605,
+        "name": "Denain",
+        "region": "Hauts-de-France",
+        "lat": 50.3293,
+        "lng": 3.3943,
+        "population": 21412
+    },
+    {
+        "id": 3038159,
+        "name": "Allauch",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.33573,
+        "lng": 5.48201,
+        "population": 21406
+    },
+    {
+        "id": 3024035,
+        "name": "Concarneau",
+        "region": "Brittany",
+        "lat": 47.87536,
+        "lng": -3.91896,
+        "population": 21397
+    },
+    {
+        "id": 3019193,
+        "name": "Eysines",
+        "region": "New Aquitaine",
+        "lat": 44.88442,
+        "lng": -0.65141,
+        "population": 21394
+    },
+    {
+        "id": 3022376,
+        "name": "Croix",
+        "region": "Hauts-de-France",
+        "lat": 50.67846,
+        "lng": 3.1493,
+        "population": 21361
+    },
+    {
+        "id": 3017805,
+        "name": "Forbach",
+        "region": "Grand Est",
+        "lat": 49.18848,
+        "lng": 6.89255,
+        "population": 21358
+    },
+    {
+        "id": 2996180,
+        "name": "Manosque",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.82883,
+        "lng": 5.78688,
+        "population": 21351
+    },
+    {
+        "id": 2978621,
+        "name": "Saint-Mandé",
+        "region": "Île-de-France",
+        "lat": 48.83864,
+        "lng": 2.41579,
+        "population": 21261
+    },
+    {
+        "id": 13580310,
+        "name": "Plaine du Var",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.68248,
+        "lng": 7.20179,
+        "population": 21228
+    },
+    {
+        "id": 2992229,
+        "name": "Montmorency",
+        "region": "Île-de-France",
+        "lat": 48.98826,
+        "lng": 2.3434,
+        "population": 21156
+    },
+    {
+        "id": 12808656,
+        "name": "Porte Saint-Martin",
+        "region": "Île-de-France",
+        "lat": 48.87153,
+        "lng": 2.36015,
+        "population": 21154
+    },
+    {
+        "id": 3016667,
+        "name": "Gardanne",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.45491,
+        "lng": 5.46913,
+        "population": 21140
+    },
+    {
+        "id": 3000491,
+        "name": "Les Lilas",
+        "region": "Île-de-France",
+        "lat": 48.87992,
+        "lng": 2.42057,
+        "population": 21124
+    },
+    {
+        "id": 3018280,
+        "name": "Fleury-les-Aubrais",
+        "region": "Centre-Val de Loire",
+        "lat": 47.93328,
+        "lng": 1.91811,
+        "population": 21085
+    },
+    {
+        "id": 3021852,
+        "name": "Dammarie-les-Lys",
+        "region": "Île-de-France",
+        "lat": 48.51667,
+        "lng": 2.65,
+        "population": 21066
+    },
+    {
+        "id": 2983074,
+        "name": "Roissy-en-Brie",
+        "region": "Île-de-France",
+        "lat": 48.79159,
+        "lng": 2.64747,
+        "population": 20933
+    },
+    {
+        "id": 2979985,
+        "name": "Saint-Genis-Laval",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.69542,
+        "lng": 4.79316,
+        "population": 20883
+    },
+    {
+        "id": 2978742,
+        "name": "Saint-Louis",
+        "region": "Grand Est",
+        "lat": 47.59206,
+        "lng": 7.55923,
+        "population": 20871
+    },
+    {
+        "id": 3024440,
+        "name": "Cognac",
+        "region": "New Aquitaine",
+        "lat": 45.69581,
+        "lng": -0.32867,
+        "population": 20868
+    },
+    {
+        "id": 2977952,
+        "name": "Saint-Michel-sur-Orge",
+        "region": "Île-de-France",
+        "lat": 48.63479,
+        "lng": 2.30831,
+        "population": 20824
+    },
+    {
+        "id": 2997712,
+        "name": "Longjumeau",
+        "region": "Île-de-France",
+        "lat": 48.69307,
+        "lng": 2.29431,
+        "population": 20771
+    },
+    {
+        "id": 3030303,
+        "name": "Bressuire",
+        "region": "New Aquitaine",
+        "lat": 46.84158,
+        "lng": -0.49042,
+        "population": 20743
+    },
+    {
+        "id": 2970432,
+        "name": "Vauréal",
+        "region": "Île-de-France",
+        "lat": 49.03333,
+        "lng": 2.03333,
+        "population": 20699
+    },
+    {
+        "id": 2997626,
+        "name": "Lons-le-Saunier",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.67535,
+        "lng": 5.55575,
+        "population": 20678
+    },
+    {
+        "id": 2986732,
+        "name": "Ploemeur",
+        "region": "Brittany",
+        "lat": 47.73512,
+        "lng": -3.42952,
+        "population": 20652
+    },
+    {
+        "id": 3009071,
+        "name": "Lagny-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.86667,
+        "lng": 2.71667,
+        "population": 20649
+    },
+    {
+        "id": 2975349,
+        "name": "Sedan",
+        "region": "Grand Est",
+        "lat": 49.70187,
+        "lng": 4.94028,
+        "population": 20620
+    },
+    {
+        "id": 2989297,
+        "name": "Orly",
+        "region": "Île-de-France",
+        "lat": 48.74792,
+        "lng": 2.39253,
+        "population": 20528
+    },
+    {
+        "id": 12808657,
+        "name": "Saint-Vincent de Paul",
+        "region": "Île-de-France",
+        "lat": 48.88075,
+        "lng": 2.35513,
+        "population": 20336
+    },
+    {
+        "id": 2986302,
+        "name": "Pontarlier",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.90347,
+        "lng": 6.35542,
+        "population": 20313
+    },
+    {
+        "id": 3027453,
+        "name": "Chamalières",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.77364,
+        "lng": 3.06703,
+        "population": 20298
+    },
+    {
+        "id": 2994087,
+        "name": "Meylan",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.20978,
+        "lng": 5.77762,
+        "population": 20267
+    },
+    {
+        "id": 2992863,
+        "name": "Montceau-les-Mines",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.66667,
+        "lng": 4.36667,
+        "population": 20221
+    },
+    {
+        "id": 3014034,
+        "name": "Halluin",
+        "region": "Hauts-de-France",
+        "lat": 50.78628,
+        "lng": 3.12611,
+        "population": 20171
+    },
+    {
+        "id": 2983489,
+        "name": "Riom",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.89362,
+        "lng": 3.11264,
+        "population": 20142
+    },
+    {
+        "id": 3025314,
+        "name": "Chevilly-Larue",
+        "region": "Île-de-France",
+        "lat": 48.76476,
+        "lng": 2.3503,
+        "population": 20125
+    },
+    {
+        "id": 12808674,
+        "name": "Croulebarbe",
+        "region": "Île-de-France",
+        "lat": 48.81003,
+        "lng": 2.35403,
+        "population": 20062
+    },
+    {
+        "id": 8504417,
+        "name": "La Defense",
+        "region": "Île-de-France",
+        "lat": 48.89198,
+        "lng": 2.23881,
+        "population": 20000
+    },
+    {
+        "id": 2980467,
+        "name": "Sainte-Marguerite",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.26196,
+        "lng": 5.40125,
+        "population": 19997
+    },
+    {
+        "id": 2982967,
+        "name": "Romorantin-Lanthenay",
+        "region": "Centre-Val de Loire",
+        "lat": 47.36667,
+        "lng": 1.75,
+        "population": 19953
+    },
+    {
+        "id": 2996146,
+        "name": "Mantes-la-Ville",
+        "region": "Île-de-France",
+        "lat": 48.97374,
+        "lng": 1.70253,
+        "population": 19947
+    },
+    {
+        "id": 2987825,
+        "name": "Pertuis",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.69415,
+        "lng": 5.50291,
+        "population": 19926
+    },
+    {
+        "id": 2991719,
+        "name": "Morsang-sur-Orge",
+        "region": "Île-de-France",
+        "lat": 48.66181,
+        "lng": 2.35338,
+        "population": 19917
+    },
+    {
+        "id": 2969562,
+        "name": "Vesoul",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.62604,
+        "lng": 6.14251,
+        "population": 19892
+    },
+    {
+        "id": 2979341,
+        "name": "Saint-Jean-de-Braye",
+        "region": "Centre-Val de Loire",
+        "lat": 47.91303,
+        "lng": 1.97705,
+        "population": 19874
+    },
+    {
+        "id": 3000047,
+        "name": "Les Pennes-Mirabeau",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.41012,
+        "lng": 5.30838,
+        "population": 19871
+    },
+    {
+        "id": 3030864,
+        "name": "Paris 02 Bourse",
+        "region": "Île-de-France",
+        "lat": 48.8655,
+        "lng": 2.3426,
+        "population": 19847
+    },
+    {
+        "id": 3024532,
+        "name": "Cluses",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 46.06251,
+        "lng": 6.57497,
+        "population": 19789
+    },
+    {
+        "id": 3030985,
+        "name": "Bourg-lès-Valence",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 44.94703,
+        "lng": 4.89463,
+        "population": 19770
+    },
+    {
+        "id": 2968771,
+        "name": "Villefontaine",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.61278,
+        "lng": 5.15058,
+        "population": 19749
+    },
+    {
+        "id": 2979627,
+        "name": "Saint-Gratien",
+        "region": "Île-de-France",
+        "lat": 48.9735,
+        "lng": 2.28729,
+        "population": 19737
+    },
+    {
+        "id": 3000060,
+        "name": "Les Pavillons-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.90683,
+        "lng": 2.50648,
+        "population": 19730
+    },
+    {
+        "id": 3018074,
+        "name": "Fontainebleau",
+        "region": "Île-de-France",
+        "lat": 48.40908,
+        "lng": 2.70177,
+        "population": 19717
+    },
+    {
+        "id": 3013549,
+        "name": "Hem",
+        "region": "Hauts-de-France",
+        "lat": 50.65256,
+        "lng": 3.18681,
+        "population": 19699
+    },
+    {
+        "id": 2990264,
+        "name": "Nogent-sur-Oise",
+        "region": "Hauts-de-France",
+        "lat": 49.27158,
+        "lng": 2.47074,
+        "population": 19690
+    },
+    {
+        "id": 3035396,
+        "name": "Bagnols-sur-Cèze",
+        "region": "Occitanie",
+        "lat": 44.16259,
+        "lng": 4.61974,
+        "population": 19640
+    },
+    {
+        "id": 3023324,
+        "name": "Couëron",
+        "region": "Pays de la Loire",
+        "lat": 47.21473,
+        "lng": -1.72452,
+        "population": 19466
+    },
+    {
+        "id": 3020392,
+        "name": "Écully",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.77437,
+        "lng": 4.77758,
+        "population": 19437
+    },
+    {
+        "id": 3022700,
+        "name": "Cran-Gevrier",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.9,
+        "lng": 6.1,
+        "population": 19354
+    },
+    {
+        "id": 2967438,
+        "name": "Wasquehal",
+        "region": "Hauts-de-France",
+        "lat": 50.67043,
+        "lng": 3.13382,
+        "population": 19320
+    },
+    {
+        "id": 2996255,
+        "name": "Mandelieu-la-Napoule",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.54577,
+        "lng": 6.93734,
+        "population": 19292
+    },
+    {
+        "id": 2970110,
+        "name": "Vendôme",
+        "region": "Centre-Val de Loire",
+        "lat": 47.79292,
+        "lng": 1.06556,
+        "population": 19226
+    },
+    {
+        "id": 2997336,
+        "name": "Louviers",
+        "region": "Normandy",
+        "lat": 49.21667,
+        "lng": 1.16667,
+        "population": 19220
+    },
+    {
+        "id": 3014175,
+        "name": "Gujan-Mestras",
+        "region": "New Aquitaine",
+        "lat": 44.636,
+        "lng": -1.06815,
+        "population": 19184
+    },
+    {
+        "id": 2976258,
+        "name": "Sanary-sur-Mer",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.11985,
+        "lng": 5.80155,
+        "population": 19166
+    },
+    {
+        "id": 2975088,
+        "name": "Senlis",
+        "region": "Hauts-de-France",
+        "lat": 49.20724,
+        "lng": 2.58661,
+        "population": 19160
+    },
+    {
+        "id": 3038266,
+        "name": "Albertville",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.67452,
+        "lng": 6.39061,
+        "population": 19113
+    },
+    {
+        "id": 2998305,
+        "name": "Limeil-Brévannes",
+        "region": "Île-de-France",
+        "lat": 48.7448,
+        "lng": 2.48705,
+        "population": 19104
+    },
+    {
+        "id": 3012162,
+        "name": "Jouy-le-Moutier",
+        "region": "Île-de-France",
+        "lat": 49.01068,
+        "lng": 2.04028,
+        "population": 19087
+    },
+    {
+        "id": 2995642,
+        "name": "Marmande",
+        "region": "New Aquitaine",
+        "lat": 44.50361,
+        "lng": 0.16546,
+        "population": 19069
+    },
+    {
+        "id": 2982343,
+        "name": "Royan",
+        "region": "New Aquitaine",
+        "lat": 45.62811,
+        "lng": -1.03153,
+        "population": 19017
+    },
+    {
+        "id": 2995041,
+        "name": "Maurepas",
+        "region": "Île-de-France",
+        "lat": 48.76486,
+        "lng": 1.92923,
+        "population": 19009
+    },
+    {
+        "id": 3021382,
+        "name": "Digne-les-Bains",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 44.09252,
+        "lng": 6.23199,
+        "population": 18986
+    },
+    {
+        "id": 2991551,
+        "name": "Mougins",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.60068,
+        "lng": 6.99523,
+        "population": 18973
+    },
+    {
+        "id": 3027513,
+        "name": "Challans",
+        "region": "Pays de la Loire",
+        "lat": 46.8458,
+        "lng": -1.87942,
+        "population": 18947
+    },
+    {
+        "id": 2975233,
+        "name": "Sélestat",
+        "region": "Grand Est",
+        "lat": 48.26195,
+        "lng": 7.4489,
+        "population": 18941
+    },
+    {
+        "id": 3016675,
+        "name": "Garches",
+        "region": "Île-de-France",
+        "lat": 48.84226,
+        "lng": 2.18232,
+        "population": 18930
+    },
+    {
+        "id": 3030990,
+        "name": "Bourg-la-Reine",
+        "region": "Île-de-France",
+        "lat": 48.77888,
+        "lng": 2.31781,
+        "population": 18870
+    },
+    {
+        "id": 3025144,
+        "name": "Chilly-Mazarin",
+        "region": "Île-de-France",
+        "lat": 48.71489,
+        "lng": 2.31638,
+        "population": 18870
+    },
+    {
+        "id": 3019960,
+        "name": "Équeurdreville-Hainneville",
+        "region": "Normandy",
+        "lat": 49.64868,
+        "lng": -1.65306,
+        "population": 18862
+    },
+    {
+        "id": 3022988,
+        "name": "Cournon-d'Auvergne",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.74123,
+        "lng": 3.19643,
+        "population": 18848
+    },
+    {
+        "id": 12319241,
+        "name": "Saint-Roch",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.71486,
+        "lng": 7.29195,
+        "population": 18764
+    },
+    {
+        "id": 3025715,
+        "name": "Chaville",
+        "region": "Île-de-France",
+        "lat": 48.80565,
+        "lng": 2.18864,
+        "population": 18735
+    },
+    {
+        "id": 2990616,
+        "name": "Neuilly-Plaisance",
+        "region": "Île-de-France",
+        "lat": 48.86342,
+        "lng": 2.506,
+        "population": 18725
+    },
+    {
+        "id": 3031709,
+        "name": "Bonneuil-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.7695,
+        "lng": 2.4793,
+        "population": 18723
+    },
+    {
+        "id": 2974188,
+        "name": "Sorgues",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 44.01023,
+        "lng": 4.87381,
+        "population": 18681
+    },
+    {
+        "id": 2970148,
+        "name": "Vence",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.72254,
+        "lng": 7.11183,
+        "population": 18668
+    },
+    {
+        "id": 11919779,
+        "name": "Saint-Barthélémy",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.33105,
+        "lng": 5.40241,
+        "population": 18655
+    },
+    {
+        "id": 3002647,
+        "name": "Le Plessis-Trévise",
+        "region": "Île-de-France",
+        "lat": 48.81074,
+        "lng": 2.57363,
+        "population": 18618
+    },
+    {
+        "id": 3034911,
+        "name": "Bar-le-Duc",
+        "region": "Grand Est",
+        "lat": 48.77275,
+        "lng": 5.16108,
+        "population": 18595
+    },
+    {
+        "id": 2974655,
+        "name": "Seynod",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.88549,
+        "lng": 6.08831,
+        "population": 18590
+    },
+    {
+        "id": 2993679,
+        "name": "Mitry-Mory",
+        "region": "Île-de-France",
+        "lat": 48.98333,
+        "lng": 2.61667,
+        "population": 18562
+    },
+    {
+        "id": 3028486,
+        "name": "Carvin",
+        "region": "Hauts-de-France",
+        "lat": 50.49235,
+        "lng": 2.95815,
+        "population": 18561
+    },
+    {
+        "id": 2998311,
+        "name": "Limay",
+        "region": "Île-de-France",
+        "lat": 48.99553,
+        "lng": 1.74081,
+        "population": 18559
+    },
+    {
+        "id": 3009443,
+        "name": "La Flèche",
+        "region": "Pays de la Loire",
+        "lat": 47.69815,
+        "lng": -0.07553,
+        "population": 18536
+    },
+    {
+        "id": 2986933,
+        "name": "Plaisance-du-Touch",
+        "region": "Occitanie",
+        "lat": 43.56554,
+        "lng": 1.29645,
+        "population": 18501
+    },
+    {
+        "id": 3010237,
+        "name": "La Chapelle-sur-Erdre",
+        "region": "Pays de la Loire",
+        "lat": 47.29964,
+        "lng": -1.55239,
+        "population": 18481
+    },
+    {
+        "id": 3035667,
+        "name": "Avion",
+        "region": "Hauts-de-France",
+        "lat": 50.41038,
+        "lng": 2.83053,
+        "population": 18470
+    },
+    {
+        "id": 3037514,
+        "name": "Annonay",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.23992,
+        "lng": 4.6707,
+        "population": 18423
+    },
+    {
+        "id": 2982944,
+        "name": "Ronchin",
+        "region": "Hauts-de-France",
+        "lat": 50.59883,
+        "lng": 3.09056,
+        "population": 18331
+    },
+    {
+        "id": 2995121,
+        "name": "Mauguio",
+        "region": "Occitanie",
+        "lat": 43.61692,
+        "lng": 4.00739,
+        "population": 18320
+    },
+    {
+        "id": 3025509,
+        "name": "Chennevières-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.79702,
+        "lng": 2.54046,
+        "population": 18314
+    },
+    {
+        "id": 3035883,
+        "name": "Autun",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 46.95104,
+        "lng": 4.29869,
+        "population": 18283
+    },
+    {
+        "id": 2981492,
+        "name": "Saint-Avold",
+        "region": "Grand Est",
+        "lat": 49.10465,
+        "lng": 6.70402,
+        "population": 18281
+    },
+    {
+        "id": 2972270,
+        "name": "Tourlaville",
+        "region": "Normandy",
+        "lat": 49.63829,
+        "lng": -1.56639,
+        "population": 18273
+    },
+    {
+        "id": 2977845,
+        "name": "Saint-Omer",
+        "region": "Hauts-de-France",
+        "lat": 50.74834,
+        "lng": 2.26091,
+        "population": 18250
+    },
+    {
+        "id": 3037051,
+        "name": "Argentan",
+        "region": "Normandy",
+        "lat": 48.74441,
+        "lng": -0.02023,
+        "population": 18230
+    },
+    {
+        "id": 3015902,
+        "name": "Givors",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.59063,
+        "lng": 4.76878,
+        "population": 18198
+    },
+    {
+        "id": 3012313,
+        "name": "Joinville-le-Pont",
+        "region": "Île-de-France",
+        "lat": 48.82538,
+        "lng": 2.47458,
+        "population": 18154
+    },
+    {
+        "id": 3028535,
+        "name": "Carquefou",
+        "region": "Pays de la Loire",
+        "lat": 47.29722,
+        "lng": -1.4921,
+        "population": 18056
+    },
+    {
+        "id": 3027763,
+        "name": "Cestas",
+        "region": "New Aquitaine",
+        "lat": 44.74471,
+        "lng": -0.68194,
+        "population": 18036
+    },
+    {
+        "id": 3028337,
+        "name": "Castelnau-le-Lez",
+        "region": "Occitanie",
+        "lat": 43.63605,
+        "lng": 3.90137,
+        "population": 18011
+    },
+    {
+        "id": 2992404,
+        "name": "Montigny-lès-Cormeilles",
+        "region": "Île-de-France",
+        "lat": 48.98201,
+        "lng": 2.20035,
+        "population": 17910
+    },
+    {
+        "id": 3009791,
+        "name": "La Crau",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.14962,
+        "lng": 6.07399,
+        "population": 17905
+    },
+    {
+        "id": 3018455,
+        "name": "Firminy",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.38956,
+        "lng": 4.2886,
+        "population": 17902
+    },
+    {
+        "id": 2989204,
+        "name": "Orsay",
+        "region": "Île-de-France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "population": 17817
+    },
+    {
+        "id": 2981839,
+        "name": "Saint-Amand-les-Eaux",
+        "region": "Hauts-de-France",
+        "lat": 50.44718,
+        "lng": 3.43076,
+        "population": 17808
+    },
+    {
+        "id": 3007221,
+        "name": "La Pomme",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.28987,
+        "lng": 5.44153,
+        "population": 17787
+    },
+    {
+        "id": 3002499,
+        "name": "Le Pré-Saint-Gervais",
+        "region": "Île-de-France",
+        "lat": 48.88549,
+        "lng": 2.40422,
+        "population": 17786
+    },
+    {
+        "id": 2997246,
+        "name": "Lucé",
+        "region": "Centre-Val de Loire",
+        "lat": 48.43689,
+        "lng": 1.46359,
+        "population": 17780
+    },
+    {
+        "id": 3001402,
+        "name": "Les Clayes-sous-Bois",
+        "region": "Île-de-France",
+        "lat": 48.82206,
+        "lng": 1.98677,
+        "population": 17776
+    },
+    {
+        "id": 3019766,
+        "name": "La Baule-Escoublac",
+        "region": "Pays de la Loire",
+        "lat": 47.29221,
+        "lng": -2.36395,
+        "population": 17775
+    },
+    {
+        "id": 12808677,
+        "name": "Salpêtrière",
+        "region": "Île-de-France",
+        "lat": 48.83732,
+        "lng": 2.35823,
+        "population": 17708
+    },
+    {
+        "id": 2974494,
+        "name": "Sin-le-Noble",
+        "region": "Hauts-de-France",
+        "lat": 50.36159,
+        "lng": 3.13113,
+        "population": 17682
+    },
+    {
+        "id": 2972350,
+        "name": "Toul",
+        "region": "Grand Est",
+        "lat": 48.68075,
+        "lng": 5.89115,
+        "population": 17680
+    },
+    {
+        "id": 7284897,
+        "name": "Marseille 16",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.35982,
+        "lng": 5.33421,
+        "population": 17630
+    },
+    {
+        "id": 2968546,
+        "name": "Villeneuve-le-Roi",
+        "region": "Île-de-France",
+        "lat": 48.73684,
+        "lng": 2.40081,
+        "population": 17575
+    },
+    {
+        "id": 2994895,
+        "name": "Mazargues",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.24622,
+        "lng": 5.39788,
+        "population": 17527
+    },
+    {
+        "id": 2979316,
+        "name": "Saint-Jean-de-la-Ruelle",
+        "region": "Centre-Val de Loire",
+        "lat": 47.91127,
+        "lng": 1.86483,
+        "population": 17522
+    },
+    {
+        "id": 2991772,
+        "name": "Morlaix",
+        "region": "Brittany",
+        "lat": 48.57784,
+        "lng": -3.82792,
+        "population": 17516
+    },
+    {
+        "id": 2993024,
+        "name": "Montargis",
+        "region": "Centre-Val de Loire",
+        "lat": 47.99696,
+        "lng": 2.73261,
+        "population": 17457
+    },
+    {
+        "id": 2974385,
+        "name": "Soisy-sous-Montmorency",
+        "region": "Île-de-France",
+        "lat": 48.98813,
+        "lng": 2.30156,
+        "population": 17436
+    },
+    {
+        "id": 3032551,
+        "name": "Bischheim",
+        "region": "Grand Est",
+        "lat": 48.61612,
+        "lng": 7.75343,
+        "population": 17434
+    },
+    {
+        "id": 3018339,
+        "name": "Flers",
+        "region": "Normandy",
+        "lat": 48.73722,
+        "lng": -0.57466,
+        "population": 17430
+    },
+    {
+        "id": 2995652,
+        "name": "Marly-le-Roi",
+        "region": "Île-de-France",
+        "lat": 48.86667,
+        "lng": 2.08333,
+        "population": 17404
+    },
+    {
+        "id": 3006121,
+        "name": "Lattes",
+        "region": "Occitanie",
+        "lat": 43.56775,
+        "lng": 3.90279,
+        "population": 17390
+    },
+    {
+        "id": 2980935,
+        "name": "Saint-Cyr-sur-Loire",
+        "region": "Centre-Val de Loire",
+        "lat": 47.4,
+        "lng": 0.66667,
+        "population": 17337
+    },
+    {
+        "id": 3017651,
+        "name": "Fos-sur-Mer",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.43774,
+        "lng": 4.94457,
+        "population": 17317
+    },
+    {
+        "id": 3037157,
+        "name": "Arcueil",
+        "region": "Île-de-France",
+        "lat": 48.79993,
+        "lng": 2.33256,
+        "population": 17308
+    },
+    {
+        "id": 2998224,
+        "name": "Lingolsheim",
+        "region": "Grand Est",
+        "lat": 48.55752,
+        "lng": 7.68253,
+        "population": 17284
+    },
+    {
+        "id": 2967879,
+        "name": "Vitré",
+        "region": "Brittany",
+        "lat": 48.12279,
+        "lng": -1.20983,
+        "population": 17266
+    },
+    {
+        "id": 2967856,
+        "name": "Vitry-le-François",
+        "region": "Grand Est",
+        "lat": 48.72472,
+        "lng": 4.58439,
+        "population": 17250
+    },
+    {
+        "id": 3020307,
+        "name": "Elbeuf",
+        "region": "Normandy",
+        "lat": 49.28669,
+        "lng": 1.00288,
+        "population": 17231
+    },
+    {
+        "id": 2988670,
+        "name": "Pamiers",
+        "region": "Occitanie",
+        "lat": 43.1165,
+        "lng": 1.61079,
+        "population": 16997
+    },
+    {
+        "id": 2992671,
+        "name": "Montereau-Fault-Yonne",
+        "region": "Île-de-France",
+        "lat": 48.38333,
+        "lng": 2.95,
+        "population": 16993
+    },
+    {
+        "id": 2971482,
+        "name": "Tulle",
+        "region": "New Aquitaine",
+        "lat": 45.26582,
+        "lng": 1.77233,
+        "population": 16969
+    },
+    {
+        "id": 2998127,
+        "name": "L'Isle-sur-la-Sorgue",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.91971,
+        "lng": 5.05141,
+        "population": 16968
+    },
+    {
+        "id": 2989755,
+        "name": "Octeville",
+        "region": "Normandy",
+        "lat": 49.62612,
+        "lng": -1.64349,
+        "population": 16951
+    },
+    {
+        "id": 2973317,
+        "name": "Tassin-la-Demi-Lune",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.75499,
+        "lng": 4.78812,
+        "population": 16920
+    },
+    {
+        "id": 3031268,
+        "name": "Bouguenais",
+        "region": "Pays de la Loire",
+        "lat": 47.17941,
+        "lng": -1.62468,
+        "population": 16824
+    },
+    {
+        "id": 2969796,
+        "name": "Verneuil-sur-Seine",
+        "region": "Île-de-France",
+        "lat": 48.97388,
+        "lng": 1.9648,
+        "population": 16790
+    },
+    {
+        "id": 2969692,
+        "name": "Verrières-le-Buisson",
+        "region": "Île-de-France",
+        "lat": 48.74565,
+        "lng": 2.26796,
+        "population": 16789
+    },
+    {
+        "id": 2986160,
+        "name": "Pontivy",
+        "region": "Brittany",
+        "lat": 48.06835,
+        "lng": -2.96645,
+        "population": 16752
+    },
+    {
+        "id": 2998854,
+        "name": "Le Vésinet",
+        "region": "Île-de-France",
+        "lat": 48.89281,
+        "lng": 2.13308,
+        "population": 16740
+    },
+    {
+        "id": 2976406,
+        "name": "Sallanches",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.94423,
+        "lng": 6.63162,
+        "population": 16725
+    },
+    {
+        "id": 2992367,
+        "name": "Montivilliers",
+        "region": "Normandy",
+        "lat": 49.54518,
+        "lng": 0.18769,
+        "population": 16706
+    },
+    {
+        "id": 3021150,
+        "name": "Domont",
+        "region": "Île-de-France",
+        "lat": 49.02782,
+        "lng": 2.32638,
+        "population": 16684
+    },
+    {
+        "id": 3032340,
+        "name": "Blanquefort",
+        "region": "New Aquitaine",
+        "lat": 44.91065,
+        "lng": -0.63758,
+        "population": 16636
+    },
+    {
+        "id": 3020996,
+        "name": "Douarnenez",
+        "region": "Brittany",
+        "lat": 48.09542,
+        "lng": -4.32904,
+        "population": 16590
+    },
+    {
+        "id": 11919749,
+        "name": "Le Camas",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.29469,
+        "lng": 5.39415,
+        "population": 16585
+    },
+    {
+        "id": 2989130,
+        "name": "Osny",
+        "region": "Île-de-France",
+        "lat": 49.0701,
+        "lng": 2.06277,
+        "population": 16545
+    },
+    {
+        "id": 3002984,
+        "name": "Le Pecq",
+        "region": "Île-de-France",
+        "lat": 48.89317,
+        "lng": 2.10371,
+        "population": 16534
+    },
+    {
+        "id": 3014392,
+        "name": "Guérande",
+        "region": "Pays de la Loire",
+        "lat": 47.32829,
+        "lng": -2.42934,
+        "population": 16523
+    },
+    {
+        "id": 3018246,
+        "name": "Floirac",
+        "region": "New Aquitaine",
+        "lat": 44.83061,
+        "lng": -0.52675,
+        "population": 16497
+    },
+    {
+        "id": 2980942,
+        "name": "Saint-Cyr-l'École",
+        "region": "Île-de-France",
+        "lat": 48.79865,
+        "lng": 2.06814,
+        "population": 16365
+    },
+    {
+        "id": 3005417,
+        "name": "Laxou",
+        "region": "Grand Est",
+        "lat": 48.68372,
+        "lng": 6.14929,
+        "population": 16323
+    },
+    {
+        "id": 3017921,
+        "name": "Fontenay-le-Comte",
+        "region": "Pays de la Loire",
+        "lat": 46.46671,
+        "lng": -0.80624,
+        "population": 16316
+    },
+    {
+        "id": 2993572,
+        "name": "Moissy-Cramayel",
+        "region": "Île-de-France",
+        "lat": 48.62605,
+        "lng": 2.60125,
+        "population": 16259
+    },
+    {
+        "id": 2976050,
+        "name": "Saran",
+        "region": "Centre-Val de Loire",
+        "lat": 47.95013,
+        "lng": 1.87601,
+        "population": 16243
+    },
+    {
+        "id": 3029706,
+        "name": "Bry-sur-Marne",
+        "region": "Île-de-France",
+        "lat": 48.83811,
+        "lng": 2.52488,
+        "population": 16226
+    },
+    {
+        "id": 3027767,
+        "name": "Cesson-Sévigné",
+        "region": "Brittany",
+        "lat": 48.1212,
+        "lng": -1.603,
+        "population": 16222
+    },
+    {
+        "id": 3002570,
+        "name": "Le Pontet",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.96119,
+        "lng": 4.86008,
+        "population": 16182
+    },
+    {
+        "id": 2992890,
+        "name": "Montbrison",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.60752,
+        "lng": 4.06525,
+        "population": 16164
+    },
+    {
+        "id": 3019153,
+        "name": "Faches-Thumesnil",
+        "region": "Hauts-de-France",
+        "lat": 50.58333,
+        "lng": 3.06667,
+        "population": 16163
+    },
+    {
+        "id": 2967934,
+        "name": "Viroflay",
+        "region": "Île-de-France",
+        "lat": 48.80078,
+        "lng": 2.16181,
+        "population": 16137
+    },
+    {
+        "id": 2999683,
+        "name": "Les Sables-d'Olonne",
+        "region": "Pays de la Loire",
+        "lat": 46.49687,
+        "lng": -1.7847,
+        "population": 16105
+    },
+    {
+        "id": 2978722,
+        "name": "Saint-Loup",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.27766,
+        "lng": 5.43133,
+        "population": 16084
+    },
+    {
+        "id": 2978768,
+        "name": "Saint-Leu-la-Forêt",
+        "region": "Île-de-France",
+        "lat": 49.01667,
+        "lng": 2.25,
+        "population": 16075
+    },
+    {
+        "id": 2980097,
+        "name": "Saint-Fons",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.70875,
+        "lng": 4.85325,
+        "population": 16053
+    },
+    {
+        "id": 3007874,
+        "name": "Landerneau",
+        "region": "Brittany",
+        "lat": 48.4515,
+        "lng": -4.25175,
+        "population": 16052
+    },
+    {
+        "id": 2981512,
+        "name": "Saint-Avertin",
+        "region": "Centre-Val de Loire",
+        "lat": 47.36357,
+        "lng": 0.73993,
+        "population": 16007
+    },
+    {
+        "id": 3026285,
+        "name": "Châteaudun",
+        "region": "Centre-Val de Loire",
+        "lat": 48.07086,
+        "lng": 1.33783,
+        "population": 16006
+    },
+    {
+        "id": 3012664,
+        "name": "Issoire",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.54422,
+        "lng": 3.24901,
+        "population": 15984
+    },
+    {
+        "id": 3016097,
+        "name": "Gien",
+        "region": "Centre-Val de Loire",
+        "lat": 47.69332,
+        "lng": 2.63094,
+        "population": 15966
+    },
+    {
+        "id": 3034483,
+        "name": "Bayeux",
+        "region": "Normandy",
+        "lat": 49.27732,
+        "lng": -0.7039,
+        "population": 15963
+    },
+    {
+        "id": 3016292,
+        "name": "Gentilly",
+        "region": "Île-de-France",
+        "lat": 48.81294,
+        "lng": 2.3417,
+        "population": 15939
+    },
+    {
+        "id": 3026194,
+        "name": "Château-Thierry",
+        "region": "Hauts-de-France",
+        "lat": 49.04636,
+        "lng": 3.40304,
+        "population": 15938
+    },
+    {
+        "id": 2986025,
+        "name": "Port-de-Bouc",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.40657,
+        "lng": 4.9809,
+        "population": 15934
+    },
+    {
+        "id": 2980636,
+        "name": "Saint-Égrève",
+        "region": "Auvergne-Rhône-Alpes",
+        "lat": 45.23313,
+        "lng": 5.68154,
+        "population": 15904
+    },
+    {
+        "id": 2968368,
+        "name": "Villers-lès-Nancy",
+        "region": "Grand Est",
+        "lat": 48.67333,
+        "lng": 6.15283,
+        "population": 15899
+    },
+    {
+        "id": 3030101,
+        "name": "Brie-Comte-Robert",
+        "region": "Île-de-France",
+        "lat": 48.69247,
+        "lng": 2.6109,
+        "population": 15892
+    },
+    {
+        "id": 3031898,
+        "name": "Boissy-Saint-Léger",
+        "region": "Île-de-France",
+        "lat": 48.75149,
+        "lng": 2.51163,
+        "population": 15877
+    },
+    {
+        "id": 3014383,
+        "name": "Guéret",
+        "region": "New Aquitaine",
+        "lat": 46.17185,
+        "lng": 1.87166,
+        "population": 15853
+    },
+    {
+        "id": 3025496,
+        "name": "Chenôve",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.29323,
+        "lng": 5.00457,
+        "population": 15791
+    },
+    {
+        "id": 2997395,
+        "name": "Lourdes",
+        "region": "Occitanie",
+        "lat": 43.09461,
+        "lng": -0.04611,
+        "population": 15786
+    },
+    {
+        "id": 2967318,
+        "name": "Wittenheim",
+        "region": "Grand Est",
+        "lat": 47.8109,
+        "lng": 7.32756,
+        "population": 15747
+    },
+    {
+        "id": 3028779,
+        "name": "Canteleu",
+        "region": "Normandy",
+        "lat": 49.44065,
+        "lng": 1.02459,
+        "population": 15742
+    },
+    {
+        "id": 3022569,
+        "name": "Crépy-en-Valois",
+        "region": "Hauts-de-France",
+        "lat": 49.23359,
+        "lng": 2.88807,
+        "population": 15694
+    },
+    {
+        "id": 3013862,
+        "name": "Haubourdin",
+        "region": "Hauts-de-France",
+        "lat": 50.60826,
+        "lng": 2.99143,
+        "population": 15694
+    },
+    {
+        "id": 3033416,
+        "name": "Berck-Plage",
+        "region": "Hauts-de-France",
+        "lat": 50.40704,
+        "lng": 1.56446,
+        "population": 15675
+    },
+    {
+        "id": 3000648,
+        "name": "Les Herbiers",
+        "region": "Pays de la Loire",
+        "lat": 46.87095,
+        "lng": -1.0156,
+        "population": 15664
+    },
+    {
+        "id": 3013701,
+        "name": "Yutz",
+        "region": "Grand Est",
+        "lat": 49.35571,
+        "lng": 6.1926,
+        "population": 15659
+    },
+    {
+        "id": 2988936,
+        "name": "Outreau",
+        "region": "Hauts-de-France",
+        "lat": 50.70535,
+        "lng": 1.5897,
+        "population": 15648
+    },
+    {
+        "id": 3033415,
+        "name": "Berck",
+        "region": "Hauts-de-France",
+        "lat": 50.4,
+        "lng": 1.6,
+        "population": 15609
+    },
+    {
+        "id": 2994935,
+        "name": "Mayenne",
+        "region": "Pays de la Loire",
+        "lat": 48.30337,
+        "lng": -0.61383,
+        "population": 15583
+    },
+    {
+        "id": 3036240,
+        "name": "Audincourt",
+        "region": "Bourgogne-Franche-Comté",
+        "lat": 47.48327,
+        "lng": 6.85341,
+        "population": 15577
+    },
+    {
+        "id": 3035204,
+        "name": "Balma",
+        "region": "Occitanie",
+        "lat": 43.61111,
+        "lng": 1.49944,
+        "population": 15553
+    },
+    {
+        "id": 3013681,
+        "name": "Hautmont",
+        "region": "Hauts-de-France",
+        "lat": 50.25077,
+        "lng": 3.92143,
+        "population": 15540
+    },
+    {
+        "id": 2997904,
+        "name": "Lognes",
+        "region": "Île-de-France",
+        "lat": 48.83541,
+        "lng": 2.62998,
+        "population": 15519
+    },
+    {
+        "id": 3013627,
+        "name": "Hayange",
+        "region": "Grand Est",
+        "lat": 49.32881,
+        "lng": 6.06278,
+        "population": 15501
+    },
+    {
+        "id": 12319260,
+        "name": "Les Moulins",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.67523,
+        "lng": 7.20456,
+        "population": 15476
+    },
+    {
+        "id": 2973146,
+        "name": "Tergnier",
+        "region": "Hauts-de-France",
+        "lat": 49.65607,
+        "lng": 3.30107,
+        "population": 15475
+    },
+    {
+        "id": 3028521,
+        "name": "Carrières-sous-Poissy",
+        "region": "Île-de-France",
+        "lat": 48.94952,
+        "lng": 2.04068,
+        "population": 15465
+    },
+    {
+        "id": 3012829,
+        "name": "Illzach",
+        "region": "Grand Est",
+        "lat": 47.7742,
+        "lng": 7.35175,
+        "population": 15457
+    },
+    {
+        "id": 2986306,
+        "name": "Pont-à-Mousson",
+        "region": "Grand Est",
+        "lat": 48.90702,
+        "lng": 6.05635,
+        "population": 15411
+    },
+    {
+        "id": 3022151,
+        "name": "Cugnaux",
+        "region": "Occitanie",
+        "lat": 43.53635,
+        "lng": 1.34428,
+        "population": 15393
+    },
+    {
+        "id": 3019952,
+        "name": "Éragny",
+        "region": "Île-de-France",
+        "lat": 49.01667,
+        "lng": 2.1,
+        "population": 15385
+    },
+    {
+        "id": 2990192,
+        "name": "Noisiel",
+        "region": "Île-de-France",
+        "lat": 48.84868,
+        "lng": 2.62435,
+        "population": 15362
+    },
+    {
+        "id": 11919748,
+        "name": "La Blancarde",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.30047,
+        "lng": 5.40563,
+        "population": 15292
+    },
+    {
+        "id": 2977491,
+        "name": "Saint-Pierre-des-Corps",
+        "region": "Centre-Val de Loire",
+        "lat": 47.38623,
+        "lng": 0.74849,
+        "population": 15284
+    },
+    {
+        "id": 3023240,
+        "name": "Coulommiers",
+        "region": "Île-de-France",
+        "lat": 48.81451,
+        "lng": 3.08498,
+        "population": 15274
+    },
+    {
+        "id": 2992650,
+        "name": "Montesson",
+        "region": "Île-de-France",
+        "lat": 48.90924,
+        "lng": 2.13754,
+        "population": 15256
+    },
+    {
+        "id": 2978100,
+        "name": "Saint-Maximin-la-Sainte-Baume",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.44813,
+        "lng": 5.86081,
+        "population": 15225
+    },
+    {
+        "id": 3000138,
+        "name": "Les Olives",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.32393,
+        "lng": 5.4584,
+        "population": 15181
+    },
+    {
+        "id": 2989877,
+        "name": "Noyon",
+        "region": "Hauts-de-France",
+        "lat": 49.58333,
+        "lng": 3,
+        "population": 15138
+    },
+    {
+        "id": 6269531,
+        "name": "Paris 01 Louvre",
+        "region": "Île-de-France",
+        "lat": 48.8592,
+        "lng": 2.3417,
+        "population": 15114
+    },
+    {
+        "id": 12808655,
+        "name": "Porte Saint-Denis",
+        "region": "Île-de-France",
+        "lat": 48.87363,
+        "lng": 2.35197,
+        "population": 15063
+    },
+    {
+        "id": 3030057,
+        "name": "Brignoles",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "lat": 43.4058,
+        "lng": 6.06172,
+        "population": 15027
+    },
+    {
+        "id": 3035654,
+        "name": "Avon",
+        "region": "Île-de-France",
+        "lat": 48.40219,
+        "lng": 2.72022,
+        "population": 15009
+    }
+]

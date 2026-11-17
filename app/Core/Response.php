@@ -21,6 +21,15 @@ final class Response
         return new self($body, $status, $headers + ['Content-Type' => 'text/plain; charset=UTF-8']);
     }
 
+    public static function json(array $data, int $status = 200): self
+    {
+        $body = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+
+        return new self($body === false ? '' : $body, $status, [
+            'Content-Type' => 'application/json; charset=UTF-8',
+        ]);
+    }
+
     public static function redirect(string $location, int $status = 302): self
     {
         return new self('', $status, ['Location' => $location]);

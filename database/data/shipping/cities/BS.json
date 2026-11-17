@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3571824,
+        "name": "Nassau",
+        "region": "New Providence",
+        "lat": 25.05823,
+        "lng": -77.34306,
+        "population": 227940
+    },
+    {
+        "id": 3571971,
+        "name": "Lucaya",
+        "region": "Freeport",
+        "lat": 26.53333,
+        "lng": -78.66667,
+        "population": 46525
+    },
+    {
+        "id": 3572375,
+        "name": "Freeport",
+        "region": "Freeport",
+        "lat": 26.53333,
+        "lng": -78.7,
+        "population": 26910
+    },
+    {
+        "id": 3572106,
+        "name": "Killarney",
+        "region": "New Providence",
+        "lat": 25.05,
+        "lng": -77.41667,
+        "population": 17679
+    }
+]

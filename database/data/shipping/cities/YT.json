@@ -1,0 +1,50 @@
+[
+    {
+        "id": 921815,
+        "name": "Mamoudzou",
+        "region": "Mamoudzou",
+        "lat": -12.78234,
+        "lng": 45.22878,
+        "population": 54831
+    },
+    {
+        "id": 1090225,
+        "name": "Koungou",
+        "region": "Koungou",
+        "lat": -12.73361,
+        "lng": 45.20417,
+        "population": 18118
+    },
+    {
+        "id": 1090275,
+        "name": "Labattoir",
+        "region": "Dzaoudzi",
+        "lat": -12.77698,
+        "lng": 45.28234,
+        "population": 17739
+    },
+    {
+        "id": 1090239,
+        "name": "Kaouéni",
+        "region": "Mamoudzou",
+        "lat": -12.77121,
+        "lng": 45.22419,
+        "population": 17060
+    },
+    {
+        "id": 1090242,
+        "name": "Mtsapéré",
+        "region": "Mamoudzou",
+        "lat": -12.78636,
+        "lng": 45.21732,
+        "population": 15880
+    },
+    {
+        "id": 921900,
+        "name": "Dzaoudzi",
+        "region": "Dzaoudzi",
+        "lat": -12.78339,
+        "lng": 45.25693,
+        "population": 15339
+    }
+]

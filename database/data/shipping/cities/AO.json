@@ -1,0 +1,1066 @@
+[
+    {
+        "id": 2240449,
+        "name": "Luanda",
+        "region": "Luanda",
+        "lat": -8.83682,
+        "lng": 13.23432,
+        "population": 2776168
+    },
+    {
+        "id": 8307074,
+        "name": "Mulenvos",
+        "region": "Luanda",
+        "lat": -8.86695,
+        "lng": 13.3344,
+        "population": 882014
+    },
+    {
+        "id": 2236500,
+        "name": "Viana",
+        "region": "Luanda",
+        "lat": -8.90553,
+        "lng": 13.37499,
+        "population": 865863
+    },
+    {
+        "id": 7758790,
+        "name": "Kikolo",
+        "region": "Luanda",
+        "lat": -8.7815,
+        "lng": 13.33384,
+        "population": 728205
+    },
+    {
+        "id": 2239888,
+        "name": "Maianga",
+        "region": "Luanda",
+        "lat": -8.84693,
+        "lng": 13.23698,
+        "population": 727681
+    },
+    {
+        "id": 2591957,
+        "name": "Camama",
+        "region": "Luanda",
+        "lat": -8.93611,
+        "lng": 13.26518,
+        "population": 667094
+    },
+    {
+        "id": 2591953,
+        "name": "Golfe",
+        "region": "Luanda",
+        "lat": -8.86639,
+        "lng": 13.26173,
+        "population": 655796
+    },
+    {
+        "id": 2242906,
+        "name": "Calumbo",
+        "region": "Bengo",
+        "lat": -9.14692,
+        "lng": 13.41936,
+        "population": 652270
+    },
+    {
+        "id": 13631351,
+        "name": "Hoji ya Henda",
+        "region": "Luanda",
+        "lat": -8.80523,
+        "lng": 13.2897,
+        "population": 642050
+    },
+    {
+        "id": 3347762,
+        "name": "Lubango",
+        "region": "Huíla",
+        "lat": -14.91717,
+        "lng": 13.4925,
+        "population": 600751
+    },
+    {
+        "id": 3348313,
+        "name": "Huambo",
+        "region": "Huambo",
+        "lat": -12.77611,
+        "lng": 15.73917,
+        "population": 595304
+    },
+    {
+        "id": 3351663,
+        "name": "Benguela",
+        "region": "Benguela",
+        "lat": -12.57674,
+        "lng": 13.40268,
+        "population": 555124
+    },
+    {
+        "id": 2243271,
+        "name": "Cabinda",
+        "region": "Cabinda",
+        "lat": -5.56198,
+        "lng": 12.19476,
+        "population": 550000
+    },
+    {
+        "id": 2591976,
+        "name": "Talatona",
+        "region": "Luanda",
+        "lat": -8.91783,
+        "lng": 13.18562,
+        "population": 500000
+    },
+    {
+        "id": 11592397,
+        "name": "Nova Vida",
+        "region": "Luanda",
+        "lat": -8.90552,
+        "lng": 13.22213,
+        "population": 464985
+    },
+    {
+        "id": 2239862,
+        "name": "Malanje",
+        "region": "Malanje",
+        "lat": -9.54015,
+        "lng": 16.34096,
+        "population": 455000
+    },
+    {
+        "id": 13608165,
+        "name": "Kima Kieza",
+        "region": "Luanda",
+        "lat": -8.83411,
+        "lng": 13.29517,
+        "population": 428855
+    },
+    {
+        "id": 2591949,
+        "name": "Cazenga",
+        "region": "Luanda",
+        "lat": -8.83796,
+        "lng": 13.28399,
+        "population": 394170
+    },
+    {
+        "id": 3347939,
+        "name": "Lobito",
+        "region": "Benguela",
+        "lat": -12.3644,
+        "lng": 13.53601,
+        "population": 393079
+    },
+    {
+        "id": 145531,
+        "name": "Saurimo",
+        "region": "Lunda Sul",
+        "lat": -9.66078,
+        "lng": 20.39155,
+        "population": 393000
+    },
+    {
+        "id": 13546342,
+        "name": "Samba",
+        "region": "Luanda",
+        "lat": -8.88001,
+        "lng": 13.19617,
+        "population": 364986
+    },
+    {
+        "id": 3348078,
+        "name": "Cuíto",
+        "region": "Bíe",
+        "lat": -12.38333,
+        "lng": 16.93333,
+        "population": 355423
+    },
+    {
+        "id": 13631350,
+        "name": "Ramiros",
+        "region": "Luanda",
+        "lat": -9.06259,
+        "lng": 13.0456,
+        "population": 323576
+    },
+    {
+        "id": 2236568,
+        "name": "Uíge",
+        "region": "Uíge",
+        "lat": -7.60874,
+        "lng": 15.06131,
+        "population": 322531
+    },
+    {
+        "id": 3347719,
+        "name": "Luena",
+        "region": "Moxico",
+        "lat": -11.78333,
+        "lng": 19.91667,
+        "population": 273675
+    },
+    {
+        "id": 12170526,
+        "name": "Vila Flor",
+        "region": "Luanda",
+        "lat": -8.98007,
+        "lng": 13.30781,
+        "population": 256066
+    },
+    {
+        "id": 3347019,
+        "name": "Mossamedes",
+        "region": "Namibe",
+        "lat": -15.19611,
+        "lng": 12.15222,
+        "population": 255000
+    },
+    {
+        "id": 3347353,
+        "name": "Menongue",
+        "region": "Cubango",
+        "lat": -14.6585,
+        "lng": 17.69099,
+        "population": 251178
+    },
+    {
+        "id": 145778,
+        "name": "Chitato",
+        "region": "Luanda Norte",
+        "lat": -7.3,
+        "lng": 20.73333,
+        "population": 246880
+    },
+    {
+        "id": 13607978,
+        "name": "Navegantes",
+        "region": "Benguela",
+        "lat": -12.58997,
+        "lng": 13.39123,
+        "population": 240075
+    },
+    {
+        "id": 10402606,
+        "name": "Kilamba",
+        "region": "Luanda",
+        "lat": -8.84861,
+        "lng": 13.275,
+        "population": 237528
+    },
+    {
+        "id": 2236967,
+        "name": "Soyo",
+        "region": "Zaire",
+        "lat": -6.1349,
+        "lng": 12.36894,
+        "population": 221555
+    },
+    {
+        "id": 3346015,
+        "name": "Sumbe",
+        "region": "Kwanza Sul",
+        "lat": -11.20605,
+        "lng": 13.84371,
+        "population": 205832
+    },
+    {
+        "id": 11592398,
+        "name": "Zango",
+        "region": "Luanda",
+        "lat": -9.01212,
+        "lng": 13.38437,
+        "population": 198538
+    },
+    {
+        "id": 2240937,
+        "name": "Benfica",
+        "region": "Luanda",
+        "lat": -8.94432,
+        "lng": 13.16431,
+        "population": 191828
+    },
+    {
+        "id": 13546341,
+        "name": "Rangel",
+        "region": "Luanda",
+        "lat": -8.82644,
+        "lng": 13.26285,
+        "population": 190569
+    },
+    {
+        "id": 13546343,
+        "name": "Sambizanga",
+        "region": "Luanda",
+        "lat": -8.78883,
+        "lng": 13.27506,
+        "population": 177808
+    },
+    {
+        "id": 145757,
+        "name": "Dundo",
+        "region": "Luanda Norte",
+        "lat": -7.36643,
+        "lng": 20.81557,
+        "population": 177604
+    },
+    {
+        "id": 3351599,
+        "name": "Bocoio",
+        "region": "Benguela",
+        "lat": -12.47017,
+        "lng": 14.13688,
+        "population": 164685
+    },
+    {
+        "id": 2239076,
+        "name": "N'dalatando",
+        "region": "Cuanza Norte",
+        "lat": -9.29782,
+        "lng": 14.91162,
+        "population": 161584
+    },
+    {
+        "id": 13631347,
+        "name": "Panguíla",
+        "region": "Bengo",
+        "lat": -8.69335,
+        "lng": 13.44914,
+        "population": 158068
+    },
+    {
+        "id": 2239520,
+        "name": "Mbanza Kongo",
+        "region": "Zaire",
+        "lat": -6.26667,
+        "lng": 14.23833,
+        "population": 148000
+    },
+    {
+        "id": 2243173,
+        "name": "Cacuaco",
+        "region": "Luanda",
+        "lat": -8.7798,
+        "lng": 13.37478,
+        "population": 146867
+    },
+    {
+        "id": 10627325,
+        "name": "Ingombota",
+        "region": "Luanda",
+        "lat": -8.81806,
+        "lng": 13.22889,
+        "population": 144911
+    },
+    {
+        "id": 3351500,
+        "name": "Caála",
+        "region": "Huambo",
+        "lat": -12.8525,
+        "lng": 15.56056,
+        "population": 130000
+    },
+    {
+        "id": 3346821,
+        "name": "Ondjiva",
+        "region": "Cunene",
+        "lat": -17.06667,
+        "lng": 15.73333,
+        "population": 121537
+    },
+    {
+        "id": 3348094,
+        "name": "Catchiungo",
+        "region": "Huambo",
+        "lat": -12.56598,
+        "lng": 16.22589,
+        "population": 120677
+    },
+    {
+        "id": 3348613,
+        "name": "Gabela",
+        "region": "Kwanza Sul",
+        "lat": -10.85147,
+        "lng": 14.37993,
+        "population": 116903
+    },
+    {
+        "id": 145724,
+        "name": "Lucapa",
+        "region": "Luanda Norte",
+        "lat": -8.41915,
+        "lng": 20.74466,
+        "population": 110000
+    },
+    {
+        "id": 3351764,
+        "name": "Balombo",
+        "region": "Benguela",
+        "lat": -12.35426,
+        "lng": 14.77232,
+        "population": 108965
+    },
+    {
+        "id": 3351786,
+        "name": "Baía Farta",
+        "region": "Benguela",
+        "lat": -12.60417,
+        "lng": 13.19667,
+        "population": 107841
+    },
+    {
+        "id": 3350246,
+        "name": "Catumbela",
+        "region": "Benguela",
+        "lat": -12.43002,
+        "lng": 13.54677,
+        "population": 95034
+    },
+    {
+        "id": 2239069,
+        "name": "Negage",
+        "region": "Uíge",
+        "lat": -7.75938,
+        "lng": 15.2722,
+        "population": 92950
+    },
+    {
+        "id": 3347853,
+        "name": "Longonjo",
+        "region": "Huambo",
+        "lat": -12.90795,
+        "lng": 15.24845,
+        "population": 92103
+    },
+    {
+        "id": 3346661,
+        "name": "Porto Amboim",
+        "region": "Kwanza Sul",
+        "lat": -10.73251,
+        "lng": 13.76844,
+        "population": 91605
+    },
+    {
+        "id": 3349229,
+        "name": "Cubal",
+        "region": "Benguela",
+        "lat": -13.03865,
+        "lng": 14.2455,
+        "population": 90367
+    },
+    {
+        "id": 7768322,
+        "name": "Cafunfo",
+        "region": "Luanda Norte",
+        "lat": -8.7672,
+        "lng": 17.99572,
+        "population": 90000
+    },
+    {
+        "id": 3350123,
+        "name": "Cela",
+        "region": "Kwanza Sul",
+        "lat": -11.42173,
+        "lng": 15.12345,
+        "population": 90000
+    },
+    {
+        "id": 7860624,
+        "name": "Quissecula",
+        "region": "Kwanza Sul",
+        "lat": -11.39223,
+        "lng": 15.09201,
+        "population": 90000
+    },
+    {
+        "id": 3348774,
+        "name": "Ecunna",
+        "region": "Huambo",
+        "lat": -12.67889,
+        "lng": 15.50556,
+        "population": 82541
+    },
+    {
+        "id": 3347424,
+        "name": "Matala",
+        "region": "Huíla",
+        "lat": -14.73272,
+        "lng": 15.03479,
+        "population": 78000
+    },
+    {
+        "id": 2243677,
+        "name": "Barra do Dande",
+        "region": "Bengo",
+        "lat": -8.47175,
+        "lng": 13.37011,
+        "population": 75000
+    },
+    {
+        "id": 2243866,
+        "name": "Bailundo",
+        "region": "Malanje",
+        "lat": -9.57499,
+        "lng": 15.99442,
+        "population": 70481
+    },
+    {
+        "id": 3351307,
+        "name": "Cahama",
+        "region": "Cunene",
+        "lat": -16.28556,
+        "lng": 14.30962,
+        "population": 70061
+    },
+    {
+        "id": 3347615,
+        "name": "Luquembo",
+        "region": "Malanje",
+        "lat": -10.73912,
+        "lng": 17.71766,
+        "population": 69420
+    },
+    {
+        "id": 2591933,
+        "name": "Gama",
+        "region": "Bengo",
+        "lat": -8.5675,
+        "lng": 13.47639,
+        "population": 66202
+    },
+    {
+        "id": 3350867,
+        "name": "Camucuio",
+        "region": "Namibe",
+        "lat": -14.11382,
+        "lng": 13.24061,
+        "population": 66112
+    },
+    {
+        "id": 3348581,
+        "name": "Ganda",
+        "region": "Benguela",
+        "lat": -13.01592,
+        "lng": 14.63502,
+        "population": 65000
+    },
+    {
+        "id": 2241371,
+        "name": "Dondo",
+        "region": "Cuanza Norte",
+        "lat": -9.68456,
+        "lng": 14.42788,
+        "population": 64643
+    },
+    {
+        "id": 2241372,
+        "name": "Dondo",
+        "region": "Cuanza Norte",
+        "lat": -9.05,
+        "lng": 15.31667,
+        "population": 64643
+    },
+    {
+        "id": 2236360,
+        "name": "Nzagi",
+        "region": "Cuanza Norte",
+        "lat": -8.38549,
+        "lng": 15.30126,
+        "population": 60000
+    },
+    {
+        "id": 3351014,
+        "name": "Camacupa",
+        "region": "Bíe",
+        "lat": -12.01667,
+        "lng": 17.48333,
+        "population": 59000
+    },
+    {
+        "id": 876177,
+        "name": "Luau",
+        "region": "Moxico",
+        "lat": -10.70727,
+        "lng": 22.22466,
+        "population": 55432
+    },
+    {
+        "id": 2242001,
+        "name": "Caxito",
+        "region": "Bengo",
+        "lat": -8.57848,
+        "lng": 13.66425,
+        "population": 55000
+    },
+    {
+        "id": 2241668,
+        "name": "Cuango-Luzamba",
+        "region": "Luanda Norte",
+        "lat": -9.14583,
+        "lng": 18.04453,
+        "population": 55000
+    },
+    {
+        "id": 2242584,
+        "name": "Cangandala",
+        "region": "Malanje",
+        "lat": -9.78333,
+        "lng": 16.43333,
+        "population": 52220
+    },
+    {
+        "id": 3351884,
+        "name": "Andulo",
+        "region": "Bíe",
+        "lat": -11.48676,
+        "lng": 16.69663,
+        "population": 50000
+    },
+    {
+        "id": 3345669,
+        "name": "Ucu Seles",
+        "region": "Kwanza Sul",
+        "lat": -11.41237,
+        "lng": 14.30663,
+        "population": 47421
+    },
+    {
+        "id": 3345790,
+        "name": "Tômbua",
+        "region": "Namibe",
+        "lat": -15.80394,
+        "lng": 11.84485,
+        "population": 46573
+    },
+    {
+        "id": 3351064,
+        "name": "Calulo",
+        "region": "Kwanza Sul",
+        "lat": -10.00055,
+        "lng": 14.89519,
+        "population": 44000
+    },
+    {
+        "id": 3345517,
+        "name": "Virei",
+        "region": "Namibe",
+        "lat": -15.727,
+        "lng": 12.94961,
+        "population": 42607
+    },
+    {
+        "id": 2239732,
+        "name": "Maquela do Zombo",
+        "region": "Uíge",
+        "lat": -6.05716,
+        "lng": 15.10971,
+        "population": 42000
+    },
+    {
+        "id": 2241623,
+        "name": "Cuímba",
+        "region": "Zaire",
+        "lat": -6.12085,
+        "lng": 14.62086,
+        "population": 41878
+    },
+    {
+        "id": 2236587,
+        "name": "Úcua",
+        "region": "Bengo",
+        "lat": -8.65157,
+        "lng": 14.15653,
+        "population": 41654
+    },
+    {
+        "id": 2243458,
+        "name": "Buco Zau",
+        "region": "Cabinda",
+        "lat": -4.76667,
+        "lng": 12.55,
+        "population": 40953
+    },
+    {
+        "id": 2243127,
+        "name": "Cacuso",
+        "region": "Malanje",
+        "lat": -9.42102,
+        "lng": 15.74668,
+        "population": 39302
+    },
+    {
+        "id": 3345495,
+        "name": "Alto Hama",
+        "region": "Huambo",
+        "lat": -12.23333,
+        "lng": 15.55,
+        "population": 36661
+    },
+    {
+        "id": 3348297,
+        "name": "Humbe",
+        "region": "Cunene",
+        "lat": -16.6864,
+        "lng": 14.90317,
+        "population": 35985
+    },
+    {
+        "id": 3345492,
+        "name": "Xangongo",
+        "region": "Cunene",
+        "lat": -16.7444,
+        "lng": 14.97494,
+        "population": 35000
+    },
+    {
+        "id": 876482,
+        "name": "Cazombo",
+        "region": "Moxico",
+        "lat": -11.89914,
+        "lng": 22.90216,
+        "population": 34000
+    },
+    {
+        "id": 2241954,
+        "name": "Cazombo",
+        "region": "Cuanza Norte",
+        "lat": -8.73204,
+        "lng": 15.37124,
+        "population": 34000
+    },
+    {
+        "id": 2239149,
+        "name": "Mussende",
+        "region": "Kwanza Sul",
+        "lat": -10.5143,
+        "lng": 16.0199,
+        "population": 33558
+    },
+    {
+        "id": 3349746,
+        "name": "Chindumbo",
+        "region": "Benguela",
+        "lat": -11.95,
+        "lng": 14.46667,
+        "population": 32013
+    },
+    {
+        "id": 2236991,
+        "name": "Songo",
+        "region": "Uíge",
+        "lat": -7.35207,
+        "lng": 14.84629,
+        "population": 31382
+    },
+    {
+        "id": 3351023,
+        "name": "Caluquembe",
+        "region": "Huíla",
+        "lat": -13.86667,
+        "lng": 14.43333,
+        "population": 31000
+    },
+    {
+        "id": 2243421,
+        "name": "Bula Atumba",
+        "region": "Bengo",
+        "lat": -8.67417,
+        "lng": 14.797,
+        "population": 30537
+    },
+    {
+        "id": 7855993,
+        "name": "Santa Clara",
+        "region": "Kwanza Sul",
+        "lat": -10.19156,
+        "lng": 15.43408,
+        "population": 29000
+    },
+    {
+        "id": 2239001,
+        "name": "N'zeto",
+        "region": "Zaire",
+        "lat": -7.228,
+        "lng": 12.86956,
+        "population": 28840
+    },
+    {
+        "id": 3350372,
+        "name": "Catabola",
+        "region": "Bíe",
+        "lat": -12.15,
+        "lng": 17.28333,
+        "population": 28831
+    },
+    {
+        "id": 3346598,
+        "name": "Quibala",
+        "region": "Kwanza Sul",
+        "lat": -10.73366,
+        "lng": 14.97995,
+        "population": 27128
+    },
+    {
+        "id": 3349723,
+        "name": "Chinguar",
+        "region": "Bíe",
+        "lat": -12.55708,
+        "lng": 16.33805,
+        "population": 26811
+    },
+    {
+        "id": 2241635,
+        "name": "Cuilo",
+        "region": "Luanda Norte",
+        "lat": -8.23619,
+        "lng": 19.52566,
+        "population": 26577
+    },
+    {
+        "id": 2238876,
+        "name": "Piri",
+        "region": "Bengo",
+        "lat": -8.53412,
+        "lng": 14.43555,
+        "population": 26265
+    },
+    {
+        "id": 2240416,
+        "name": "Lubalo",
+        "region": "Luanda Norte",
+        "lat": -9.15445,
+        "lng": 19.28136,
+        "population": 26103
+    },
+    {
+        "id": 3349515,
+        "name": "Chitembo",
+        "region": "Bíe",
+        "lat": -13.55,
+        "lng": 16.63333,
+        "population": 25000
+    },
+    {
+        "id": 3348896,
+        "name": "Dombe Grande",
+        "region": "Benguela",
+        "lat": -12.95167,
+        "lng": 13.1025,
+        "population": 25000
+    },
+    {
+        "id": 2243646,
+        "name": "Belize",
+        "region": "Cabinda",
+        "lat": -4.65,
+        "lng": 12.76667,
+        "population": 24430
+    },
+    {
+        "id": 3346497,
+        "name": "Quipungo",
+        "region": "Huíla",
+        "lat": -14.81909,
+        "lng": 14.53504,
+        "population": 23014
+    },
+    {
+        "id": 2237128,
+        "name": "Sanza Pombo",
+        "region": "Uíge",
+        "lat": -7.31473,
+        "lng": 16.0024,
+        "population": 23000
+    },
+    {
+        "id": 3345668,
+        "name": "Ucuma",
+        "region": "Huambo",
+        "lat": -12.96121,
+        "lng": 15.05958,
+        "population": 21809
+    },
+    {
+        "id": 2242885,
+        "name": "Camabatela",
+        "region": "Cuanza Norte",
+        "lat": -8.18812,
+        "lng": 15.37495,
+        "population": 21767
+    },
+    {
+        "id": 3347111,
+        "name": "Mungo",
+        "region": "Huambo",
+        "lat": -11.83268,
+        "lng": 16.23613,
+        "population": 21662
+    },
+    {
+        "id": 3350550,
+        "name": "Capunda",
+        "region": "Kwanza Sul",
+        "lat": -11.13333,
+        "lng": 14.46667,
+        "population": 21260
+    },
+    {
+        "id": 3349324,
+        "name": "Conda",
+        "region": "Kwanza Sul",
+        "lat": -11.10862,
+        "lng": 14.33621,
+        "population": 21260
+    },
+    {
+        "id": 2239106,
+        "name": "Muxaluando",
+        "region": "Bengo",
+        "lat": -8.12307,
+        "lng": 14.28838,
+        "population": 21052
+    },
+    {
+        "id": 2242647,
+        "name": "Canacassala",
+        "region": "Bengo",
+        "lat": -8.16263,
+        "lng": 14.11663,
+        "population": 20913
+    },
+    {
+        "id": 2236716,
+        "name": "Tombôco",
+        "region": "Zaire",
+        "lat": -6.80517,
+        "lng": 13.33017,
+        "population": 20358
+    },
+    {
+        "id": 145872,
+        "name": "Cassanguidi",
+        "region": "Luanda Norte",
+        "lat": -7.48367,
+        "lng": 21.30339,
+        "population": 20000
+    },
+    {
+        "id": 3349181,
+        "name": "Cuemba",
+        "region": "Bíe",
+        "lat": -12.15,
+        "lng": 18.08333,
+        "population": 19995
+    },
+    {
+        "id": 2240975,
+        "name": "Golungo Alto",
+        "region": "Cuanza Norte",
+        "lat": -9.13333,
+        "lng": 14.76667,
+        "population": 19992
+    },
+    {
+        "id": 2240393,
+        "name": "Lucala",
+        "region": "Cuanza Norte",
+        "lat": -9.27268,
+        "lng": 15.25206,
+        "population": 19422
+    },
+    {
+        "id": 2240958,
+        "name": "Gombe",
+        "region": "Bengo",
+        "lat": -8.12439,
+        "lng": 14.29081,
+        "population": 19209
+    },
+    {
+        "id": 876130,
+        "name": "Lumbala",
+        "region": "Moxico",
+        "lat": -14.10165,
+        "lng": 21.43531,
+        "population": 19000
+    },
+    {
+        "id": 3349222,
+        "name": "Cubal do Lumbo",
+        "region": "Benguela",
+        "lat": -12.31261,
+        "lng": 14.1265,
+        "population": 18451
+    },
+    {
+        "id": 3346942,
+        "name": "Nharêa",
+        "region": "Bíe",
+        "lat": -11.47512,
+        "lng": 16.96496,
+        "population": 18000
+    },
+    {
+        "id": 7745410,
+        "name": "Cambundi",
+        "region": "Malanje",
+        "lat": -7.46856,
+        "lng": 17.03769,
+        "population": 17212
+    },
+    {
+        "id": 7900710,
+        "name": "Cambundi",
+        "region": "Malanje",
+        "lat": -10.89481,
+        "lng": 17.76402,
+        "population": 17212
+    },
+    {
+        "id": 3350917,
+        "name": "Cambundi Catembo",
+        "region": "Malanje",
+        "lat": -10.07531,
+        "lng": 17.55058,
+        "population": 17212
+    },
+    {
+        "id": 3347880,
+        "name": "Londuimbali",
+        "region": "Huambo",
+        "lat": -12.23712,
+        "lng": 15.31697,
+        "population": 17000
+    },
+    {
+        "id": 2240004,
+        "name": "Mabubas",
+        "region": "Bengo",
+        "lat": -8.52432,
+        "lng": 13.68622,
+        "population": 16981
+    },
+    {
+        "id": 2243092,
+        "name": "Cage Mazumbo",
+        "region": "Bengo",
+        "lat": -8.29968,
+        "lng": 14.34494,
+        "population": 16093
+    },
+    {
+        "id": 2238951,
+        "name": "Pango Aluquém",
+        "region": "Bengo",
+        "lat": -8.71311,
+        "lng": 14.46292,
+        "population": 16080
+    },
+    {
+        "id": 2240686,
+        "name": "Kunda dya Baze",
+        "region": "Malanje",
+        "lat": -8.90769,
+        "lng": 17.05339,
+        "population": 15965
+    }
+]

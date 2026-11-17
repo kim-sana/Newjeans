@@ -1,0 +1,202 @@
+[
+    {
+        "id": 3183875,
+        "name": "Tirana",
+        "region": "Tirana",
+        "lat": 41.32744,
+        "lng": 19.81866,
+        "population": 418495
+    },
+    {
+        "id": 3185728,
+        "name": "Durrës",
+        "region": "Durrës County",
+        "lat": 41.32355,
+        "lng": 19.45469,
+        "population": 195920
+    },
+    {
+        "id": 3183719,
+        "name": "Vlorë",
+        "region": "Vlorë County",
+        "lat": 40.4696,
+        "lng": 19.48379,
+        "population": 115261
+    },
+    {
+        "id": 783263,
+        "name": "Elbasan",
+        "region": "Elbasan County",
+        "lat": 41.11138,
+        "lng": 20.08224,
+        "population": 100903
+    },
+    {
+        "id": 3184081,
+        "name": "Shkodër",
+        "region": "Shkodër County",
+        "lat": 42.06828,
+        "lng": 19.51258,
+        "population": 95553
+    },
+    {
+        "id": 3184862,
+        "name": "Lushnjë",
+        "region": "Fier County",
+        "lat": 40.94194,
+        "lng": 19.705,
+        "population": 63135
+    },
+    {
+        "id": 3186084,
+        "name": "Berat",
+        "region": "Berat County",
+        "lat": 40.70583,
+        "lng": 19.95222,
+        "population": 62232
+    },
+    {
+        "id": 3185670,
+        "name": "Fier-Çifçi",
+        "region": "Fier County",
+        "lat": 40.71667,
+        "lng": 19.56667,
+        "population": 60995
+    },
+    {
+        "id": 782756,
+        "name": "Korçë",
+        "region": "Korçë County",
+        "lat": 40.61861,
+        "lng": 20.78083,
+        "population": 58259
+    },
+    {
+        "id": 3185672,
+        "name": "Fier",
+        "region": "Fier County",
+        "lat": 40.7251,
+        "lng": 19.55823,
+        "population": 56297
+    },
+    {
+        "id": 3185082,
+        "name": "Krujë",
+        "region": "Durrës County",
+        "lat": 41.50917,
+        "lng": 19.79278,
+        "population": 51191
+    },
+    {
+        "id": 781988,
+        "name": "Pogradec",
+        "region": "Korçë County",
+        "lat": 40.9025,
+        "lng": 20.6525,
+        "population": 46070
+    },
+    {
+        "id": 782661,
+        "name": "Kukës",
+        "region": "Kukës County",
+        "lat": 42.07694,
+        "lng": 20.42194,
+        "population": 36125
+    },
+    {
+        "id": 3185060,
+        "name": "Kuçovë",
+        "region": "Berat County",
+        "lat": 40.80028,
+        "lng": 19.91667,
+        "population": 31077
+    },
+    {
+        "id": 3185211,
+        "name": "Kavajë",
+        "region": "Tirana",
+        "lat": 41.18556,
+        "lng": 19.55694,
+        "population": 30012
+    },
+    {
+        "id": 783508,
+        "name": "Bulqizë",
+        "region": "Dibër County",
+        "lat": 41.49167,
+        "lng": 20.22194,
+        "population": 26826
+    },
+    {
+        "id": 783148,
+        "name": "Gjirokastër",
+        "region": "Gjirokastër County",
+        "lat": 40.07583,
+        "lng": 20.13889,
+        "population": 23437
+    },
+    {
+        "id": 782519,
+        "name": "Librazhd",
+        "region": "Elbasan County",
+        "lat": 41.17944,
+        "lng": 20.315,
+        "population": 23312
+    },
+    {
+        "id": 3184517,
+        "name": "Patos Fshat",
+        "region": "Fier County",
+        "lat": 40.64278,
+        "lng": 19.65083,
+        "population": 22679
+    },
+    {
+        "id": 363243,
+        "name": "Sarandë",
+        "region": "Vlorë County",
+        "lat": 39.87534,
+        "lng": 20.00477,
+        "population": 22613
+    },
+    {
+        "id": 3184271,
+        "name": "Rrashbull",
+        "region": "Durrës County",
+        "lat": 41.32278,
+        "lng": 19.51028,
+        "population": 20099
+    },
+    {
+        "id": 3184935,
+        "name": "Lezhë",
+        "region": "Lezhë County",
+        "lat": 41.78361,
+        "lng": 19.64361,
+        "population": 18695
+    },
+    {
+        "id": 3185638,
+        "name": "Fushë-Krujë",
+        "region": "Durrës County",
+        "lat": 41.47833,
+        "lng": 19.71778,
+        "population": 17877
+    },
+    {
+        "id": 3184497,
+        "name": "Peqin",
+        "region": "Elbasan County",
+        "lat": 41.04611,
+        "lng": 19.75111,
+        "population": 16580
+    },
+    {
+        "id": 3184518,
+        "name": "Patos",
+        "region": "Fier County",
+        "lat": 40.68333,
+        "lng": 19.61944,
+        "population": 16000
+    }
+]

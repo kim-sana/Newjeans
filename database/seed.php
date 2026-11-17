@@ -24,6 +24,8 @@ $tables = [
     'members',
     'histories',
     'gallery_items',
+    'order_items',
+    'orders',
 ];
 
 try {
@@ -96,6 +98,8 @@ try {
             'release_date' => '2024-05-24 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq',
             'youtube_url' => 'https://music.youtube.com/playlist?list=OLAK5uy_lKNaFZbsGnSpGpMuCJ3TGd1HmzZEiWCI',
+            'price' => '24.99',
+            'stock' => 40,
             'songs' => [
                 ['How Sweet', 1, true, false, null],
                 ['Bubble Gum', 2, false, false, null],
@@ -110,6 +114,8 @@ try {
             'release_date' => '2023-07-21 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18',
             'youtube_url' => 'https://music.youtube.com/playlist?list=OLAK5uy_nAOTgJLTBDHlMqf0f6HrE0rBRbMn7gmM',
+            'price' => '22.99',
+            'stock' => 35,
             'songs' => [
                 ['New Jeans', 1, false, false, null],
                 ['Super Shy', 2, true, true, 'audio/Super-Shy.mp3'],
@@ -126,6 +132,8 @@ try {
             'release_date' => '2023-01-02 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj',
             'youtube_url' => 'https://music.youtube.com/playlist?list=OLAK5uy_kPiFZWHVoSFi62cOSwlIj9l-gA6FdF3Y',
+            'price' => '18.99',
+            'stock' => 50,
             'songs' => [
                 ['OMG', 1, true, false, null],
                 ['Ditto', 2, false, false, null],
@@ -138,6 +146,8 @@ try {
             'release_date' => '2022-08-01 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV',
             'youtube_url' => 'https://music.youtube.com/playlist?list=OLAK5uy_lk03qnFkqhWCOkLPPGVaGBIgSs8sWEZQ',
+            'price' => '19.99',
+            'stock' => 45,
             'songs' => [
                 ['Attention', 1, true, false, null],
                 ['Hype Boy', 2, false, true, 'audio/Hype-Boy.mp3'],
@@ -152,6 +162,8 @@ try {
             'release_date' => '2024-06-21 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN',
             'youtube_url' => 'https://music.youtube.com/playlist?list=OLAK5uy_kUvNJJYJnfGVsq0oMdqf7KOJ8-SKNbD0',
+            'price' => '21.99',
+            'stock' => 30,
             'songs' => [
                 ['Supernatural', 1, true, false, null],
                 ['Right Now', 2, false, false, null],
@@ -166,6 +178,8 @@ try {
             'release_date' => '2023-10-04 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/4uFXfeGmzFDUrYUyz3Wb1O',
             'youtube_url' => 'https://www.youtube.com/watch?v=G4kbFVfMQPU',
+            'price' => '9.99',
+            'stock' => 60,
             'songs' => [
                 ['Gods', 1, true, false, null],
             ],
@@ -177,6 +191,8 @@ try {
             'release_date' => '2023-04-03 00:00:00',
             'spotify_url' => 'https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR',
             'youtube_url' => 'https://www.youtube.com/watch?v=bEOFCFxHjl8',
+            'price' => '8.99',
+            'stock' => 60,
             'songs' => [
                 ['Zero', 1, true, false, null],
             ],
@@ -186,7 +202,7 @@ try {
     foreach ($albums as $album) {
         $albumId = $insert(
             'INSERT INTO albums (album_type_id, name, cover_album, release_date, spotify_url, youtube_url, price, stock, is_for_sale, created_at)
-             VALUES (?, ?, ?, ?, ?, ?, 0, 0, 0, ?)',
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?, 1, ?)',
             [
                 $typeIds[$album['type']],
                 $album['name'],
@@ -194,6 +210,8 @@ try {
                 $album['release_date'],
                 $album['spotify_url'],
                 $album['youtube_url'],
+                $album['price'],
+                $album['stock'],
                 $album['release_date'],
             ]
         );

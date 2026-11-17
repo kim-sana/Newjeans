@@ -1,0 +1,898 @@
+[
+    {
+        "id": 1512569,
+        "name": "Tashkent",
+        "region": "Tashkent",
+        "lat": 41.26465,
+        "lng": 69.21627,
+        "population": 1978028
+    },
+    {
+        "id": 1514588,
+        "name": "Andijon",
+        "region": "Andijan Region",
+        "lat": 40.78338,
+        "lng": 72.35067,
+        "population": 747800
+    },
+    {
+        "id": 1513157,
+        "name": "Namangan",
+        "region": "Namangan",
+        "lat": 40.9983,
+        "lng": 71.67257,
+        "population": 713220
+    },
+    {
+        "id": 1216265,
+        "name": "Samarkand",
+        "region": "Samarqand Region",
+        "lat": 39.65456,
+        "lng": 66.96445,
+        "population": 595200
+    },
+    {
+        "id": 1512296,
+        "name": "Yunusobod",
+        "region": "Tashkent",
+        "lat": 41.37139,
+        "lng": 69.27944,
+        "population": 352000
+    },
+    {
+        "id": 601294,
+        "name": "Nukus",
+        "region": "Karakalpakstan",
+        "lat": 42.45861,
+        "lng": 59.60576,
+        "population": 332500
+    },
+    {
+        "id": 1514019,
+        "name": "Fergana",
+        "region": "Fergana",
+        "lat": 40.38421,
+        "lng": 71.78432,
+        "population": 299200
+    },
+    {
+        "id": 1217662,
+        "name": "Bukhara",
+        "region": "Bukhara",
+        "lat": 39.77026,
+        "lng": 64.43069,
+        "population": 280187
+    },
+    {
+        "id": 1216311,
+        "name": "Qarshi",
+        "region": "Qashqadaryo",
+        "lat": 38.86056,
+        "lng": 65.78905,
+        "population": 278300
+    },
+    {
+        "id": 1514230,
+        "name": "Chilanzar",
+        "region": "Tashkent",
+        "lat": 41.28194,
+        "lng": 69.18111,
+        "population": 260700
+    },
+    {
+        "id": 1512979,
+        "name": "Qo‘qon",
+        "region": "Fergana",
+        "lat": 40.52861,
+        "lng": 70.9425,
+        "population": 259700
+    },
+    {
+        "id": 1513243,
+        "name": "Marg‘ilon",
+        "region": "Fergana",
+        "lat": 40.47237,
+        "lng": 71.72463,
+        "population": 253500
+    },
+    {
+        "id": 1514581,
+        "name": "Angren",
+        "region": "Tashkent Region",
+        "lat": 41.01667,
+        "lng": 70.14361,
+        "population": 191300
+    },
+    {
+        "id": 1215957,
+        "name": "Tirmiz",
+        "region": "Surxondaryo Region",
+        "lat": 37.22417,
+        "lng": 67.27833,
+        "population": 182800
+    },
+    {
+        "id": 1513886,
+        "name": "Jizzax",
+        "region": "Jizzakh Region",
+        "lat": 40.13351,
+        "lng": 67.82956,
+        "population": 179200
+    },
+    {
+        "id": 1514210,
+        "name": "Chirchiq",
+        "region": "Tashkent Region",
+        "lat": 41.46889,
+        "lng": 69.58222,
+        "population": 162800
+    },
+    {
+        "id": 1512473,
+        "name": "Urganch",
+        "region": "Xorazm Region",
+        "lat": 41.55177,
+        "lng": 60.63143,
+        "population": 145000
+    },
+    {
+        "id": 1513131,
+        "name": "Navoiy",
+        "region": "Navoiy Region",
+        "lat": 40.08444,
+        "lng": 65.37917,
+        "population": 144158
+    },
+    {
+        "id": 1216187,
+        "name": "Shahrisabz",
+        "region": "Qashqadaryo",
+        "lat": 39.05778,
+        "lng": 66.83417,
+        "population": 142700
+    },
+    {
+        "id": 1513064,
+        "name": "Olmaliq",
+        "region": "Tashkent Region",
+        "lat": 40.84472,
+        "lng": 69.59833,
+        "population": 133400
+    },
+    {
+        "id": 1513604,
+        "name": "Xiva",
+        "region": "Xorazm Region",
+        "lat": 41.38555,
+        "lng": 60.36408,
+        "population": 115000
+    },
+    {
+        "id": 1514257,
+        "name": "Sergeli",
+        "region": "Tashkent",
+        "lat": 41.19833,
+        "lng": 69.22222,
+        "population": 105700
+    },
+    {
+        "id": 1514192,
+        "name": "Chust",
+        "region": "Namangan",
+        "lat": 41.00329,
+        "lng": 71.23791,
+        "population": 100200
+    },
+    {
+        "id": 1514402,
+        "name": "Bekobod",
+        "region": "Tashkent Region",
+        "lat": 40.22083,
+        "lng": 69.26972,
+        "population": 96900
+    },
+    {
+        "id": 1514382,
+        "name": "Beshariq",
+        "region": "Fergana",
+        "lat": 40.43583,
+        "lng": 70.61028,
+        "population": 96900
+    },
+    {
+        "id": 1513331,
+        "name": "Quvasoy",
+        "region": "Fergana",
+        "lat": 40.29721,
+        "lng": 71.98026,
+        "population": 96900
+    },
+    {
+        "id": 1216982,
+        "name": "Kattaqo’rg’on Shahri",
+        "region": "Samarqand Region",
+        "lat": 39.90546,
+        "lng": 66.26556,
+        "population": 90600
+    },
+    {
+        "id": 1513966,
+        "name": "Guliston",
+        "region": "Sirdaryo Region",
+        "lat": 40.49536,
+        "lng": 68.77542,
+        "population": 90398
+    },
+    {
+        "id": 601323,
+        "name": "Qŭnghirot",
+        "region": "Karakalpakstan",
+        "lat": 43.04333,
+        "lng": 58.83944,
+        "population": 80090
+    },
+    {
+        "id": 1217474,
+        "name": "Denov",
+        "region": "Surxondaryo Region",
+        "lat": 38.26746,
+        "lng": 67.89886,
+        "population": 78300
+    },
+    {
+        "id": 1512832,
+        "name": "Shahrixon",
+        "region": "Andijan Region",
+        "lat": 40.71331,
+        "lng": 72.05706,
+        "population": 71400
+    },
+    {
+        "id": 1217007,
+        "name": "Koson",
+        "region": "Qashqadaryo",
+        "lat": 39.0375,
+        "lng": 65.585,
+        "population": 68900
+    },
+    {
+        "id": 601339,
+        "name": "Xo‘jayli Shahri",
+        "region": "Karakalpakstan",
+        "lat": 42.40881,
+        "lng": 59.44544,
+        "population": 67800
+    },
+    {
+        "id": 1514387,
+        "name": "Beruniy",
+        "region": "Karakalpakstan",
+        "lat": 41.69111,
+        "lng": 60.7525,
+        "population": 66090
+    },
+    {
+        "id": 1215839,
+        "name": "Urgut Shahri",
+        "region": "Samarqand Region",
+        "lat": 39.41902,
+        "lng": 67.26118,
+        "population": 65300
+    },
+    {
+        "id": 1217180,
+        "name": "Kogon Shahri",
+        "region": "Bukhara",
+        "lat": 39.72746,
+        "lng": 64.55466,
+        "population": 62300
+    },
+    {
+        "id": 1513271,
+        "name": "Asaka",
+        "region": "Andijan Region",
+        "lat": 40.64153,
+        "lng": 72.23868,
+        "population": 62200
+    },
+    {
+        "id": 1512339,
+        "name": "Yangiyŭl",
+        "region": "Tashkent Region",
+        "lat": 41.11202,
+        "lng": 69.0471,
+        "population": 61700
+    },
+    {
+        "id": 1513017,
+        "name": "Parkent",
+        "region": "Tashkent Region",
+        "lat": 41.29444,
+        "lng": 69.67639,
+        "population": 60200
+    },
+    {
+        "id": 601417,
+        "name": "Oltinko‘l",
+        "region": "Karakalpakstan",
+        "lat": 43.06874,
+        "lng": 58.90372,
+        "population": 59122
+    },
+    {
+        "id": 1514258,
+        "name": "Chortoq",
+        "region": "Namangan",
+        "lat": 41.06924,
+        "lng": 71.82372,
+        "population": 53400
+    },
+    {
+        "id": 1512524,
+        "name": "Tŭytepa",
+        "region": "Tashkent Region",
+        "lat": 41.0321,
+        "lng": 69.36253,
+        "population": 51400
+    },
+    {
+        "id": 1513962,
+        "name": "Gurlan",
+        "region": "Xorazm Region",
+        "lat": 41.84123,
+        "lng": 60.39268,
+        "population": 50900
+    },
+    {
+        "id": 1513714,
+        "name": "Kosonsoy",
+        "region": "Namangan",
+        "lat": 41.24944,
+        "lng": 71.54738,
+        "population": 50900
+    },
+    {
+        "id": 1513092,
+        "name": "Novyy Turtkul’",
+        "region": "Karakalpakstan",
+        "lat": 41.55,
+        "lng": 61.01667,
+        "population": 48908
+    },
+    {
+        "id": 1526979,
+        "name": "Quva",
+        "region": "Fergana",
+        "lat": 40.52204,
+        "lng": 72.07292,
+        "population": 46400
+    },
+    {
+        "id": 1512342,
+        "name": "Yangiyer",
+        "region": "Sirdaryo Region",
+        "lat": 40.275,
+        "lng": 68.8225,
+        "population": 44200
+    },
+    {
+        "id": 1513578,
+        "name": "Xonobod",
+        "region": "Andijan Region",
+        "lat": 40.8026,
+        "lng": 72.97499,
+        "population": 44000
+    },
+    {
+        "id": 1513983,
+        "name": "G’ijduvon Shahri",
+        "region": "Bukhara",
+        "lat": 40.10223,
+        "lng": 64.68226,
+        "population": 43400
+    },
+    {
+        "id": 1216787,
+        "name": "Kitob",
+        "region": "Qashqadaryo",
+        "lat": 39.12158,
+        "lng": 66.88605,
+        "population": 40800
+    },
+    {
+        "id": 1512501,
+        "name": "Uchqŭrghon Shahri",
+        "region": "Namangan",
+        "lat": 41.11371,
+        "lng": 72.07915,
+        "population": 40000
+    },
+    {
+        "id": 1217926,
+        "name": "Oqtosh",
+        "region": "Samarqand Region",
+        "lat": 39.92139,
+        "lng": 65.92528,
+        "population": 38307
+    },
+    {
+        "id": 1513072,
+        "name": "Ohangaron",
+        "region": "Tashkent Region",
+        "lat": 40.90639,
+        "lng": 69.63833,
+        "population": 37784
+    },
+    {
+        "id": 1512480,
+        "name": "Dashtobod",
+        "region": "Jizzakh Region",
+        "lat": 40.12694,
+        "lng": 68.49444,
+        "population": 36500
+    },
+    {
+        "id": 1512986,
+        "name": "Piskent",
+        "region": "Tashkent Region",
+        "lat": 40.89722,
+        "lng": 69.35056,
+        "population": 34900
+    },
+    {
+        "id": 1512955,
+        "name": "Rishton",
+        "region": "Fergana",
+        "lat": 40.35667,
+        "lng": 71.28472,
+        "population": 34800
+    },
+    {
+        "id": 1513040,
+        "name": "Paxtaobod",
+        "region": "Andijan Region",
+        "lat": 40.92936,
+        "lng": 72.49687,
+        "population": 34400
+    },
+    {
+        "id": 1513245,
+        "name": "Manghit",
+        "region": "Karakalpakstan",
+        "lat": 42.11556,
+        "lng": 60.05972,
+        "population": 33200
+    },
+    {
+        "id": 1513953,
+        "name": "Qorasuv",
+        "region": "Andijan Region",
+        "lat": 40.72782,
+        "lng": 72.88577,
+        "population": 33000
+    },
+    {
+        "id": 1514716,
+        "name": "Oyim",
+        "region": "Andijan Region",
+        "lat": 40.81955,
+        "lng": 72.74234,
+        "population": 32750
+    },
+    {
+        "id": 1513087,
+        "name": "Nurota",
+        "region": "Navoiy Region",
+        "lat": 40.56139,
+        "lng": 65.68861,
+        "population": 32300
+    },
+    {
+        "id": 1514396,
+        "name": "Bektemir",
+        "region": "Tashkent",
+        "lat": 41.20972,
+        "lng": 69.33417,
+        "population": 31400
+    },
+    {
+        "id": 1512549,
+        "name": "To‘rqao‘rg‘on",
+        "region": "Namangan",
+        "lat": 40.99984,
+        "lng": 71.51162,
+        "population": 30300
+    },
+    {
+        "id": 1216475,
+        "name": "Muborak",
+        "region": "Qashqadaryo",
+        "lat": 39.25528,
+        "lng": 65.15278,
+        "population": 30100
+    },
+    {
+        "id": 1512449,
+        "name": "Uychi",
+        "region": "Namangan",
+        "lat": 41.029,
+        "lng": 71.85,
+        "population": 29683
+    },
+    {
+        "id": 1217658,
+        "name": "Bulung’ur Shahri",
+        "region": "Samarqand Region",
+        "lat": 39.76003,
+        "lng": 67.27441,
+        "population": 29200
+    },
+    {
+        "id": 1512770,
+        "name": "Sirdaryo",
+        "region": "Sirdaryo Region",
+        "lat": 40.84361,
+        "lng": 68.66167,
+        "population": 28800
+    },
+    {
+        "id": 1512658,
+        "name": "Toshbuloq",
+        "region": "Namangan",
+        "lat": 40.91617,
+        "lng": 71.57819,
+        "population": 28562
+    },
+    {
+        "id": 1512350,
+        "name": "Yangiqo‘rg‘on",
+        "region": "Namangan",
+        "lat": 41.19474,
+        "lng": 71.72385,
+        "population": 28422
+    },
+    {
+        "id": 1513023,
+        "name": "Pop",
+        "region": "Namangan",
+        "lat": 40.87361,
+        "lng": 71.10889,
+        "population": 28000
+    },
+    {
+        "id": 1513567,
+        "name": "Qibray",
+        "region": "Tashkent Region",
+        "lat": 41.38972,
+        "lng": 69.465,
+        "population": 27750
+    },
+    {
+        "id": 1513900,
+        "name": "Iskandar",
+        "region": "Tashkent Region",
+        "lat": 41.55389,
+        "lng": 69.70083,
+        "population": 27636
+    },
+    {
+        "id": 1215694,
+        "name": "Zomin Shaharchasi",
+        "region": "Jizzakh Region",
+        "lat": 39.96056,
+        "lng": 68.39583,
+        "population": 27077
+    },
+    {
+        "id": 1512790,
+        "name": "Shovot",
+        "region": "Xorazm Region",
+        "lat": 41.65817,
+        "lng": 60.29451,
+        "population": 26950
+    },
+    {
+        "id": 1217734,
+        "name": "Boysun",
+        "region": "Surxondaryo Region",
+        "lat": 38.20835,
+        "lng": 67.20664,
+        "population": 26934
+    },
+    {
+        "id": 1512506,
+        "name": "Uchkuduk",
+        "region": "Bukhara",
+        "lat": 41.05,
+        "lng": 62.78333,
+        "population": 26800
+    },
+    {
+        "id": 1512838,
+        "name": "Shofirkon Shahri",
+        "region": "Bukhara",
+        "lat": 40.12,
+        "lng": 64.50139,
+        "population": 26527
+    },
+    {
+        "id": 1512934,
+        "name": "Salor",
+        "region": "Tashkent Region",
+        "lat": 41.375,
+        "lng": 69.352,
+        "population": 26494
+    },
+    {
+        "id": 1513655,
+        "name": "Haqqulobod",
+        "region": "Namangan",
+        "lat": 40.91667,
+        "lng": 72.11667,
+        "population": 26257
+    },
+    {
+        "id": 1514174,
+        "name": "Dardoq",
+        "region": "Andijan Region",
+        "lat": 40.81583,
+        "lng": 72.83166,
+        "population": 26055
+    },
+    {
+        "id": 1513010,
+        "name": "Poytug‘",
+        "region": "Andijan Region",
+        "lat": 40.8977,
+        "lng": 72.2449,
+        "population": 26000
+    },
+    {
+        "id": 1513364,
+        "name": "Qo‘rg‘ontepa",
+        "region": "Andijan Region",
+        "lat": 40.73192,
+        "lng": 72.76177,
+        "population": 25861
+    },
+    {
+        "id": 1514615,
+        "name": "Oltiariq",
+        "region": "Fergana",
+        "lat": 40.39194,
+        "lng": 71.47417,
+        "population": 25543
+    },
+    {
+        "id": 1216115,
+        "name": "Sho‘rchi",
+        "region": "Surxondaryo Region",
+        "lat": 37.99944,
+        "lng": 67.7875,
+        "population": 25000
+    },
+    {
+        "id": 1512372,
+        "name": "Yangiobod",
+        "region": "Tashkent Region",
+        "lat": 41.11919,
+        "lng": 70.09406,
+        "population": 24900
+    },
+    {
+        "id": 1512320,
+        "name": "Yaypan",
+        "region": "Fergana",
+        "lat": 40.37583,
+        "lng": 70.81556,
+        "population": 24900
+    },
+    {
+        "id": 1514011,
+        "name": "Gagarin Shahri",
+        "region": "Jizzakh Region",
+        "lat": 40.66473,
+        "lng": 68.16768,
+        "population": 24856
+    },
+    {
+        "id": 1512287,
+        "name": "Zafar",
+        "region": "Tashkent Region",
+        "lat": 40.98333,
+        "lng": 68.9,
+        "population": 24781
+    },
+    {
+        "id": 1513011,
+        "name": "Payshamba Shahri",
+        "region": "Samarqand Region",
+        "lat": 40.01136,
+        "lng": 66.23113,
+        "population": 24772
+    },
+    {
+        "id": 1514008,
+        "name": "G’allaorol Shahri",
+        "region": "Jizzakh Region",
+        "lat": 40.02696,
+        "lng": 67.58781,
+        "population": 24700
+    },
+    {
+        "id": 1217262,
+        "name": "G‘uzor",
+        "region": "Qashqadaryo",
+        "lat": 38.6213,
+        "lng": 66.25152,
+        "population": 24500
+    },
+    {
+        "id": 1514219,
+        "name": "Chinobod",
+        "region": "Andijan Region",
+        "lat": 40.87677,
+        "lng": 71.97263,
+        "population": 24000
+    },
+    {
+        "id": 1514109,
+        "name": "Jalolquduq",
+        "region": "Andijan Region",
+        "lat": 40.68918,
+        "lng": 72.60931,
+        "population": 24000
+    },
+    {
+        "id": 1514215,
+        "name": "Chinoz",
+        "region": "Tashkent Region",
+        "lat": 40.93633,
+        "lng": 68.76128,
+        "population": 23700
+    },
+    {
+        "id": 1217084,
+        "name": "Karakul’",
+        "region": "Bukhara",
+        "lat": 39.53333,
+        "lng": 63.83333,
+        "population": 22487
+    },
+    {
+        "id": 1513996,
+        "name": "G‘azalkent",
+        "region": "Tashkent Region",
+        "lat": 41.55806,
+        "lng": 69.77083,
+        "population": 21600
+    },
+    {
+        "id": 1217362,
+        "name": "Juma Shahri",
+        "region": "Samarqand Region",
+        "lat": 39.71611,
+        "lng": 66.66417,
+        "population": 21500
+    },
+    {
+        "id": 1513038,
+        "name": "Paxtakor Shahri",
+        "region": "Jizzakh Region",
+        "lat": 40.31181,
+        "lng": 67.95667,
+        "population": 21384
+    },
+    {
+        "id": 1513555,
+        "name": "Kirguli",
+        "region": "Fergana",
+        "lat": 40.43553,
+        "lng": 71.76721,
+        "population": 20459
+    },
+    {
+        "id": 1513600,
+        "name": "Xo‘jaobod",
+        "region": "Andijan Region",
+        "lat": 40.66886,
+        "lng": 72.56002,
+        "population": 20200
+    },
+    {
+        "id": 1538533,
+        "name": "Sultonobod",
+        "region": "Andijan Region",
+        "lat": 40.76461,
+        "lng": 72.97647,
+        "population": 20000
+    },
+    {
+        "id": 1514330,
+        "name": "Bo‘ka",
+        "region": "Tashkent Region",
+        "lat": 40.81108,
+        "lng": 69.19417,
+        "population": 19642
+    },
+    {
+        "id": 1217540,
+        "name": "Chiroqchi",
+        "region": "Qashqadaryo",
+        "lat": 39.03361,
+        "lng": 66.57222,
+        "population": 19356
+    },
+    {
+        "id": 1217703,
+        "name": "Beshkent",
+        "region": "Qashqadaryo",
+        "lat": 38.82139,
+        "lng": 65.65306,
+        "population": 18900
+    },
+    {
+        "id": 1512568,
+        "name": "Toshloq",
+        "region": "Fergana",
+        "lat": 40.47722,
+        "lng": 71.76778,
+        "population": 18600
+    },
+    {
+        "id": 1514125,
+        "name": "Do’stlik Shahri",
+        "region": "Jizzakh Region",
+        "lat": 40.52881,
+        "lng": 68.03153,
+        "population": 18300
+    },
+    {
+        "id": 1512978,
+        "name": "Qo’shko’pir",
+        "region": "Xorazm Region",
+        "lat": 41.53275,
+        "lng": 60.34698,
+        "population": 17800
+    },
+    {
+        "id": 1512423,
+        "name": "Vobkent Shahri",
+        "region": "Bukhara",
+        "lat": 40.00033,
+        "lng": 64.50213,
+        "population": 17800
+    },
+    {
+        "id": 1513957,
+        "name": "Hazorasp",
+        "region": "Xorazm Region",
+        "lat": 41.31944,
+        "lng": 61.07417,
+        "population": 17643
+    },
+    {
+        "id": 1512348,
+        "name": "Yangirabot",
+        "region": "Navoiy Region",
+        "lat": 40.02539,
+        "lng": 65.96095,
+        "population": 17000
+    },
+    {
+        "id": 1514140,
+        "name": "Druzhba",
+        "region": "Xorazm Region",
+        "lat": 41.22222,
+        "lng": 61.30667,
+        "population": 16800
+    },
+    {
+        "id": 1217569,
+        "name": "Chelak",
+        "region": "Samarqand Region",
+        "lat": 39.92002,
+        "lng": 66.86228,
+        "population": 16727
+    }
+]

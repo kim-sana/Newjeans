@@ -146,3 +146,53 @@ CREATE TABLE IF NOT EXISTS gallery_items (
     KEY idx_gallery_items_deleted_at (deleted_at),
     CONSTRAINT fk_gallery_items_created_by FOREIGN KEY (created_by) REFERENCES users (id) ON DELETE RESTRICT
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS orders (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    user_id INT UNSIGNED NULL,
+    invoice_number VARCHAR(40) NOT NULL,
+    access_token CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+    recipient_name VARCHAR(120) NOT NULL,
+    recipient_phone VARCHAR(40) NOT NULL,
+    shipping_address VARCHAR(255) NOT NULL,
+    destination_country_code CHAR(2) NOT NULL,
+    destination_country VARCHAR(120) NOT NULL,
+    destination_city_id INT UNSIGNED NOT NULL,
+    destination_city VARCHAR(160) NOT NULL,
+    destination_region VARCHAR(160) NULL,
+    destination_latitude DECIMAL(9,6) NOT NULL,
+    destination_longitude DECIMAL(9,6) NOT NULL,
+    distance_km DECIMAL(10,2) NOT NULL,
+    subtotal DECIMAL(12,2) NOT NULL,
+    shipping_amount DECIMAL(12,2) NOT NULL,
+    total DECIMAL(12,2) NOT NULL,
+    payment_provider VARCHAR(40) NOT NULL DEFAULT 'mock',
+    status ENUM('PENDING_PAYMENT', 'PAID', 'CANCELLED') NOT NULL DEFAULT 'PENDING_PAYMENT',
+    paid_at DATETIME NULL,
+    cancelled_at DATETIME NULL,
+    cancel_reason VARCHAR(255) NULL,
+    created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    PRIMARY KEY (id),
+    UNIQUE KEY uq_orders_invoice_number (invoice_number),
+    UNIQUE KEY uq_orders_access_token (access_token),
+    KEY idx_orders_user_id (user_id),
+    KEY idx_orders_status_created (status, created_at),
+    CONSTRAINT fk_orders_user FOREIGN KEY (user_id) REFERENCES users (id) ON DELETE RESTRICT
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS order_items (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    order_id INT UNSIGNED NOT NULL,
+    album_id INT UNSIGNED NOT NULL,
+    album_name VARCHAR(160) NOT NULL,
+    unit_price DECIMAL(10,2) NOT NULL,
+    quantity INT UNSIGNED NOT NULL,
+    line_total DECIMAL(12,2) NOT NULL,
+    created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (id),
+    KEY idx_order_items_order_id (order_id),
+    KEY idx_order_items_album_id (album_id),
+    CONSTRAINT fk_order_items_order FOREIGN KEY (order_id) REFERENCES orders (id) ON DELETE CASCADE,
+    CONSTRAINT fk_order_items_album FOREIGN KEY (album_id) REFERENCES albums (id) ON DELETE RESTRICT
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

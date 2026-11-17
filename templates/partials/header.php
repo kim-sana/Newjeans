@@ -9,6 +9,9 @@ $navItems = [
     ['key' => 'about', 'label' => 'About', 'page' => 'about', 'href' => url('/about')],
     ['key' => 'gallery', 'label' => 'Gallery', 'page' => 'gallery', 'href' => url('/gallery')],
 ];
+$cartCount = \App\Support\Cart::count();
+$cartCountLabel = $cartCount > 99 ? '99+' : (string) $cartCount;
+$cartActive = $activePage === 'cart';
 ?>
 <nav class="navbar" id="dynamicNavbar" aria-label="Main navigation">
     <div class="navbar-inner">
@@ -27,6 +30,18 @@ $navItems = [
                     ><?= e($item['label']) ?></a>
                 </li>
             <?php endforeach; ?>
+            <li class="nav-cart-item">
+                <a
+                    class="nav-link nav-cart-link<?= $cartActive ? ' is-active' : '' ?>"
+                    href="<?= e(url('/cart')) ?>"
+                    data-page="cart"
+                    aria-label="Cart, <?= e((string) $cartCount) ?> item<?= $cartCount === 1 ? '' : 's' ?>"
+                    <?= $cartActive ? 'aria-current="page"' : '' ?>
+                >
+                    <span>Cart</span>
+                    <span class="nav-cart-count" data-cart-count aria-hidden="true"><?= e($cartCountLabel) ?></span>
+                </a>
+            </li>
         </ul>
         <button
             class="nav-toggle"

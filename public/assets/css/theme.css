@@ -710,6 +710,44 @@ ol {
   border-color: var(--blue);
 }
 
+.nav-cart-item {
+  display: flex;
+}
+
+.nav-cart-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.nav-cart-link:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}
+
+.nav-cart-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.4rem;
+  height: 1.4rem;
+  padding: 0 0.35rem;
+  border-radius: var(--radius-pill);
+  background: var(--blue);
+  color: #fff;
+  font-family: var(--font-body);
+  font-style: normal;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.nav-cart-link:hover .nav-cart-count,
+.nav-cart-link.is-active .nav-cart-count {
+  background: var(--blue-deep);
+}
+
 .nav-toggle {
   display: none;
   width: 44px;
@@ -776,6 +814,12 @@ ol {
     padding: 13px 2px;
     border-bottom: 1.5px solid var(--silver);
     font-size: 0.9rem;
+  }
+
+  .nav-cart-link {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
   }
 
   .nav-links li:last-child .nav-link {

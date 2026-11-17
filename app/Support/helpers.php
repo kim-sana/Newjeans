@@ -302,3 +302,14 @@ if (!function_exists('paragraphs')) {
         return $result;
     }
 }
+
+if (!function_exists('money')) {
+    function money(mixed $amount): string
+    {
+        if ($amount === null || $amount === '' || !is_numeric($amount)) {
+            return '$0.00';
+        }
+
+        return '$' . number_format((float) $amount, 2);
+    }
+}

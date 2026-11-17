@@ -1,0 +1,210 @@
+[
+    {
+        "id": 290030,
+        "name": "Doha",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.28545,
+        "lng": 51.53096,
+        "population": 344939
+    },
+    {
+        "id": 289888,
+        "name": "Ar Rayyān",
+        "region": "Baladiyat ar Rayyan",
+        "lat": 25.29194,
+        "lng": 51.42444,
+        "population": 272465
+    },
+    {
+        "id": 13512674,
+        "name": "Lusail",
+        "region": "Al Daayen",
+        "lat": 25.4175,
+        "lng": 51.5075,
+        "population": 198600
+    },
+    {
+        "id": 12242643,
+        "name": "Al Maţār al ‘Atīq",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.25138,
+        "lng": 51.55569,
+        "population": 76774
+    },
+    {
+        "id": 411759,
+        "name": "Al Manşūrah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.26807,
+        "lng": 51.53219,
+        "population": 65493
+    },
+    {
+        "id": 289847,
+        "name": "Az̧ Z̧a‘āyin",
+        "region": "Al Daayen",
+        "lat": 25.57744,
+        "lng": 51.48306,
+        "population": 54339
+    },
+    {
+        "id": 289738,
+        "name": "Madīnat Khalīfah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.32047,
+        "lng": 51.47787,
+        "population": 44459
+    },
+    {
+        "id": 411760,
+        "name": "An Najmah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.26704,
+        "lng": 51.54322,
+        "population": 43695
+    },
+    {
+        "id": 289511,
+        "name": "Al ‘Unayzah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.33759,
+        "lng": 51.50953,
+        "population": 39761
+    },
+    {
+        "id": 289545,
+        "name": "Umm Ghuwaylīnah",
+        "region": "Al-Shahaniya",
+        "lat": 25.58716,
+        "lng": 51.14986,
+        "population": 39457
+    },
+    {
+        "id": 411820,
+        "name": "As Sadd",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.28617,
+        "lng": 51.50074,
+        "population": 36077
+    },
+    {
+        "id": 12242742,
+        "name": "Farīj al Amīr",
+        "region": "Baladiyat ar Rayyan",
+        "lat": 25.28733,
+        "lng": 51.47136,
+        "population": 33263
+    },
+    {
+        "id": 12219798,
+        "name": "Farīj Kulayb",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.31313,
+        "lng": 51.4929,
+        "population": 33263
+    },
+    {
+        "id": 289523,
+        "name": "Umm Şalāl Muḩammad",
+        "region": "Umm Salal",
+        "lat": 25.41524,
+        "lng": 51.40647,
+        "population": 29391
+    },
+    {
+        "id": 289716,
+        "name": "Mu‘aydhir Rawḑat Rāshid",
+        "region": "Baladiyat ar Rayyan",
+        "lat": 25.2617,
+        "lng": 51.39684,
+        "population": 27569
+    },
+    {
+        "id": 411752,
+        "name": "As Sulţah al Jadīdah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.2604,
+        "lng": 51.51403,
+        "population": 27432
+    },
+    {
+        "id": 289915,
+        "name": "Al Wakrah",
+        "region": "Al Wakrah",
+        "lat": 25.17151,
+        "lng": 51.60337,
+        "population": 26436
+    },
+    {
+        "id": 12242646,
+        "name": "Ath Thumāmah Khamsūn",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.21958,
+        "lng": 51.55323,
+        "population": 22284
+    },
+    {
+        "id": 12242644,
+        "name": "Ath Thumāmah Sab‘ah wa Arba‘ūn",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.23903,
+        "lng": 51.56333,
+        "population": 22284
+    },
+    {
+        "id": 12242645,
+        "name": "Ath Thumāmah Sittah wa Arba‘ūn",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.23404,
+        "lng": 51.54053,
+        "population": 22284
+    },
+    {
+        "id": 289698,
+        "name": "Nu‘ayjah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.24617,
+        "lng": 51.53227,
+        "population": 19975
+    },
+    {
+        "id": 411803,
+        "name": "Al Ghānim",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.27987,
+        "lng": 51.54037,
+        "population": 19010
+    },
+    {
+        "id": 289962,
+        "name": "Al Khawr",
+        "region": "Al Khor",
+        "lat": 25.68389,
+        "lng": 51.50583,
+        "population": 18923
+    },
+    {
+        "id": 11207824,
+        "name": "Umm Lakhbā",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.34157,
+        "lng": 51.4706,
+        "population": 16993
+    },
+    {
+        "id": 411763,
+        "name": "Al Hilāl al Gharbīyah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.2586,
+        "lng": 51.53098,
+        "population": 15461
+    },
+    {
+        "id": 411768,
+        "name": "Al Hilāl ash Sharqīyah",
+        "region": "Baladiyat ad Dawhah",
+        "lat": 25.26042,
+        "lng": 51.54632,
+        "population": 15461
+    }
+]

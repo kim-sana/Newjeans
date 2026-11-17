@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1528675,
+        "name": "Bishkek",
+        "region": "Bishkek",
+        "lat": 42.87,
+        "lng": 74.59,
+        "population": 900000
+    },
+    {
+        "id": 1527534,
+        "name": "Osh",
+        "region": "Osh Region",
+        "lat": 40.52828,
+        "lng": 72.7985,
+        "population": 322164
+    },
+    {
+        "id": 1528249,
+        "name": "Manas",
+        "region": "Jalal-Abad Region",
+        "lat": 40.94498,
+        "lng": 72.99313,
+        "population": 123239
+    },
+    {
+        "id": 1528121,
+        "name": "Karakol",
+        "region": "Issyk-Kul",
+        "lat": 42.49047,
+        "lng": 78.39197,
+        "population": 84351
+    },
+    {
+        "id": 1527199,
+        "name": "Tokmok",
+        "region": "Chuy Region",
+        "lat": 42.84194,
+        "lng": 75.30149,
+        "population": 71443
+    },
+    {
+        "id": 1527513,
+        "name": "Uzgen",
+        "region": "Osh Region",
+        "lat": 40.76994,
+        "lng": 73.30068,
+        "population": 49410
+    },
+    {
+        "id": 1528182,
+        "name": "Kara-Balta",
+        "region": "Chuy Region",
+        "lat": 42.81423,
+        "lng": 73.84813,
+        "population": 48278
+    },
+    {
+        "id": 1527004,
+        "name": "Balykchy",
+        "region": "Issyk-Kul",
+        "lat": 42.46017,
+        "lng": 76.18709,
+        "population": 42875
+    },
+    {
+        "id": 1527592,
+        "name": "Naryn",
+        "region": "Naryn Region",
+        "lat": 41.4283,
+        "lng": 75.9957,
+        "population": 41178
+    },
+    {
+        "id": 1528717,
+        "name": "Bazar-Korgon",
+        "region": "Jalal-Abad Region",
+        "lat": 41.0376,
+        "lng": 72.74586,
+        "population": 41011
+    },
+    {
+        "id": 1527299,
+        "name": "Talas",
+        "region": "Talas Region",
+        "lat": 42.52256,
+        "lng": 72.2417,
+        "population": 40308
+    },
+    {
+        "id": 1222662,
+        "name": "Razzakov",
+        "region": "Batken",
+        "lat": 39.83895,
+        "lng": 69.5276,
+        "population": 34219
+    },
+    {
+        "id": 1527719,
+        "name": "Kyzyl-Kyya",
+        "region": "Batken",
+        "lat": 40.25684,
+        "lng": 72.12793,
+        "population": 32000
+    },
+    {
+        "id": 1527317,
+        "name": "Suzak",
+        "region": "Jalal-Abad Region",
+        "lat": 40.8982,
+        "lng": 72.90481,
+        "population": 30534
+    },
+    {
+        "id": 1528735,
+        "name": "Batken",
+        "region": "Batken",
+        "lat": 40.0604,
+        "lng": 70.81929,
+        "population": 27730
+    },
+    {
+        "id": 1528124,
+        "name": "Kara-Kul’",
+        "region": "Jalal-Abad Region",
+        "lat": 41.62828,
+        "lng": 72.67027,
+        "population": 26901
+    },
+    {
+        "id": 1528091,
+        "name": "Kara Suu",
+        "region": "Osh Region",
+        "lat": 40.7046,
+        "lng": 72.86666,
+        "population": 26609
+    },
+    {
+        "id": 1528283,
+        "name": "Iradan",
+        "region": "Batken",
+        "lat": 40.26667,
+        "lng": 72.1,
+        "population": 26200
+    },
+    {
+        "id": 1527260,
+        "name": "Tash-Kumyr",
+        "region": "Jalal-Abad Region",
+        "lat": 41.34612,
+        "lng": 72.21707,
+        "population": 23594
+    },
+    {
+        "id": 1528702,
+        "name": "Belovodskoye",
+        "region": "Chuy Region",
+        "lat": 42.82944,
+        "lng": 74.1083,
+        "population": 23046
+    },
+    {
+        "id": 1528193,
+        "name": "Kant",
+        "region": "Chuy Region",
+        "lat": 42.89106,
+        "lng": 74.85077,
+        "population": 22617
+    },
+    {
+        "id": 1527690,
+        "name": "Lebedinovka",
+        "region": "Chuy Region",
+        "lat": 42.88454,
+        "lng": 74.67819,
+        "population": 21118
+    },
+    {
+        "id": 1538648,
+        "name": "Toktogul",
+        "region": "Jalal-Abad Region",
+        "lat": 41.87442,
+        "lng": 72.94192,
+        "population": 20577
+    },
+    {
+        "id": 1527030,
+        "name": "Kojomkul",
+        "region": "Chuy Region",
+        "lat": 42.87378,
+        "lng": 74.44058,
+        "population": 20182
+    },
+    {
+        "id": 1527689,
+        "name": "Massy",
+        "region": "Jalal-Abad Region",
+        "lat": 41.0601,
+        "lng": 72.63285,
+        "population": 19774
+    },
+    {
+        "id": 1528339,
+        "name": "Nookat",
+        "region": "Osh Region",
+        "lat": 40.26597,
+        "lng": 72.61834,
+        "population": 18228
+    },
+    {
+        "id": 1528252,
+        "name": "Ivanovka",
+        "region": "Chuy Region",
+        "lat": 42.88778,
+        "lng": 75.085,
+        "population": 17513
+    },
+    {
+        "id": 1527903,
+        "name": "Kochkor-Ata",
+        "region": "Jalal-Abad Region",
+        "lat": 41.03709,
+        "lng": 72.4832,
+        "population": 17177
+    },
+    {
+        "id": 8145969,
+        "name": "Kara-Kulja",
+        "region": "Osh Region",
+        "lat": 40.63223,
+        "lng": 73.59249,
+        "population": 15616
+    },
+    {
+        "id": 1528875,
+        "name": "Ala-Buka",
+        "region": "Jalal-Abad Region",
+        "lat": 41.4105,
+        "lng": 71.48628,
+        "population": 15426
+    },
+    {
+        "id": 1527497,
+        "name": "Kyzyl-Suu",
+        "region": "Issyk-Kul",
+        "lat": 42.34211,
+        "lng": 78.00644,
+        "population": 15075
+    },
+    {
+        "id": 1222562,
+        "name": "Suluktu",
+        "region": "Batken",
+        "lat": 39.93652,
+        "lng": 69.56779,
+        "population": 15019
+    }
+]

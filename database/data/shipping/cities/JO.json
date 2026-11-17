@@ -1,0 +1,274 @@
+[
+    {
+        "id": 250441,
+        "name": "Amman",
+        "region": "Amman",
+        "lat": 31.95522,
+        "lng": 35.94503,
+        "population": 1275857
+    },
+    {
+        "id": 250090,
+        "name": "Zarqa",
+        "region": "Zarqa",
+        "lat": 32.07275,
+        "lng": 36.08796,
+        "population": 792665
+    },
+    {
+        "id": 248946,
+        "name": "Irbid",
+        "region": "Irbid",
+        "lat": 32.55556,
+        "lng": 35.85,
+        "population": 569068
+    },
+    {
+        "id": 7838895,
+        "name": "Russeifa",
+        "region": "Zarqa",
+        "lat": 32.01778,
+        "lng": 36.04639,
+        "population": 268237
+    },
+    {
+        "id": 248583,
+        "name": "Ḩayy Khildā",
+        "region": "Amman",
+        "lat": 31.99202,
+        "lng": 35.84002,
+        "population": 251000
+    },
+    {
+        "id": 248460,
+        "name": "Khuraybat as Sūq",
+        "region": "Amman",
+        "lat": 31.87913,
+        "lng": 35.92098,
+        "population": 186158
+    },
+    {
+        "id": 246013,
+        "name": "Wādī as Sīr",
+        "region": "Amman",
+        "lat": 31.9545,
+        "lng": 35.81831,
+        "population": 181212
+    },
+    {
+        "id": 250336,
+        "name": "Ar Ramthā",
+        "region": "Irbid",
+        "lat": 32.55873,
+        "lng": 36.00816,
+        "population": 155693
+    },
+    {
+        "id": 13286467,
+        "name": "Ṣuwayliḥ",
+        "region": "Balqa",
+        "lat": 32.0221,
+        "lng": 35.84394,
+        "population": 151016
+    },
+    {
+        "id": 250799,
+        "name": "‘Ajlūn",
+        "region": "Ajloun",
+        "lat": 32.33326,
+        "lng": 35.75279,
+        "population": 125557
+    },
+    {
+        "id": 250258,
+        "name": "As Salţ",
+        "region": "Balqa",
+        "lat": 32.03917,
+        "lng": 35.72722,
+        "population": 107874
+    },
+    {
+        "id": 250774,
+        "name": "Aqaba",
+        "region": "Aqaba",
+        "lat": 29.52667,
+        "lng": 35.00778,
+        "population": 95048
+    },
+    {
+        "id": 11428685,
+        "name": "Rukban",
+        "region": "Mafraq",
+        "lat": 33.31405,
+        "lng": 38.70342,
+        "population": 85000
+    },
+    {
+        "id": 13308287,
+        "name": "Marj Al Hamam",
+        "region": "Amman",
+        "lat": 31.90274,
+        "lng": 35.84645,
+        "population": 82788
+    },
+    {
+        "id": 248370,
+        "name": "Mādabā",
+        "region": "Madaba",
+        "lat": 31.71599,
+        "lng": 35.79392,
+        "population": 82335
+    },
+    {
+        "id": 250582,
+        "name": "Mafraq",
+        "region": "Mafraq",
+        "lat": 32.34289,
+        "lng": 36.20804,
+        "population": 57118
+    },
+    {
+        "id": 10861986,
+        "name": "Az̧ Z̧ulayl",
+        "region": "Zarqa",
+        "lat": 32.1208,
+        "lng": 36.28008,
+        "population": 50931
+    },
+    {
+        "id": 248382,
+        "name": "Ma'an",
+        "region": "Ma’an",
+        "lat": 30.19624,
+        "lng": 35.73405,
+        "population": 50350
+    },
+    {
+        "id": 250637,
+        "name": "Al Jubayhah",
+        "region": "Amman",
+        "lat": 32.01071,
+        "lng": 35.89802,
+        "population": 46834
+    },
+    {
+        "id": 247105,
+        "name": "Saḩāb",
+        "region": "Amman",
+        "lat": 31.87032,
+        "lng": 36.00479,
+        "population": 40241
+    },
+    {
+        "id": 250461,
+        "name": "Ḩayy al Quwaysimah",
+        "region": "Amman",
+        "lat": 31.91037,
+        "lng": 35.94975,
+        "population": 32396
+    },
+    {
+        "id": 248875,
+        "name": "Jarash",
+        "region": "Jerash",
+        "lat": 32.28082,
+        "lng": 35.89929,
+        "population": 27046
+    },
+    {
+        "id": 250198,
+        "name": "Aţ Ţafīlah",
+        "region": "Tafielah",
+        "lat": 30.83752,
+        "lng": 35.60442,
+        "population": 25429
+    },
+    {
+        "id": 248923,
+        "name": "‘Izrā",
+        "region": "Karak",
+        "lat": 31.15889,
+        "lng": 35.69278,
+        "population": 22756
+    },
+    {
+        "id": 250624,
+        "name": "Qīr Moāv",
+        "region": "Ma’an",
+        "lat": 31.18248,
+        "lng": 35.69999,
+        "population": 22581
+    },
+    {
+        "id": 6946409,
+        "name": "Karak City",
+        "region": "Karak",
+        "lat": 31.16368,
+        "lng": 35.76204,
+        "population": 21678
+    },
+    {
+        "id": 248803,
+        "name": "Judita",
+        "region": "Irbid",
+        "lat": 32.40792,
+        "lng": 35.70802,
+        "population": 20000
+    },
+    {
+        "id": 250718,
+        "name": "Al Fuḩayş",
+        "region": "Balqa",
+        "lat": 32.00468,
+        "lng": 35.78088,
+        "population": 18916
+    },
+    {
+        "id": 250152,
+        "name": "Aydūn",
+        "region": "Irbid",
+        "lat": 32.50528,
+        "lng": 35.85809,
+        "population": 18376
+    },
+    {
+        "id": 246314,
+        "name": "Umm as Summāq",
+        "region": "Amman",
+        "lat": 31.88542,
+        "lng": 35.8543,
+        "population": 18274
+    },
+    {
+        "id": 248414,
+        "name": "Kurayyimah",
+        "region": "Irbid",
+        "lat": 32.27639,
+        "lng": 35.59938,
+        "population": 17837
+    },
+    {
+        "id": 248299,
+        "name": "Māḩiş",
+        "region": "Balqa",
+        "lat": 31.98646,
+        "lng": 35.76987,
+        "population": 17754
+    },
+    {
+        "id": 250420,
+        "name": "‘Anjarah",
+        "region": "Ajloun",
+        "lat": 32.30667,
+        "lng": 35.75443,
+        "population": 17634
+    },
+    {
+        "id": 250267,
+        "name": "Safi",
+        "region": "Karak",
+        "lat": 31.03608,
+        "lng": 35.46544,
+        "population": 15200
+    }
+]

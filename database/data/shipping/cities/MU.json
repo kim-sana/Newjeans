@@ -1,0 +1,114 @@
+[
+    {
+        "id": 934154,
+        "name": "Port Louis",
+        "region": "Port Louis",
+        "lat": -20.16194,
+        "lng": 57.49889,
+        "population": 155226
+    },
+    {
+        "id": 933945,
+        "name": "Vacoas",
+        "region": "Plaines Wilhems",
+        "lat": -20.29806,
+        "lng": 57.47833,
+        "population": 115289
+    },
+    {
+        "id": 934765,
+        "name": "Beau Bassin-Rose Hill",
+        "region": "Plaines Wilhems",
+        "lat": -20.23325,
+        "lng": 57.46609,
+        "population": 111355
+    },
+    {
+        "id": 934570,
+        "name": "Curepipe",
+        "region": "Plaines Wilhems",
+        "lat": -20.31628,
+        "lng": 57.52594,
+        "population": 78618
+    },
+    {
+        "id": 934131,
+        "name": "Quatre Bornes",
+        "region": "Plaines Wilhems",
+        "lat": -20.26381,
+        "lng": 57.4791,
+        "population": 77308
+    },
+    {
+        "id": 933959,
+        "name": "Triolet",
+        "region": "Pamplemousses",
+        "lat": -20.0576,
+        "lng": 57.55025,
+        "population": 24361
+    },
+    {
+        "id": 934488,
+        "name": "Goodlands",
+        "region": "Rivière du Rempart",
+        "lat": -20.03841,
+        "lng": 57.65055,
+        "population": 21063
+    },
+    {
+        "id": 934750,
+        "name": "Bel Air Rivière Sèche",
+        "region": "Flacq",
+        "lat": -20.25777,
+        "lng": 57.74976,
+        "population": 18036
+    },
+    {
+        "id": 934778,
+        "name": "Bambous",
+        "region": "Black River",
+        "lat": -20.25667,
+        "lng": 57.40611,
+        "population": 17818
+    },
+    {
+        "id": 934631,
+        "name": "Centre de Flacq",
+        "region": "Flacq",
+        "lat": -20.18972,
+        "lng": 57.71444,
+        "population": 17710
+    },
+    {
+        "id": 934322,
+        "name": "Mahébourg",
+        "region": "Grand Port",
+        "lat": -20.40806,
+        "lng": 57.7,
+        "population": 17042
+    },
+    {
+        "id": 934032,
+        "name": "Saint Pierre",
+        "region": "Moka",
+        "lat": -20.2215,
+        "lng": 57.53431,
+        "population": 16704
+    },
+    {
+        "id": 1106809,
+        "name": "Le Hochet",
+        "region": "Pamplemousses",
+        "lat": -20.13859,
+        "lng": 57.53013,
+        "population": 15662
+    },
+    {
+        "id": 1106616,
+        "name": "Baie du Tombeau",
+        "region": "Pamplemousses",
+        "lat": -20.11944,
+        "lng": 57.49139,
+        "population": 15301
+    }
+]

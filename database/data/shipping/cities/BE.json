@@ -1,0 +1,1786 @@
+[
+    {
+        "id": 2800866,
+        "name": "Brussels",
+        "region": "Brussels Capital",
+        "lat": 50.85045,
+        "lng": 4.34878,
+        "population": 1019022
+    },
+    {
+        "id": 2803138,
+        "name": "Antwerp",
+        "region": "Flanders",
+        "lat": 51.22047,
+        "lng": 4.40026,
+        "population": 529247
+    },
+    {
+        "id": 2797656,
+        "name": "Gent",
+        "region": "Flanders",
+        "lat": 51.05,
+        "lng": 3.71667,
+        "population": 265086
+    },
+    {
+        "id": 2800481,
+        "name": "Charleroi",
+        "region": "Wallonia",
+        "lat": 50.41136,
+        "lng": 4.44448,
+        "population": 200132
+    },
+    {
+        "id": 2792413,
+        "name": "Liège",
+        "region": "Wallonia",
+        "lat": 50.63373,
+        "lng": 5.56749,
+        "population": 195278
+    },
+    {
+        "id": 2803201,
+        "name": "Anderlecht",
+        "region": "Brussels Capital",
+        "lat": 50.83619,
+        "lng": 4.31454,
+        "population": 160553
+    },
+    {
+        "id": 2787149,
+        "name": "Schaerbeek",
+        "region": "Brussels Capital",
+        "lat": 50.86935,
+        "lng": 4.37737,
+        "population": 132761
+    },
+    {
+        "id": 2800931,
+        "name": "Brugge",
+        "region": "Flanders",
+        "lat": 51.20892,
+        "lng": 3.22424,
+        "population": 118509
+    },
+    {
+        "id": 2790471,
+        "name": "Namur",
+        "region": "Wallonia",
+        "lat": 50.4669,
+        "lng": 4.86746,
+        "population": 110939
+    },
+    {
+        "id": 2792482,
+        "name": "Leuven",
+        "region": "Flanders",
+        "lat": 50.87959,
+        "lng": 4.70093,
+        "population": 101032
+    },
+    {
+        "id": 2791018,
+        "name": "Molenbeek-Saint-Jean",
+        "region": "Brussels Capital",
+        "lat": 50.8499,
+        "lng": 4.31248,
+        "population": 97037
+    },
+    {
+        "id": 2790869,
+        "name": "Mons",
+        "region": "Wallonia",
+        "lat": 50.45413,
+        "lng": 3.95229,
+        "population": 95299
+    },
+    {
+        "id": 2795011,
+        "name": "Ixelles",
+        "region": "Brussels Capital",
+        "lat": 50.83333,
+        "lng": 4.36667,
+        "population": 86671
+    },
+    {
+        "id": 2785123,
+        "name": "Uccle",
+        "region": "Brussels Capital",
+        "lat": 50.80225,
+        "lng": 4.33943,
+        "population": 82929
+    },
+    {
+        "id": 2799478,
+        "name": "Deurne",
+        "region": "Flanders",
+        "lat": 51.22134,
+        "lng": 4.46595,
+        "population": 78747
+    },
+    {
+        "id": 2796491,
+        "name": "Hasselt",
+        "region": "Flanders",
+        "lat": 50.93106,
+        "lng": 5.33781,
+        "population": 77651
+    },
+    {
+        "id": 2803448,
+        "name": "Aalst",
+        "region": "Flanders",
+        "lat": 50.93604,
+        "lng": 4.0355,
+        "population": 77534
+    },
+    {
+        "id": 2791537,
+        "name": "Mechelen",
+        "region": "Flanders",
+        "lat": 51.02574,
+        "lng": 4.47762,
+        "population": 77530
+    },
+    {
+        "id": 2793508,
+        "name": "La Louvière",
+        "region": "Wallonia",
+        "lat": 50.48657,
+        "lng": 4.18785,
+        "population": 76668
+    },
+    {
+        "id": 2794055,
+        "name": "Kortrijk",
+        "region": "Flanders",
+        "lat": 50.82803,
+        "lng": 3.26487,
+        "population": 73879
+    },
+    {
+        "id": 2785341,
+        "name": "Tournai",
+        "region": "Wallonia",
+        "lat": 50.60715,
+        "lng": 3.38932,
+        "population": 69554
+    },
+    {
+        "id": 2789786,
+        "name": "Ostend",
+        "region": "Flanders",
+        "lat": 51.21551,
+        "lng": 2.927,
+        "population": 69011
+    },
+    {
+        "id": 2786578,
+        "name": "Sint-Niklaas",
+        "region": "Flanders",
+        "lat": 51.16509,
+        "lng": 4.1437,
+        "population": 69010
+    },
+    {
+        "id": 2797670,
+        "name": "Genk",
+        "region": "Flanders",
+        "lat": 50.965,
+        "lng": 5.50082,
+        "population": 63666
+    },
+    {
+        "id": 2786824,
+        "name": "Seraing",
+        "region": "Wallonia",
+        "lat": 50.58362,
+        "lng": 5.50115,
+        "population": 60737
+    },
+    {
+        "id": 2783476,
+        "name": "Woluwe-Saint-Lambert",
+        "region": "Brussels Capital",
+        "lat": 50.84389,
+        "lng": 4.42912,
+        "population": 56584
+    },
+    {
+        "id": 2798139,
+        "name": "Forest",
+        "region": "Brussels Capital",
+        "lat": 50.81678,
+        "lng": 4.32775,
+        "population": 56254
+    },
+    {
+        "id": 2787889,
+        "name": "Roeselare",
+        "region": "Flanders",
+        "lat": 50.94653,
+        "lng": 3.12269,
+        "population": 56016
+    },
+    {
+        "id": 2784821,
+        "name": "Verviers",
+        "region": "Wallonia",
+        "lat": 50.58907,
+        "lng": 5.86241,
+        "population": 52824
+    },
+    {
+        "id": 2794914,
+        "name": "Jette",
+        "region": "Brussels Capital",
+        "lat": 50.87309,
+        "lng": 4.33419,
+        "population": 52490
+    },
+    {
+        "id": 2790595,
+        "name": "Mouscron",
+        "region": "Wallonia",
+        "lat": 50.74497,
+        "lng": 3.20639,
+        "population": 52069
+    },
+    {
+        "id": 2787413,
+        "name": "Saint-Gilles",
+        "region": "Brussels Capital",
+        "lat": 50.82763,
+        "lng": 4.34389,
+        "population": 50221
+    },
+    {
+        "id": 2798578,
+        "name": "Etterbeek",
+        "region": "Brussels Capital",
+        "lat": 50.83272,
+        "lng": 4.38835,
+        "population": 48344
+    },
+    {
+        "id": 2801471,
+        "name": "Borgerhout",
+        "region": "Flanders",
+        "lat": 51.20957,
+        "lng": 4.43539,
+        "population": 46087
+    },
+    {
+        "id": 2799645,
+        "name": "Dendermonde",
+        "region": "Flanders",
+        "lat": 51.02869,
+        "lng": 4.10106,
+        "population": 45673
+    },
+    {
+        "id": 2802031,
+        "name": "Beveren",
+        "region": "Flanders",
+        "lat": 51.21187,
+        "lng": 4.25633,
+        "population": 45179
+    },
+    {
+        "id": 2791301,
+        "name": "Merksem",
+        "region": "Flanders",
+        "lat": 51.24623,
+        "lng": 4.44903,
+        "population": 44435
+    },
+    {
+        "id": 2785141,
+        "name": "Turnhout",
+        "region": "Flanders",
+        "lat": 51.32254,
+        "lng": 4.94471,
+        "population": 44000
+    },
+    {
+        "id": 2802249,
+        "name": "Berchem",
+        "region": "Flanders",
+        "lat": 51.19021,
+        "lng": 4.43264,
+        "population": 43511
+    },
+    {
+        "id": 2798554,
+        "name": "Evere",
+        "region": "Brussels Capital",
+        "lat": 50.87441,
+        "lng": 4.39905,
+        "population": 41667
+    },
+    {
+        "id": 2792196,
+        "name": "Lokeren",
+        "region": "Flanders",
+        "lat": 51.10364,
+        "lng": 3.99339,
+        "population": 41438
+    },
+    {
+        "id": 2783615,
+        "name": "Wilrijk",
+        "region": "Flanders",
+        "lat": 51.16734,
+        "lng": 4.39513,
+        "population": 41403
+    },
+    {
+        "id": 2802170,
+        "name": "Beringen",
+        "region": "Flanders",
+        "lat": 51.04954,
+        "lng": 5.22606,
+        "population": 40930
+    },
+    {
+        "id": 2799365,
+        "name": "Dilbeek",
+        "region": "Flanders",
+        "lat": 50.84799,
+        "lng": 4.25972,
+        "population": 39482
+    },
+    {
+        "id": 2796153,
+        "name": "Heist-op-den-Berg",
+        "region": "Flanders",
+        "lat": 51.07537,
+        "lng": 4.72827,
+        "population": 37873
+    },
+    {
+        "id": 2786545,
+        "name": "Sint-Truiden",
+        "region": "Flanders",
+        "lat": 50.81679,
+        "lng": 5.18647,
+        "population": 37859
+    },
+    {
+        "id": 2801154,
+        "name": "Braine-l'Alleud",
+        "region": "Wallonia",
+        "lat": 50.68363,
+        "lng": 4.36784,
+        "population": 37512
+    },
+    {
+        "id": 2801117,
+        "name": "Brasschaat",
+        "region": "Flanders",
+        "lat": 51.2912,
+        "lng": 4.49182,
+        "population": 37040
+    },
+    {
+        "id": 2797114,
+        "name": "Grimbergen",
+        "region": "Flanders",
+        "lat": 50.93409,
+        "lng": 4.37213,
+        "population": 37000
+    },
+    {
+        "id": 2784604,
+        "name": "Vilvoorde",
+        "region": "Flanders",
+        "lat": 50.92814,
+        "lng": 4.42938,
+        "population": 36955
+    },
+    {
+        "id": 2795930,
+        "name": "Herstal",
+        "region": "Wallonia",
+        "lat": 50.66415,
+        "lng": 5.62346,
+        "population": 36503
+    },
+    {
+        "id": 2791961,
+        "name": "Maasmechelen",
+        "region": "Flanders",
+        "lat": 50.96545,
+        "lng": 5.69452,
+        "population": 36251
+    },
+    {
+        "id": 2784068,
+        "name": "Waregem",
+        "region": "Flanders",
+        "lat": 50.88898,
+        "lng": 3.42756,
+        "population": 35896
+    },
+    {
+        "id": 2800448,
+        "name": "Châtelet",
+        "region": "Wallonia",
+        "lat": 50.40338,
+        "lng": 4.52826,
+        "population": 35238
+    },
+    {
+        "id": 2795100,
+        "name": "Ieper",
+        "region": "Flanders",
+        "lat": 50.85114,
+        "lng": 2.88569,
+        "population": 35089
+    },
+    {
+        "id": 2790114,
+        "name": "Ninove",
+        "region": "Flanders",
+        "lat": 50.82776,
+        "lng": 4.02657,
+        "population": 34795
+    },
+    {
+        "id": 2797779,
+        "name": "Geel",
+        "region": "Flanders",
+        "lat": 51.16557,
+        "lng": 4.98917,
+        "population": 34697
+    },
+    {
+        "id": 2796696,
+        "name": "Halle",
+        "region": "Flanders",
+        "lat": 50.73385,
+        "lng": 4.23454,
+        "population": 34479
+    },
+    {
+        "id": 2795730,
+        "name": "Hoboken",
+        "region": "Flanders",
+        "lat": 51.17611,
+        "lng": 4.34844,
+        "population": 34443
+    },
+    {
+        "id": 2783941,
+        "name": "Wavre",
+        "region": "Wallonia",
+        "lat": 50.71717,
+        "lng": 4.60138,
+        "population": 34305
+    },
+    {
+        "id": 2802960,
+        "name": "Auderghem",
+        "region": "Brussels Capital",
+        "lat": 50.81667,
+        "lng": 4.43333,
+        "population": 33984
+    },
+    {
+        "id": 2794210,
+        "name": "Knokke-Heist",
+        "region": "Flanders",
+        "lat": 51.35,
+        "lng": 3.26667,
+        "population": 33781
+    },
+    {
+        "id": 2786963,
+        "name": "Schoten",
+        "region": "Flanders",
+        "lat": 51.25251,
+        "lng": 4.50268,
+        "population": 33622
+    },
+    {
+        "id": 2792397,
+        "name": "Lier",
+        "region": "Flanders",
+        "lat": 51.13128,
+        "lng": 4.57041,
+        "population": 33272
+    },
+    {
+        "id": 2791067,
+        "name": "Mol",
+        "region": "Flanders",
+        "lat": 51.19188,
+        "lng": 5.11662,
+        "population": 32659
+    },
+    {
+        "id": 2786743,
+        "name": "Sint-Amandsberg",
+        "region": "Flanders",
+        "lat": 51.05947,
+        "lng": 3.74943,
+        "population": 32115
+    },
+    {
+        "id": 2801922,
+        "name": "Binche",
+        "region": "Wallonia",
+        "lat": 50.41155,
+        "lng": 4.16469,
+        "population": 32030
+    },
+    {
+        "id": 2792179,
+        "name": "Lommel",
+        "region": "Flanders",
+        "lat": 51.23074,
+        "lng": 5.31349,
+        "population": 31993
+    },
+    {
+        "id": 2791343,
+        "name": "Menen",
+        "region": "Flanders",
+        "lat": 50.79722,
+        "lng": 3.12245,
+        "population": 31916
+    },
+    {
+        "id": 2789529,
+        "name": "Oudenaarde",
+        "region": "Flanders",
+        "lat": 50.85168,
+        "lng": 3.60891,
+        "population": 31866
+    },
+    {
+        "id": 2785470,
+        "name": "Tienen",
+        "region": "Flanders",
+        "lat": 50.80745,
+        "lng": 4.9378,
+        "population": 31743
+    },
+    {
+        "id": 2798551,
+        "name": "Evergem",
+        "region": "Flanders",
+        "lat": 51.11306,
+        "lng": 3.70976,
+        "population": 31615
+    },
+    {
+        "id": 2795800,
+        "name": "Heusden",
+        "region": "Flanders",
+        "lat": 51.03664,
+        "lng": 5.28013,
+        "population": 31017
+    },
+    {
+        "id": 2783759,
+        "name": "Wevelgem",
+        "region": "Flanders",
+        "lat": 50.8,
+        "lng": 3.16667,
+        "population": 30954
+    },
+    {
+        "id": 2797638,
+        "name": "Geraardsbergen",
+        "region": "Flanders",
+        "lat": 50.77343,
+        "lng": 3.88223,
+        "population": 30807
+    },
+    {
+        "id": 2786559,
+        "name": "Sint-Pieters-Leeuw",
+        "region": "Flanders",
+        "lat": 50.77926,
+        "lng": 4.24355,
+        "population": 30446
+    },
+    {
+        "id": 2801824,
+        "name": "Blauwput",
+        "region": "Flanders",
+        "lat": 50.88587,
+        "lng": 4.72415,
+        "population": 30215
+    },
+    {
+        "id": 2794507,
+        "name": "Kessel-Lo",
+        "region": "Flanders",
+        "lat": 50.88549,
+        "lng": 4.73717,
+        "population": 30215
+    },
+    {
+        "id": 2796132,
+        "name": "Helchteren",
+        "region": "Flanders",
+        "lat": 51.05591,
+        "lng": 5.38244,
+        "population": 30050
+    },
+    {
+        "id": 2795261,
+        "name": "Houthalen",
+        "region": "Flanders",
+        "lat": 51.03427,
+        "lng": 5.37429,
+        "population": 30050
+    },
+    {
+        "id": 2785389,
+        "name": "Tongeren",
+        "region": "Flanders",
+        "lat": 50.78054,
+        "lng": 5.46484,
+        "population": 29816
+    },
+    {
+        "id": 2799746,
+        "name": "Deinze",
+        "region": "Flanders",
+        "lat": 50.98175,
+        "lng": 3.53096,
+        "population": 29815
+    },
+    {
+        "id": 2783985,
+        "name": "Waterloo",
+        "region": "Wallonia",
+        "lat": 50.71469,
+        "lng": 4.3991,
+        "population": 29778
+    },
+    {
+        "id": 2801924,
+        "name": "Bilzen",
+        "region": "Flanders",
+        "lat": 50.87325,
+        "lng": 5.5184,
+        "population": 29622
+    },
+    {
+        "id": 2792073,
+        "name": "Louvain-la-Neuve",
+        "region": "Wallonia",
+        "lat": 50.66829,
+        "lng": 4.61443,
+        "population": 29521
+    },
+    {
+        "id": 2800063,
+        "name": "Courcelles",
+        "region": "Wallonia",
+        "lat": 50.46379,
+        "lng": 4.3747,
+        "population": 29473
+    },
+    {
+        "id": 2803033,
+        "name": "Asse",
+        "region": "Flanders",
+        "lat": 50.91011,
+        "lng": 4.19836,
+        "population": 28985
+    },
+    {
+        "id": 2783310,
+        "name": "Zaventem",
+        "region": "Flanders",
+        "lat": 50.88365,
+        "lng": 4.47298,
+        "population": 28188
+    },
+    {
+        "id": 2803429,
+        "name": "Aarschot",
+        "region": "Flanders",
+        "lat": 50.98715,
+        "lng": 4.83695,
+        "population": 27656
+    },
+    {
+        "id": 2787387,
+        "name": "Saint-Josse-ten-Noode",
+        "region": "Brussels Capital",
+        "lat": 50.8538,
+        "lng": 4.37282,
+        "population": 27366
+    },
+    {
+        "id": 2803160,
+        "name": "Ans",
+        "region": "Wallonia",
+        "lat": 50.6623,
+        "lng": 5.52029,
+        "population": 27297
+    },
+    {
+        "id": 2803010,
+        "name": "Ath",
+        "region": "Wallonia",
+        "lat": 50.62937,
+        "lng": 3.77801,
+        "population": 26681
+    },
+    {
+        "id": 2794730,
+        "name": "Kapellen",
+        "region": "Flanders",
+        "lat": 51.31377,
+        "lng": 4.43539,
+        "population": 26410
+    },
+    {
+        "id": 2795009,
+        "name": "Izegem",
+        "region": "Flanders",
+        "lat": 50.91396,
+        "lng": 3.21378,
+        "population": 26382
+    },
+    {
+        "id": 2803073,
+        "name": "Arlon",
+        "region": "Wallonia",
+        "lat": 49.68333,
+        "lng": 5.81667,
+        "population": 26179
+    },
+    {
+        "id": 2785778,
+        "name": "Temse",
+        "region": "Flanders",
+        "lat": 51.12794,
+        "lng": 4.21372,
+        "population": 26054
+    },
+    {
+        "id": 2796542,
+        "name": "Harelbeke",
+        "region": "Flanders",
+        "lat": 50.85343,
+        "lng": 3.30935,
+        "population": 25978
+    },
+    {
+        "id": 2796009,
+        "name": "Herentals",
+        "region": "Flanders",
+        "lat": 51.17655,
+        "lng": 4.83248,
+        "population": 25912
+    },
+    {
+        "id": 2791964,
+        "name": "Maaseik",
+        "region": "Flanders",
+        "lat": 51.09802,
+        "lng": 5.78379,
+        "population": 25201
+    },
+    {
+        "id": 2802247,
+        "name": "Berchem-Sainte-Agathe",
+        "region": "Brussels Capital",
+        "lat": 50.86567,
+        "lng": 4.29557,
+        "population": 25162
+    },
+    {
+        "id": 2783979,
+        "name": "Watermael-Boitsfort",
+        "region": "Brussels Capital",
+        "lat": 50.80154,
+        "lng": 4.41436,
+        "population": 25157
+    },
+    {
+        "id": 2798307,
+        "name": "Flémalle-Haute",
+        "region": "Wallonia",
+        "lat": 50.59994,
+        "lng": 5.44471,
+        "population": 25144
+    },
+    {
+        "id": 2786420,
+        "name": "Soignies",
+        "region": "Wallonia",
+        "lat": 50.57904,
+        "lng": 4.07129,
+        "population": 24869
+    },
+    {
+        "id": 2797844,
+        "name": "Ganshoren",
+        "region": "Brussels Capital",
+        "lat": 50.87065,
+        "lng": 4.31531,
+        "population": 24859
+    },
+    {
+        "id": 2793446,
+        "name": "Lanaken",
+        "region": "Flanders",
+        "lat": 50.89318,
+        "lng": 5.6468,
+        "population": 24771
+    },
+    {
+        "id": 2790676,
+        "name": "Mortsel",
+        "region": "Flanders",
+        "lat": 51.16697,
+        "lng": 4.45127,
+        "population": 24525
+    },
+    {
+        "id": 2794860,
+        "name": "Jumet",
+        "region": "Wallonia",
+        "lat": 50.4422,
+        "lng": 4.43745,
+        "population": 24510
+    },
+    {
+        "id": 2783175,
+        "name": "Zottegem",
+        "region": "Flanders",
+        "lat": 50.86955,
+        "lng": 3.81052,
+        "population": 24434
+    },
+    {
+        "id": 2787769,
+        "name": "Ronse",
+        "region": "Flanders",
+        "lat": 50.74574,
+        "lng": 3.6005,
+        "population": 24204
+    },
+    {
+        "id": 2790101,
+        "name": "Nivelles",
+        "region": "Wallonia",
+        "lat": 50.59833,
+        "lng": 4.32848,
+        "population": 24149
+    },
+    {
+        "id": 2803204,
+        "name": "Andenne",
+        "region": "Wallonia",
+        "lat": 50.48941,
+        "lng": 5.09513,
+        "population": 24055
+    },
+    {
+        "id": 2791726,
+        "name": "Marcinelle",
+        "region": "Wallonia",
+        "lat": 50.39216,
+        "lng": 4.44388,
+        "population": 23696
+    },
+    {
+        "id": 2789471,
+        "name": "Oupeye",
+        "region": "Wallonia",
+        "lat": 50.71184,
+        "lng": 5.6468,
+        "population": 23594
+    },
+    {
+        "id": 2783456,
+        "name": "Wondelgem",
+        "region": "Flanders",
+        "lat": 51.08705,
+        "lng": 3.70909,
+        "population": 23546
+    },
+    {
+        "id": 2789413,
+        "name": "Overijse",
+        "region": "Flanders",
+        "lat": 50.77436,
+        "lng": 4.53461,
+        "population": 23486
+    },
+    {
+        "id": 2783089,
+        "name": "Zwevegem",
+        "region": "Flanders",
+        "lat": 50.81268,
+        "lng": 3.33848,
+        "population": 23358
+    },
+    {
+        "id": 2798873,
+        "name": "Ekeren",
+        "region": "Flanders",
+        "lat": 51.28087,
+        "lng": 4.41813,
+        "population": 23300
+    },
+    {
+        "id": 2795783,
+        "name": "Heverlee",
+        "region": "Flanders",
+        "lat": 50.86426,
+        "lng": 4.69597,
+        "population": 23278
+    },
+    {
+        "id": 2802433,
+        "name": "Beersel",
+        "region": "Flanders",
+        "lat": 50.76589,
+        "lng": 4.3002,
+        "population": 23228
+    },
+    {
+        "id": 2783763,
+        "name": "Wetteren",
+        "region": "Flanders",
+        "lat": 51.00526,
+        "lng": 3.88341,
+        "population": 22930
+    },
+    {
+        "id": 2796637,
+        "name": "Hamme",
+        "region": "Flanders",
+        "lat": 51.09822,
+        "lng": 4.13705,
+        "population": 22891
+    },
+    {
+        "id": 2783632,
+        "name": "Willebroek",
+        "region": "Flanders",
+        "lat": 51.06041,
+        "lng": 4.36019,
+        "population": 22808
+    },
+    {
+        "id": 2787356,
+        "name": "Saint-Nicolas",
+        "region": "Wallonia",
+        "lat": 50.62837,
+        "lng": 5.53243,
+        "population": 22586
+    },
+    {
+        "id": 2783801,
+        "name": "Westerlo",
+        "region": "Flanders",
+        "lat": 51.09049,
+        "lng": 4.91544,
+        "population": 22579
+    },
+    {
+        "id": 2799397,
+        "name": "Diest",
+        "region": "Flanders",
+        "lat": 50.98923,
+        "lng": 5.05062,
+        "population": 22516
+    },
+    {
+        "id": 2787416,
+        "name": "Saint-Ghislain",
+        "region": "Wallonia",
+        "lat": 50.44816,
+        "lng": 3.81886,
+        "population": 22500
+    },
+    {
+        "id": 2791814,
+        "name": "Manage",
+        "region": "Wallonia",
+        "lat": 50.50312,
+        "lng": 4.23589,
+        "population": 22196
+    },
+    {
+        "id": 2791857,
+        "name": "Maldegem",
+        "region": "Flanders",
+        "lat": 51.20737,
+        "lng": 3.44511,
+        "population": 22092
+    },
+    {
+        "id": 2798297,
+        "name": "Fleurus",
+        "region": "Wallonia",
+        "lat": 50.48351,
+        "lng": 4.55006,
+        "population": 22080
+    },
+    {
+        "id": 2794190,
+        "name": "Koekelberg",
+        "region": "Brussels Capital",
+        "lat": 50.86117,
+        "lng": 4.33136,
+        "population": 21984
+    },
+    {
+        "id": 2783308,
+        "name": "Zedelgem",
+        "region": "Flanders",
+        "lat": 51.14236,
+        "lng": 3.1368,
+        "population": 21968
+    },
+    {
+        "id": 2794166,
+        "name": "Koksijde",
+        "region": "Flanders",
+        "lat": 51.11642,
+        "lng": 2.63772,
+        "population": 21957
+    },
+    {
+        "id": 2799007,
+        "name": "Edegem",
+        "region": "Flanders",
+        "lat": 51.15662,
+        "lng": 4.44504,
+        "population": 21839
+    },
+    {
+        "id": 2797713,
+        "name": "Gembloux",
+        "region": "Wallonia",
+        "lat": 50.56149,
+        "lng": 4.69889,
+        "population": 21676
+    },
+    {
+        "id": 2787989,
+        "name": "Rixensart",
+        "region": "Wallonia",
+        "lat": 50.71229,
+        "lng": 4.52529,
+        "population": 21616
+    },
+    {
+        "id": 2789751,
+        "name": "Oostkamp",
+        "region": "Flanders",
+        "lat": 51.15432,
+        "lng": 3.23128,
+        "population": 21489
+    },
+    {
+        "id": 2783274,
+        "name": "Zemst",
+        "region": "Flanders",
+        "lat": 50.98318,
+        "lng": 4.46079,
+        "population": 21096
+    },
+    {
+        "id": 2797096,
+        "name": "Grivegnée",
+        "region": "Wallonia",
+        "lat": 50.62148,
+        "lng": 5.61101,
+        "population": 21057
+    },
+    {
+        "id": 2800438,
+        "name": "Chaudfontaine",
+        "region": "Wallonia",
+        "lat": 50.5828,
+        "lng": 5.6341,
+        "population": 20960
+    },
+    {
+        "id": 2790135,
+        "name": "Nijlen",
+        "region": "Flanders",
+        "lat": 51.16096,
+        "lng": 4.67008,
+        "population": 20792
+    },
+    {
+        "id": 2785622,
+        "name": "Tervuren",
+        "region": "Flanders",
+        "lat": 50.82372,
+        "lng": 4.51418,
+        "population": 20623
+    },
+    {
+        "id": 2798023,
+        "name": "Frameries",
+        "region": "Wallonia",
+        "lat": 50.40578,
+        "lng": 3.89603,
+        "population": 20598
+    },
+    {
+        "id": 2787048,
+        "name": "Schilde",
+        "region": "Flanders",
+        "lat": 51.24107,
+        "lng": 4.58336,
+        "population": 20373
+    },
+    {
+        "id": 2794117,
+        "name": "Kontich",
+        "region": "Flanders",
+        "lat": 51.13213,
+        "lng": 4.44706,
+        "population": 20290
+    },
+    {
+        "id": 2783293,
+        "name": "Zele",
+        "region": "Flanders",
+        "lat": 51.06566,
+        "lng": 4.0403,
+        "population": 20236
+    },
+    {
+        "id": 2801150,
+        "name": "Braine-le-Comte",
+        "region": "Wallonia",
+        "lat": 50.60979,
+        "lng": 4.14658,
+        "population": 20133
+    },
+    {
+        "id": 2801226,
+        "name": "Boussu",
+        "region": "Wallonia",
+        "lat": 50.43417,
+        "lng": 3.7944,
+        "population": 20058
+    },
+    {
+        "id": 2797532,
+        "name": "Gilly",
+        "region": "Wallonia",
+        "lat": 50.42449,
+        "lng": 4.4789,
+        "population": 20043
+    },
+    {
+        "id": 2801447,
+        "name": "Bornem",
+        "region": "Flanders",
+        "lat": 51.09716,
+        "lng": 4.24364,
+        "population": 19997
+    },
+    {
+        "id": 2802743,
+        "name": "Balen",
+        "region": "Flanders",
+        "lat": 51.16837,
+        "lng": 5.17027,
+        "population": 19978
+    },
+    {
+        "id": 2795113,
+        "name": "Huy",
+        "region": "Wallonia",
+        "lat": 50.51894,
+        "lng": 5.23284,
+        "population": 19973
+    },
+    {
+        "id": 2800220,
+        "name": "Colfontaine",
+        "region": "Wallonia",
+        "lat": 50.4141,
+        "lng": 3.85569,
+        "population": 19964
+    },
+    {
+        "id": 2783188,
+        "name": "Zonhoven",
+        "region": "Flanders",
+        "lat": 50.99064,
+        "lng": 5.36819,
+        "population": 19922
+    },
+    {
+        "id": 2803030,
+        "name": "Assebroek",
+        "region": "Flanders",
+        "lat": 51.19367,
+        "lng": 3.2623,
+        "population": 19772
+    },
+    {
+        "id": 2792235,
+        "name": "Lochristi",
+        "region": "Flanders",
+        "lat": 51.09644,
+        "lng": 3.83194,
+        "population": 19696
+    },
+    {
+        "id": 2794981,
+        "name": "Jambes",
+        "region": "Wallonia",
+        "lat": 50.45636,
+        "lng": 4.87166,
+        "population": 19658
+    },
+    {
+        "id": 2788726,
+        "name": "Poperinge",
+        "region": "Flanders",
+        "lat": 50.85386,
+        "lng": 2.72659,
+        "population": 19537
+    },
+    {
+        "id": 2786641,
+        "name": "Sint-Katelijne-Waver",
+        "region": "Flanders",
+        "lat": 51.06691,
+        "lng": 4.53469,
+        "population": 19487
+    },
+    {
+        "id": 2786739,
+        "name": "Sint-Andries",
+        "region": "Flanders",
+        "lat": 51.19696,
+        "lng": 3.17891,
+        "population": 19336
+    },
+    {
+        "id": 2785476,
+        "name": "Tielt",
+        "region": "Flanders",
+        "lat": 50.99931,
+        "lng": 3.32707,
+        "population": 19299
+    },
+    {
+        "id": 2796012,
+        "name": "Herent",
+        "region": "Flanders",
+        "lat": 50.90861,
+        "lng": 4.67056,
+        "population": 19218
+    },
+    {
+        "id": 2798987,
+        "name": "Eeklo",
+        "region": "Flanders",
+        "lat": 51.18703,
+        "lng": 3.55654,
+        "population": 19116
+    },
+    {
+        "id": 2785364,
+        "name": "Torhout",
+        "region": "Flanders",
+        "lat": 51.0656,
+        "lng": 3.10085,
+        "population": 18933
+    },
+    {
+        "id": 2803443,
+        "name": "Aalter",
+        "region": "Flanders",
+        "lat": 51.09017,
+        "lng": 3.44693,
+        "population": 18802
+    },
+    {
+        "id": 2790796,
+        "name": "Montignies-sur-Sambre",
+        "region": "Wallonia",
+        "lat": 50.41081,
+        "lng": 4.49109,
+        "population": 18765
+    },
+    {
+        "id": 2795398,
+        "name": "Hoogstraten",
+        "region": "Flanders",
+        "lat": 51.40029,
+        "lng": 4.76034,
+        "population": 18524
+    },
+    {
+        "id": 2791424,
+        "name": "Meise",
+        "region": "Flanders",
+        "lat": 50.93934,
+        "lng": 4.32655,
+        "population": 18497
+    },
+    {
+        "id": 2788499,
+        "name": "Quaregnon",
+        "region": "Wallonia",
+        "lat": 50.44067,
+        "lng": 3.8653,
+        "population": 18491
+    },
+    {
+        "id": 2783081,
+        "name": "Zwijndrecht",
+        "region": "Flanders",
+        "lat": 51.21979,
+        "lng": 4.32664,
+        "population": 18249
+    },
+    {
+        "id": 2790697,
+        "name": "Morlanwelz-Mariemont",
+        "region": "Wallonia",
+        "lat": 50.45502,
+        "lng": 4.24519,
+        "population": 18233
+    },
+    {
+        "id": 2794179,
+        "name": "Koersel",
+        "region": "Flanders",
+        "lat": 51.05909,
+        "lng": 5.27121,
+        "population": 18076
+    },
+    {
+        "id": 2798573,
+        "name": "Eupen",
+        "region": "Wallonia",
+        "lat": 50.6279,
+        "lng": 6.03647,
+        "population": 18029
+    },
+    {
+        "id": 2801858,
+        "name": "Blankenberge",
+        "region": "Flanders",
+        "lat": 51.31306,
+        "lng": 3.13227,
+        "population": 18000
+    },
+    {
+        "id": 2785169,
+        "name": "Tubize",
+        "region": "Wallonia",
+        "lat": 50.69059,
+        "lng": 4.2009,
+        "population": 18000
+    },
+    {
+        "id": 2786700,
+        "name": "Sint-Genesius-Rode",
+        "region": "Flanders",
+        "lat": 50.74645,
+        "lng": 4.35754,
+        "population": 17990
+    },
+    {
+        "id": 2791194,
+        "name": "Middelkerke",
+        "region": "Flanders",
+        "lat": 51.18532,
+        "lng": 2.82077,
+        "population": 17789
+    },
+    {
+        "id": 2794070,
+        "name": "Kortenberg",
+        "region": "Flanders",
+        "lat": 50.88982,
+        "lng": 4.54353,
+        "population": 17774
+    },
+    {
+        "id": 2794663,
+        "name": "Kasterlee",
+        "region": "Flanders",
+        "lat": 51.24118,
+        "lng": 4.96651,
+        "population": 17765
+    },
+    {
+        "id": 2799412,
+        "name": "Diepenbeek",
+        "region": "Flanders",
+        "lat": 50.90769,
+        "lng": 5.41875,
+        "population": 17699
+    },
+    {
+        "id": 2792567,
+        "name": "Lessines",
+        "region": "Wallonia",
+        "lat": 50.71104,
+        "lng": 3.83579,
+        "population": 17687
+    },
+    {
+        "id": 2786694,
+        "name": "Sint-Gillis-Waas",
+        "region": "Flanders",
+        "lat": 51.21914,
+        "lng": 4.12374,
+        "population": 17658
+    },
+    {
+        "id": 2784189,
+        "name": "Walcourt",
+        "region": "Wallonia",
+        "lat": 50.25401,
+        "lng": 4.43796,
+        "population": 17501
+    },
+    {
+        "id": 2794788,
+        "name": "Kalmthout",
+        "region": "Flanders",
+        "lat": 51.38442,
+        "lng": 4.47556,
+        "population": 17485
+    },
+    {
+        "id": 2788348,
+        "name": "Ranst",
+        "region": "Flanders",
+        "lat": 51.18983,
+        "lng": 4.56533,
+        "population": 17405
+    },
+    {
+        "id": 2793144,
+        "name": "Lebbeke",
+        "region": "Flanders",
+        "lat": 51.00464,
+        "lng": 4.13457,
+        "population": 17372
+    },
+    {
+        "id": 2783820,
+        "name": "Wervik",
+        "region": "Flanders",
+        "lat": 50.78069,
+        "lng": 3.03854,
+        "population": 17340
+    },
+    {
+        "id": 2786229,
+        "name": "Stabroek",
+        "region": "Flanders",
+        "lat": 51.33189,
+        "lng": 4.37127,
+        "population": 17294
+    },
+    {
+        "id": 2783197,
+        "name": "Zolder",
+        "region": "Flanders",
+        "lat": 51.02455,
+        "lng": 5.30983,
+        "population": 17289
+    },
+    {
+        "id": 2800445,
+        "name": "Châtelineau",
+        "region": "Wallonia",
+        "lat": 50.41499,
+        "lng": 4.52016,
+        "population": 17166
+    },
+    {
+        "id": 2796833,
+        "name": "Haaltert",
+        "region": "Flanders",
+        "lat": 50.90634,
+        "lng": 4.00093,
+        "population": 17129
+    },
+    {
+        "id": 2791700,
+        "name": "Mariakerke",
+        "region": "Flanders",
+        "lat": 51.07476,
+        "lng": 3.68289,
+        "population": 17062
+    },
+    {
+        "id": 2784548,
+        "name": "Visé",
+        "region": "Wallonia",
+        "lat": 50.7376,
+        "lng": 5.69907,
+        "population": 17054
+    },
+    {
+        "id": 2786087,
+        "name": "Stekene",
+        "region": "Flanders",
+        "lat": 51.2099,
+        "lng": 4.03651,
+        "population": 16989
+    },
+    {
+        "id": 2799647,
+        "name": "Denderleeuw",
+        "region": "Flanders",
+        "lat": 50.88506,
+        "lng": 4.07601,
+        "population": 16969
+    },
+    {
+        "id": 2799226,
+        "name": "Dour",
+        "region": "Wallonia",
+        "lat": 50.39583,
+        "lng": 3.77792,
+        "population": 16861
+    },
+    {
+        "id": 2791744,
+        "name": "Marche-en-Famenne",
+        "region": "Wallonia",
+        "lat": 50.22678,
+        "lng": 5.34416,
+        "population": 16856
+    },
+    {
+        "id": 2799496,
+        "name": "Destelbergen",
+        "region": "Flanders",
+        "lat": 51.05952,
+        "lng": 3.79899,
+        "population": 16853
+    },
+    {
+        "id": 2793077,
+        "name": "Lede",
+        "region": "Flanders",
+        "lat": 50.96626,
+        "lng": 3.98594,
+        "population": 16813
+    },
+    {
+        "id": 2791315,
+        "name": "Merelbeke",
+        "region": "Flanders",
+        "lat": 50.99447,
+        "lng": 3.74621,
+        "population": 16684
+    },
+    {
+        "id": 2789162,
+        "name": "Péruwelz",
+        "region": "Wallonia",
+        "lat": 50.50819,
+        "lng": 3.59373,
+        "population": 16647
+    },
+    {
+        "id": 2785612,
+        "name": "Tessenderlo",
+        "region": "Flanders",
+        "lat": 51.06513,
+        "lng": 5.08856,
+        "population": 16574
+    },
+    {
+        "id": 2795912,
+        "name": "Herve",
+        "region": "Wallonia",
+        "lat": 50.64083,
+        "lng": 5.79353,
+        "population": 16544
+    },
+    {
+        "id": 2795908,
+        "name": "Herzele",
+        "region": "Flanders",
+        "lat": 50.88681,
+        "lng": 3.89014,
+        "population": 16523
+    },
+    {
+        "id": 2802435,
+        "name": "Beerse",
+        "region": "Flanders",
+        "lat": 51.31927,
+        "lng": 4.85304,
+        "population": 16208
+    },
+    {
+        "id": 2790357,
+        "name": "Neerpelt",
+        "region": "Flanders",
+        "lat": 51.22807,
+        "lng": 5.4427,
+        "population": 16122
+    },
+    {
+        "id": 2799090,
+        "name": "Duffel",
+        "region": "Flanders",
+        "lat": 51.09554,
+        "lng": 4.50903,
+        "population": 16011
+    },
+    {
+        "id": 2786634,
+        "name": "Sint-Kruis",
+        "region": "Flanders",
+        "lat": 51.21399,
+        "lng": 3.24949,
+        "population": 16000
+    },
+    {
+        "id": 2798301,
+        "name": "Fléron",
+        "region": "Wallonia",
+        "lat": 50.61516,
+        "lng": 5.68062,
+        "population": 15994
+    },
+    {
+        "id": 2788506,
+        "name": "Puurs",
+        "region": "Flanders",
+        "lat": 51.07409,
+        "lng": 4.28844,
+        "population": 15944
+    },
+    {
+        "id": 2788765,
+        "name": "Pont-à-Celles",
+        "region": "Wallonia",
+        "lat": 50.50518,
+        "lng": 4.36887,
+        "population": 15909
+    },
+    {
+        "id": 2797652,
+        "name": "Gentbrugge",
+        "region": "Flanders",
+        "lat": 51.03692,
+        "lng": 3.76509,
+        "population": 15885
+    },
+    {
+        "id": 2801494,
+        "name": "Boom",
+        "region": "Flanders",
+        "lat": 51.09242,
+        "lng": 4.3717,
+        "population": 15810
+    },
+    {
+        "id": 2788088,
+        "name": "Riemst",
+        "region": "Flanders",
+        "lat": 50.80995,
+        "lng": 5.60131,
+        "population": 15809
+    },
+    {
+        "id": 2789232,
+        "name": "Peer",
+        "region": "Flanders",
+        "lat": 51.1303,
+        "lng": 5.45952,
+        "population": 15551
+    },
+    {
+        "id": 2799369,
+        "name": "Diksmuide",
+        "region": "Flanders",
+        "lat": 51.03248,
+        "lng": 2.86384,
+        "population": 15515
+    },
+    {
+        "id": 2792360,
+        "name": "Lille",
+        "region": "Flanders",
+        "lat": 51.24197,
+        "lng": 4.82313,
+        "population": 15466
+    },
+    {
+        "id": 2795795,
+        "name": "Heusy",
+        "region": "Wallonia",
+        "lat": 50.57457,
+        "lng": 5.86618,
+        "population": 15420
+    },
+    {
+        "id": 2791534,
+        "name": "Mechelen-aan-de-Maas",
+        "region": "Flanders",
+        "lat": 50.96589,
+        "lng": 5.69144,
+        "population": 15374
+    },
+    {
+        "id": 2802039,
+        "name": "Bevere",
+        "region": "Flanders",
+        "lat": 50.8496,
+        "lng": 3.5873,
+        "population": 15311
+    },
+    {
+        "id": 2788521,
+        "name": "Putte",
+        "region": "Flanders",
+        "lat": 51.05337,
+        "lng": 4.63263,
+        "population": 15276
+    },
+    {
+        "id": 2786344,
+        "name": "Soumagne",
+        "region": "Wallonia",
+        "lat": 50.61385,
+        "lng": 5.74679,
+        "population": 15237
+    },
+    {
+        "id": 2791735,
+        "name": "Marchienne-au-Pont",
+        "region": "Wallonia",
+        "lat": 50.40573,
+        "lng": 4.3953,
+        "population": 15154
+    },
+    {
+        "id": 2787662,
+        "name": "Rotselaar",
+        "region": "Flanders",
+        "lat": 50.95302,
+        "lng": 4.71665,
+        "population": 15007
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1221874,
+        "name": "Dushanbe",
+        "region": "Dushanbe",
+        "lat": 38.53575,
+        "lng": 68.77905,
+        "population": 679400
+    },
+    {
+        "id": 1514896,
+        "name": "Isfara",
+        "region": "Sughd",
+        "lat": 40.12649,
+        "lng": 70.62526,
+        "population": 274000
+    },
+    {
+        "id": 1220253,
+        "name": "Istaravshan",
+        "region": "Sughd",
+        "lat": 39.9142,
+        "lng": 69.00328,
+        "population": 273500
+    },
+    {
+        "id": 1221194,
+        "name": "Kŭlob",
+        "region": "Khatlon Province",
+        "lat": 37.91459,
+        "lng": 69.78454,
+        "population": 214700
+    },
+    {
+        "id": 1514891,
+        "name": "Konibodom",
+        "region": "Sughd",
+        "lat": 40.29414,
+        "lng": 70.43122,
+        "population": 211100
+    },
+    {
+        "id": 1514879,
+        "name": "Khujand",
+        "region": "Sughd",
+        "lat": 40.28256,
+        "lng": 69.62216,
+        "population": 191000
+    },
+    {
+        "id": 1220747,
+        "name": "Bokhtar",
+        "region": "Khatlon Province",
+        "lat": 37.83654,
+        "lng": 68.77762,
+        "population": 110800
+    },
+    {
+        "id": 1514883,
+        "name": "Qayroqqum",
+        "region": "Sughd",
+        "lat": 40.26598,
+        "lng": 69.79585,
+        "population": 49200
+    },
+    {
+        "id": 1220855,
+        "name": "Vahdat",
+        "region": "Republican Subordination",
+        "lat": 38.55632,
+        "lng": 69.01354,
+        "population": 45693
+    },
+    {
+        "id": 1282601,
+        "name": "Tursunzoda",
+        "region": "Republican Subordination",
+        "lat": 38.51271,
+        "lng": 68.23163,
+        "population": 37000
+    },
+    {
+        "id": 1538311,
+        "name": "Buston",
+        "region": "Sughd",
+        "lat": 40.23417,
+        "lng": 69.69481,
+        "population": 36900
+    },
+    {
+        "id": 1220798,
+        "name": "Panjakent",
+        "region": "Sughd",
+        "lat": 39.49524,
+        "lng": 67.60931,
+        "population": 35085
+    },
+    {
+        "id": 1222175,
+        "name": "Zarhalol",
+        "region": "Khatlon Province",
+        "lat": 37.46471,
+        "lng": 68.16947,
+        "population": 30689
+    },
+    {
+        "id": 1221328,
+        "name": "Khorugh",
+        "region": "Gorno-Badakhshan",
+        "lat": 37.49039,
+        "lng": 71.55337,
+        "population": 30500
+    },
+    {
+        "id": 1220981,
+        "name": "Muchun",
+        "region": "Sughd",
+        "lat": 39.88148,
+        "lng": 69.18219,
+        "population": 27835
+    },
+    {
+        "id": 1221614,
+        "name": "Ishqoshim",
+        "region": "Gorno-Badakhshan",
+        "lat": 36.72484,
+        "lng": 71.61331,
+        "population": 26000
+    },
+    {
+        "id": 1221714,
+        "name": "Hisor",
+        "region": "Republican Subordination",
+        "lat": 38.52504,
+        "lng": 68.55124,
+        "population": 23978
+    },
+    {
+        "id": 1222107,
+        "name": "Boshkengash",
+        "region": "Dushanbe",
+        "lat": 38.46613,
+        "lng": 68.80533,
+        "population": 23696
+    },
+    {
+        "id": 1221970,
+        "name": "Dalyoni Bolo",
+        "region": "Sughd",
+        "lat": 39.74897,
+        "lng": 68.99566,
+        "population": 23670
+    },
+    {
+        "id": 1220571,
+        "name": "Shahriston",
+        "region": "Sughd",
+        "lat": 39.77447,
+        "lng": 68.80929,
+        "population": 22903
+    },
+    {
+        "id": 1221965,
+        "name": "Danghara",
+        "region": "Khatlon Province",
+        "lat": 38.09578,
+        "lng": 69.33998,
+        "population": 22824
+    },
+    {
+        "id": 8416817,
+        "name": "Moskovskiy",
+        "region": "Khatlon Province",
+        "lat": 37.60931,
+        "lng": 68.58094,
+        "population": 22100
+    },
+    {
+        "id": 1220826,
+        "name": "Farkhor",
+        "region": "Khatlon Province",
+        "lat": 37.49219,
+        "lng": 69.40356,
+        "population": 21736
+    },
+    {
+        "id": 1220163,
+        "name": "Hulbuk",
+        "region": "Khatlon Province",
+        "lat": 37.80542,
+        "lng": 69.64516,
+        "population": 21736
+    },
+    {
+        "id": 1221997,
+        "name": "Chubek",
+        "region": "Khatlon Province",
+        "lat": 37.61453,
+        "lng": 69.70525,
+        "population": 19563
+    },
+    {
+        "id": 1221259,
+        "name": "Kolkhozobod",
+        "region": "Khatlon Province",
+        "lat": 37.58823,
+        "lng": 68.65886,
+        "population": 18476
+    },
+    {
+        "id": 1220905,
+        "name": "Norak",
+        "region": "Khatlon Province",
+        "lat": 38.38917,
+        "lng": 69.32272,
+        "population": 18122
+    },
+    {
+        "id": 1514829,
+        "name": "Istiqlol",
+        "region": "Sughd",
+        "lat": 40.57017,
+        "lng": 69.64175,
+        "population": 17600
+    },
+    {
+        "id": 1220112,
+        "name": "Yovon",
+        "region": "Khatlon Province",
+        "lat": 38.31408,
+        "lng": 69.03784,
+        "population": 17471
+    },
+    {
+        "id": 1514839,
+        "name": "Proletar",
+        "region": "Sughd",
+        "lat": 40.16713,
+        "lng": 69.50163,
+        "population": 16441
+    },
+    {
+        "id": 1220219,
+        "name": "Vakhsh",
+        "region": "Khatlon Province",
+        "lat": 37.71485,
+        "lng": 68.83456,
+        "population": 15215
+    }
+]

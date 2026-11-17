@@ -1,0 +1,66 @@
+[
+    {
+        "id": 3570675,
+        "name": "Fort-de-France",
+        "region": "Martinique",
+        "lat": 14.60365,
+        "lng": -61.07418,
+        "population": 89995
+    },
+    {
+        "id": 3570428,
+        "name": "Le Lamentin",
+        "region": "Martinique",
+        "lat": 14.61341,
+        "lng": -60.99964,
+        "population": 40581
+    },
+    {
+        "id": 3570412,
+        "name": "Le Robert",
+        "region": "Martinique",
+        "lat": 14.67751,
+        "lng": -60.94228,
+        "population": 23814
+    },
+    {
+        "id": 3569926,
+        "name": "Sainte-Marie",
+        "region": "Martinique",
+        "lat": 14.78352,
+        "lng": -60.99227,
+        "population": 20380
+    },
+    {
+        "id": 3570429,
+        "name": "Le François",
+        "region": "Martinique",
+        "lat": 14.61513,
+        "lng": -60.90311,
+        "population": 19682
+    },
+    {
+        "id": 3570785,
+        "name": "Ducos",
+        "region": "Martinique",
+        "lat": 14.57529,
+        "lng": -60.97453,
+        "population": 17394
+    },
+    {
+        "id": 3569915,
+        "name": "Saint-Joseph",
+        "region": "Martinique",
+        "lat": 14.67099,
+        "lng": -61.03905,
+        "population": 16974
+    },
+    {
+        "id": 3570446,
+        "name": "La Trinité",
+        "region": "Martinique",
+        "lat": 14.73807,
+        "lng": -60.96319,
+        "population": 15040
+    }
+]

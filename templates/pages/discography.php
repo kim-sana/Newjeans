@@ -124,7 +124,9 @@ $albumTypes = is_array($albumTypes ?? null) ? $albumTypes : [];
                 $releaseYear = format_date($releaseDate, 'Y');
                 $cover = (string) ($release['cover_album'] ?? '');
                 $spotifyUrl = (string) ($release['spotify_url'] ?? '');
-                $youtubeUrl = (string) ($release['youtube_url'] ?? '');
+                $price = is_numeric($release['price'] ?? null) ? (float) $release['price'] : 0.0;
+                $stock = max(0, (int) ($release['stock'] ?? 0));
+                $isForSale = (int) ($release['is_for_sale'] ?? 0) === 1;
                 $albumSongs = is_array($release['songs'] ?? null) ? $release['songs'] : [];
                 ?>
                 <article class="release-row" data-type="<?= e($typeSlug) ?>" data-year="<?= e($releaseYear) ?>">
@@ -152,11 +154,7 @@ $albumTypes = is_array($albumTypes ?? null) ? $albumTypes : [];
                         <ul class="rr-tracks">
                             <?php foreach ($albumSongs as $song): ?>
                                 <li>
-                                    <span class="ti"><?= e(sprintf('%02d', (int) ($song['track_number'] ?? 0))) ?></span>
                                     <?= e($song['title'] ?? '') ?>
-                                    <?php if ((int) ($song['is_title'] ?? 0) === 1): ?>
-                                        <span class="title-flag">Title</span>
-                                    <?php endif; ?>
                                 </li>
                             <?php endforeach; ?>
                         </ul>
@@ -165,8 +163,21 @@ $albumTypes = is_array($albumTypes ?? null) ? $albumTypes : [];
                         <?php if ($spotifyUrl !== ''): ?>
                             <a href="<?= e($spotifyUrl) ?>" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--sm">Spotify</a>
                         <?php endif; ?>
-                        <?php if ($youtubeUrl !== ''): ?>
-                            <a href="<?= e($youtubeUrl) ?>" target="_blank" rel="noopener noreferrer" class="btn btn--ghost btn--sm">YouTube</a>
+                        <?php if ($isForSale && $stock > 0): ?>
+                            <form class="rr-buy-form" method="post" action="<?= e(url('/cart/items')) ?>">
+                                <?= \App\Core\Csrf::field() ?>
+                                <input type="hidden" name="album_id" value="<?= (int) ($release['id'] ?? 0) ?>">
+                                <input type="hidden" name="quantity" value="1">
+                                <button
+                                    class="btn btn--primary btn--sm"
+                                    type="submit"
+                                    aria-label="Buy Album: <?= e((string) ($release['name'] ?? 'album')) ?> for <?= e(money($price)) ?>">Buy Album</button>
+                            </form>
+                            <span class="rr-price"><?= e(money($price)) ?></span>
+                        <?php elseif ($isForSale): ?>
+                            <span class="rr-availability rr-availability--out">Out of stock</span>
+                        <?php else: ?>
+                            <span class="rr-availability rr-availability--off">Not for sale</span>
                         <?php endif; ?>
                     </div>
                 </article>

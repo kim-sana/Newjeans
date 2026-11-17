@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1252416,
+        "name": "Thimphu",
+        "region": "Thimphu District",
+        "lat": 27.46609,
+        "lng": 89.64191,
+        "population": 98676
+    },
+    {
+        "id": 1252484,
+        "name": "Phuntsholing",
+        "region": "Chukha",
+        "lat": 26.85164,
+        "lng": 89.38837,
+        "population": 27658
+    },
+    {
+        "id": 1252608,
+        "name": "Tsirang",
+        "region": "Tsirang District",
+        "lat": 27.0219,
+        "lng": 90.12291,
+        "population": 22376
+    },
+    {
+        "id": 1252479,
+        "name": "Punākha",
+        "region": "Punakha",
+        "lat": 27.59137,
+        "lng": 89.87743,
+        "population": 21500
+    }
+]

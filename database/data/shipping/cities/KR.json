@@ -1,0 +1,1186 @@
+[
+    {
+        "id": 1835848,
+        "name": "Seoul",
+        "region": "Seoul",
+        "lat": 37.566,
+        "lng": 126.9784,
+        "population": 10349312
+    },
+    {
+        "id": 1838524,
+        "name": "Busan",
+        "region": "Busan",
+        "lat": 35.10168,
+        "lng": 129.03004,
+        "population": 3285147
+    },
+    {
+        "id": 1843564,
+        "name": "Incheon",
+        "region": "Incheon",
+        "lat": 37.45646,
+        "lng": 126.70515,
+        "population": 3015482
+    },
+    {
+        "id": 1835329,
+        "name": "Daegu",
+        "region": "Daegu",
+        "lat": 35.87102,
+        "lng": 128.60121,
+        "population": 2365523
+    },
+    {
+        "id": 1835235,
+        "name": "Daejeon",
+        "region": "Daejeon",
+        "lat": 36.35022,
+        "lng": 127.3848,
+        "population": 1441203
+    },
+    {
+        "id": 1841811,
+        "name": "Gwangju",
+        "region": "Gwangju",
+        "lat": 35.15472,
+        "lng": 126.91556,
+        "population": 1401235
+    },
+    {
+        "id": 1835553,
+        "name": "Suwon",
+        "region": "Gyeonggi-do",
+        "lat": 37.27818,
+        "lng": 127.03164,
+        "population": 1234582
+    },
+    {
+        "id": 1833747,
+        "name": "Ulsan",
+        "region": "Ulsan",
+        "lat": 35.53917,
+        "lng": 129.31239,
+        "population": 1098421
+    },
+    {
+        "id": 1842485,
+        "name": "Goyang-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.65639,
+        "lng": 126.835,
+        "population": 1061752
+    },
+    {
+        "id": 1846326,
+        "name": "Changwon",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.22806,
+        "lng": 128.68111,
+        "population": 1025702
+    },
+    {
+        "id": 1897000,
+        "name": "Seongnam-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.43861,
+        "lng": 127.13778,
+        "population": 914832
+    },
+    {
+        "id": 1845604,
+        "name": "Cheongju-si",
+        "region": "North Chungcheong",
+        "lat": 36.63722,
+        "lng": 127.48972,
+        "population": 852147
+    },
+    {
+        "id": 1838716,
+        "name": "Bucheon-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.49889,
+        "lng": 126.78306,
+        "population": 850731
+    },
+    {
+        "id": 1845759,
+        "name": "Cheonan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.8065,
+        "lng": 127.1522,
+        "population": 658831
+    },
+    {
+        "id": 1843847,
+        "name": "Hwaseong-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.20682,
+        "lng": 126.8169,
+        "population": 640890
+    },
+    {
+        "id": 1845457,
+        "name": "Jeonju",
+        "region": "Jeollabuk-do",
+        "lat": 35.82483,
+        "lng": 127.14796,
+        "population": 638421
+    },
+    {
+        "id": 1846918,
+        "name": "Ansan-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.32361,
+        "lng": 126.82194,
+        "population": 623256
+    },
+    {
+        "id": 1846898,
+        "name": "Anyang-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.3925,
+        "lng": 126.92694,
+        "population": 595644
+    },
+    {
+        "id": 1842943,
+        "name": "Kimhae",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.23417,
+        "lng": 128.88111,
+        "population": 531966
+    },
+    {
+        "id": 1839071,
+        "name": "Pohang",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.02917,
+        "lng": 129.36481,
+        "population": 492041
+    },
+    {
+        "id": 1846266,
+        "name": "Jeju City",
+        "region": "Jeju-do",
+        "lat": 33.50972,
+        "lng": 126.52194,
+        "population": 488844
+    },
+    {
+        "id": 1833788,
+        "name": "Uijeongbu-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.7415,
+        "lng": 127.0474,
+        "population": 479141
+    },
+    {
+        "id": 1840898,
+        "name": "Paju",
+        "region": "Gyeonggi-do",
+        "lat": 37.761,
+        "lng": 126.77272,
+        "population": 465617
+    },
+    {
+        "id": 1841246,
+        "name": "Masan",
+        "region": "Gwangju",
+        "lat": 35.12725,
+        "lng": 126.83149,
+        "population": 434371
+    },
+    {
+        "id": 1842225,
+        "name": "Gumi",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.1136,
+        "lng": 128.336,
+        "population": 404691
+    },
+    {
+        "id": 11523293,
+        "name": "Sejong",
+        "region": "Sejong-si",
+        "lat": 36.59245,
+        "lng": 127.29223,
+        "population": 394630
+    },
+    {
+        "id": 1838343,
+        "name": "Pyeongtaek",
+        "region": "Gyeonggi-do",
+        "lat": 36.99472,
+        "lng": 127.08889,
+        "population": 364694
+    },
+    {
+        "id": 1832828,
+        "name": "Yangsan",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.34199,
+        "lng": 129.03358,
+        "population": 358074
+    },
+    {
+        "id": 1948005,
+        "name": "Gwangmyeong",
+        "region": "Gyeonggi-do",
+        "lat": 37.47722,
+        "lng": 126.86639,
+        "population": 357545
+    },
+    {
+        "id": 1833105,
+        "name": "Wŏnju",
+        "region": "Gangwon-do",
+        "lat": 37.35139,
+        "lng": 127.94528,
+        "population": 332849
+    },
+    {
+        "id": 1846052,
+        "name": "Chinju",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.19278,
+        "lng": 128.08472,
+        "population": 307242
+    },
+    {
+        "id": 1843491,
+        "name": "Iksan",
+        "region": "Jeollabuk-do",
+        "lat": 35.94389,
+        "lng": 126.95444,
+        "population": 307000
+    },
+    {
+        "id": 1842030,
+        "name": "Gunpo",
+        "region": "Gyeonggi-do",
+        "lat": 37.3675,
+        "lng": 126.94694,
+        "population": 286485
+    },
+    {
+        "id": 1845136,
+        "name": "Chuncheon",
+        "region": "Gangwon-do",
+        "lat": 37.88302,
+        "lng": 127.7289,
+        "population": 284855
+    },
+    {
+        "id": 1835648,
+        "name": "Suncheon",
+        "region": "Jeollanam-do",
+        "lat": 34.9505,
+        "lng": 127.48784,
+        "population": 276375
+    },
+    {
+        "id": 1884138,
+        "name": "Yeosu",
+        "region": "Jeollanam-do",
+        "lat": 34.76062,
+        "lng": 127.66215,
+        "population": 268823
+    },
+    {
+        "id": 1841066,
+        "name": "Mokpo",
+        "region": "Jeollanam-do",
+        "lat": 34.81282,
+        "lng": 126.39181,
+        "population": 268402
+    },
+    {
+        "id": 1841598,
+        "name": "Gyeongsan-si",
+        "region": "Gyeongsangbuk-do",
+        "lat": 35.82333,
+        "lng": 128.73778,
+        "population": 266951
+    },
+    {
+        "id": 1842025,
+        "name": "Gunsan",
+        "region": "Jeollabuk-do",
+        "lat": 35.97861,
+        "lng": 126.71139,
+        "population": 264656
+    },
+    {
+        "id": 1897007,
+        "name": "Hanam",
+        "region": "Gyeonggi-do",
+        "lat": 37.54,
+        "lng": 127.20556,
+        "population": 254415
+    },
+    {
+        "id": 1841603,
+        "name": "Gyeongju",
+        "region": "Gyeongsangbuk-do",
+        "lat": 35.84278,
+        "lng": 129.21167,
+        "population": 245365
+    },
+    {
+        "id": 1839652,
+        "name": "Osan",
+        "region": "Gyeonggi-do",
+        "lat": 37.15222,
+        "lng": 127.07056,
+        "population": 238788
+    },
+    {
+        "id": 11101805,
+        "name": "Geoje",
+        "region": "Gyeongsangnam-do",
+        "lat": 34.81379,
+        "lng": 128.70556,
+        "population": 232921
+    },
+    {
+        "id": 1845033,
+        "name": "Chungju",
+        "region": "North Chungcheong",
+        "lat": 36.97666,
+        "lng": 127.9287,
+        "population": 209483
+    },
+    {
+        "id": 1843137,
+        "name": "Gangneung",
+        "region": "Gangwon-do",
+        "lat": 37.75266,
+        "lng": 128.87239,
+        "population": 208161
+    },
+    {
+        "id": 1842936,
+        "name": "Gimpo-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.62361,
+        "lng": 126.71417,
+        "population": 203391
+    },
+    {
+        "id": 1843702,
+        "name": "Icheon-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.27917,
+        "lng": 127.4425,
+        "population": 196230
+    },
+    {
+        "id": 1841988,
+        "name": "Guri-si",
+        "region": "Gyeonggi-do",
+        "lat": 37.5986,
+        "lng": 127.1394,
+        "population": 195236
+    },
+    {
+        "id": 1832847,
+        "name": "Yangju",
+        "region": "Gyeonggi-do",
+        "lat": 37.83311,
+        "lng": 127.06169,
+        "population": 179923
+    },
+    {
+        "id": 6621166,
+        "name": "Seogwipo",
+        "region": "Jeju-do",
+        "lat": 33.25333,
+        "lng": 126.56181,
+        "population": 178552
+    },
+    {
+        "id": 1842966,
+        "name": "Gijang",
+        "region": "Busan",
+        "lat": 35.24417,
+        "lng": 129.21389,
+        "population": 176388
+    },
+    {
+        "id": 1884178,
+        "name": "Gwangyang",
+        "region": "Jeollanam-do",
+        "lat": 34.9414,
+        "lng": 127.69569,
+        "population": 154266
+    },
+    {
+        "id": 1846986,
+        "name": "Andong",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.56798,
+        "lng": 128.72972,
+        "population": 153348
+    },
+    {
+        "id": 1842944,
+        "name": "Gimcheon",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.12176,
+        "lng": 128.11981,
+        "population": 150000
+    },
+    {
+        "id": 11695689,
+        "name": "Jeongeup",
+        "region": "Jeollabuk-do",
+        "lat": 35.60004,
+        "lng": 126.91699,
+        "population": 139876
+    },
+    {
+        "id": 1837362,
+        "name": "Siheungdong",
+        "region": "Seoul",
+        "lat": 37.45177,
+        "lng": 126.91079,
+        "population": 128142
+    },
+    {
+        "id": 1832743,
+        "name": "Yeoju",
+        "region": "Gyeonggi-do",
+        "lat": 37.29583,
+        "lng": 127.63389,
+        "population": 111897
+    },
+    {
+        "id": 1897118,
+        "name": "Hwado",
+        "region": "Gyeonggi-do",
+        "lat": 37.6525,
+        "lng": 127.3075,
+        "population": 106358
+    },
+    {
+        "id": 1837706,
+        "name": "Sangju",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.41528,
+        "lng": 128.16056,
+        "population": 101267
+    },
+    {
+        "id": 1892823,
+        "name": "Donghae City",
+        "region": "Gangwon-do",
+        "lat": 37.54389,
+        "lng": 129.10694,
+        "population": 101128
+    },
+    {
+        "id": 1839726,
+        "name": "Asan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.78361,
+        "lng": 127.00417,
+        "population": 97749
+    },
+    {
+        "id": 1912209,
+        "name": "Wabu",
+        "region": "Gyeonggi-do",
+        "lat": 37.58972,
+        "lng": 127.22028,
+        "population": 96775
+    },
+    {
+        "id": 1835447,
+        "name": "Boryeong",
+        "region": "Chungcheongnam-do",
+        "lat": 36.34931,
+        "lng": 126.59772,
+        "population": 94191
+    },
+    {
+        "id": 1840982,
+        "name": "Muan",
+        "region": "Jeollanam-do",
+        "lat": 34.99014,
+        "lng": 126.47899,
+        "population": 92009
+    },
+    {
+        "id": 1897122,
+        "name": "Namyangju",
+        "region": "Gyeonggi-do",
+        "lat": 37.63667,
+        "lng": 127.21417,
+        "population": 90798
+    },
+    {
+        "id": 1841775,
+        "name": "Kwangyang",
+        "region": "Jeollanam-do",
+        "lat": 34.97528,
+        "lng": 127.58917,
+        "population": 89281
+    },
+    {
+        "id": 1844174,
+        "name": "Hongseong",
+        "region": "Chungcheongnam-do",
+        "lat": 36.60164,
+        "lng": 126.66138,
+        "population": 89174
+    },
+    {
+        "id": 1832384,
+        "name": "Yeongju",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.82167,
+        "lng": 128.63083,
+        "population": 84625
+    },
+    {
+        "id": 1833466,
+        "name": "Wanju",
+        "region": "Jeollabuk-do",
+        "lat": 35.84509,
+        "lng": 127.14752,
+        "population": 84009
+    },
+    {
+        "id": 1832830,
+        "name": "Yangp'yŏng",
+        "region": "Gyeonggi-do",
+        "lat": 37.48972,
+        "lng": 127.49056,
+        "population": 83367
+    },
+    {
+        "id": 1912205,
+        "name": "Ungsang",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.40611,
+        "lng": 129.16861,
+        "population": 83360
+    },
+    {
+        "id": 1882056,
+        "name": "Sinhyeon",
+        "region": "Gyeongsangnam-do",
+        "lat": 34.8825,
+        "lng": 128.62667,
+        "population": 82560
+    },
+    {
+        "id": 1841810,
+        "name": "Gwangju",
+        "region": "Gyeonggi-do",
+        "lat": 37.41,
+        "lng": 127.25722,
+        "population": 81780
+    },
+    {
+        "id": 1840379,
+        "name": "Nangen",
+        "region": "Jeollabuk-do",
+        "lat": 35.41,
+        "lng": 127.38583,
+        "population": 81257
+    },
+    {
+        "id": 1836553,
+        "name": "Sokcho",
+        "region": "Gangwon-do",
+        "lat": 38.20701,
+        "lng": 128.59181,
+        "population": 81164
+    },
+    {
+        "id": 1925936,
+        "name": "Naesŏ",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.24972,
+        "lng": 128.52,
+        "population": 80987
+    },
+    {
+        "id": 1840886,
+        "name": "Mungyeong",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.59458,
+        "lng": 128.19946,
+        "population": 77304
+    },
+    {
+        "id": 1844191,
+        "name": "Hongch’ŏn",
+        "region": "Gangwon-do",
+        "lat": 37.6918,
+        "lng": 127.8857,
+        "population": 75251
+    },
+    {
+        "id": 6903078,
+        "name": "Changnyeong",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.54145,
+        "lng": 128.49506,
+        "population": 74668
+    },
+    {
+        "id": 1835895,
+        "name": "Seosan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.78167,
+        "lng": 126.45222,
+        "population": 74208
+    },
+    {
+        "id": 1842859,
+        "name": "Koch'ang",
+        "region": "Jeollabuk-do",
+        "lat": 35.43333,
+        "lng": 126.7,
+        "population": 72996
+    },
+    {
+        "id": 1842616,
+        "name": "Gongju",
+        "region": "Chungcheongnam-do",
+        "lat": 36.45556,
+        "lng": 127.12472,
+        "population": 72435
+    },
+    {
+        "id": 1842754,
+        "name": "Kyosai",
+        "region": "Gyeongsangnam-do",
+        "lat": 34.85028,
+        "lng": 128.58861,
+        "population": 72124
+    },
+    {
+        "id": 1845020,
+        "name": "Tongyeong",
+        "region": "Gyeongsangnam-do",
+        "lat": 34.84957,
+        "lng": 128.42779,
+        "population": 70641
+    },
+    {
+        "id": 1846912,
+        "name": "Anseong",
+        "region": "Gyeonggi-do",
+        "lat": 37.01083,
+        "lng": 127.27028,
+        "population": 69255
+    },
+    {
+        "id": 1925943,
+        "name": "Hwawŏn",
+        "region": "Daegu",
+        "lat": 35.80167,
+        "lng": 128.50083,
+        "population": 64718
+    },
+    {
+        "id": 6573901,
+        "name": "Uiwang",
+        "region": "Gyeonggi-do",
+        "lat": 37.36528,
+        "lng": 126.94778,
+        "population": 63040
+    },
+    {
+        "id": 1896953,
+        "name": "Pubal",
+        "region": "Gyeonggi-do",
+        "lat": 37.29167,
+        "lng": 127.50778,
+        "population": 63026
+    },
+    {
+        "id": 1840179,
+        "name": "Kosong",
+        "region": "Gangwon-do",
+        "lat": 38.37881,
+        "lng": 128.4676,
+        "population": 62446
+    },
+    {
+        "id": 1846095,
+        "name": "Chinch'ŏn",
+        "region": "North Chungcheong",
+        "lat": 36.85667,
+        "lng": 127.44333,
+        "population": 60964
+    },
+    {
+        "id": 1843841,
+        "name": "Hwasun",
+        "region": "Jeollanam-do",
+        "lat": 35.06125,
+        "lng": 126.98746,
+        "population": 59914
+    },
+    {
+        "id": 1838508,
+        "name": "Buyeo",
+        "region": "Chungcheongnam-do",
+        "lat": 36.27472,
+        "lng": 126.90906,
+        "population": 59823
+    },
+    {
+        "id": 1839873,
+        "name": "Okcheon",
+        "region": "North Chungcheong",
+        "lat": 36.3012,
+        "lng": 127.568,
+        "population": 56634
+    },
+    {
+        "id": 1832617,
+        "name": "Eisen",
+        "region": "Gyeongsangbuk-do",
+        "lat": 35.9675,
+        "lng": 128.93083,
+        "population": 56006
+    },
+    {
+        "id": 1843082,
+        "name": "Gapyeong",
+        "region": "Gyeonggi-do",
+        "lat": 37.83101,
+        "lng": 127.51059,
+        "population": 55415
+    },
+    {
+        "id": 1833332,
+        "name": "Tallang-dong",
+        "region": "Jeju-do",
+        "lat": 33.49028,
+        "lng": 126.47528,
+        "population": 54954
+    },
+    {
+        "id": 1832798,
+        "name": "Yecheon",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.6574,
+        "lng": 128.45514,
+        "population": 54873
+    },
+    {
+        "id": 6395804,
+        "name": "Sinan",
+        "region": "Jeollanam-do",
+        "lat": 34.8262,
+        "lng": 126.10863,
+        "population": 53150
+    },
+    {
+        "id": 1841149,
+        "name": "Miryang",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.49333,
+        "lng": 128.74889,
+        "population": 53103
+    },
+    {
+        "id": 1832501,
+        "name": "Yeonggwang",
+        "region": "Jeollanam-do",
+        "lat": 35.27814,
+        "lng": 126.51181,
+        "population": 51688
+    },
+    {
+        "id": 11762608,
+        "name": "Yeongam",
+        "region": "Jeollanam-do",
+        "lat": 34.80059,
+        "lng": 126.69669,
+        "population": 51573
+    },
+    {
+        "id": 1835515,
+        "name": "T’aebaek",
+        "region": "Gangwon-do",
+        "lat": 37.1759,
+        "lng": 128.9889,
+        "population": 48962
+    },
+    {
+        "id": 6198535,
+        "name": "Ido-dong",
+        "region": "Jeju-do",
+        "lat": 33.49778,
+        "lng": 126.52722,
+        "population": 48579
+    },
+    {
+        "id": 1842939,
+        "name": "Kimje",
+        "region": "Jeollabuk-do",
+        "lat": 35.80167,
+        "lng": 126.88889,
+        "population": 44894
+    },
+    {
+        "id": 1834946,
+        "name": "Damyang",
+        "region": "Jeollanam-do",
+        "lat": 35.31889,
+        "lng": 126.98389,
+        "population": 44800
+    },
+    {
+        "id": 1842800,
+        "name": "Koesan",
+        "region": "North Chungcheong",
+        "lat": 36.81083,
+        "lng": 127.79472,
+        "population": 44461
+    },
+    {
+        "id": 1840211,
+        "name": "Nonsan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.20389,
+        "lng": 127.08472,
+        "population": 43845
+    },
+    {
+        "id": 1832566,
+        "name": "Yeongdong",
+        "region": "North Chungcheong",
+        "lat": 36.175,
+        "lng": 127.77639,
+        "population": 43680
+    },
+    {
+        "id": 1840862,
+        "name": "Munsan",
+        "region": "Gyeonggi-do",
+        "lat": 37.85944,
+        "lng": 126.785,
+        "population": 43208
+    },
+    {
+        "id": 6194195,
+        "name": "Seodong",
+        "region": "Jeju-do",
+        "lat": 33.48443,
+        "lng": 126.49252,
+        "population": 42569
+    },
+    {
+        "id": 1840536,
+        "name": "Naju",
+        "region": "Jeollanam-do",
+        "lat": 35.0292,
+        "lng": 126.7175,
+        "population": 42459
+    },
+    {
+        "id": 1838069,
+        "name": "Santyoku",
+        "region": "Gangwon-do",
+        "lat": 37.44056,
+        "lng": 129.17083,
+        "population": 42145
+    },
+    {
+        "id": 1846371,
+        "name": "Jangseong",
+        "region": "Jeollanam-do",
+        "lat": 35.29778,
+        "lng": 126.78444,
+        "population": 42129
+    },
+    {
+        "id": 11863735,
+        "name": "Hadong",
+        "region": "Gyeongsangnam-do",
+        "lat": 35.068,
+        "lng": 127.75147,
+        "population": 40909
+    },
+    {
+        "id": 1845388,
+        "name": "Cheorwon",
+        "region": "Gangwon-do",
+        "lat": 38.20917,
+        "lng": 127.2175,
+        "population": 40646
+    },
+    {
+        "id": 1846852,
+        "name": "Ara-dong",
+        "region": "Jeju-do",
+        "lat": 33.46889,
+        "lng": 126.5275,
+        "population": 40448
+    },
+    {
+        "id": 1832771,
+        "name": "Yesan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.67756,
+        "lng": 126.84272,
+        "population": 39409
+    },
+    {
+        "id": 1844954,
+        "name": "Jungpyong",
+        "region": "North Chungcheong",
+        "lat": 36.78472,
+        "lng": 127.58194,
+        "population": 37207
+    },
+    {
+        "id": 11674727,
+        "name": "Boseong",
+        "region": "Jeollanam-do",
+        "lat": 34.77148,
+        "lng": 127.07996,
+        "population": 37164
+    },
+    {
+        "id": 1832015,
+        "name": "Heunghae",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.10945,
+        "lng": 129.34517,
+        "population": 36080
+    },
+    {
+        "id": 1832215,
+        "name": "Yeonil",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.00446,
+        "lng": 129.3185,
+        "population": 34560
+    },
+    {
+        "id": 1846544,
+        "name": "Jangheung",
+        "region": "Jeollanam-do",
+        "lat": 34.68164,
+        "lng": 126.90694,
+        "population": 34544
+    },
+    {
+        "id": 1842016,
+        "name": "Kunwi",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.23472,
+        "lng": 128.57278,
+        "population": 34293
+    },
+    {
+        "id": 1834885,
+        "name": "Tangjin",
+        "region": "Chungcheongnam-do",
+        "lat": 36.89444,
+        "lng": 126.62972,
+        "population": 32778
+    },
+    {
+        "id": 1845519,
+        "name": "Cheongsong gun",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.43351,
+        "lng": 129.057,
+        "population": 31313
+    },
+    {
+        "id": 1846114,
+        "name": "Jinan-gun",
+        "region": "Jeollabuk-do",
+        "lat": 35.79167,
+        "lng": 127.42528,
+        "population": 31273
+    },
+    {
+        "id": 1841976,
+        "name": "Kurye",
+        "region": "Jeollanam-do",
+        "lat": 35.20944,
+        "lng": 127.46444,
+        "population": 30000
+    },
+    {
+        "id": 1833514,
+        "name": "Waegwan",
+        "region": "Gyeongsangbuk-do",
+        "lat": 35.99251,
+        "lng": 128.39785,
+        "population": 29691
+    },
+    {
+        "id": 1836208,
+        "name": "Seonghwan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.91556,
+        "lng": 127.13139,
+        "population": 29239
+    },
+    {
+        "id": 1844308,
+        "name": "Hayang",
+        "region": "Gyeongsangbuk-do",
+        "lat": 35.91333,
+        "lng": 128.82,
+        "population": 27236
+    },
+    {
+        "id": 1842518,
+        "name": "Goseong",
+        "region": "Gyeongsangnam-do",
+        "lat": 34.97631,
+        "lng": 128.32361,
+        "population": 26704
+    },
+    {
+        "id": 1846355,
+        "name": "Changsu",
+        "region": "Jeollabuk-do",
+        "lat": 35.64842,
+        "lng": 127.51523,
+        "population": 26463
+    },
+    {
+        "id": 1843585,
+        "name": "Imsil",
+        "region": "Jeollabuk-do",
+        "lat": 35.61306,
+        "lng": 127.27944,
+        "population": 25693
+    },
+    {
+        "id": 1843163,
+        "name": "Ganghwa-gun",
+        "region": "Incheon",
+        "lat": 37.74722,
+        "lng": 126.48556,
+        "population": 25535
+    },
+    {
+        "id": 1832257,
+        "name": "Neietsu",
+        "region": "Gangwon-do",
+        "lat": 37.18447,
+        "lng": 128.46821,
+        "population": 25413
+    },
+    {
+        "id": 1842153,
+        "name": "Kinzan",
+        "region": "Chungcheongnam-do",
+        "lat": 36.10306,
+        "lng": 127.48889,
+        "population": 25243
+    },
+    {
+        "id": 1886598,
+        "name": "Yŏnmu",
+        "region": "Chungcheongnam-do",
+        "lat": 36.12944,
+        "lng": 127.1,
+        "population": 25015
+    },
+    {
+        "id": 1832909,
+        "name": "Yanggu",
+        "region": "Gangwon-do",
+        "lat": 38.10583,
+        "lng": 127.98944,
+        "population": 24027
+    },
+    {
+        "id": 1844751,
+        "name": "Haenam",
+        "region": "Jeollanam-do",
+        "lat": 34.57111,
+        "lng": 126.59889,
+        "population": 23928
+    },
+    {
+        "id": 1847050,
+        "name": "Gaigeturi",
+        "region": "Jeju-do",
+        "lat": 33.46444,
+        "lng": 126.31833,
+        "population": 23717
+    },
+    {
+        "id": 1840413,
+        "name": "Namsa",
+        "region": "Jeollabuk-do",
+        "lat": 35.93333,
+        "lng": 127.05,
+        "population": 23587
+    },
+    {
+        "id": 1835096,
+        "name": "Taesal-li",
+        "region": "Chungcheongnam-do",
+        "lat": 36.9714,
+        "lng": 126.4542,
+        "population": 23149
+    },
+    {
+        "id": 1844045,
+        "name": "Hwacheon",
+        "region": "Gangwon-do",
+        "lat": 38.10705,
+        "lng": 127.70632,
+        "population": 22965
+    },
+    {
+        "id": 1838722,
+        "name": "Buan",
+        "region": "Jeollabuk-do",
+        "lat": 35.72806,
+        "lng": 126.73194,
+        "population": 22267
+    },
+    {
+        "id": 1835967,
+        "name": "Jenzan",
+        "region": "Gyeongsangbuk-do",
+        "lat": 36.24083,
+        "lng": 128.2975,
+        "population": 20673
+    },
+    {
+        "id": 1845142,
+        "name": "Jumunjin",
+        "region": "Gangwon-do",
+        "lat": 37.89139,
+        "lng": 128.82583,
+        "population": 20600
+    },
+    {
+        "id": 1839011,
+        "name": "Beolgyo",
+        "region": "Jeollanam-do",
+        "lat": 34.84897,
+        "lng": 127.34052,
+        "population": 19842
+    },
+    {
+        "id": 6198579,
+        "name": "Ora-dong",
+        "region": "Jeju-do",
+        "lat": 33.48194,
+        "lng": 126.50639,
+        "population": 16037
+    }
+]

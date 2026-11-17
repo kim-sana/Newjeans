@@ -1,0 +1,106 @@
+[
+    {
+        "id": 2088122,
+        "name": "Port Moresby",
+        "region": "National Capital",
+        "lat": -9.47723,
+        "lng": 147.15089,
+        "population": 283733
+    },
+    {
+        "id": 2092740,
+        "name": "Lae",
+        "region": "Morobe Province",
+        "lat": -6.72333,
+        "lng": 146.99611,
+        "population": 76255
+    },
+    {
+        "id": 2100633,
+        "name": "Arawa",
+        "region": "Bougainville",
+        "lat": -6.22977,
+        "lng": 155.56598,
+        "population": 40266
+    },
+    {
+        "id": 2090409,
+        "name": "Mount Hagen",
+        "region": "Western Highlands Province",
+        "lat": -5.85746,
+        "lng": 144.23058,
+        "population": 33623
+    },
+    {
+        "id": 2088163,
+        "name": "Popondetta",
+        "region": "Oro Province",
+        "lat": -8.76536,
+        "lng": 148.23252,
+        "population": 28198
+    },
+    {
+        "id": 2091996,
+        "name": "Madang",
+        "region": "Madang Province",
+        "lat": -5.22152,
+        "lng": 145.78695,
+        "population": 27419
+    },
+    {
+        "id": 2093685,
+        "name": "Kokopo",
+        "region": "East New Britain Province",
+        "lat": -4.3432,
+        "lng": 152.26867,
+        "population": 26273
+    },
+    {
+        "id": 2090990,
+        "name": "Mendi",
+        "region": "Southern Highlands Province",
+        "lat": -6.14755,
+        "lng": 143.65633,
+        "population": 26252
+    },
+    {
+        "id": 2093967,
+        "name": "Kimbe",
+        "region": "West New Britain Province",
+        "lat": -5.55085,
+        "lng": 150.13766,
+        "population": 18847
+    },
+    {
+        "id": 2096742,
+        "name": "Goroka",
+        "region": "Eastern Highlands Province",
+        "lat": -6.085,
+        "lng": 145.38667,
+        "population": 18503
+    },
+    {
+        "id": 2083537,
+        "name": "Wewak",
+        "region": "East Sepik Province",
+        "lat": -3.54964,
+        "lng": 143.63229,
+        "population": 18230
+    },
+    {
+        "id": 2098869,
+        "name": "Bulolo",
+        "region": "Morobe Province",
+        "lat": -7.2036,
+        "lng": 146.64014,
+        "population": 16042
+    },
+    {
+        "id": 2098329,
+        "name": "Daru",
+        "region": "Western Province",
+        "lat": -9.07786,
+        "lng": 143.20893,
+        "population": 15214
+    }
+]

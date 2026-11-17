@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4043909,
+        "name": "Dededo Village",
+        "region": "Dededo",
+        "lat": 13.51777,
+        "lng": 144.8391,
+        "population": 44943
+    },
+    {
+        "id": 4038794,
+        "name": "Yigo Village",
+        "region": "Yigo",
+        "lat": 13.53605,
+        "lng": 144.88855,
+        "population": 20539
+    },
+    {
+        "id": 7874631,
+        "name": "Tamuning",
+        "region": "Tamuning",
+        "lat": 13.48754,
+        "lng": 144.78143,
+        "population": 19685
+    },
+    {
+        "id": 4038659,
+        "name": "Tamuning-Tumon-Harmon Village",
+        "region": "Tamuning",
+        "lat": 13.48773,
+        "lng": 144.78138,
+        "population": 19685
+    },
+    {
+        "id": 7268049,
+        "name": "Mangilao Village",
+        "region": "Mangilao",
+        "lat": 13.44761,
+        "lng": 144.80109,
+        "population": 15191
+    },
+    {
+        "id": 4044012,
+        "name": "Hagåtña",
+        "region": "Hagatna",
+        "lat": 13.47567,
+        "lng": 144.74886,
+        "population": 1051
+    }
+]

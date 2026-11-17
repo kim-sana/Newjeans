@@ -1,0 +1,2514 @@
+[
+    {
+        "id": 1566083,
+        "name": "Ho Chi Minh City",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.82302,
+        "lng": 106.62965,
+        "population": 14002598
+    },
+    {
+        "id": 1581130,
+        "name": "Hanoi",
+        "region": "Hanoi",
+        "lat": 21.0245,
+        "lng": 105.84117,
+        "population": 8053663
+    },
+    {
+        "id": 1581298,
+        "name": "Haiphong",
+        "region": "Hai Phong",
+        "lat": 20.86481,
+        "lng": 106.68345,
+        "population": 2625200
+    },
+    {
+        "id": 1586203,
+        "name": "Cần Thơ",
+        "region": "Can Tho City",
+        "lat": 10.03711,
+        "lng": 105.78825,
+        "population": 1507187
+    },
+    {
+        "id": 1580240,
+        "name": "Huế",
+        "region": "Thừa Thiên Huế Province",
+        "lat": 16.4619,
+        "lng": 107.59546,
+        "population": 1380000
+    },
+    {
+        "id": 1583992,
+        "name": "Da Nang",
+        "region": "Da Nang City",
+        "lat": 16.06778,
+        "lng": 108.22083,
+        "population": 1276000
+    },
+    {
+        "id": 1587923,
+        "name": "Biên Hòa",
+        "region": "Dong Nai",
+        "lat": 10.94469,
+        "lng": 106.82432,
+        "population": 1272235
+    },
+    {
+        "id": 1566166,
+        "name": "Thanh Hóa",
+        "region": "Thanh Hóa Province",
+        "lat": 19.8,
+        "lng": 105.76667,
+        "population": 850000
+    },
+    {
+        "id": 1562798,
+        "name": "Vinh",
+        "region": "Nghệ An Province",
+        "lat": 18.67337,
+        "lng": 105.69232,
+        "population": 790000
+    },
+    {
+        "id": 12382296,
+        "name": "Thuận An",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.9239,
+        "lng": 106.71428,
+        "population": 588616
+    },
+    {
+        "id": 1572151,
+        "name": "Nha Trang",
+        "region": "Khanh Hoa",
+        "lat": 12.24507,
+        "lng": 109.19432,
+        "population": 579000
+    },
+    {
+        "id": 1585330,
+        "name": "Chợ Lớn",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.753,
+        "lng": 106.659,
+        "population": 561000
+    },
+    {
+        "id": 1904564,
+        "name": "Bình Thạnh",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.811,
+        "lng": 106.706,
+        "population": 552164
+    },
+    {
+        "id": 1565019,
+        "name": "Thủ Đức",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.84863,
+        "lng": 106.77209,
+        "population": 524670
+    },
+    {
+        "id": 1568574,
+        "name": "Qui Nhon",
+        "region": "Gia Lai",
+        "lat": 13.77648,
+        "lng": 109.22367,
+        "population": 519208
+    },
+    {
+        "id": 1562414,
+        "name": "Vũng Tàu",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.34599,
+        "lng": 107.08426,
+        "population": 464860
+    },
+    {
+        "id": 1583518,
+        "name": "Dĩ An",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.90682,
+        "lng": 106.7694,
+        "population": 463023
+    },
+    {
+        "id": 1568510,
+        "name": "Rạch Giá",
+        "region": "An Giang",
+        "lat": 10.01245,
+        "lng": 105.08091,
+        "population": 459860
+    },
+    {
+        "id": 1591527,
+        "name": "Bắc Giang",
+        "region": "Bac Ninh",
+        "lat": 21.27307,
+        "lng": 106.1946,
+        "population": 450000
+    },
+    {
+        "id": 1573517,
+        "name": "Nam Định",
+        "region": "Ninh Binh",
+        "lat": 20.43389,
+        "lng": 106.17729,
+        "population": 448225
+    },
+    {
+        "id": 1586896,
+        "name": "Buôn Ma Thuột",
+        "region": "Dak Lak",
+        "lat": 12.66747,
+        "lng": 108.03775,
+        "population": 434256
+    },
+    {
+        "id": 1566319,
+        "name": "Thái Nguyên",
+        "region": "Thai Nguyen",
+        "lat": 21.59422,
+        "lng": 105.84817,
+        "population": 420000
+    },
+    {
+        "id": 1562820,
+        "name": "Việt Trì",
+        "region": "Phu Tho",
+        "lat": 21.32274,
+        "lng": 105.40198,
+        "population": 415280
+    },
+    {
+        "id": 9645085,
+        "name": "Quận Mười",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.76823,
+        "lng": 106.66632,
+        "population": 399000
+    },
+    {
+        "id": 1565022,
+        "name": "Thủ Dầu Một",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.9804,
+        "lng": 106.6519,
+        "population": 373105
+    },
+    {
+        "id": 8616121,
+        "name": "Đống Đa",
+        "region": "Hanoi",
+        "lat": 21.013,
+        "lng": 105.825,
+        "population": 371606
+    },
+    {
+        "id": 1588060,
+        "name": "Bến Cát",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 11.15,
+        "lng": 106.6,
+        "population": 364578
+    },
+    {
+        "id": 1564064,
+        "name": "Long Bien",
+        "region": "Hanoi",
+        "lat": 21.03333,
+        "lng": 105.9,
+        "population": 347829
+    },
+    {
+        "id": 13405933,
+        "name": "Bắc Từ Liêm",
+        "region": "Hanoi",
+        "lat": 21.06532,
+        "lng": 105.74661,
+        "population": 340605
+    },
+    {
+        "id": 9645084,
+        "name": "Quận Mười Một",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.76383,
+        "lng": 106.64355,
+        "population": 332536
+    },
+    {
+        "id": 1571968,
+        "name": "Hoa Lư",
+        "region": "Ninh Binh",
+        "lat": 20.25809,
+        "lng": 105.97965,
+        "population": 319125
+    },
+    {
+        "id": 9871722,
+        "name": "Gia Lâm",
+        "region": "Hanoi",
+        "lat": 21.02,
+        "lng": 105.939,
+        "population": 309353
+    },
+    {
+        "id": 1594308,
+        "name": "An Nhơn",
+        "region": "Gia Lai",
+        "lat": 13.88579,
+        "lng": 109.10823,
+        "population": 308396
+    },
+    {
+        "id": 8616127,
+        "name": "Hai Bà Trưng",
+        "region": "Hanoi",
+        "lat": 21.01341,
+        "lng": 105.84772,
+        "population": 303586
+    },
+    {
+        "id": 1572532,
+        "name": "Nghi Sơn",
+        "region": "Thanh Hóa Province",
+        "lat": 19.32746,
+        "lng": 105.82145,
+        "population": 302210
+    },
+    {
+        "id": 8531735,
+        "name": "Phu Quoc",
+        "region": "An Giang",
+        "lat": 10.22409,
+        "lng": 103.97156,
+        "population": 294419
+    },
+    {
+        "id": 8616118,
+        "name": "Thanh Xuân",
+        "region": "Hanoi",
+        "lat": 20.99472,
+        "lng": 105.79977,
+        "population": 293292
+    },
+    {
+        "id": 8616113,
+        "name": "Cầu Giấy",
+        "region": "Hanoi",
+        "lat": 21.03228,
+        "lng": 105.80073,
+        "population": 292536
+    },
+    {
+        "id": 1591449,
+        "name": "Bắc Ninh",
+        "region": "Bac Ninh",
+        "lat": 21.18608,
+        "lng": 106.07631,
+        "population": 287658
+    },
+    {
+        "id": 1570357,
+        "name": "Phú Mỹ",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.63333,
+        "lng": 107.06667,
+        "population": 287055
+    },
+    {
+        "id": 1575627,
+        "name": "Long Xuyên",
+        "region": "An Giang",
+        "lat": 10.38639,
+        "lng": 105.43518,
+        "population": 286140
+    },
+    {
+        "id": 1588129,
+        "name": "Ba Vì",
+        "region": "Hanoi",
+        "lat": 21.08333,
+        "lng": 105.38333,
+        "population": 282600
+    },
+    {
+        "id": 1568770,
+        "name": "Quảng Ngãi",
+        "region": "Quang Ngai",
+        "lat": 15.12047,
+        "lng": 108.79232,
+        "population": 278496
+    },
+    {
+        "id": 9645072,
+        "name": "Quận Sáu",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.7468,
+        "lng": 106.64903,
+        "population": 271050
+    },
+    {
+        "id": 1574023,
+        "name": "Mỹ Tho",
+        "region": "Dong Thap",
+        "lat": 10.36004,
+        "lng": 106.35996,
+        "population": 270700
+    },
+    {
+        "id": 1580410,
+        "name": "Hạ Long",
+        "region": "Quảng Ninh",
+        "lat": 20.95045,
+        "lng": 107.07336,
+        "population": 270054
+    },
+    {
+        "id": 1581047,
+        "name": "Hà Tĩnh",
+        "region": "Hà Tĩnh Province",
+        "lat": 18.34282,
+        "lng": 105.90569,
+        "population": 266321
+    },
+    {
+        "id": 1584071,
+        "name": "Ðà Lạt",
+        "region": "Lam Dong",
+        "lat": 11.94646,
+        "lng": 108.44193,
+        "population": 258014
+    },
+    {
+        "id": 1560565,
+        "name": "Xuân Lộc",
+        "region": "Dong Nai",
+        "lat": 10.93333,
+        "lng": 107.23333,
+        "population": 253140
+    },
+    {
+        "id": 1582497,
+        "name": "Thị Trấn Đông Triều",
+        "region": "Quảng Ninh",
+        "lat": 21.08242,
+        "lng": 106.5138,
+        "population": 248896
+    },
+    {
+        "id": 1581326,
+        "name": "Hải Dương",
+        "region": "Hai Phong",
+        "lat": 20.94099,
+        "lng": 106.33302,
+        "population": 241373
+    },
+    {
+        "id": 8594709,
+        "name": "Thành Phố Bà Rịa",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.49626,
+        "lng": 107.1685,
+        "population": 235192
+    },
+    {
+        "id": 13589354,
+        "name": "Phổ Yên",
+        "region": "Thai Nguyen",
+        "lat": 21.41978,
+        "lng": 105.8899,
+        "population": 231363
+    },
+    {
+        "id": 1567621,
+        "name": "Sơn Tây",
+        "region": "Hanoi",
+        "lat": 21.14053,
+        "lng": 105.50686,
+        "population": 230577
+    },
+    {
+        "id": 1571951,
+        "name": "Ninh Hòa",
+        "region": "Khanh Hoa",
+        "lat": 12.49187,
+        "lng": 109.12495,
+        "population": 230566
+    },
+    {
+        "id": 1571058,
+        "name": "Phan Thiết",
+        "region": "Lam Dong",
+        "lat": 10.92889,
+        "lng": 108.10208,
+        "population": 228536
+    },
+    {
+        "id": 1583478,
+        "name": "Điện Bàn",
+        "region": "Da Nang City",
+        "lat": 15.88853,
+        "lng": 108.25447,
+        "population": 226564
+    },
+    {
+        "id": 1586443,
+        "name": "Cà Mau",
+        "region": "Ca Mau",
+        "lat": 9.17682,
+        "lng": 105.15242,
+        "population": 226372
+    },
+    {
+        "id": 7289846,
+        "name": "Ba Dinh",
+        "region": "Hanoi",
+        "lat": 21.03652,
+        "lng": 105.82684,
+        "population": 221893
+    },
+    {
+        "id": 1567788,
+        "name": "Sóc Trăng",
+        "region": "Can Tho City",
+        "lat": 9.59995,
+        "lng": 105.97193,
+        "population": 221430
+    },
+    {
+        "id": 1585489,
+        "name": "Chí Linh",
+        "region": "Hai Phong",
+        "lat": 21.06667,
+        "lng": 106.31667,
+        "population": 220421
+    },
+    {
+        "id": 9645086,
+        "name": "Quận Ba",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.77494,
+        "lng": 106.68628,
+        "population": 220375
+    },
+    {
+        "id": 1567069,
+        "name": "Tân An",
+        "region": "Tay Ninh",
+        "lat": 10.53589,
+        "lng": 106.41366,
+        "population": 215250
+    },
+    {
+        "id": 1568212,
+        "name": "Sa Dec",
+        "region": "Dong Thap",
+        "lat": 10.29085,
+        "lng": 105.75635,
+        "population": 214610
+    },
+    {
+        "id": 1586151,
+        "name": "Cao Lãnh",
+        "region": "Dong Thap",
+        "lat": 10.46017,
+        "lng": 105.63294,
+        "population": 211912
+    },
+    {
+        "id": 1571067,
+        "name": "Phan Rang-Tháp Chàm",
+        "region": "Khanh Hoa",
+        "lat": 11.56432,
+        "lng": 108.98858,
+        "population": 207998
+    },
+    {
+        "id": 1562818,
+        "name": "Việt Yên",
+        "region": "Bac Ninh",
+        "lat": 21.26667,
+        "lng": 106.13333,
+        "population": 205900
+    },
+    {
+        "id": 1578500,
+        "name": "Kon Tum",
+        "region": "Quang Ngai",
+        "lat": 14.35451,
+        "lng": 108.00759,
+        "population": 205762
+    },
+    {
+        "id": 8656376,
+        "name": "Thanh Khê",
+        "region": "Da Nang City",
+        "lat": 16.0706,
+        "lng": 108.19102,
+        "population": 201240
+    },
+    {
+        "id": 1576633,
+        "name": "Lạng Sơn",
+        "region": "Lạng Sơn Province",
+        "lat": 21.85264,
+        "lng": 106.76101,
+        "population": 200108
+    },
+    {
+        "id": 1565047,
+        "name": "Thuận Thanh",
+        "region": "Bac Ninh",
+        "lat": 21.046,
+        "lng": 106.079,
+        "population": 199577
+    },
+    {
+        "id": 9645071,
+        "name": "Quận Bốn",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.76684,
+        "lng": 106.70574,
+        "population": 199329
+    },
+    {
+        "id": 1586360,
+        "name": "Cẩm Phả",
+        "region": "Quảng Ninh",
+        "lat": 21.01004,
+        "lng": 107.27345,
+        "population": 190232
+    },
+    {
+        "id": 9645073,
+        "name": "Quận Năm",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.75567,
+        "lng": 106.66745,
+        "population": 187510
+    },
+    {
+        "id": 1562773,
+        "name": "Vĩnh Châu",
+        "region": "Can Tho City",
+        "lat": 9.32439,
+        "lng": 105.98006,
+        "population": 183918
+    },
+    {
+        "id": 1570656,
+        "name": "Phúc Yên",
+        "region": "Phu Tho",
+        "lat": 21.23695,
+        "lng": 105.70483,
+        "population": 180000
+    },
+    {
+        "id": 12253704,
+        "name": "Phú Quốc",
+        "region": "An Giang",
+        "lat": 10.28715,
+        "lng": 104.01047,
+        "population": 179480
+    },
+    {
+        "id": 1584242,
+        "name": "Thị Trấn Đại Từ",
+        "region": "Thai Nguyen",
+        "lat": 21.63384,
+        "lng": 105.63766,
+        "population": 179192
+    },
+    {
+        "id": 1567032,
+        "name": "Tân Châu",
+        "region": "An Giang",
+        "lat": 10.79832,
+        "lng": 105.23887,
+        "population": 175211
+    },
+    {
+        "id": 9075789,
+        "name": "Long Khánh",
+        "region": "Dong Nai",
+        "lat": 10.92655,
+        "lng": 107.24783,
+        "population": 171276
+    },
+    {
+        "id": 1588275,
+        "name": "Bảo Lộc",
+        "region": "Lam Dong",
+        "lat": 11.54798,
+        "lng": 107.80772,
+        "population": 170920
+    },
+    {
+        "id": 1566566,
+        "name": "Tây Hồ",
+        "region": "Hanoi",
+        "lat": 21.06895,
+        "lng": 105.81053,
+        "population": 168300
+    },
+    {
+        "id": 1582436,
+        "name": "Đồng Xoài",
+        "region": "Dong Nai",
+        "lat": 11.53495,
+        "lng": 106.88324,
+        "population": 168000
+    },
+    {
+        "id": 1567148,
+        "name": "Tam Kỳ",
+        "region": "Da Nang City",
+        "lat": 15.57364,
+        "lng": 108.47403,
+        "population": 165240
+    },
+    {
+        "id": 1582926,
+        "name": "Ðông Hà",
+        "region": "Quang Tri",
+        "lat": 16.81625,
+        "lng": 107.10031,
+        "population": 164228
+    },
+    {
+        "id": 1564046,
+        "name": "Trảng Bàng",
+        "region": "Tay Ninh",
+        "lat": 11.02987,
+        "lng": 106.35751,
+        "population": 161831
+    },
+    {
+        "id": 1582173,
+        "name": "Đưc Trọng",
+        "region": "Lam Dong",
+        "lat": 11.73559,
+        "lng": 108.3733,
+        "population": 161232
+    },
+    {
+        "id": 1577995,
+        "name": "La Gi",
+        "region": "Lam Dong",
+        "lat": 10.65993,
+        "lng": 107.77206,
+        "population": 160652
+    },
+    {
+        "id": 1563926,
+        "name": "Trà Vinh",
+        "region": "Vinh Long",
+        "lat": 9.94719,
+        "lng": 106.34225,
+        "population": 160310
+    },
+    {
+        "id": 1565136,
+        "name": "Thốt Nốt",
+        "region": "Can Tho City",
+        "lat": 10.27213,
+        "lng": 105.5338,
+        "population": 158225
+    },
+    {
+        "id": 1591474,
+        "name": "Bạc Liêu",
+        "region": "Ca Mau",
+        "lat": 9.29414,
+        "lng": 105.72776,
+        "population": 156110
+    },
+    {
+        "id": 1563281,
+        "name": "Tuy Hòa",
+        "region": "Dak Lak",
+        "lat": 13.09546,
+        "lng": 109.32094,
+        "population": 155921
+    },
+    {
+        "id": 1582190,
+        "name": "Đức Phổ",
+        "region": "Quang Ngai",
+        "lat": 14.81355,
+        "lng": 108.95931,
+        "population": 155743
+    },
+    {
+        "id": 1590900,
+        "name": "Thị Trấn Thuận Châu",
+        "region": "Sơn La Province",
+        "lat": 21.43849,
+        "lng": 103.69,
+        "population": 153000
+    },
+    {
+        "id": 1586296,
+        "name": "Cần Giuộc",
+        "region": "Tay Ninh",
+        "lat": 10.60857,
+        "lng": 106.67135,
+        "population": 152200
+    },
+    {
+        "id": 1578163,
+        "name": "Kỳ Anh",
+        "region": "Hà Tĩnh Province",
+        "lat": 18.06243,
+        "lng": 106.29832,
+        "population": 150226
+    },
+    {
+        "id": 9081327,
+        "name": "Hòa Thành",
+        "region": "Tay Ninh",
+        "lat": 11.28696,
+        "lng": 106.12936,
+        "population": 147666
+    },
+    {
+        "id": 1586350,
+        "name": "Cam Ranh",
+        "region": "Khanh Hoa",
+        "lat": 11.92144,
+        "lng": 109.15913,
+        "population": 146771
+    },
+    {
+        "id": 1581755,
+        "name": "Giá Rai",
+        "region": "Ca Mau",
+        "lat": 9.23444,
+        "lng": 105.45833,
+        "population": 145340
+    },
+    {
+        "id": 12217184,
+        "name": "Huyện Lâm Hà",
+        "region": "Lam Dong",
+        "lat": 11.81554,
+        "lng": 108.21444,
+        "population": 144707
+    },
+    {
+        "id": 1564555,
+        "name": "Tịnh Biên",
+        "region": "An Giang",
+        "lat": 10.59591,
+        "lng": 104.93669,
+        "population": 143098
+    },
+    {
+        "id": 1586551,
+        "name": "Cai Lậy",
+        "region": "Dong Thap",
+        "lat": 10.4,
+        "lng": 106.11667,
+        "population": 143050
+    },
+    {
+        "id": 1562693,
+        "name": "Vĩnh Long",
+        "region": "Vinh Long",
+        "lat": 10.25369,
+        "lng": 105.9722,
+        "population": 137870
+    },
+    {
+        "id": 1570449,
+        "name": "Phủ Lý",
+        "region": "Ninh Binh",
+        "lat": 20.54531,
+        "lng": 105.91221,
+        "population": 136654
+    },
+    {
+        "id": 13680023,
+        "name": "Tương Mai",
+        "region": "Hanoi",
+        "lat": 20.9888,
+        "lng": 105.85525,
+        "population": 136292
+    },
+    {
+        "id": 8616124,
+        "name": "Hoàn Kiếm",
+        "region": "Hanoi",
+        "lat": 21.02857,
+        "lng": 105.85064,
+        "population": 135618
+    },
+    {
+        "id": 1586357,
+        "name": "Cẩm Phả Mines",
+        "region": "Quảng Ninh",
+        "lat": 21.01667,
+        "lng": 107.3,
+        "population": 135477
+    },
+    {
+        "id": 1566559,
+        "name": "Tây Ninh",
+        "region": "Tay Ninh",
+        "lat": 11.31004,
+        "lng": 106.09828,
+        "population": 135254
+    },
+    {
+        "id": 1582886,
+        "name": "Đồng Hới",
+        "region": "Quang Tri",
+        "lat": 17.46885,
+        "lng": 106.62226,
+        "population": 133672
+    },
+    {
+        "id": 12166273,
+        "name": "Quận Đức Thịnh",
+        "region": null,
+        "lat": 10.30989,
+        "lng": 105.73855,
+        "population": 132000
+    },
+    {
+        "id": 1581331,
+        "name": "Hải Châu",
+        "region": "Da Nang City",
+        "lat": 15.91667,
+        "lng": 108.13333,
+        "population": 131427
+    },
+    {
+        "id": 1576303,
+        "name": "Lào Cai",
+        "region": "Lao Cai",
+        "lat": 22.48556,
+        "lng": 103.97066,
+        "population": 130671
+    },
+    {
+        "id": 1568142,
+        "name": "Sầm Sơn",
+        "region": "Thanh Hóa Province",
+        "lat": 19.73333,
+        "lng": 105.9,
+        "population": 129801
+    },
+    {
+        "id": 1571644,
+        "name": "Ô Môn",
+        "region": "Can Tho City",
+        "lat": 10.10974,
+        "lng": 105.62318,
+        "population": 129683
+    },
+    {
+        "id": 13513037,
+        "name": "Thành phố Sông Công",
+        "region": "Thai Nguyen",
+        "lat": 21.4772,
+        "lng": 105.84137,
+        "population": 128357
+    },
+    {
+        "id": 1586989,
+        "name": "Buôn Hồ",
+        "region": "Dak Lak",
+        "lat": 12.95226,
+        "lng": 108.2962,
+        "population": 127920
+    },
+    {
+        "id": 1585281,
+        "name": "Chũ",
+        "region": "Bac Ninh",
+        "lat": 21.37379,
+        "lng": 106.56649,
+        "population": 127881
+    },
+    {
+        "id": 1587976,
+        "name": "Bến Tre",
+        "region": "Vinh Long",
+        "lat": 10.24147,
+        "lng": 106.37585,
+        "population": 124449
+    },
+    {
+        "id": 1585317,
+        "name": "Chơn Thành",
+        "region": "Dong Nai",
+        "lat": 11.42821,
+        "lng": 106.63536,
+        "population": 121083
+    },
+    {
+        "id": 13546525,
+        "name": "Bồ Đề",
+        "region": "Hanoi",
+        "lat": 21.05618,
+        "lng": 105.86675,
+        "population": 120028
+    },
+    {
+        "id": 8657105,
+        "name": "Hòa Cường",
+        "region": "Da Nang City",
+        "lat": 16.04314,
+        "lng": 108.18209,
+        "population": 119363
+    },
+    {
+        "id": 1562548,
+        "name": "Vĩnh Yên",
+        "region": "Phu Tho",
+        "lat": 21.30891,
+        "lng": 105.60489,
+        "population": 119128
+    },
+    {
+        "id": 1591440,
+        "name": "Bắc Quang",
+        "region": "Tuyen Quang",
+        "lat": 22.48333,
+        "lng": 104.86667,
+        "population": 118690
+    },
+    {
+        "id": 1580142,
+        "name": "Hưng Yên",
+        "region": "Hưng Yên Province",
+        "lat": 20.64637,
+        "lng": 106.05112,
+        "population": 118646
+    },
+    {
+        "id": 1579018,
+        "name": "Kiến An",
+        "region": "Hai Phong",
+        "lat": 20.80528,
+        "lng": 106.62556,
+        "population": 118047
+    },
+    {
+        "id": 1584784,
+        "name": "Cờ Đỏ",
+        "region": "Can Tho City",
+        "lat": 10.09377,
+        "lng": 105.42916,
+        "population": 116576
+    },
+    {
+        "id": 1574155,
+        "name": "Mỹ Hào",
+        "region": "Hưng Yên Province",
+        "lat": 20.91667,
+        "lng": 106.08333,
+        "population": 115608
+    },
+    {
+        "id": 1570863,
+        "name": "Phong Điền",
+        "region": "Thừa Thiên Huế Province",
+        "lat": 16.58321,
+        "lng": 107.36438,
+        "population": 114820
+    },
+    {
+        "id": 1569684,
+        "name": "Pleiku",
+        "region": "Gia Lai",
+        "lat": 13.98333,
+        "lng": 108,
+        "population": 114225
+    },
+    {
+        "id": 1587759,
+        "name": "Bình Thủy",
+        "region": "Can Tho City",
+        "lat": 10.07431,
+        "lng": 105.73974,
+        "population": 113565
+    },
+    {
+        "id": 13562438,
+        "name": "Hoàng Mai",
+        "region": "Nghệ An Province",
+        "lat": 19.26758,
+        "lng": 105.71594,
+        "population": 113360
+    },
+    {
+        "id": 1581461,
+        "name": "Gò Vấp",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.81667,
+        "lng": 106.68333,
+        "population": 110850
+    },
+    {
+        "id": 1565157,
+        "name": "Thới Lai",
+        "region": "Can Tho City",
+        "lat": 10.06522,
+        "lng": 105.55863,
+        "population": 109684
+    },
+    {
+        "id": 1574507,
+        "name": "Móng Cái",
+        "region": "Quảng Ninh",
+        "lat": 21.52471,
+        "lng": 107.96619,
+        "population": 108553
+    },
+    {
+        "id": 1560037,
+        "name": "Yên Vinh",
+        "region": "Nghệ An Province",
+        "lat": 18.66667,
+        "lng": 105.66667,
+        "population": 107082
+    },
+    {
+        "id": 1568737,
+        "name": "Ba Đồn",
+        "region": "Quang Tri",
+        "lat": 17.75353,
+        "lng": 106.42355,
+        "population": 106413
+    },
+    {
+        "id": 1567681,
+        "name": "Sơn La",
+        "region": "Sơn La Province",
+        "lat": 21.3256,
+        "lng": 103.91882,
+        "population": 106052
+    },
+    {
+        "id": 1580830,
+        "name": "Hòa Bình",
+        "region": "Phu Tho",
+        "lat": 20.81717,
+        "lng": 105.33759,
+        "population": 105260
+    },
+    {
+        "id": 1563287,
+        "name": "Tuyên Quang",
+        "region": "Tuyen Quang",
+        "lat": 21.82356,
+        "lng": 105.21424,
+        "population": 104645
+    },
+    {
+        "id": 9534547,
+        "name": "Ngã Bảy",
+        "region": "Can Tho City",
+        "lat": 9.81371,
+        "lng": 105.82096,
+        "population": 101192
+    },
+    {
+        "id": 1580400,
+        "name": "Hồng Ngự",
+        "region": "Dong Thap",
+        "lat": 10.8,
+        "lng": 105.35,
+        "population": 101155
+    },
+    {
+        "id": 1560349,
+        "name": "Yên Bái",
+        "region": "Lao Cai",
+        "lat": 21.72288,
+        "lng": 104.9113,
+        "population": 100631
+    },
+    {
+        "id": 1581052,
+        "name": "Hà Tiên",
+        "region": "An Giang",
+        "lat": 10.3831,
+        "lng": 104.48753,
+        "population": 100560
+    },
+    {
+        "id": 1570864,
+        "name": "Phong Điền",
+        "region": "Can Tho City",
+        "lat": 9.99753,
+        "lng": 105.6673,
+        "population": 98424
+    },
+    {
+        "id": 9533392,
+        "name": "Vĩnh Thạnh",
+        "region": "Can Tho City",
+        "lat": 10.22263,
+        "lng": 105.39841,
+        "population": 98399
+    },
+    {
+        "id": 1581529,
+        "name": "Gò Công",
+        "region": "Dong Thap",
+        "lat": 10.36667,
+        "lng": 106.66667,
+        "population": 97709
+    },
+    {
+        "id": 1572585,
+        "name": "Nghĩa Đô",
+        "region": "Hanoi",
+        "lat": 21.05,
+        "lng": 105.8,
+        "population": 96418
+    },
+    {
+        "id": 1580093,
+        "name": "Hương Thủy",
+        "region": "Thừa Thiên Huế Province",
+        "lat": 16.42184,
+        "lng": 107.63999,
+        "population": 95299
+    },
+    {
+        "id": 8539621,
+        "name": "Bình Minh",
+        "region": "Vinh Long",
+        "lat": 10.06821,
+        "lng": 105.82221,
+        "population": 94862
+    },
+    {
+        "id": 1567723,
+        "name": "Sông Cầu",
+        "region": "Dak Lak",
+        "lat": 13.4556,
+        "lng": 109.22348,
+        "population": 94066
+    },
+    {
+        "id": 13680018,
+        "name": "Khương Đình",
+        "region": "Hanoi",
+        "lat": 20.98366,
+        "lng": 105.81537,
+        "population": 93780
+    },
+    {
+        "id": 1569901,
+        "name": "Phú Thọ",
+        "region": "Phu Tho",
+        "lat": 21.39963,
+        "lng": 105.22221,
+        "population": 91650
+    },
+    {
+        "id": 1591493,
+        "name": "Bạch Mai",
+        "region": "Hanoi",
+        "lat": 20.98333,
+        "lng": 105.83333,
+        "population": 91308
+    },
+    {
+        "id": 1567043,
+        "name": "Tân Bình",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.8025,
+        "lng": 106.66,
+        "population": 89373
+    },
+    {
+        "id": 1564956,
+        "name": "Thượng Cát",
+        "region": "Hanoi",
+        "lat": 21.09342,
+        "lng": 105.73188,
+        "population": 87406
+    },
+    {
+        "id": 8656396,
+        "name": "Sơn Trà",
+        "region": "Da Nang City",
+        "lat": 16.06068,
+        "lng": 108.23256,
+        "population": 86890
+    },
+    {
+        "id": 1562570,
+        "name": "Vĩnh Tuy",
+        "region": "Hanoi",
+        "lat": 21,
+        "lng": 105.88333,
+        "population": 86618
+    },
+    {
+        "id": 1586519,
+        "name": "Cái Răng",
+        "region": "Can Tho City",
+        "lat": 10.0009,
+        "lng": 105.75095,
+        "population": 86278
+    },
+    {
+        "id": 13680014,
+        "name": "Định Công",
+        "region": "Hanoi",
+        "lat": 20.98389,
+        "lng": 105.82694,
+        "population": 85502
+    },
+    {
+        "id": 8616016,
+        "name": "Sóc Sơn",
+        "region": "Hanoi",
+        "lat": 21.25782,
+        "lng": 105.84894,
+        "population": 85431
+    },
+    {
+        "id": 1581834,
+        "name": "Gia Nghĩa",
+        "region": "Lam Dong",
+        "lat": 12.00423,
+        "lng": 107.69074,
+        "population": 85082
+    },
+    {
+        "id": 1583477,
+        "name": "Dien Bien Phu",
+        "region": "Điện Biên Province",
+        "lat": 21.38602,
+        "lng": 103.02301,
+        "population": 84672
+    },
+    {
+        "id": 13680015,
+        "name": "Đông Ngạc",
+        "region": "Hanoi",
+        "lat": 21.08063,
+        "lng": 105.77397,
+        "population": 83544
+    },
+    {
+        "id": 1594436,
+        "name": "An Hải",
+        "region": "Da Nang City",
+        "lat": 16.06667,
+        "lng": 108.23333,
+        "population": 82635
+    },
+    {
+        "id": 1594402,
+        "name": "An Khê",
+        "region": "Gia Lai",
+        "lat": 13.95,
+        "lng": 108.65,
+        "population": 81600
+    },
+    {
+        "id": 1592832,
+        "name": "Lai Vung",
+        "region": "Dong Thap",
+        "lat": 10.25664,
+        "lng": 105.59329,
+        "population": 80649
+    },
+    {
+        "id": 8340760,
+        "name": "Cung Kiệm",
+        "region": "Bac Ninh",
+        "lat": 21.18697,
+        "lng": 106.16076,
+        "population": 80000
+    },
+    {
+        "id": 8656395,
+        "name": "Cẩm Lệ",
+        "region": "Da Nang City",
+        "lat": 16.01771,
+        "lng": 108.20381,
+        "population": 78837
+    },
+    {
+        "id": 13535707,
+        "name": "Yên Hòa",
+        "region": "Hanoi",
+        "lat": 21.02185,
+        "lng": 105.79147,
+        "population": 77029
+    },
+    {
+        "id": 13680016,
+        "name": "Giảng Võ",
+        "region": "Hanoi",
+        "lat": 21.03066,
+        "lng": 105.81252,
+        "population": 76658
+    },
+    {
+        "id": 1566126,
+        "name": "Thanh Liệt",
+        "region": "Hanoi",
+        "lat": 20.96667,
+        "lng": 105.81667,
+        "population": 76238
+    },
+    {
+        "id": 1584661,
+        "name": "Củ Chi",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.97333,
+        "lng": 106.49325,
+        "population": 75000
+    },
+    {
+        "id": 1586185,
+        "name": "Cao Bằng",
+        "region": "Cao Bằng Province",
+        "lat": 22.66568,
+        "lng": 106.25786,
+        "population": 73549
+    },
+    {
+        "id": 1580092,
+        "name": "Hương Trà",
+        "region": "Thừa Thiên Huế Province",
+        "lat": 16.52539,
+        "lng": 107.4755,
+        "population": 72677
+    },
+    {
+        "id": 1574873,
+        "name": "Thị Trấn Mạo Khê",
+        "region": "Quảng Ninh",
+        "lat": 21.05858,
+        "lng": 106.59255,
+        "population": 72012
+    },
+    {
+        "id": 13680019,
+        "name": "Kiến Hưng",
+        "region": "Hanoi",
+        "lat": 20.95833,
+        "lng": 105.78972,
+        "population": 70833
+    },
+    {
+        "id": 1585011,
+        "name": "Cổ Đô",
+        "region": "Hanoi",
+        "lat": 21.27964,
+        "lng": 105.36404,
+        "population": 70706
+    },
+    {
+        "id": 1585660,
+        "name": "Châu Đốc",
+        "region": "An Giang",
+        "lat": 10.7,
+        "lng": 105.11667,
+        "population": 70239
+    },
+    {
+        "id": 13546524,
+        "name": "Linh Đàm",
+        "region": "Hanoi",
+        "lat": 20.96441,
+        "lng": 105.83054,
+        "population": 70000
+    },
+    {
+        "id": 9292220,
+        "name": "Duyên Hải",
+        "region": "Vinh Long",
+        "lat": 9.63497,
+        "lng": 106.49237,
+        "population": 69961
+    },
+    {
+        "id": 8668557,
+        "name": "Núi Thành",
+        "region": "Da Nang City",
+        "lat": 15.43194,
+        "lng": 108.65946,
+        "population": 69406
+    },
+    {
+        "id": 1572565,
+        "name": "Nghĩa Lộ",
+        "region": "Lao Cai",
+        "lat": 21.6,
+        "lng": 104.51667,
+        "population": 68206
+    },
+    {
+        "id": 13680021,
+        "name": "Phúc Lợi",
+        "region": "Hanoi",
+        "lat": 21.04507,
+        "lng": 105.9294,
+        "population": 66790
+    },
+    {
+        "id": 8628059,
+        "name": "Thái Hòa",
+        "region": "Nghệ An Province",
+        "lat": 18.92031,
+        "lng": 104.97441,
+        "population": 66127
+    },
+    {
+        "id": 1569856,
+        "name": "Từ Sơn",
+        "region": "Bac Ninh",
+        "lat": 21.1,
+        "lng": 105.96667,
+        "population": 65697
+    },
+    {
+        "id": 1563241,
+        "name": "Thành Phố Uông Bí",
+        "region": "Quảng Ninh",
+        "lat": 21.03433,
+        "lng": 106.77049,
+        "population": 63829
+    },
+    {
+        "id": 1575703,
+        "name": "Long Mỹ",
+        "region": "Can Tho City",
+        "lat": 9.68141,
+        "lng": 105.57226,
+        "population": 61781
+    },
+    {
+        "id": 13494190,
+        "name": "Vinhomes Ocean Park",
+        "region": "Hanoi",
+        "lat": 20.9948,
+        "lng": 105.9465,
+        "population": 60000
+    },
+    {
+        "id": 1584287,
+        "name": "Dại Mỗ",
+        "region": "Hanoi",
+        "lat": 20.98333,
+        "lng": 105.76667,
+        "population": 59980
+    },
+    {
+        "id": 13535606,
+        "name": "Ngã Năm",
+        "region": "Can Tho City",
+        "lat": 9.56513,
+        "lng": 105.59897,
+        "population": 58588
+    },
+    {
+        "id": 1562176,
+        "name": "Trảng Bom",
+        "region": "Dong Nai",
+        "lat": 10.95358,
+        "lng": 107.00589,
+        "population": 57560
+    },
+    {
+        "id": 1585639,
+        "name": "Châu Phong",
+        "region": "An Giang",
+        "lat": 10.71667,
+        "lng": 105.13333,
+        "population": 56322
+    },
+    {
+        "id": 13680013,
+        "name": "Dương Nội",
+        "region": "Hanoi",
+        "lat": 20.97736,
+        "lng": 105.75383,
+        "population": 56091
+    },
+    {
+        "id": 9643221,
+        "name": "Trần Văn Thời",
+        "region": "Ca Mau",
+        "lat": 9.07713,
+        "lng": 104.97914,
+        "population": 55897
+    },
+    {
+        "id": 13680017,
+        "name": "Hoàng Liệt",
+        "region": "Hanoi",
+        "lat": 20.96403,
+        "lng": 105.84055,
+        "population": 55820
+    },
+    {
+        "id": 1581349,
+        "name": "Hà Giang",
+        "region": "Tuyen Quang",
+        "lat": 22.82333,
+        "lng": 104.98357,
+        "population": 55559
+    },
+    {
+        "id": 1586288,
+        "name": "Cần Giờ",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.41115,
+        "lng": 106.95474,
+        "population": 55137
+    },
+    {
+        "id": 1561907,
+        "name": "Xóm Cái Nước",
+        "region": "An Giang",
+        "lat": 9.8,
+        "lng": 105.1,
+        "population": 54397
+    },
+    {
+        "id": 1570819,
+        "name": "Phong Thạnh",
+        "region": "Ca Mau",
+        "lat": 9.32361,
+        "lng": 105.34639,
+        "population": 53912
+    },
+    {
+        "id": 1587919,
+        "name": "Bỉm Sơn",
+        "region": "Thanh Hóa Province",
+        "lat": 20.07806,
+        "lng": 105.86028,
+        "population": 53754
+    },
+    {
+        "id": 1566346,
+        "name": "Thái Bình",
+        "region": "Hưng Yên Province",
+        "lat": 20.45,
+        "lng": 106.34002,
+        "population": 53071
+    },
+    {
+        "id": 7910088,
+        "name": "Tân Uyên",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 11.08416,
+        "lng": 106.78834,
+        "population": 52873
+    },
+    {
+        "id": 10182229,
+        "name": "Cửa Nam",
+        "region": "Hanoi",
+        "lat": 21.02115,
+        "lng": 105.85231,
+        "population": 52750
+    },
+    {
+        "id": 1576757,
+        "name": "Thị Trấn Phước Bửu",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.53472,
+        "lng": 107.40202,
+        "population": 51895
+    },
+    {
+        "id": 1582367,
+        "name": "Đố Sơn",
+        "region": "Hai Phong",
+        "lat": 20.71361,
+        "lng": 106.78944,
+        "population": 51417
+    },
+    {
+        "id": 1581364,
+        "name": "Hà Đông",
+        "region": "Hanoi",
+        "lat": 20.97136,
+        "lng": 105.77876,
+        "population": 50877
+    },
+    {
+        "id": 1586295,
+        "name": "Cần Đước",
+        "region": "Tay Ninh",
+        "lat": 10.50966,
+        "lng": 106.60308,
+        "population": 50473
+    },
+    {
+        "id": 7304197,
+        "name": "Mui Ne",
+        "region": "Lam Dong",
+        "lat": 10.93314,
+        "lng": 108.28327,
+        "population": 50166
+    },
+    {
+        "id": 13494193,
+        "name": "Vinhomes Smart City",
+        "region": "Hanoi",
+        "lat": 21.0045,
+        "lng": 105.7404,
+        "population": 50000
+    },
+    {
+        "id": 13494194,
+        "name": "Vinhomes Times City",
+        "region": "Hanoi",
+        "lat": 20.9945,
+        "lng": 105.8677,
+        "population": 50000
+    },
+    {
+        "id": 13680012,
+        "name": "Yên Nghĩa",
+        "region": "Hanoi",
+        "lat": 20.95414,
+        "lng": 105.73474,
+        "population": 49643
+    },
+    {
+        "id": 1572696,
+        "name": "Thị Trấn Ngải Giao",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.6471,
+        "lng": 107.24577,
+        "population": 49065
+    },
+    {
+        "id": 1570549,
+        "name": "Phú Khương",
+        "region": "Tay Ninh",
+        "lat": 11.28333,
+        "lng": 106.13333,
+        "population": 47966
+    },
+    {
+        "id": 1572614,
+        "name": "Nga Sơn",
+        "region": "Thanh Hóa Province",
+        "lat": 20.00722,
+        "lng": 105.97044,
+        "population": 47176
+    },
+    {
+        "id": 1584023,
+        "name": "Thị Trấn Đầm Hà",
+        "region": "Quảng Ninh",
+        "lat": 21.35314,
+        "lng": 107.59722,
+        "population": 47060
+    },
+    {
+        "id": 8616216,
+        "name": "Tây Mỗ",
+        "region": "Hanoi",
+        "lat": 21.00247,
+        "lng": 105.7457,
+        "population": 46469
+    },
+    {
+        "id": 1591538,
+        "name": "Bắc Kạn",
+        "region": "Thai Nguyen",
+        "lat": 22.14701,
+        "lng": 105.83481,
+        "population": 45036
+    },
+    {
+        "id": 8550302,
+        "name": "Thị Trấn Sao Vàng",
+        "region": "Thanh Hóa Province",
+        "lat": 19.88862,
+        "lng": 105.46189,
+        "population": 44643
+    },
+    {
+        "id": 1587406,
+        "name": "Hoàn Lão",
+        "region": "Quang Tri",
+        "lat": 17.58436,
+        "lng": 106.53425,
+        "population": 43554
+    },
+    {
+        "id": 8456741,
+        "name": "Lai Châu",
+        "region": "Lai Châu Province",
+        "lat": 22.39644,
+        "lng": 103.45824,
+        "population": 42973
+    },
+    {
+        "id": 9534593,
+        "name": "Ấp Một",
+        "region": "Can Tho City",
+        "lat": 9.84217,
+        "lng": 105.53602,
+        "population": 42766
+    },
+    {
+        "id": 1575057,
+        "name": "Mai Dịch",
+        "region": "Hanoi",
+        "lat": 21.03333,
+        "lng": 105.78333,
+        "population": 40527
+    },
+    {
+        "id": 1583882,
+        "name": "Đan Phượng",
+        "region": "Hanoi",
+        "lat": 21.08917,
+        "lng": 105.6625,
+        "population": 39917
+    },
+    {
+        "id": 13405688,
+        "name": "Óc Eo",
+        "region": "An Giang",
+        "lat": 10.24212,
+        "lng": 105.155,
+        "population": 39481
+    },
+    {
+        "id": 1566545,
+        "name": "Tây Tựu",
+        "region": "Hanoi",
+        "lat": 21.073,
+        "lng": 105.73,
+        "population": 39436
+    },
+    {
+        "id": 8612792,
+        "name": "Lương Bằng",
+        "region": "Hưng Yên Province",
+        "lat": 20.74003,
+        "lng": 106.05998,
+        "population": 39420
+    },
+    {
+        "id": 13680022,
+        "name": "Phú Thương",
+        "region": "Hanoi",
+        "lat": 21.08734,
+        "lng": 105.80671,
+        "population": 39322
+    },
+    {
+        "id": 1580160,
+        "name": "Hưng Mỹ",
+        "region": "Ca Mau",
+        "lat": 8.9,
+        "lng": 104.98333,
+        "population": 38687
+    },
+    {
+        "id": 1565164,
+        "name": "Thới Bình",
+        "region": "Ca Mau",
+        "lat": 9.35584,
+        "lng": 105.09929,
+        "population": 38116
+    },
+    {
+        "id": 1563683,
+        "name": "Hồng Lĩnh",
+        "region": "Hà Tĩnh Province",
+        "lat": 18.52861,
+        "lng": 105.70636,
+        "population": 36940
+    },
+    {
+        "id": 1561914,
+        "name": "Cái Đôi Vàm",
+        "region": "Ca Mau",
+        "lat": 8.85707,
+        "lng": 104.81199,
+        "population": 36444
+    },
+    {
+        "id": 12808881,
+        "name": "Ô Chợ Dừa",
+        "region": "Hanoi",
+        "lat": 21.02146,
+        "lng": 105.82464,
+        "population": 36318
+    },
+    {
+        "id": 1568759,
+        "name": "Quán Hàu",
+        "region": "Quang Tri",
+        "lat": 17.40438,
+        "lng": 106.64072,
+        "population": 36210
+    },
+    {
+        "id": 9081358,
+        "name": "Dương Minh Châu",
+        "region": "Tay Ninh",
+        "lat": 11.38414,
+        "lng": 106.23078,
+        "population": 35878
+    },
+    {
+        "id": 1562278,
+        "name": "Xã Long Hải",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.38706,
+        "lng": 107.23884,
+        "population": 35167
+    },
+    {
+        "id": 8701253,
+        "name": "A Yun Pa",
+        "region": "Gia Lai",
+        "lat": 13.40025,
+        "lng": 108.43503,
+        "population": 35058
+    },
+    {
+        "id": 1593041,
+        "name": "Ấp Long Thạnh",
+        "region": "An Giang",
+        "lat": 10.76067,
+        "lng": 105.27428,
+        "population": 34198
+    },
+    {
+        "id": 1568616,
+        "name": "Đông Phú",
+        "region": "Da Nang City",
+        "lat": 15.67356,
+        "lng": 108.2201,
+        "population": 34122
+    },
+    {
+        "id": 1581225,
+        "name": "Hàm Ninh",
+        "region": "An Giang",
+        "lat": 10.18058,
+        "lng": 104.04769,
+        "population": 33503
+    },
+    {
+        "id": 1577859,
+        "name": "Thị Trấn Lam Sơn",
+        "region": "Thanh Hóa Province",
+        "lat": 19.9047,
+        "lng": 105.40562,
+        "population": 33117
+    },
+    {
+        "id": 1570880,
+        "name": "Thị Trấn Phố Lu",
+        "region": "Lao Cai",
+        "lat": 22.31918,
+        "lng": 104.18719,
+        "population": 32800
+    },
+    {
+        "id": 1580541,
+        "name": "Hoi An",
+        "region": "Da Nang City",
+        "lat": 15.87944,
+        "lng": 108.335,
+        "population": 32757
+    },
+    {
+        "id": 1561210,
+        "name": "Xóm Mỹ Xuân",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.61667,
+        "lng": 107.06667,
+        "population": 32345
+    },
+    {
+        "id": 10126715,
+        "name": "Gành Hào",
+        "region": "Ca Mau",
+        "lat": 9.02827,
+        "lng": 105.42116,
+        "population": 31552
+    },
+    {
+        "id": 12808882,
+        "name": "Láng Thượng",
+        "region": "Hanoi",
+        "lat": 21.02374,
+        "lng": 105.8036,
+        "population": 31279
+    },
+    {
+        "id": 1584725,
+        "name": "Cô Tô",
+        "region": "An Giang",
+        "lat": 10.35,
+        "lng": 105.01667,
+        "population": 31278
+    },
+    {
+        "id": 1573570,
+        "name": "Năm Căn",
+        "region": "Ca Mau",
+        "lat": 8.75899,
+        "lng": 104.99285,
+        "population": 30135
+    },
+    {
+        "id": 1586384,
+        "name": "Cam Lộ",
+        "region": "Quang Tri",
+        "lat": 16.80797,
+        "lng": 106.99405,
+        "population": 30111
+    },
+    {
+        "id": 8616067,
+        "name": "Trâu Quỳ",
+        "region": "Hanoi",
+        "lat": 21.01951,
+        "lng": 105.93694,
+        "population": 30051
+    },
+    {
+        "id": 1586052,
+        "name": "Cát Bà",
+        "region": "Hai Phong",
+        "lat": 20.72779,
+        "lng": 107.04819,
+        "population": 30000
+    },
+    {
+        "id": 1563490,
+        "name": "Tu Bông",
+        "region": "Khanh Hoa",
+        "lat": 12.76667,
+        "lng": 109.3,
+        "population": 29751
+    },
+    {
+        "id": 1594188,
+        "name": "An Trạch",
+        "region": "Ca Mau",
+        "lat": 9.06861,
+        "lng": 105.39583,
+        "population": 28412
+    },
+    {
+        "id": 1579019,
+        "name": "Kiến An",
+        "region": "An Giang",
+        "lat": 10.56667,
+        "lng": 105.36667,
+        "population": 28333
+    },
+    {
+        "id": 1583503,
+        "name": "Dịch Vọng",
+        "region": "Hanoi",
+        "lat": 21.03333,
+        "lng": 105.8,
+        "population": 27979
+    },
+    {
+        "id": 1575655,
+        "name": "Long Thành",
+        "region": "Dong Nai",
+        "lat": 10.78909,
+        "lng": 106.95029,
+        "population": 27084
+    },
+    {
+        "id": 8616055,
+        "name": "Cầu Diễn",
+        "region": "Hanoi",
+        "lat": 21.03929,
+        "lng": 105.76659,
+        "population": 27017
+    },
+    {
+        "id": 8725037,
+        "name": "Quảng Phú",
+        "region": "Dak Lak",
+        "lat": 12.81965,
+        "lng": 108.07738,
+        "population": 26733
+    },
+    {
+        "id": 8336885,
+        "name": "Núi Sập",
+        "region": "An Giang",
+        "lat": 10.26478,
+        "lng": 105.26676,
+        "population": 25633
+    },
+    {
+        "id": 1579635,
+        "name": "Khánh Hòa",
+        "region": "An Giang",
+        "lat": 10.68333,
+        "lng": 105.16667,
+        "population": 25320
+    },
+    {
+        "id": 9000266,
+        "name": "Phú Quý",
+        "region": "Lam Dong",
+        "lat": 10.5166,
+        "lng": 108.93292,
+        "population": 25267
+    },
+    {
+        "id": 1570243,
+        "name": "Phước An",
+        "region": "Dak Lak",
+        "lat": 12.71298,
+        "lng": 108.30148,
+        "population": 25120
+    },
+    {
+        "id": 1560551,
+        "name": "Xuân Mai",
+        "region": "Hanoi",
+        "lat": 20.9,
+        "lng": 105.58333,
+        "population": 25100
+    },
+    {
+        "id": 13494192,
+        "name": "Ecopark",
+        "region": "Hưng Yên Province",
+        "lat": 20.9621,
+        "lng": 105.9318,
+        "population": 25000
+    },
+    {
+        "id": 12382295,
+        "name": "Quang Minh",
+        "region": "Hanoi",
+        "lat": 21.18884,
+        "lng": 105.77269,
+        "population": 25000
+    },
+    {
+        "id": 1578904,
+        "name": "Kim Liên",
+        "region": "Nghệ An Province",
+        "lat": 18.88333,
+        "lng": 105.31667,
+        "population": 24489
+    },
+    {
+        "id": 1562538,
+        "name": "Vị Thanh",
+        "region": "Can Tho City",
+        "lat": 9.78449,
+        "lng": 105.47012,
+        "population": 24477
+    },
+    {
+        "id": 1573844,
+        "name": "Thị Trấn Na Dương",
+        "region": "Lạng Sơn Province",
+        "lat": 21.7025,
+        "lng": 106.95552,
+        "population": 24369
+    },
+    {
+        "id": 8549745,
+        "name": "Thị Trấn Vân Du",
+        "region": "Thanh Hóa Province",
+        "lat": 20.15186,
+        "lng": 105.73097,
+        "population": 24146
+    },
+    {
+        "id": 1574113,
+        "name": "Mỹ Khê",
+        "region": "Quang Ngai",
+        "lat": 15.15,
+        "lng": 108.9,
+        "population": 23978
+    },
+    {
+        "id": 1574109,
+        "name": "Mỹ Lại",
+        "region": "Quang Ngai",
+        "lat": 15.18764,
+        "lng": 108.88904,
+        "population": 23978
+    },
+    {
+        "id": 1560121,
+        "name": "Yên Phụ",
+        "region": "Hanoi",
+        "lat": 21.03333,
+        "lng": 105.83333,
+        "population": 23942
+    },
+    {
+        "id": 1567523,
+        "name": "Nha Bích",
+        "region": "Dong Nai",
+        "lat": 11.49117,
+        "lng": 106.69074,
+        "population": 23938
+    },
+    {
+        "id": 1586798,
+        "name": "Buôn Trấp",
+        "region": "Dak Lak",
+        "lat": 12.48478,
+        "lng": 108.02982,
+        "population": 23683
+    },
+    {
+        "id": 12261368,
+        "name": "thị xã Quảng Trị",
+        "region": "Quang Tri",
+        "lat": 16.75083,
+        "lng": 107.18278,
+        "population": 23356
+    },
+    {
+        "id": 1567167,
+        "name": "Tam Giang",
+        "region": "Ca Mau",
+        "lat": 8.8,
+        "lng": 105.18333,
+        "population": 23277
+    },
+    {
+        "id": 11496088,
+        "name": "Kiên Hải",
+        "region": "An Giang",
+        "lat": 9.97274,
+        "lng": 104.8475,
+        "population": 23179
+    },
+    {
+        "id": 1564075,
+        "name": "Tràm Chim",
+        "region": "Dong Thap",
+        "lat": 10.67001,
+        "lng": 105.56469,
+        "population": 22725
+    },
+    {
+        "id": 1585531,
+        "name": "Chiềng Cơi",
+        "region": "Sơn La Province",
+        "lat": 21.3,
+        "lng": 103.9,
+        "population": 22624
+    },
+    {
+        "id": 1593289,
+        "name": "Ấp Hô Phòng",
+        "region": "Ca Mau",
+        "lat": 9.22583,
+        "lng": 105.41861,
+        "population": 22317
+    },
+    {
+        "id": 8673396,
+        "name": "Lý Sơn",
+        "region": "Quang Ngai",
+        "lat": 15.37198,
+        "lng": 109.11891,
+        "population": 22174
+    },
+    {
+        "id": 1564589,
+        "name": "Thị Trấn Tiên Yên",
+        "region": "Quảng Ninh",
+        "lat": 21.33133,
+        "lng": 107.40533,
+        "population": 22164
+    },
+    {
+        "id": 1592500,
+        "name": "Ấp Phước Tĩnh",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.4,
+        "lng": 107.18333,
+        "population": 22106
+    },
+    {
+        "id": 1583475,
+        "name": "Diễn Thành",
+        "region": "Nghệ An Province",
+        "lat": 18.97652,
+        "lng": 105.60034,
+        "population": 21605
+    },
+    {
+        "id": 13680020,
+        "name": "Lĩnh Nam",
+        "region": "Hanoi",
+        "lat": 20.97966,
+        "lng": 105.89044,
+        "population": 20706
+    },
+    {
+        "id": 8724987,
+        "name": "Ea Drăng",
+        "region": "Dak Lak",
+        "lat": 13.2045,
+        "lng": 108.21029,
+        "population": 20600
+    },
+    {
+        "id": 1575963,
+        "name": "Liễu Giai",
+        "region": "Hanoi",
+        "lat": 21.03333,
+        "lng": 105.81667,
+        "population": 20546
+    },
+    {
+        "id": 1574257,
+        "name": "Mường Lay",
+        "region": "Điện Biên Province",
+        "lat": 22,
+        "lng": 103.13333,
+        "population": 20450
+    },
+    {
+        "id": 1571725,
+        "name": "Thị Trấn Nước Hai",
+        "region": "Cao Bằng Province",
+        "lat": 22.73738,
+        "lng": 106.15216,
+        "population": 20309
+    },
+    {
+        "id": 1583752,
+        "name": "Thị Trấn Đất Đỏ",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.49093,
+        "lng": 107.27014,
+        "population": 20187
+    },
+    {
+        "id": 1565969,
+        "name": "Thị Trấn Thất Khê",
+        "region": "Lạng Sơn Province",
+        "lat": 22.25525,
+        "lng": 106.47359,
+        "population": 20153
+    },
+    {
+        "id": 13494195,
+        "name": "Vinhomes Royal City",
+        "region": "Hanoi",
+        "lat": 21.0028,
+        "lng": 105.8151,
+        "population": 20000
+    },
+    {
+        "id": 8637813,
+        "name": "Nghèn",
+        "region": "Hà Tĩnh Province",
+        "lat": 18.45119,
+        "lng": 105.77969,
+        "population": 18965
+    },
+    {
+        "id": 1580730,
+        "name": "Hoang Cau",
+        "region": "Hanoi",
+        "lat": 21.01667,
+        "lng": 105.83333,
+        "population": 18500
+    },
+    {
+        "id": 1562279,
+        "name": "Long Diền",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.48333,
+        "lng": 107.21667,
+        "population": 18093
+    },
+    {
+        "id": 1563704,
+        "name": "Thị Trấn Trùng Khánh",
+        "region": "Cao Bằng Province",
+        "lat": 22.83514,
+        "lng": 106.52496,
+        "population": 17849
+    },
+    {
+        "id": 1570909,
+        "name": "Thị Trấn Ba Chẽ",
+        "region": "Quảng Ninh",
+        "lat": 21.27158,
+        "lng": 107.28358,
+        "population": 17504
+    },
+    {
+        "id": 1572249,
+        "name": "Nhà Bè",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.69672,
+        "lng": 106.74032,
+        "population": 17264
+    },
+    {
+        "id": 1587985,
+        "name": "Bến Thủy",
+        "region": "Nghệ An Province",
+        "lat": 18.65,
+        "lng": 105.7,
+        "population": 17000
+    },
+    {
+        "id": 1563663,
+        "name": "Trung Phụng",
+        "region": "Hanoi",
+        "lat": 21,
+        "lng": 105.83333,
+        "population": 16998
+    },
+    {
+        "id": 8628018,
+        "name": "Bản Na Hỷ",
+        "region": "Nghệ An Province",
+        "lat": 19.56361,
+        "lng": 104.53459,
+        "population": 16710
+    },
+    {
+        "id": 1584955,
+        "name": "Cổ Lóa",
+        "region": "Hanoi",
+        "lat": 21.11667,
+        "lng": 105.86667,
+        "population": 16514
+    },
+    {
+        "id": 1584301,
+        "name": "Đại Lộc",
+        "region": "Da Nang City",
+        "lat": 15.88214,
+        "lng": 108.12092,
+        "population": 16215
+    },
+    {
+        "id": 1590225,
+        "name": "Ít Ong",
+        "region": "Sơn La Province",
+        "lat": 21.5175,
+        "lng": 104.02701,
+        "population": 16153
+    },
+    {
+        "id": 8473997,
+        "name": "Thị Trấn Việt Quang",
+        "region": "Tuyen Quang",
+        "lat": 22.41509,
+        "lng": 104.80682,
+        "population": 16072
+    },
+    {
+        "id": 8991407,
+        "name": "Đinh Văn",
+        "region": "Lam Dong",
+        "lat": 11.78624,
+        "lng": 108.24282,
+        "population": 16036
+    },
+    {
+        "id": 1587026,
+        "name": "Ea Pốc",
+        "region": "Dak Lak",
+        "lat": 12.77795,
+        "lng": 108.07114,
+        "population": 16033
+    },
+    {
+        "id": 1570643,
+        "name": "Phú Đô",
+        "region": "Hanoi",
+        "lat": 21.01667,
+        "lng": 105.76667,
+        "population": 15983
+    },
+    {
+        "id": 8993961,
+        "name": "Khánh Hải",
+        "region": "Khanh Hoa",
+        "lat": 11.59105,
+        "lng": 109.04052,
+        "population": 15585
+    },
+    {
+        "id": 1570209,
+        "name": "Phước Hòa",
+        "region": "Dong Nai",
+        "lat": 12.1,
+        "lng": 107.11667,
+        "population": 15418
+    },
+    {
+        "id": 8551473,
+        "name": "Bo",
+        "region": "Phu Tho",
+        "lat": 20.67264,
+        "lng": 105.53625,
+        "population": 15408
+    },
+    {
+        "id": 1593889,
+        "name": "Ấp Bình Châu",
+        "region": "Ho Chi Minh City (HCMC)",
+        "lat": 10.55,
+        "lng": 107.55,
+        "population": 15344
+    },
+    {
+        "id": 8746448,
+        "name": "Ea T’ling",
+        "region": "Lam Dong",
+        "lat": 12.58904,
+        "lng": 107.89578,
+        "population": 15342
+    },
+    {
+        "id": 1591236,
+        "name": "Bà Nà",
+        "region": "Da Nang City",
+        "lat": 15.98333,
+        "lng": 107.98333,
+        "population": 15276
+    },
+    {
+        "id": 1566029,
+        "name": "Phú Lộc",
+        "region": "Can Tho City",
+        "lat": 9.42838,
+        "lng": 105.74111,
+        "population": 15099
+    }
+]

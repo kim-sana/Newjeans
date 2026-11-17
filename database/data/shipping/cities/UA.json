@@ -1,0 +1,3226 @@
+[
+    {
+        "id": 703448,
+        "name": "Kyiv",
+        "region": "Kyiv City",
+        "lat": 50.45466,
+        "lng": 30.5238,
+        "population": 2952301
+    },
+    {
+        "id": 706483,
+        "name": "Kharkiv",
+        "region": "Kharkiv",
+        "lat": 49.98177,
+        "lng": 36.25475,
+        "population": 1421125
+    },
+    {
+        "id": 698740,
+        "name": "Odesa",
+        "region": "Odesa",
+        "lat": 46.48572,
+        "lng": 30.74383,
+        "population": 1010537
+    },
+    {
+        "id": 709930,
+        "name": "Dnipro",
+        "region": "Dnipropetrovsk",
+        "lat": 48.46664,
+        "lng": 35.04066,
+        "population": 968502
+    },
+    {
+        "id": 709717,
+        "name": "Donetsk",
+        "region": "Donetsk",
+        "lat": 48.023,
+        "lng": 37.80224,
+        "population": 901645
+    },
+    {
+        "id": 702550,
+        "name": "Lviv",
+        "region": "Lviv",
+        "lat": 49.83826,
+        "lng": 24.02324,
+        "population": 717273
+    },
+    {
+        "id": 687700,
+        "name": "Zaporizhzhya",
+        "region": "Zaporizhzhia",
+        "lat": 47.85167,
+        "lng": 35.11714,
+        "population": 710052
+    },
+    {
+        "id": 703845,
+        "name": "Kryvyy Rih",
+        "region": "Dnipropetrovsk",
+        "lat": 47.90572,
+        "lng": 33.39404,
+        "population": 603904
+    },
+    {
+        "id": 694423,
+        "name": "Sevastopol",
+        "region": "Sevastopol City",
+        "lat": 44.60795,
+        "lng": 33.52134,
+        "population": 547820
+    },
+    {
+        "id": 700569,
+        "name": "Mykolayiv",
+        "region": "Mykolaiv",
+        "lat": 46.97625,
+        "lng": 31.99296,
+        "population": 470011
+    },
+    {
+        "id": 689558,
+        "name": "Vinnytsya",
+        "region": "Vinnytsia",
+        "lat": 49.2322,
+        "lng": 28.46871,
+        "population": 430091
+    },
+    {
+        "id": 6722148,
+        "name": "Saltivka",
+        "region": "Kharkiv",
+        "lat": 50.02207,
+        "lng": 36.34901,
+        "population": 409300
+    },
+    {
+        "id": 702658,
+        "name": "Luhansk",
+        "region": "Luhansk",
+        "lat": 48.56814,
+        "lng": 39.30553,
+        "population": 397677
+    },
+    {
+        "id": 13546519,
+        "name": "Desna",
+        "region": "Kyiv City",
+        "lat": 50.52207,
+        "lng": 30.68228,
+        "population": 368500
+    },
+    {
+        "id": 13546518,
+        "name": "Dniprovskyi",
+        "region": "Kyiv City",
+        "lat": 50.45366,
+        "lng": 30.60146,
+        "population": 357900
+    },
+    {
+        "id": 13580034,
+        "name": "Pravyi Bereh",
+        "region": "Donetsk",
+        "lat": 47.11498,
+        "lng": 37.58519,
+        "population": 352088
+    },
+    {
+        "id": 13580095,
+        "name": "Darnytsya",
+        "region": "Kyiv City",
+        "lat": 50.41596,
+        "lng": 30.69534,
+        "population": 343384
+    },
+    {
+        "id": 702320,
+        "name": "Makiyivka",
+        "region": "Donetsk",
+        "lat": 48.04782,
+        "lng": 37.92576,
+        "population": 338968
+    },
+    {
+        "id": 693805,
+        "name": "Simferopol",
+        "region": "Crimea",
+        "lat": 44.95719,
+        "lng": 34.11079,
+        "population": 336460
+    },
+    {
+        "id": 13680598,
+        "name": "Saltivskyi",
+        "region": "Kharkiv",
+        "lat": 49.99897,
+        "lng": 36.31605,
+        "population": 302600
+    },
+    {
+        "id": 710735,
+        "name": "Chernihiv",
+        "region": "Chernihiv Oblast",
+        "lat": 51.50541,
+        "lng": 31.28656,
+        "population": 282747
+    },
+    {
+        "id": 696643,
+        "name": "Poltava",
+        "region": "Poltava",
+        "lat": 49.58925,
+        "lng": 34.55367,
+        "population": 279593
+    },
+    {
+        "id": 706369,
+        "name": "Khmelnytskyi",
+        "region": "Khmelnytskyi",
+        "lat": 49.41835,
+        "lng": 26.97936,
+        "population": 274452
+    },
+    {
+        "id": 710791,
+        "name": "Cherkasy",
+        "region": "Cherkasy",
+        "lat": 49.44452,
+        "lng": 32.05738,
+        "population": 269836
+    },
+    {
+        "id": 710719,
+        "name": "Chernivtsi",
+        "region": "Chernivtsi",
+        "lat": 48.29045,
+        "lng": 25.93241,
+        "population": 264298
+    },
+    {
+        "id": 686967,
+        "name": "Zhytomyr",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.26235,
+        "lng": 28.67913,
+        "population": 261624
+    },
+    {
+        "id": 692194,
+        "name": "Sumy",
+        "region": "Sumy",
+        "lat": 50.91741,
+        "lng": 34.79906,
+        "population": 256474
+    },
+    {
+        "id": 695594,
+        "name": "Rivne",
+        "region": "Rivne Oblast",
+        "lat": 50.62036,
+        "lng": 26.23695,
+        "population": 243873
+    },
+    {
+        "id": 688758,
+        "name": "Vyhurivshchyna-Troyeshchyna",
+        "region": "Kyiv City",
+        "lat": 50.51137,
+        "lng": 30.60251,
+        "population": 240000
+    },
+    {
+        "id": 707753,
+        "name": "Horlivka",
+        "region": "Donetsk",
+        "lat": 48.29986,
+        "lng": 38.01709,
+        "population": 239828
+    },
+    {
+        "id": 8519916,
+        "name": "Obolon",
+        "region": "Kyiv City",
+        "lat": 50.5132,
+        "lng": 30.5055,
+        "population": 239500
+    },
+    {
+        "id": 707471,
+        "name": "Ivano-Frankivsk",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.92312,
+        "lng": 24.71248,
+        "population": 238196
+    },
+    {
+        "id": 701822,
+        "name": "Mariupol",
+        "region": "Donetsk",
+        "lat": 47.09514,
+        "lng": 37.54131,
+        "population": 230000
+    },
+    {
+        "id": 709932,
+        "name": "Kamyanske",
+        "region": "Dnipropetrovsk",
+        "lat": 48.51716,
+        "lng": 34.60617,
+        "population": 226845
+    },
+    {
+        "id": 691650,
+        "name": "Ternopil",
+        "region": "Ternopil",
+        "lat": 49.55404,
+        "lng": 25.59067,
+        "population": 225238
+    },
+    {
+        "id": 704147,
+        "name": "Kremenchuk",
+        "region": "Poltava",
+        "lat": 49.06253,
+        "lng": 33.40484,
+        "population": 224997
+    },
+    {
+        "id": 13680601,
+        "name": "Shevchenkivskyi",
+        "region": "Kharkiv",
+        "lat": 50.02021,
+        "lng": 36.22468,
+        "population": 220660
+    },
+    {
+        "id": 13546521,
+        "name": "Shevchenkivskyi",
+        "region": "Kyiv City",
+        "lat": 50.46408,
+        "lng": 30.46576,
+        "population": 220077
+    },
+    {
+        "id": 705812,
+        "name": "Kropyvnytskyi",
+        "region": "Kirovohrad",
+        "lat": 48.50834,
+        "lng": 32.26618,
+        "population": 219676
+    },
+    {
+        "id": 702569,
+        "name": "Lutsk",
+        "region": "Volyn",
+        "lat": 50.75784,
+        "lng": 25.35024,
+        "population": 215986
+    },
+    {
+        "id": 712165,
+        "name": "Bila Tserkva",
+        "region": "Kyiv Oblast",
+        "lat": 49.7994,
+        "lng": 30.1165,
+        "population": 207273
+    },
+    {
+        "id": 13607660,
+        "name": "Verhunskyi",
+        "region": "Luhansk",
+        "lat": 48.58573,
+        "lng": 39.37158,
+        "population": 185593
+    },
+    {
+        "id": 13680589,
+        "name": "Kyivskyi",
+        "region": "Kharkiv",
+        "lat": 50.04475,
+        "lng": 36.28883,
+        "population": 182900
+    },
+    {
+        "id": 11778464,
+        "name": "Borshchahivka",
+        "region": "Kyiv City",
+        "lat": 50.4316,
+        "lng": 30.3899,
+        "population": 179900
+    },
+    {
+        "id": 13608465,
+        "name": "Desnyanskyi",
+        "region": "Chernihiv Oblast",
+        "lat": 51.50631,
+        "lng": 31.3168,
+        "population": 179600
+    },
+    {
+        "id": 13608468,
+        "name": "Novozavodskyi",
+        "region": "Chernihiv Oblast",
+        "lat": 51.4893,
+        "lng": 31.25634,
+        "population": 179600
+    },
+    {
+        "id": 13607722,
+        "name": "Tsentralnyi",
+        "region": "Donetsk",
+        "lat": 47.09833,
+        "lng": 37.54838,
+        "population": 179582
+    },
+    {
+        "id": 13561146,
+        "name": "Rutchenkivskyi",
+        "region": "Donetsk",
+        "lat": 47.97597,
+        "lng": 37.69677,
+        "population": 168029
+    },
+    {
+        "id": 13546531,
+        "name": "Fortechnyi",
+        "region": "Kirovohrad",
+        "lat": 48.49865,
+        "lng": 32.25365,
+        "population": 167451
+    },
+    {
+        "id": 700022,
+        "name": "Nyzhnodniprovsk",
+        "region": "Dnipropetrovsk",
+        "lat": 48.47546,
+        "lng": 35.1167,
+        "population": 160123
+    },
+    {
+        "id": 13680588,
+        "name": "Industrialnyi",
+        "region": "Kharkiv",
+        "lat": 49.95458,
+        "lng": 36.36915,
+        "population": 157900
+    },
+    {
+        "id": 693821,
+        "name": "Sykhiv",
+        "region": "Lviv",
+        "lat": 49.79427,
+        "lng": 24.06284,
+        "population": 151131
+    },
+    {
+        "id": 13607718,
+        "name": "Zarichnyi",
+        "region": "Sumy",
+        "lat": 50.90376,
+        "lng": 34.80933,
+        "population": 150694
+    },
+    {
+        "id": 706524,
+        "name": "Kerch",
+        "region": "Crimea",
+        "lat": 45.35675,
+        "lng": 36.47542,
+        "population": 148932
+    },
+    {
+        "id": 701404,
+        "name": "Melitopol",
+        "region": "Zaporizhzhia",
+        "lat": 46.84735,
+        "lng": 35.38196,
+        "population": 148851
+    },
+    {
+        "id": 13561779,
+        "name": "Shevchenko",
+        "region": "Poltava",
+        "lat": 49.5645,
+        "lng": 34.53873,
+        "population": 147600
+    },
+    {
+        "id": 711874,
+        "name": "Bohuniya",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.27691,
+        "lng": 28.60962,
+        "population": 147324
+    },
+    {
+        "id": 704508,
+        "name": "Kramatorsk",
+        "region": "Donetsk",
+        "lat": 48.73106,
+        "lng": 37.56779,
+        "population": 147145
+    },
+    {
+        "id": 13680599,
+        "name": "Slobidskyi",
+        "region": "Kharkiv",
+        "lat": 49.94479,
+        "lng": 36.2813,
+        "population": 146850
+    },
+    {
+        "id": 13680590,
+        "name": "Nemyshlyanskyi",
+        "region": "Kharkiv",
+        "lat": 49.96437,
+        "lng": 36.33385,
+        "population": 144200
+    },
+    {
+        "id": 13607717,
+        "name": "Kovpakivskyi",
+        "region": "Sumy",
+        "lat": 50.92508,
+        "lng": 34.79484,
+        "population": 142447
+    },
+    {
+        "id": 13561145,
+        "name": "Kyivskyi",
+        "region": "Donetsk",
+        "lat": 48.04646,
+        "lng": 37.77571,
+        "population": 139177
+    },
+    {
+        "id": 13561808,
+        "name": "Rayon KhTZ",
+        "region": "Kharkiv",
+        "lat": 49.94349,
+        "lng": 36.36959,
+        "population": 131000
+    },
+    {
+        "id": 13580316,
+        "name": "Mykilska Borshchahivka",
+        "region": "Kyiv City",
+        "lat": 50.42638,
+        "lng": 30.37442,
+        "population": 127400
+    },
+    {
+        "id": 13607661,
+        "name": "Vilkhivskyi",
+        "region": "Luhansk",
+        "lat": 48.54327,
+        "lng": 39.28201,
+        "population": 126340
+    },
+    {
+        "id": 13607724,
+        "name": "Livoberezhnyi",
+        "region": "Donetsk",
+        "lat": 47.1093,
+        "lng": 37.64306,
+        "population": 122175
+    },
+    {
+        "id": 9983718,
+        "name": "Cheremushky",
+        "region": "Odesa",
+        "lat": 46.43251,
+        "lng": 30.71151,
+        "population": 120000
+    },
+    {
+        "id": 13607719,
+        "name": "Tsentralno-Miskyi",
+        "region": "Donetsk",
+        "lat": 48.30237,
+        "lng": 38.03165,
+        "population": 118283
+    },
+    {
+        "id": 13607653,
+        "name": "Smolyanskyi",
+        "region": "Donetsk",
+        "lat": 48.01435,
+        "lng": 37.73586,
+        "population": 116779
+    },
+    {
+        "id": 690548,
+        "name": "Uzhhorod",
+        "region": "Zakarpattia",
+        "lat": 48.6242,
+        "lng": 22.2947,
+        "population": 115449
+    },
+    {
+        "id": 13609094,
+        "name": "Korolyov",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.24487,
+        "lng": 28.70013,
+        "population": 114034
+    },
+    {
+        "id": 13561778,
+        "name": "Kyivskyi",
+        "region": "Poltava",
+        "lat": 49.60902,
+        "lng": 34.52933,
+        "population": 110600
+    },
+    {
+        "id": 711390,
+        "name": "Brovary",
+        "region": "Kyiv Oblast",
+        "lat": 50.51097,
+        "lng": 30.79106,
+        "population": 109806
+    },
+    {
+        "id": 13680594,
+        "name": "Novobavarskyi",
+        "region": "Kharkiv",
+        "lat": 49.95143,
+        "lng": 36.16499,
+        "population": 108100
+    },
+    {
+        "id": 13607657,
+        "name": "Hirnytskyi",
+        "region": "Donetsk",
+        "lat": 48.0211,
+        "lng": 37.96914,
+        "population": 107216
+    },
+    {
+        "id": 688105,
+        "name": "Yevpatoriya",
+        "region": "Crimea",
+        "lat": 45.20091,
+        "lng": 33.36655,
+        "population": 107040
+    },
+    {
+        "id": 712451,
+        "name": "Berdyansk",
+        "region": "Zaporizhzhia",
+        "lat": 46.75578,
+        "lng": 36.78815,
+        "population": 106311
+    },
+    {
+        "id": 713716,
+        "name": "Alchevsk",
+        "region": "Luhansk",
+        "lat": 48.46906,
+        "lng": 38.79744,
+        "population": 106062
+    },
+    {
+        "id": 700051,
+        "name": "Nikopol",
+        "region": "Dnipropetrovsk",
+        "lat": 47.56826,
+        "lng": 34.39126,
+        "population": 105160
+    },
+    {
+        "id": 693468,
+        "name": "Slovyansk",
+        "region": "Donetsk",
+        "lat": 48.84974,
+        "lng": 37.59739,
+        "population": 105141
+    },
+    {
+        "id": 13580094,
+        "name": "Pozniaky",
+        "region": "Kyiv City",
+        "lat": 50.40259,
+        "lng": 30.62352,
+        "population": 104400
+    },
+    {
+        "id": 13561144,
+        "name": "Kalynivskyi",
+        "region": "Donetsk",
+        "lat": 48.00741,
+        "lng": 37.85378,
+        "population": 103249
+    },
+    {
+        "id": 13561150,
+        "name": "Chumakivskyi",
+        "region": "Donetsk",
+        "lat": 47.95671,
+        "lng": 37.94194,
+        "population": 103005
+    },
+    {
+        "id": 13645605,
+        "name": "Skhidni Kvartaly",
+        "region": "Luhansk",
+        "lat": 48.56622,
+        "lng": 39.38256,
+        "population": 102500
+    },
+    {
+        "id": 13607720,
+        "name": "Kindrativskyi",
+        "region": "Donetsk",
+        "lat": 48.30282,
+        "lng": 38.05475,
+        "population": 101565
+    },
+    {
+        "id": 13607723,
+        "name": "Kalmiuskyi",
+        "region": "Donetsk",
+        "lat": 47.11046,
+        "lng": 37.54375,
+        "population": 101498
+    },
+    {
+        "id": 697889,
+        "name": "Pavlohrad",
+        "region": "Dnipropetrovsk",
+        "lat": 48.53214,
+        "lng": 35.86878,
+        "population": 101430
+    },
+    {
+        "id": 13535745,
+        "name": "Pechersk",
+        "region": "Kyiv City",
+        "lat": 50.44441,
+        "lng": 30.52348,
+        "population": 100900
+    },
+    {
+        "id": 12500938,
+        "name": "Oleksiyivka",
+        "region": "Kharkiv",
+        "lat": 50.04516,
+        "lng": 36.19322,
+        "population": 100500
+    },
+    {
+        "id": 13561149,
+        "name": "Oleksandrivskyi",
+        "region": "Donetsk",
+        "lat": 47.96788,
+        "lng": 37.80335,
+        "population": 100330
+    },
+    {
+        "id": 691999,
+        "name": "Siverskodonetsk",
+        "region": "Luhansk",
+        "lat": 48.94414,
+        "lng": 38.48754,
+        "population": 99067
+    },
+    {
+        "id": 706950,
+        "name": "Kamyanets-Podilskyi",
+        "region": "Khmelnytskyi",
+        "lat": 48.67882,
+        "lng": 26.58516,
+        "population": 97908
+    },
+    {
+        "id": 13607654,
+        "name": "Tsentralno-Miskyi",
+        "region": "Donetsk",
+        "lat": 48.06167,
+        "lng": 37.97157,
+        "population": 94417
+    },
+    {
+        "id": 13561143,
+        "name": "Yuzivskyi",
+        "region": "Donetsk",
+        "lat": 48,
+        "lng": 37.80006,
+        "population": 94228
+    },
+    {
+        "id": 13580317,
+        "name": "Kharkivskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.40848,
+        "lng": 30.66006,
+        "population": 93700
+    },
+    {
+        "id": 702972,
+        "name": "Lysychansk",
+        "region": "Luhansk",
+        "lat": 48.91211,
+        "lng": 38.42088,
+        "population": 93340
+    },
+    {
+        "id": 13680597,
+        "name": "Osnovyanskyi",
+        "region": "Kharkiv",
+        "lat": 49.93657,
+        "lng": 36.24128,
+        "population": 93000
+    },
+    {
+        "id": 13561142,
+        "name": "Bohodukhivskyi",
+        "region": "Donetsk",
+        "lat": 47.96688,
+        "lng": 37.86255,
+        "population": 90600
+    },
+    {
+        "id": 13680600,
+        "name": "Kholodna Hora",
+        "region": "Kharkiv",
+        "lat": 50.0042,
+        "lng": 36.1762,
+        "population": 89000
+    },
+    {
+        "id": 13607659,
+        "name": "Shevchenkivskyi",
+        "region": "Luhansk",
+        "lat": 48.56346,
+        "lng": 39.33216,
+        "population": 87516
+    },
+    {
+        "id": 13580119,
+        "name": "Lisovyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.4725,
+        "lng": 30.63113,
+        "population": 87300
+    },
+    {
+        "id": 13546532,
+        "name": "Podilskyi",
+        "region": "Kirovohrad",
+        "lat": 48.50357,
+        "lng": 32.28035,
+        "population": 86652
+    },
+    {
+        "id": 13713025,
+        "name": "Kosmichnyi",
+        "region": "Zaporizhzhia",
+        "lat": 47.78413,
+        "lng": 35.21763,
+        "population": 85651
+    },
+    {
+        "id": 700646,
+        "name": "Mukachevo",
+        "region": "Zakarpattia",
+        "lat": 48.44248,
+        "lng": 22.718,
+        "population": 85569
+    },
+    {
+        "id": 697302,
+        "name": "Voznesenskyi",
+        "region": "Donetsk",
+        "lat": 47.93161,
+        "lng": 37.62971,
+        "population": 85399
+    },
+    {
+        "id": 705135,
+        "name": "Konotop",
+        "region": "Sumy",
+        "lat": 51.23251,
+        "lng": 33.2004,
+        "population": 84787
+    },
+    {
+        "id": 13580098,
+        "name": "Voskresenka",
+        "region": "Kyiv City",
+        "lat": 50.48481,
+        "lng": 30.6032,
+        "population": 84200
+    },
+    {
+        "id": 13731714,
+        "name": "Moldavanka",
+        "region": "Odesa",
+        "lat": 46.47523,
+        "lng": 30.71596,
+        "population": 82000
+    },
+    {
+        "id": 690688,
+        "name": "Uman",
+        "region": "Cherkasy",
+        "lat": 48.7501,
+        "lng": 30.21944,
+        "population": 81525
+    },
+    {
+        "id": 13607658,
+        "name": "Berestovskyi",
+        "region": "Donetsk",
+        "lat": 48.04426,
+        "lng": 37.87654,
+        "population": 80671
+    },
+    {
+        "id": 713174,
+        "name": "Bakhmut",
+        "region": "Donetsk",
+        "lat": 48.59419,
+        "lng": 37.99886,
+        "population": 80500
+    },
+    {
+        "id": 704202,
+        "name": "Khrustalnyi",
+        "region": "Luhansk",
+        "lat": 48.14241,
+        "lng": 38.92369,
+        "population": 79533
+    },
+    {
+        "id": 688533,
+        "name": "Yalta",
+        "region": "Crimea",
+        "lat": 44.50218,
+        "lng": 34.16624,
+        "population": 77003
+    },
+    {
+        "id": 688148,
+        "name": "Yenakiyeve",
+        "region": "Donetsk",
+        "lat": 48.23857,
+        "lng": 38.20403,
+        "population": 76673
+    },
+    {
+        "id": 698625,
+        "name": "Oleksandriya",
+        "region": "Kirovohrad",
+        "lat": 48.67466,
+        "lng": 33.11761,
+        "population": 76097
+    },
+    {
+        "id": 13561228,
+        "name": "Tekstylnyk",
+        "region": "Donetsk",
+        "lat": 47.94594,
+        "lng": 37.69848,
+        "population": 75000
+    },
+    {
+        "id": 709611,
+        "name": "Drohobych",
+        "region": "Lviv",
+        "lat": 49.35196,
+        "lng": 23.51121,
+        "population": 73682
+    },
+    {
+        "id": 13580115,
+        "name": "Chokolivka",
+        "region": "Kyiv City",
+        "lat": 50.42444,
+        "lng": 30.44732,
+        "population": 73600
+    },
+    {
+        "id": 692975,
+        "name": "Kadiyivka",
+        "region": "Luhansk",
+        "lat": 48.56818,
+        "lng": 38.64352,
+        "population": 73248
+    },
+    {
+        "id": 693942,
+        "name": "Shostka",
+        "region": "Sumy",
+        "lat": 51.86434,
+        "lng": 33.47283,
+        "population": 73197
+    },
+    {
+        "id": 712441,
+        "name": "Berdychiv",
+        "region": "Zhytomyr Oblast",
+        "lat": 49.89421,
+        "lng": 28.58236,
+        "population": 73046
+    },
+    {
+        "id": 11145146,
+        "name": "Livyi Bereh",
+        "region": "Dnipropetrovsk",
+        "lat": 48.59381,
+        "lng": 34.56034,
+        "population": 71809
+    },
+    {
+        "id": 13580041,
+        "name": "Nyvky",
+        "region": "Kyiv City",
+        "lat": 50.46461,
+        "lng": 30.40593,
+        "population": 71700
+    },
+    {
+        "id": 694382,
+        "name": "Shakhtarsk",
+        "region": "Donetsk",
+        "lat": 48.05657,
+        "lng": 38.43826,
+        "population": 71700
+    },
+    {
+        "id": 13607725,
+        "name": "Prymorskyi",
+        "region": "Donetsk",
+        "lat": 47.07098,
+        "lng": 37.49973,
+        "population": 71008
+    },
+    {
+        "id": 699445,
+        "name": "Samar",
+        "region": "Dnipropetrovsk",
+        "lat": 48.62893,
+        "lng": 35.2589,
+        "population": 70550
+    },
+    {
+        "id": 13607721,
+        "name": "Mykytivskyi",
+        "region": "Donetsk",
+        "lat": 48.31421,
+        "lng": 38.00378,
+        "population": 70474
+    },
+    {
+        "id": 707308,
+        "name": "Izmayil",
+        "region": "Odesa",
+        "lat": 45.35058,
+        "lng": 28.83751,
+        "population": 69932
+    },
+    {
+        "id": 13580113,
+        "name": "Vidradnyi",
+        "region": "Kyiv City",
+        "lat": 50.43194,
+        "lng": 30.42231,
+        "population": 69800
+    },
+    {
+        "id": 13580117,
+        "name": "Darnytskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.44311,
+        "lng": 30.62759,
+        "population": 68900
+    },
+    {
+        "id": 709161,
+        "name": "Feodosiya",
+        "region": "Crimea",
+        "lat": 45.03199,
+        "lng": 35.38153,
+        "population": 68562
+    },
+    {
+        "id": 704617,
+        "name": "Kovel",
+        "region": "Volyn",
+        "lat": 51.21548,
+        "lng": 24.70077,
+        "population": 67575
+    },
+    {
+        "id": 705104,
+        "name": "Kostyantynivka",
+        "region": "Donetsk",
+        "lat": 48.52728,
+        "lng": 37.70594,
+        "population": 67350
+    },
+    {
+        "id": 699942,
+        "name": "Nizhyn",
+        "region": "Chernihiv Oblast",
+        "lat": 51.04772,
+        "lng": 31.88844,
+        "population": 66983
+    },
+    {
+        "id": 705008,
+        "name": "Korabelna Storona",
+        "region": "Sevastopol City",
+        "lat": 44.60948,
+        "lng": 33.54348,
+        "population": 66686
+    },
+    {
+        "id": 693457,
+        "name": "Smila",
+        "region": "Cherkasy",
+        "lat": 49.23295,
+        "lng": 31.88427,
+        "population": 66475
+    },
+    {
+        "id": 706448,
+        "name": "Kherson",
+        "region": "Kherson",
+        "lat": 46.63695,
+        "lng": 32.61458,
+        "population": 66000
+    },
+    {
+        "id": 707565,
+        "name": "Irpin",
+        "region": "Kyiv Oblast",
+        "lat": 50.52201,
+        "lng": 30.24037,
+        "population": 65167
+    },
+    {
+        "id": 707099,
+        "name": "Kalush",
+        "region": "Ivano-Frankivsk",
+        "lat": 49.02398,
+        "lng": 24.37206,
+        "population": 65088
+    },
+    {
+        "id": 710554,
+        "name": "Sheptytskyi",
+        "region": "Lviv",
+        "lat": 50.39403,
+        "lng": 24.23935,
+        "population": 64297
+    },
+    {
+        "id": 711660,
+        "name": "Boryspil",
+        "region": "Kyiv Oblast",
+        "lat": 50.35051,
+        "lng": 30.95263,
+        "population": 64117
+    },
+    {
+        "id": 692105,
+        "name": "Dovzhansk",
+        "region": "Luhansk",
+        "lat": 48.07615,
+        "lng": 39.64744,
+        "population": 62691
+    },
+    {
+        "id": 697593,
+        "name": "Pervomaysk",
+        "region": "Mykolaiv",
+        "lat": 48.04478,
+        "lng": 30.84784,
+        "population": 62426
+    },
+    {
+        "id": 13535744,
+        "name": "Holosiyiv",
+        "region": "Kyiv City",
+        "lat": 50.34433,
+        "lng": 30.55178,
+        "population": 62200
+    },
+    {
+        "id": 13580130,
+        "name": "Shulyavka",
+        "region": "Kyiv City",
+        "lat": 50.45356,
+        "lng": 30.4531,
+        "population": 62200
+    },
+    {
+        "id": 707601,
+        "name": "Inhulets",
+        "region": "Dnipropetrovsk",
+        "lat": 47.7301,
+        "lng": 33.25189,
+        "population": 62173
+    },
+    {
+        "id": 704901,
+        "name": "Korosten",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.9512,
+        "lng": 28.63859,
+        "population": 61496
+    },
+    {
+        "id": 692372,
+        "name": "Stryi",
+        "region": "Lviv",
+        "lat": 49.26103,
+        "lng": 23.84845,
+        "population": 61404
+    },
+    {
+        "id": 705392,
+        "name": "Kolomyia",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.52496,
+        "lng": 25.03712,
+        "population": 60821
+    },
+    {
+        "id": 704422,
+        "name": "Pokrovsk",
+        "region": "Donetsk",
+        "lat": 48.28014,
+        "lng": 37.17706,
+        "population": 60127
+    },
+    {
+        "id": 707688,
+        "name": "Chornomors’k",
+        "region": "Odesa",
+        "lat": 46.29914,
+        "lng": 30.65529,
+        "population": 57983
+    },
+    {
+        "id": 13580103,
+        "name": "Vynohradar",
+        "region": "Kyiv City",
+        "lat": 50.51429,
+        "lng": 30.42452,
+        "population": 57500
+    },
+    {
+        "id": 706466,
+        "name": "Khartsyzk",
+        "region": "Donetsk",
+        "lat": 48.04277,
+        "lng": 38.14025,
+        "population": 56182
+    },
+    {
+        "id": 699553,
+        "name": "Zvyahel",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.59141,
+        "lng": 27.60884,
+        "population": 55925
+    },
+    {
+        "id": 693381,
+        "name": "Snizhne",
+        "region": "Donetsk",
+        "lat": 48.02328,
+        "lng": 38.76205,
+        "population": 55587
+    },
+    {
+        "id": 695274,
+        "name": "Rubizhne",
+        "region": "Luhansk",
+        "lat": 49.00849,
+        "lng": 38.37972,
+        "population": 55247
+    },
+    {
+        "id": 702760,
+        "name": "Lozova",
+        "region": "Kharkiv",
+        "lat": 48.89066,
+        "lng": 36.31412,
+        "population": 54026
+    },
+    {
+        "id": 616743,
+        "name": "Druzhkivka",
+        "region": "Donetsk",
+        "lat": 48.61995,
+        "lng": 37.52537,
+        "population": 53977
+    },
+    {
+        "id": 691374,
+        "name": "Chystyakove",
+        "region": "Donetsk",
+        "lat": 48.03876,
+        "lng": 38.59685,
+        "population": 53462
+    },
+    {
+        "id": 693065,
+        "name": "Sotsmisto",
+        "region": "Donetsk",
+        "lat": 48.73663,
+        "lng": 37.59075,
+        "population": 53370
+    },
+    {
+        "id": 13607655,
+        "name": "Khanzhonkivskyi",
+        "region": "Donetsk",
+        "lat": 48.09512,
+        "lng": 38.04202,
+        "population": 53040
+    },
+    {
+        "id": 13535747,
+        "name": "Svyatoshyn",
+        "region": "Kyiv City",
+        "lat": 50.46341,
+        "lng": 30.34612,
+        "population": 53000
+    },
+    {
+        "id": 709276,
+        "name": "Enerhodar",
+        "region": "Zaporizhzhia",
+        "lat": 47.49048,
+        "lng": 34.66199,
+        "population": 52887
+    },
+    {
+        "id": 696108,
+        "name": "Pryluky",
+        "region": "Chernihiv Oblast",
+        "lat": 50.59525,
+        "lng": 32.38382,
+        "population": 52553
+    },
+    {
+        "id": 13607656,
+        "name": "Hruzkyi",
+        "region": "Donetsk",
+        "lat": 48.0651,
+        "lng": 37.93619,
+        "population": 52265
+    },
+    {
+        "id": 713259,
+        "name": "Antratsyt",
+        "region": "Luhansk",
+        "lat": 48.11638,
+        "lng": 39.08863,
+        "population": 52150
+    },
+    {
+        "id": 13645618,
+        "name": "Pivdenna Borshchahivka",
+        "region": "Kyiv City",
+        "lat": 50.41059,
+        "lng": 30.40396,
+        "population": 50500
+    },
+    {
+        "id": 13561148,
+        "name": "Bosse",
+        "region": "Donetsk",
+        "lat": 47.95519,
+        "lng": 37.8003,
+        "population": 50000
+    },
+    {
+        "id": 6559559,
+        "name": "Horishni Plavni",
+        "region": "Poltava",
+        "lat": 49.00835,
+        "lng": 33.62926,
+        "population": 49854
+    },
+    {
+        "id": 699035,
+        "name": "Novovolynsk",
+        "region": "Volyn",
+        "lat": 50.72949,
+        "lng": 24.15976,
+        "population": 49772
+    },
+    {
+        "id": 704403,
+        "name": "Sorokyne",
+        "region": "Luhansk",
+        "lat": 48.29329,
+        "lng": 39.7332,
+        "population": 49352
+    },
+    {
+        "id": 13645623,
+        "name": "Nova Zabudova",
+        "region": "Kyiv City",
+        "lat": 50.42811,
+        "lng": 30.5153,
+        "population": 49000
+    },
+    {
+        "id": 712160,
+        "name": "Bilhorod-Dnistrovskyi",
+        "region": "Odesa",
+        "lat": 46.19484,
+        "lng": 30.34827,
+        "population": 47727
+    },
+    {
+        "id": 713749,
+        "name": "Okhtyrka",
+        "region": "Sumy",
+        "lat": 50.30852,
+        "lng": 34.89468,
+        "population": 47216
+    },
+    {
+        "id": 710035,
+        "name": "Myrnohrad",
+        "region": "Donetsk",
+        "lat": 48.3099,
+        "lng": 37.26513,
+        "population": 46098
+    },
+    {
+        "id": 13580096,
+        "name": "Berezniaky",
+        "region": "Kyiv City",
+        "lat": 50.42627,
+        "lng": 30.60218,
+        "population": 46000
+    },
+    {
+        "id": 707292,
+        "name": "Izyum",
+        "region": "Kharkiv",
+        "lat": 49.20697,
+        "lng": 37.27679,
+        "population": 45884
+    },
+    {
+        "id": 699871,
+        "name": "Nova Darnytsya",
+        "region": "Kyiv City",
+        "lat": 50.42405,
+        "lng": 30.6558,
+        "population": 45700
+    },
+    {
+        "id": 13580126,
+        "name": "Syrets",
+        "region": "Kyiv City",
+        "lat": 50.47955,
+        "lng": 30.44491,
+        "population": 45600
+    },
+    {
+        "id": 695379,
+        "name": "Rovenky",
+        "region": "Luhansk",
+        "lat": 48.08277,
+        "lng": 39.37696,
+        "population": 45514
+    },
+    {
+        "id": 6723024,
+        "name": "Pivnichna Saltivka",
+        "region": "Kharkiv",
+        "lat": 50.04512,
+        "lng": 36.35905,
+        "population": 45000
+    },
+    {
+        "id": 701855,
+        "name": "Marhanets",
+        "region": "Dnipropetrovsk",
+        "lat": 47.63088,
+        "lng": 34.6245,
+        "population": 44980
+    },
+    {
+        "id": 711369,
+        "name": "Bryanka",
+        "region": "Luhansk",
+        "lat": 48.511,
+        "lng": 38.67222,
+        "population": 44760
+    },
+    {
+        "id": 702723,
+        "name": "Lubny",
+        "region": "Poltava",
+        "lat": 50.01413,
+        "lng": 32.99975,
+        "population": 44595
+    },
+    {
+        "id": 699839,
+        "name": "Nova Kakhovka",
+        "region": "Kherson",
+        "lat": 46.75966,
+        "lng": 33.35591,
+        "population": 44427
+    },
+    {
+        "id": 709248,
+        "name": "Fastiv",
+        "region": "Kyiv Oblast",
+        "lat": 50.07796,
+        "lng": 29.91963,
+        "population": 44014
+    },
+    {
+        "id": 11139621,
+        "name": "Molodizhne",
+        "region": "Poltava",
+        "lat": 49.1504,
+        "lng": 33.4305,
+        "population": 44000
+    },
+    {
+        "id": 692087,
+        "name": "Svitlovodsk",
+        "region": "Kirovohrad",
+        "lat": 49.06287,
+        "lng": 33.2458,
+        "population": 43130
+    },
+    {
+        "id": 689487,
+        "name": "Vyshneve",
+        "region": "Kyiv Oblast",
+        "lat": 50.38834,
+        "lng": 30.36809,
+        "population": 42983
+    },
+    {
+        "id": 13607662,
+        "name": "Kamyanobridskyi",
+        "region": "Luhansk",
+        "lat": 48.5865,
+        "lng": 39.28092,
+        "population": 42396
+    },
+    {
+        "id": 711350,
+        "name": "Bucha",
+        "region": "Kyiv Oblast",
+        "lat": 50.54741,
+        "lng": 30.20879,
+        "population": 42279
+    },
+    {
+        "id": 687196,
+        "name": "Zhovti Vody",
+        "region": "Dnipropetrovsk",
+        "lat": 48.34518,
+        "lng": 33.49743,
+        "population": 42052
+    },
+    {
+        "id": 8341919,
+        "name": "Varash",
+        "region": "Rivne Oblast",
+        "lat": 51.34038,
+        "lng": 25.85547,
+        "population": 42000
+    },
+    {
+        "id": 13580099,
+        "name": "Stare Misto",
+        "region": "Kyiv City",
+        "lat": 50.44759,
+        "lng": 30.52635,
+        "population": 41800
+    },
+    {
+        "id": 709334,
+        "name": "Dzhankoy",
+        "region": "Crimea",
+        "lat": 45.7131,
+        "lng": 34.39273,
+        "population": 41731
+    },
+    {
+        "id": 13608551,
+        "name": "Hladkivka",
+        "region": "Donetsk",
+        "lat": 48.03556,
+        "lng": 37.81009,
+        "population": 41500
+    },
+    {
+        "id": 694216,
+        "name": "Shepetivka",
+        "region": "Khmelnytskyi",
+        "lat": 50.18118,
+        "lng": 27.06517,
+        "population": 40802
+    },
+    {
+        "id": 13645588,
+        "name": "Sonyachnyi",
+        "region": "Donetsk",
+        "lat": 48.72284,
+        "lng": 37.5981,
+        "population": 40650
+    },
+    {
+        "id": 712631,
+        "name": "Bilychi",
+        "region": "Kyiv City",
+        "lat": 50.46544,
+        "lng": 30.34654,
+        "population": 40200
+    },
+    {
+        "id": 706488,
+        "name": "Khanzhonkove",
+        "region": "Donetsk",
+        "lat": 48.0945,
+        "lng": 38.07553,
+        "population": 40007
+    },
+    {
+        "id": 13546540,
+        "name": "Novyi Lviv",
+        "region": "Lviv",
+        "lat": 49.81519,
+        "lng": 24.03171,
+        "population": 40000
+    },
+    {
+        "id": 691743,
+        "name": "Telychka",
+        "region": "Kyiv City",
+        "lat": 50.4,
+        "lng": 30.56667,
+        "population": 40000
+    },
+    {
+        "id": 701075,
+        "name": "Myrhorod",
+        "region": "Poltava",
+        "lat": 49.96464,
+        "lng": 33.60861,
+        "population": 39575
+    },
+    {
+        "id": 13580318,
+        "name": "Pivnichni Osokorky",
+        "region": "Kyiv City",
+        "lat": 50.3932,
+        "lng": 30.61304,
+        "population": 39500
+    },
+    {
+        "id": 704679,
+        "name": "Podilsk",
+        "region": "Odesa",
+        "lat": 47.74988,
+        "lng": 29.53074,
+        "population": 39220
+    },
+    {
+        "id": 7525990,
+        "name": "Pivdennoukrainsk",
+        "region": "Mykolaiv",
+        "lat": 47.82879,
+        "lng": 31.17513,
+        "population": 38560
+    },
+    {
+        "id": 695464,
+        "name": "Romny",
+        "region": "Sumy",
+        "lat": 50.74025,
+        "lng": 33.4952,
+        "population": 38305
+    },
+    {
+        "id": 689378,
+        "name": "Volodymyr-Volynskyi",
+        "region": "Volyn",
+        "lat": 50.85033,
+        "lng": 24.32119,
+        "population": 37910
+    },
+    {
+        "id": 13580323,
+        "name": "Pivnichno-Brovarskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.46304,
+        "lng": 30.61697,
+        "population": 37600
+    },
+    {
+        "id": 688373,
+        "name": "Yasynuvata",
+        "region": "Donetsk",
+        "lat": 48.12678,
+        "lng": 37.85924,
+        "population": 37600
+    },
+    {
+        "id": 698436,
+        "name": "Pokrov",
+        "region": "Dnipropetrovsk",
+        "lat": 47.65361,
+        "lng": 34.11488,
+        "population": 37493
+    },
+    {
+        "id": 709540,
+        "name": "Dubno",
+        "region": "Rivne Oblast",
+        "lat": 50.40752,
+        "lng": 25.7624,
+        "population": 37257
+    },
+    {
+        "id": 690412,
+        "name": "Vasylkiv",
+        "region": "Kyiv Oblast",
+        "lat": 50.18023,
+        "lng": 30.31189,
+        "population": 37068
+    },
+    {
+        "id": 710374,
+        "name": "Chuhuyiv",
+        "region": "Kharkiv",
+        "lat": 49.83538,
+        "lng": 36.6865,
+        "population": 36519
+    },
+    {
+        "id": 13580124,
+        "name": "Priorka",
+        "region": "Kyiv City",
+        "lat": 50.50977,
+        "lng": 30.45773,
+        "population": 36500
+    },
+    {
+        "id": 700261,
+        "name": "Netishyn",
+        "region": "Khmelnytskyi",
+        "lat": 50.32863,
+        "lng": 26.64872,
+        "population": 36492
+    },
+    {
+        "id": 697592,
+        "name": "Sokolohirsk",
+        "region": "Luhansk",
+        "lat": 48.6279,
+        "lng": 38.52389,
+        "population": 36091
+    },
+    {
+        "id": 707244,
+        "name": "Kakhovka",
+        "region": "Kherson",
+        "lat": 46.81601,
+        "lng": 33.47862,
+        "population": 35983
+    },
+    {
+        "id": 713122,
+        "name": "Avdiyivka",
+        "region": "Donetsk",
+        "lat": 48.14019,
+        "lng": 37.75008,
+        "population": 35826
+    },
+    {
+        "id": 13645613,
+        "name": "Karavayevi Dachi",
+        "region": "Kyiv City",
+        "lat": 50.43044,
+        "lng": 30.43659,
+        "population": 35600
+    },
+    {
+        "id": 13580123,
+        "name": "Vyshhorodskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.50978,
+        "lng": 30.45355,
+        "population": 35200
+    },
+    {
+        "id": 693581,
+        "name": "Slavuta",
+        "region": "Khmelnytskyi",
+        "lat": 50.29609,
+        "lng": 26.86613,
+        "population": 35068
+    },
+    {
+        "id": 713195,
+        "name": "Arshyntseve",
+        "region": "Crimea",
+        "lat": 45.30109,
+        "lng": 36.42687,
+        "population": 34500
+    },
+    {
+        "id": 13580112,
+        "name": "Teremky",
+        "region": "Kyiv City",
+        "lat": 50.37053,
+        "lng": 30.45881,
+        "population": 34500
+    },
+    {
+        "id": 687116,
+        "name": "Zhmerynka",
+        "region": "Vinnytsia",
+        "lat": 49.03523,
+        "lng": 28.11405,
+        "population": 34498
+    },
+    {
+        "id": 703853,
+        "name": "Kryukiv",
+        "region": "Poltava",
+        "lat": 49.02894,
+        "lng": 33.43847,
+        "population": 34419
+    },
+    {
+        "id": 711515,
+        "name": "Boyarka",
+        "region": "Kyiv Oblast",
+        "lat": 50.31911,
+        "lng": 30.29728,
+        "population": 34394
+    },
+    {
+        "id": 692818,
+        "name": "Starokostyantyniv",
+        "region": "Khmelnytskyi",
+        "lat": 49.75522,
+        "lng": 27.21229,
+        "population": 34232
+    },
+    {
+        "id": 694864,
+        "name": "Sambir",
+        "region": "Lviv",
+        "lat": 49.51624,
+        "lng": 23.20133,
+        "population": 34152
+    },
+    {
+        "id": 13580114,
+        "name": "Oleksandrivska Slobidka",
+        "region": "Kyiv City",
+        "lat": 50.41827,
+        "lng": 30.47807,
+        "population": 34100
+    },
+    {
+        "id": 688860,
+        "name": "Voznesensk",
+        "region": "Mykolaiv",
+        "lat": 47.56218,
+        "lng": 31.33602,
+        "population": 33442
+    },
+    {
+        "id": 688723,
+        "name": "Vyshhorod",
+        "region": "Kyiv Oblast",
+        "lat": 50.58312,
+        "lng": 30.48566,
+        "population": 33109
+    },
+    {
+        "id": 697947,
+        "name": "Pasichna",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.94337,
+        "lng": 24.70013,
+        "population": 33008
+    },
+    {
+        "id": 13607610,
+        "name": "Minskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.51815,
+        "lng": 30.46238,
+        "population": 33000
+    },
+    {
+        "id": 687997,
+        "name": "Pivdenne",
+        "region": "Odesa",
+        "lat": 46.62472,
+        "lng": 31.10182,
+        "population": 32677
+    },
+    {
+        "id": 13546520,
+        "name": "Solomyanka",
+        "region": "Kyiv City",
+        "lat": 50.42838,
+        "lng": 30.45211,
+        "population": 32500
+    },
+    {
+        "id": 711669,
+        "name": "Boryslav",
+        "region": "Lviv",
+        "lat": 49.28998,
+        "lng": 23.42889,
+        "population": 32473
+    },
+    {
+        "id": 13561777,
+        "name": "Podil",
+        "region": "Poltava",
+        "lat": 49.6039,
+        "lng": 34.59443,
+        "population": 31870
+    },
+    {
+        "id": 707758,
+        "name": "Hlukhiv",
+        "region": "Sumy",
+        "lat": 51.67982,
+        "lng": 33.91682,
+        "population": 31789
+    },
+    {
+        "id": 698782,
+        "name": "Obukhiv",
+        "region": "Kyiv Oblast",
+        "lat": 50.11632,
+        "lng": 30.63329,
+        "population": 31557
+    },
+    {
+        "id": 13580135,
+        "name": "Lukyanivka",
+        "region": "Kyiv City",
+        "lat": 50.46642,
+        "lng": 30.47591,
+        "population": 31400
+    },
+    {
+        "id": 8468760,
+        "name": "Novoyavorivs'k",
+        "region": "Lviv",
+        "lat": 49.93023,
+        "lng": 23.57357,
+        "population": 31366
+    },
+    {
+        "id": 709354,
+        "name": "Toretsk",
+        "region": "Donetsk",
+        "lat": 48.39477,
+        "lng": 37.8478,
+        "population": 30914
+    },
+    {
+        "id": 704737,
+        "name": "Kostopil",
+        "region": "Rivne Oblast",
+        "lat": 50.87732,
+        "lng": 26.44797,
+        "population": 30838
+    },
+    {
+        "id": 704362,
+        "name": "Yany Kapu",
+        "region": "Crimea",
+        "lat": 45.95547,
+        "lng": 33.79261,
+        "population": 30700
+    },
+    {
+        "id": 700918,
+        "name": "Mohyliv-Podilskyy",
+        "region": "Vinnytsia",
+        "lat": 48.44278,
+        "lng": 27.79975,
+        "population": 30589
+    },
+    {
+        "id": 693796,
+        "name": "Synelnykove",
+        "region": "Dnipropetrovsk",
+        "lat": 48.32362,
+        "lng": 35.52612,
+        "population": 30556
+    },
+    {
+        "id": 701643,
+        "name": "Masany",
+        "region": "Chernihiv Oblast",
+        "lat": 51.53316,
+        "lng": 31.2313,
+        "population": 30000
+    },
+    {
+        "id": 13545885,
+        "name": "Nahirna Chastyna",
+        "region": "Poltava",
+        "lat": 49.08899,
+        "lng": 33.42984,
+        "population": 30000
+    },
+    {
+        "id": 713513,
+        "name": "Alushta",
+        "region": "Crimea",
+        "lat": 44.67728,
+        "lng": 34.4097,
+        "population": 29586
+    },
+    {
+        "id": 691469,
+        "name": "Tokmak",
+        "region": "Zaporizhzhia",
+        "lat": 47.25554,
+        "lng": 35.70836,
+        "population": 29573
+    },
+    {
+        "id": 11776362,
+        "name": "Demiyivka",
+        "region": "Kyiv City",
+        "lat": 50.40206,
+        "lng": 30.51564,
+        "population": 29200
+    },
+    {
+        "id": 694792,
+        "name": "Sarny",
+        "region": "Rivne Oblast",
+        "lat": 51.33898,
+        "lng": 26.60693,
+        "population": 28865
+    },
+    {
+        "id": 697576,
+        "name": "Zlatopil",
+        "region": "Kharkiv",
+        "lat": 49.37646,
+        "lng": 36.21848,
+        "population": 28510
+    },
+    {
+        "id": 13645622,
+        "name": "Novobilychi",
+        "region": "Kyiv City",
+        "lat": 50.47611,
+        "lng": 30.34669,
+        "population": 28500
+    },
+    {
+        "id": 706165,
+        "name": "Khust",
+        "region": "Zakarpattia",
+        "lat": 48.17193,
+        "lng": 23.29791,
+        "population": 28424
+    },
+    {
+        "id": 710400,
+        "name": "Chortkiv",
+        "region": "Ternopil",
+        "lat": 49.01701,
+        "lng": 25.79808,
+        "population": 28393
+    },
+    {
+        "id": 694910,
+        "name": "Saky",
+        "region": "Crimea",
+        "lat": 45.13424,
+        "lng": 33.59996,
+        "population": 28322
+    },
+    {
+        "id": 698874,
+        "name": "Novyi Rozdil",
+        "region": "Lviv",
+        "lat": 49.47136,
+        "lng": 24.13352,
+        "population": 28304
+    },
+    {
+        "id": 691179,
+        "name": "Truskavets",
+        "region": "Lviv",
+        "lat": 49.28067,
+        "lng": 23.50365,
+        "population": 28287
+    },
+    {
+        "id": 709900,
+        "name": "Dobropillya",
+        "region": "Donetsk",
+        "lat": 48.46674,
+        "lng": 37.08567,
+        "population": 28170
+    },
+    {
+        "id": 691605,
+        "name": "Terny",
+        "region": "Dnipropetrovsk",
+        "lat": 48.14512,
+        "lng": 33.55832,
+        "population": 28000
+    },
+    {
+        "id": 686875,
+        "name": "Zolotonosha",
+        "region": "Cherkasy",
+        "lat": 49.66926,
+        "lng": 32.03637,
+        "population": 27818
+    },
+    {
+        "id": 706380,
+        "name": "Khmilnyk",
+        "region": "Vinnytsia",
+        "lat": 49.5581,
+        "lng": 27.95682,
+        "population": 27707
+    },
+    {
+        "id": 697616,
+        "name": "Shakhtarske",
+        "region": "Dnipropetrovsk",
+        "lat": 48.3479,
+        "lng": 36.39637,
+        "population": 27573
+    },
+    {
+        "id": 712969,
+        "name": "Bakhchysaray",
+        "region": "Crimea",
+        "lat": 44.75525,
+        "lng": 33.85782,
+        "population": 27448
+    },
+    {
+        "id": 13580324,
+        "name": "Rusanivka",
+        "region": "Kyiv City",
+        "lat": 50.43996,
+        "lng": 30.59682,
+        "population": 27400
+    },
+    {
+        "id": 705797,
+        "name": "Khrestivka",
+        "region": "Donetsk",
+        "lat": 48.14969,
+        "lng": 38.35941,
+        "population": 27370
+    },
+    {
+        "id": 703656,
+        "name": "Kupyansk",
+        "region": "Kharkiv",
+        "lat": 49.71003,
+        "lng": 37.61581,
+        "population": 27169
+    },
+    {
+        "id": 691628,
+        "name": "Ternivka",
+        "region": "Dnipropetrovsk",
+        "lat": 48.52656,
+        "lng": 36.07051,
+        "population": 26961
+    },
+    {
+        "id": 705809,
+        "name": "Holubivka",
+        "region": "Luhansk",
+        "lat": 48.63751,
+        "lng": 38.6428,
+        "population": 26654
+    },
+    {
+        "id": 13580121,
+        "name": "Rayduzhnyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.48551,
+        "lng": 30.58571,
+        "population": 26600
+    },
+    {
+        "id": 712926,
+        "name": "Balakliya",
+        "region": "Kharkiv",
+        "lat": 49.45595,
+        "lng": 36.84433,
+        "population": 26334
+    },
+    {
+        "id": 697637,
+        "name": "Pereiaslav",
+        "region": "Kyiv Oblast",
+        "lat": 50.06739,
+        "lng": 31.44969,
+        "population": 26273
+    },
+    {
+        "id": 13580118,
+        "name": "Livoberezhnyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.45544,
+        "lng": 30.58969,
+        "population": 26200
+    },
+    {
+        "id": 696877,
+        "name": "Podil",
+        "region": "Kyiv City",
+        "lat": 50.46936,
+        "lng": 30.51627,
+        "population": 25900
+    },
+    {
+        "id": 692909,
+        "name": "Stara Darnytsya",
+        "region": "Kyiv City",
+        "lat": 50.43333,
+        "lng": 30.63333,
+        "population": 25900
+    },
+    {
+        "id": 13513215,
+        "name": "Sofiivska Borschahivka",
+        "region": "Kyiv Oblast",
+        "lat": 50.40931,
+        "lng": 30.35908,
+        "population": 25882
+    },
+    {
+        "id": 13580129,
+        "name": "Tatarka",
+        "region": "Kyiv City",
+        "lat": 50.46941,
+        "lng": 30.48649,
+        "population": 25800
+    },
+    {
+        "id": 708901,
+        "name": "Haysyn",
+        "region": "Vinnytsia",
+        "lat": 48.81294,
+        "lng": 29.37917,
+        "population": 25735
+    },
+    {
+        "id": 709782,
+        "name": "Dolynska",
+        "region": "Kirovohrad",
+        "lat": 48.11725,
+        "lng": 32.77691,
+        "population": 25362
+    },
+    {
+        "id": 688746,
+        "name": "Vynohradiv",
+        "region": "Zakarpattia",
+        "lat": 48.14126,
+        "lng": 23.03623,
+        "population": 25317
+    },
+    {
+        "id": 702116,
+        "name": "Malyn",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.76756,
+        "lng": 29.24225,
+        "population": 25172
+    },
+    {
+        "id": 13580125,
+        "name": "Mostytskyi Masyv",
+        "region": "Kyiv City",
+        "lat": 50.50231,
+        "lng": 30.44121,
+        "population": 25000
+    },
+    {
+        "id": 697650,
+        "name": "Perevalsk",
+        "region": "Luhansk",
+        "lat": 48.43921,
+        "lng": 38.82839,
+        "population": 24817
+    },
+    {
+        "id": 691037,
+        "name": "Oleshky",
+        "region": "Kherson",
+        "lat": 46.62553,
+        "lng": 32.72426,
+        "population": 24639
+    },
+    {
+        "id": 687432,
+        "name": "Zdolbuniv",
+        "region": "Rivne Oblast",
+        "lat": 50.52205,
+        "lng": 26.24823,
+        "population": 24501
+    },
+    {
+        "id": 6930327,
+        "name": "Slavutych",
+        "region": "Kyiv Oblast",
+        "lat": 51.5225,
+        "lng": 30.71806,
+        "population": 24464
+    },
+    {
+        "id": 713203,
+        "name": "Armyansk",
+        "region": "Crimea",
+        "lat": 46.10919,
+        "lng": 33.69206,
+        "population": 24442
+    },
+    {
+        "id": 710229,
+        "name": "Debaltseve",
+        "region": "Donetsk",
+        "lat": 48.33592,
+        "lng": 38.40261,
+        "population": 24209
+    },
+    {
+        "id": 704885,
+        "name": "Korostyshiv",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.31686,
+        "lng": 29.05774,
+        "population": 24129
+    },
+    {
+        "id": 704000,
+        "name": "Krolevets",
+        "region": "Sumy",
+        "lat": 51.55181,
+        "lng": 33.38044,
+        "population": 24115
+    },
+    {
+        "id": 613273,
+        "name": "Lebedyn",
+        "region": "Sumy",
+        "lat": 50.58228,
+        "lng": 34.48258,
+        "population": 23892
+    },
+    {
+        "id": 13580111,
+        "name": "Teremky-II",
+        "region": "Kyiv City",
+        "lat": 50.38067,
+        "lng": 30.45249,
+        "population": 23800
+    },
+    {
+        "id": 13580127,
+        "name": "Kurenivka",
+        "region": "Kyiv City",
+        "lat": 50.49371,
+        "lng": 30.47104,
+        "population": 23700
+    },
+    {
+        "id": 697488,
+        "name": "Pisochyn",
+        "region": "Kharkiv",
+        "lat": 49.9516,
+        "lng": 36.10262,
+        "population": 23509
+    },
+    {
+        "id": 706900,
+        "name": "Kaniv",
+        "region": "Cherkasy",
+        "lat": 49.75187,
+        "lng": 31.47003,
+        "population": 23503
+    },
+    {
+        "id": 709054,
+        "name": "Hadyach",
+        "region": "Poltava",
+        "lat": 50.36912,
+        "lng": 33.997,
+        "population": 23480
+    },
+    {
+        "id": 712423,
+        "name": "Berehove",
+        "region": "Zakarpattia",
+        "lat": 48.20514,
+        "lng": 22.64453,
+        "population": 23325
+    },
+    {
+        "id": 706571,
+        "name": "Kozyatyn",
+        "region": "Vinnytsia",
+        "lat": 49.7164,
+        "lng": 28.83858,
+        "population": 23241
+    },
+    {
+        "id": 711416,
+        "name": "Brody",
+        "region": "Lviv",
+        "lat": 50.08854,
+        "lng": 25.14606,
+        "population": 23134
+    },
+    {
+        "id": 709835,
+        "name": "Dokuchayevsk",
+        "region": "Donetsk",
+        "lat": 47.7522,
+        "lng": 37.67761,
+        "population": 22835
+    },
+    {
+        "id": 686896,
+        "name": "Zolochiv",
+        "region": "Lviv",
+        "lat": 49.8074,
+        "lng": 24.90376,
+        "population": 22608
+    },
+    {
+        "id": 700507,
+        "name": "Nadvirna",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.63659,
+        "lng": 24.5714,
+        "population": 22504
+    },
+    {
+        "id": 703428,
+        "name": "Ladyzhyn",
+        "region": "Vinnytsia",
+        "lat": 48.68437,
+        "lng": 29.23636,
+        "population": 22459
+    },
+    {
+        "id": 700829,
+        "name": "Otamanivka",
+        "region": "Luhansk",
+        "lat": 48.34586,
+        "lng": 39.65233,
+        "population": 22449
+    },
+    {
+        "id": 686919,
+        "name": "Znamyanka",
+        "region": "Kirovohrad",
+        "lat": 48.72066,
+        "lng": 32.65822,
+        "population": 22444
+    },
+    {
+        "id": 698709,
+        "name": "Ihren",
+        "region": "Dnipropetrovsk",
+        "lat": 48.47614,
+        "lng": 35.15842,
+        "population": 22118
+    },
+    {
+        "id": 689200,
+        "name": "Vilnohirsk",
+        "region": "Dnipropetrovsk",
+        "lat": 48.48416,
+        "lng": 34.01708,
+        "population": 22079
+    },
+    {
+        "id": 694677,
+        "name": "Selydove",
+        "region": "Donetsk",
+        "lat": 48.1465,
+        "lng": 37.3022,
+        "population": 21521
+    },
+    {
+        "id": 704388,
+        "name": "Berestyn",
+        "region": "Kharkiv",
+        "lat": 49.3776,
+        "lng": 35.44485,
+        "population": 21426
+    },
+    {
+        "id": 712590,
+        "name": "Bilohorodka",
+        "region": "Kyiv Oblast",
+        "lat": 50.3898,
+        "lng": 30.22726,
+        "population": 21369
+    },
+    {
+        "id": 701347,
+        "name": "Merefa",
+        "region": "Kharkiv",
+        "lat": 49.82107,
+        "lng": 36.0567,
+        "population": 21202
+    },
+    {
+        "id": 689198,
+        "name": "Volnovakha",
+        "region": "Donetsk",
+        "lat": 47.6008,
+        "lng": 37.49358,
+        "population": 21166
+    },
+    {
+        "id": 704143,
+        "name": "Kremenets",
+        "region": "Ternopil",
+        "lat": 50.09864,
+        "lng": 25.72787,
+        "population": 21063
+    },
+    {
+        "id": 696660,
+        "name": "Polonne",
+        "region": "Khmelnytskyi",
+        "lat": 50.11944,
+        "lng": 27.50856,
+        "population": 20785
+    },
+    {
+        "id": 694156,
+        "name": "Damanskyi",
+        "region": "Dnipropetrovsk",
+        "lat": 48.14536,
+        "lng": 33.58984,
+        "population": 20739
+    },
+    {
+        "id": 709755,
+        "name": "Dolyna",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.97158,
+        "lng": 23.96558,
+        "population": 20417
+    },
+    {
+        "id": 692254,
+        "name": "Sukhodilsk",
+        "region": "Luhansk",
+        "lat": 48.35083,
+        "lng": 39.72573,
+        "population": 20390
+    },
+    {
+        "id": 693301,
+        "name": "Sokal",
+        "region": "Lviv",
+        "lat": 50.47452,
+        "lng": 24.28088,
+        "population": 20373
+    },
+    {
+        "id": 13589474,
+        "name": "Saperna Slobidka",
+        "region": "Kyiv City",
+        "lat": 50.40077,
+        "lng": 30.5349,
+        "population": 20200
+    },
+    {
+        "id": 692632,
+        "name": "Stebnyk",
+        "region": "Lviv",
+        "lat": 49.30098,
+        "lng": 23.55197,
+        "population": 20200
+    },
+    {
+        "id": 704204,
+        "name": "Lyman",
+        "region": "Donetsk",
+        "lat": 48.99012,
+        "lng": 37.80843,
+        "population": 20066
+    },
+    {
+        "id": 702417,
+        "name": "Liubotyn",
+        "region": "Kharkiv",
+        "lat": 49.94691,
+        "lng": 35.92907,
+        "population": 20001
+    },
+    {
+        "id": 6723020,
+        "name": "Zhuravlivka",
+        "region": "Kharkiv",
+        "lat": 50.0125,
+        "lng": 36.27214,
+        "population": 20000
+    },
+    {
+        "id": 704608,
+        "name": "Kivsharivka",
+        "region": "Kharkiv",
+        "lat": 49.63026,
+        "lng": 37.6775,
+        "population": 19738
+    },
+    {
+        "id": 691255,
+        "name": "Trostyanets",
+        "region": "Sumy",
+        "lat": 50.48478,
+        "lng": 34.96567,
+        "population": 19544
+    },
+    {
+        "id": 705883,
+        "name": "Kiliya",
+        "region": "Odesa",
+        "lat": 45.44445,
+        "lng": 29.26396,
+        "population": 19540
+    },
+    {
+        "id": 708878,
+        "name": "Henichesk",
+        "region": "Kherson",
+        "lat": 46.16824,
+        "lng": 34.80861,
+        "population": 19501
+    },
+    {
+        "id": 696566,
+        "name": "Popasna",
+        "region": "Luhansk",
+        "lat": 48.63168,
+        "lng": 38.37104,
+        "population": 19199
+    },
+    {
+        "id": 696943,
+        "name": "Pidhorodnye",
+        "region": "Dnipropetrovsk",
+        "lat": 48.57422,
+        "lng": 35.09702,
+        "population": 19138
+    },
+    {
+        "id": 689564,
+        "name": "Vynnyky",
+        "region": "Lviv",
+        "lat": 49.81672,
+        "lng": 24.14417,
+        "population": 19037
+    },
+    {
+        "id": 688587,
+        "name": "Yahotyn",
+        "region": "Kyiv Oblast",
+        "lat": 50.27535,
+        "lng": 31.76343,
+        "population": 18995
+    },
+    {
+        "id": 704492,
+        "name": "Krasyliv",
+        "region": "Khmelnytskyi",
+        "lat": 49.65376,
+        "lng": 26.97211,
+        "population": 18868
+    },
+    {
+        "id": 712930,
+        "name": "Balaklava",
+        "region": "Sevastopol City",
+        "lat": 44.51118,
+        "lng": 33.59942,
+        "population": 18649
+    },
+    {
+        "id": 12129128,
+        "name": "Reni",
+        "region": "Odesa",
+        "lat": 45.45421,
+        "lng": 28.27731,
+        "population": 18530
+    },
+    {
+        "id": 712886,
+        "name": "Balta",
+        "region": "Odesa",
+        "lat": 47.93596,
+        "lng": 29.62225,
+        "population": 18511
+    },
+    {
+        "id": 707155,
+        "name": "Kalynivka",
+        "region": "Vinnytsia",
+        "lat": 49.46129,
+        "lng": 28.51541,
+        "population": 18492
+    },
+    {
+        "id": 689159,
+        "name": "Volochysk",
+        "region": "Khmelnytskyi",
+        "lat": 49.53606,
+        "lng": 26.20681,
+        "population": 18474
+    },
+    {
+        "id": 708251,
+        "name": "Hostomel",
+        "region": "Kyiv Oblast",
+        "lat": 50.56841,
+        "lng": 30.2651,
+        "population": 18466
+    },
+    {
+        "id": 695357,
+        "name": "Kurakhove",
+        "region": "Donetsk",
+        "lat": 47.9847,
+        "lng": 37.28069,
+        "population": 18220
+    },
+    {
+        "id": 13645608,
+        "name": "Vitryani Hory",
+        "region": "Kyiv City",
+        "lat": 50.51138,
+        "lng": 30.43657,
+        "population": 18200
+    },
+    {
+        "id": 695965,
+        "name": "Pyatykhatky",
+        "region": "Dnipropetrovsk",
+        "lat": 48.40821,
+        "lng": 33.70919,
+        "population": 18140
+    },
+    {
+        "id": 704138,
+        "name": "Kreminna",
+        "region": "Luhansk",
+        "lat": 49.04811,
+        "lng": 38.21552,
+        "population": 18116
+    },
+    {
+        "id": 696677,
+        "name": "Polohy",
+        "region": "Zaporizhzhia",
+        "lat": 47.47865,
+        "lng": 36.25463,
+        "population": 18111
+    },
+    {
+        "id": 13580102,
+        "name": "Lypky",
+        "region": "Kyiv City",
+        "lat": 50.44296,
+        "lng": 30.53039,
+        "population": 18100
+    },
+    {
+        "id": 13580319,
+        "name": "Klov",
+        "region": "Kyiv City",
+        "lat": 50.4349,
+        "lng": 30.53807,
+        "population": 18000
+    },
+    {
+        "id": 713504,
+        "name": "Amvrosiyivka",
+        "region": "Donetsk",
+        "lat": 47.79062,
+        "lng": 38.47851,
+        "population": 17998
+    },
+    {
+        "id": 693709,
+        "name": "Skadovsk",
+        "region": "Kherson",
+        "lat": 46.11313,
+        "lng": 32.90978,
+        "population": 17915
+    },
+    {
+        "id": 697771,
+        "name": "Pelahiivka",
+        "region": "Donetsk",
+        "lat": 48.10752,
+        "lng": 38.61338,
+        "population": 17877
+    },
+    {
+        "id": 686818,
+        "name": "Zuhres",
+        "region": "Donetsk",
+        "lat": 48.01428,
+        "lng": 38.26599,
+        "population": 17871
+    },
+    {
+        "id": 695344,
+        "name": "Rozdilna",
+        "region": "Odesa",
+        "lat": 46.85479,
+        "lng": 30.07091,
+        "population": 17858
+    },
+    {
+        "id": 711894,
+        "name": "Bohodukhiv",
+        "region": "Kharkiv",
+        "lat": 50.16147,
+        "lng": 35.52367,
+        "population": 17818
+    },
+    {
+        "id": 704858,
+        "name": "Korsun-Shevchenkivskyi",
+        "region": "Cherkasy",
+        "lat": 49.41822,
+        "lng": 31.25174,
+        "population": 17763
+    },
+    {
+        "id": 709960,
+        "name": "Dniprorudne",
+        "region": "Zaporizhzhia",
+        "lat": 47.38993,
+        "lng": 35.00065,
+        "population": 17736
+    },
+    {
+        "id": 712374,
+        "name": "Berezhany",
+        "region": "Ternopil",
+        "lat": 49.44578,
+        "lng": 24.93686,
+        "population": 17697
+    },
+    {
+        "id": 704670,
+        "name": "Kotsyubynske",
+        "region": "Kyiv Oblast",
+        "lat": 50.48836,
+        "lng": 30.32957,
+        "population": 17623
+    },
+    {
+        "id": 13680596,
+        "name": "Nova Bavariya",
+        "region": "Kharkiv",
+        "lat": 49.94522,
+        "lng": 36.15006,
+        "population": 17616
+    },
+    {
+        "id": 13526729,
+        "name": "Darnytsya Car Repair Plant Microdistrict",
+        "region": "Kyiv City",
+        "lat": 50.44953,
+        "lng": 30.67608,
+        "population": 17600
+    },
+    {
+        "id": 689304,
+        "name": "Vovchansk",
+        "region": "Kharkiv",
+        "lat": 50.29078,
+        "lng": 36.94108,
+        "population": 17459
+    },
+    {
+        "id": 693615,
+        "name": "Skvyra",
+        "region": "Kyiv Oblast",
+        "lat": 49.73401,
+        "lng": 29.66353,
+        "population": 17452
+    },
+    {
+        "id": 13545883,
+        "name": "Rakivka",
+        "region": "Poltava",
+        "lat": 49.02446,
+        "lng": 33.46398,
+        "population": 17400
+    },
+    {
+        "id": 710098,
+        "name": "Derhachi",
+        "region": "Kharkiv",
+        "lat": 50.10789,
+        "lng": 36.1209,
+        "population": 17139
+    },
+    {
+        "id": 692129,
+        "name": "Svalyava",
+        "region": "Zakarpattia",
+        "lat": 48.54735,
+        "lng": 22.98673,
+        "population": 17068
+    },
+    {
+        "id": 702563,
+        "name": "Lutuhyne",
+        "region": "Luhansk",
+        "lat": 48.40433,
+        "lng": 39.21302,
+        "population": 17061
+    },
+    {
+        "id": 13631571,
+        "name": "Nyzhnya Telychka",
+        "region": "Kyiv City",
+        "lat": 50.38809,
+        "lng": 30.57487,
+        "population": 17000
+    },
+    {
+        "id": 13631378,
+        "name": "Rakove",
+        "region": "Khmelnytskyi",
+        "lat": 49.39556,
+        "lng": 27.06009,
+        "population": 17000
+    },
+    {
+        "id": 688089,
+        "name": "Katerynivka",
+        "region": "Luhansk",
+        "lat": 48.55586,
+        "lng": 39.18277,
+        "population": 16948
+    },
+    {
+        "id": 700696,
+        "name": "Mostyska",
+        "region": "Lviv",
+        "lat": 49.79467,
+        "lng": 23.15077,
+        "population": 16945
+    },
+    {
+        "id": 712967,
+        "name": "Bakhmach",
+        "region": "Chernihiv Oblast",
+        "lat": 51.18144,
+        "lng": 32.83463,
+        "population": 16862
+    },
+    {
+        "id": 693920,
+        "name": "Shpola",
+        "region": "Cherkasy",
+        "lat": 49.01291,
+        "lng": 31.3926,
+        "population": 16674
+    },
+    {
+        "id": 692315,
+        "name": "Sudak",
+        "region": "Crimea",
+        "lat": 44.84924,
+        "lng": 34.97471,
+        "population": 16597
+    },
+    {
+        "id": 12519211,
+        "name": "Knyahynyn",
+        "region": "Ivano-Frankivsk",
+        "lat": 48.93561,
+        "lng": 24.71307,
+        "population": 16554
+    },
+    {
+        "id": 686803,
+        "name": "Zvenyhorodka",
+        "region": "Cherkasy",
+        "lat": 49.07765,
+        "lng": 30.96074,
+        "population": 16490
+    },
+    {
+        "id": 699078,
+        "name": "Novoukrayinka",
+        "region": "Kirovohrad",
+        "lat": 48.31661,
+        "lng": 31.52355,
+        "population": 16479
+    },
+    {
+        "id": 712587,
+        "name": "Bilohirsk",
+        "region": "Crimea",
+        "lat": 45.05679,
+        "lng": 34.60386,
+        "population": 16428
+    },
+    {
+        "id": 712389,
+        "name": "Berezan",
+        "region": "Kyiv Oblast",
+        "lat": 50.31073,
+        "lng": 31.46768,
+        "population": 16202
+    },
+    {
+        "id": 8354605,
+        "name": "Svyatopetrivske",
+        "region": "Kyiv Oblast",
+        "lat": 50.38214,
+        "lng": 30.32278,
+        "population": 16200
+    },
+    {
+        "id": 707296,
+        "name": "Iziaslav",
+        "region": "Khmelnytskyi",
+        "lat": 50.11978,
+        "lng": 26.82475,
+        "population": 16162
+    },
+    {
+        "id": 692118,
+        "name": "Svatove",
+        "region": "Luhansk",
+        "lat": 49.40926,
+        "lng": 38.15534,
+        "population": 16145
+    },
+    {
+        "id": 13580322,
+        "name": "Kybalchych",
+        "region": "Kyiv City",
+        "lat": 50.49288,
+        "lng": 30.59756,
+        "population": 16100
+    },
+    {
+        "id": 707752,
+        "name": "Horodok",
+        "region": "Khmelnytskyi",
+        "lat": 49.17209,
+        "lng": 26.56357,
+        "population": 16046
+    },
+    {
+        "id": 705962,
+        "name": "Trudivskyi",
+        "region": "Donetsk",
+        "lat": 47.94699,
+        "lng": 37.55806,
+        "population": 16000
+    },
+    {
+        "id": 708313,
+        "name": "Horodok",
+        "region": "Lviv",
+        "lat": 49.78476,
+        "lng": 23.6481,
+        "population": 15993
+    },
+    {
+        "id": 692832,
+        "name": "Starobilsk",
+        "region": "Luhansk",
+        "lat": 49.27881,
+        "lng": 38.9075,
+        "population": 15947
+    },
+    {
+        "id": 713245,
+        "name": "Apostolove",
+        "region": "Dnipropetrovsk",
+        "lat": 47.65983,
+        "lng": 33.71952,
+        "population": 15828
+    },
+    {
+        "id": 705183,
+        "name": "Slobozhanske",
+        "region": "Kharkiv",
+        "lat": 49.59054,
+        "lng": 36.52172,
+        "population": 15825
+    },
+    {
+        "id": 711867,
+        "name": "Bohuslav",
+        "region": "Kyiv Oblast",
+        "lat": 49.54637,
+        "lng": 30.87407,
+        "population": 15789
+    },
+    {
+        "id": 690312,
+        "name": "Bahacheve",
+        "region": "Cherkasy",
+        "lat": 49.01198,
+        "lng": 31.04659,
+        "population": 15763
+    },
+    {
+        "id": 709429,
+        "name": "Dunayivtsi",
+        "region": "Khmelnytskyi",
+        "lat": 48.88697,
+        "lng": 26.84816,
+        "population": 15707
+    },
+    {
+        "id": 695859,
+        "name": "Rakhiv",
+        "region": "Zakarpattia",
+        "lat": 48.05472,
+        "lng": 24.20314,
+        "population": 15621
+    },
+    {
+        "id": 712559,
+        "name": "Bilopillia",
+        "region": "Sumy",
+        "lat": 51.14747,
+        "lng": 34.31079,
+        "population": 15600
+    },
+    {
+        "id": 711562,
+        "name": "Bortnychi",
+        "region": "Kyiv City",
+        "lat": 50.38489,
+        "lng": 30.69542,
+        "population": 15500
+    },
+    {
+        "id": 689916,
+        "name": "Verkhnodniprovsk",
+        "region": "Dnipropetrovsk",
+        "lat": 48.65557,
+        "lng": 34.3262,
+        "population": 15477
+    },
+    {
+        "id": 707679,
+        "name": "Ilovays’k",
+        "region": "Donetsk",
+        "lat": 47.92498,
+        "lng": 38.20235,
+        "population": 15447
+    },
+    {
+        "id": 712861,
+        "name": "Bar",
+        "region": "Vinnytsia",
+        "lat": 49.07362,
+        "lng": 27.67404,
+        "population": 15337
+    },
+    {
+        "id": 698131,
+        "name": "Ovruch",
+        "region": "Zhytomyr Oblast",
+        "lat": 51.3274,
+        "lng": 28.80165,
+        "population": 15332
+    },
+    {
+        "id": 695912,
+        "name": "Radomyshl",
+        "region": "Zhytomyr Oblast",
+        "lat": 50.4962,
+        "lng": 29.23003,
+        "population": 15252
+    },
+    {
+        "id": 710548,
+        "name": "Voznesenivka",
+        "region": "Luhansk",
+        "lat": 48.078,
+        "lng": 39.78705,
+        "population": 15218
+    },
+    {
+        "id": 699753,
+        "name": "Novhorod-Siverskyi",
+        "region": "Chernihiv Oblast",
+        "lat": 52.00684,
+        "lng": 33.2634,
+        "population": 15175
+    },
+    {
+        "id": 711841,
+        "name": "Bolhrad",
+        "region": "Odesa",
+        "lat": 45.67786,
+        "lng": 28.61811,
+        "population": 15044
+    },
+    {
+        "id": 689584,
+        "name": "Vilnyansk",
+        "region": "Zaporizhzhia",
+        "lat": 47.94768,
+        "lng": 35.44034,
+        "population": 15044
+    },
+    {
+        "id": 691016,
+        "name": "Tulchyn",
+        "region": "Vinnytsia",
+        "lat": 48.67397,
+        "lng": 28.86848,
+        "population": 15011
+    }
+]

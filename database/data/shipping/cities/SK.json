@@ -1,0 +1,490 @@
+[
+    {
+        "id": 3060972,
+        "name": "Bratislava",
+        "region": "Bratislava Region",
+        "lat": 48.14816,
+        "lng": 17.10674,
+        "population": 423737
+    },
+    {
+        "id": 724443,
+        "name": "Košice",
+        "region": "Košice Region",
+        "lat": 48.71441,
+        "lng": 21.25802,
+        "population": 225044
+    },
+    {
+        "id": 3058213,
+        "name": "Petržalka",
+        "region": "Bratislava Region",
+        "lat": 48.12331,
+        "lng": 17.12866,
+        "population": 112380
+    },
+    {
+        "id": 3058531,
+        "name": "Nitra",
+        "region": "Nitra Region",
+        "lat": 48.30763,
+        "lng": 18.08453,
+        "population": 86329
+    },
+    {
+        "id": 723819,
+        "name": "Prešov",
+        "region": "Prešov Region",
+        "lat": 48.99923,
+        "lng": 21.2355,
+        "population": 82927
+    },
+    {
+        "id": 3056508,
+        "name": "Žilina",
+        "region": "Žilina Region",
+        "lat": 49.22315,
+        "lng": 18.73941,
+        "population": 81219
+    },
+    {
+        "id": 3061186,
+        "name": "Banská Bystrica",
+        "region": "Banská Bystrica Region",
+        "lat": 48.73947,
+        "lng": 19.14932,
+        "population": 74590
+    },
+    {
+        "id": 3057124,
+        "name": "Trnava",
+        "region": "Trnava Region",
+        "lat": 48.37773,
+        "lng": 17.58603,
+        "population": 62806
+    },
+    {
+        "id": 3057140,
+        "name": "Trenčín",
+        "region": "Trenčín Region",
+        "lat": 48.89452,
+        "lng": 18.04436,
+        "population": 58278
+    },
+    {
+        "id": 3058780,
+        "name": "Martin",
+        "region": "Žilina Region",
+        "lat": 49.06651,
+        "lng": 18.92399,
+        "population": 51139
+    },
+    {
+        "id": 723846,
+        "name": "Poprad",
+        "region": "Prešov Region",
+        "lat": 49.06144,
+        "lng": 20.29798,
+        "population": 49091
+    },
+    {
+        "id": 3057478,
+        "name": "Staré Mesto",
+        "region": "Bratislava Region",
+        "lat": 48.15039,
+        "lng": 17.09002,
+        "population": 46080
+    },
+    {
+        "id": 3058000,
+        "name": "Prievidza",
+        "region": "Trenčín Region",
+        "lat": 48.77446,
+        "lng": 18.6275,
+        "population": 43645
+    },
+    {
+        "id": 3056459,
+        "name": "Zvolen",
+        "region": "Banská Bystrica Region",
+        "lat": 48.57442,
+        "lng": 19.15324,
+        "population": 39844
+    },
+    {
+        "id": 3058060,
+        "name": "Považská Bystrica",
+        "region": "Trenčín Region",
+        "lat": 49.12153,
+        "lng": 18.42169,
+        "population": 37483
+    },
+    {
+        "id": 3058472,
+        "name": "Nové Zámky",
+        "region": "Nitra Region",
+        "lat": 47.98544,
+        "lng": 18.16195,
+        "population": 36781
+    },
+    {
+        "id": 724144,
+        "name": "Michalovce",
+        "region": "Košice Region",
+        "lat": 48.75434,
+        "lng": 21.9195,
+        "population": 35874
+    },
+    {
+        "id": 3059564,
+        "name": "Karlova Ves",
+        "region": "Bratislava Region",
+        "lat": 48.15344,
+        "lng": 17.05522,
+        "population": 35644
+    },
+    {
+        "id": 3060322,
+        "name": "Dúbravka",
+        "region": "Bratislava Region",
+        "lat": 48.18872,
+        "lng": 17.03521,
+        "population": 35518
+    },
+    {
+        "id": 723526,
+        "name": "Spišská Nová Ves",
+        "region": "Košice Region",
+        "lat": 48.94464,
+        "lng": 20.56153,
+        "population": 34855
+    },
+    {
+        "id": 3059435,
+        "name": "Komárno",
+        "region": "Nitra Region",
+        "lat": 48.11667,
+        "lng": 18.31667,
+        "population": 32287
+    },
+    {
+        "id": 3059436,
+        "name": "Komárno",
+        "region": "Nitra Region",
+        "lat": 47.76356,
+        "lng": 18.12263,
+        "population": 32287
+    },
+    {
+        "id": 3059101,
+        "name": "Levice",
+        "region": "Nitra Region",
+        "lat": 48.21563,
+        "lng": 18.60705,
+        "population": 30556
+    },
+    {
+        "id": 724627,
+        "name": "Humenné",
+        "region": "Prešov Region",
+        "lat": 48.93707,
+        "lng": 21.91625,
+        "population": 30450
+    },
+    {
+        "id": 725168,
+        "name": "Bardejov",
+        "region": "Prešov Region",
+        "lat": 49.29175,
+        "lng": 21.27271,
+        "population": 30267
+    },
+    {
+        "id": 3059050,
+        "name": "Liptovský Mikuláš",
+        "region": "Žilina Region",
+        "lat": 49.08061,
+        "lng": 19.62218,
+        "population": 30162
+    },
+    {
+        "id": 13118651,
+        "name": "Dlhé diely",
+        "region": "Bratislava Region",
+        "lat": 48.15454,
+        "lng": 17.04607,
+        "population": 30000
+    },
+    {
+        "id": 3058202,
+        "name": "Piešťany",
+        "region": "Trnava Region",
+        "lat": 48.59479,
+        "lng": 17.82591,
+        "population": 26862
+    },
+    {
+        "id": 3057789,
+        "name": "Ružomberok",
+        "region": "Žilina Region",
+        "lat": 49.0748,
+        "lng": 19.30751,
+        "population": 26671
+    },
+    {
+        "id": 3058986,
+        "name": "Lučenec",
+        "region": "Banská Bystrica Region",
+        "lat": 48.33249,
+        "lng": 19.66708,
+        "population": 25191
+    },
+    {
+        "id": 3058210,
+        "name": "Pezinok",
+        "region": "Bratislava Region",
+        "lat": 48.28986,
+        "lng": 17.26664,
+        "population": 24443
+    },
+    {
+        "id": 3057174,
+        "name": "Topoľčany",
+        "region": "Nitra Region",
+        "lat": 48.56361,
+        "lng": 18.16712,
+        "population": 24086
+    },
+    {
+        "id": 3058117,
+        "name": "Podunajské Biskupice",
+        "region": "Bratislava Region",
+        "lat": 48.13246,
+        "lng": 17.20963,
+        "population": 23464
+    },
+    {
+        "id": 723358,
+        "name": "Trebišov",
+        "region": "Košice Region",
+        "lat": 48.62858,
+        "lng": 21.71954,
+        "population": 22851
+    },
+    {
+        "id": 3060308,
+        "name": "Dunajská Streda",
+        "region": "Trnava Region",
+        "lat": 47.99268,
+        "lng": 17.61211,
+        "population": 22730
+    },
+    {
+        "id": 3060835,
+        "name": "Čadca",
+        "region": "Žilina Region",
+        "lat": 49.43503,
+        "lng": 18.78895,
+        "population": 22655
+    },
+    {
+        "id": 723559,
+        "name": "Snina",
+        "region": "Prešov Region",
+        "lat": 48.98857,
+        "lng": 22.15099,
+        "population": 22221
+    },
+    {
+        "id": 3060346,
+        "name": "Dubnica nad Váhom",
+        "region": "Trenčín Region",
+        "lat": 48.95981,
+        "lng": 18.16634,
+        "population": 21914
+    },
+    {
+        "id": 723736,
+        "name": "Rimavská Sobota",
+        "region": "Banská Bystrica Region",
+        "lat": 48.38284,
+        "lng": 20.02239,
+        "population": 21434
+    },
+    {
+        "id": 3058268,
+        "name": "Partizánske",
+        "region": "Trenčín Region",
+        "lat": 48.62861,
+        "lng": 18.38455,
+        "population": 20739
+    },
+    {
+        "id": 3056708,
+        "name": "Vrakuňa",
+        "region": "Bratislava Region",
+        "lat": 48.1383,
+        "lng": 17.20866,
+        "population": 20711
+    },
+    {
+        "id": 723195,
+        "name": "Vranov nad Topľou",
+        "region": "Prešov Region",
+        "lat": 48.88836,
+        "lng": 21.68479,
+        "population": 20595
+    },
+    {
+        "id": 3057769,
+        "name": "Šaľa",
+        "region": "Nitra Region",
+        "lat": 48.15127,
+        "lng": 17.88062,
+        "population": 20239
+    },
+    {
+        "id": 3057692,
+        "name": "Senec",
+        "region": "Bratislava Region",
+        "lat": 48.21951,
+        "lng": 17.40043,
+        "population": 20115
+    },
+    {
+        "id": 3060095,
+        "name": "Hlohovec",
+        "region": "Trnava Region",
+        "lat": 48.43174,
+        "lng": 17.8031,
+        "population": 19883
+    },
+    {
+        "id": 3060950,
+        "name": "Brezno",
+        "region": "Banská Bystrica Region",
+        "lat": 48.80431,
+        "lng": 19.63631,
+        "population": 19866
+    },
+    {
+        "id": 3057691,
+        "name": "Senica",
+        "region": "Trnava Region",
+        "lat": 48.67922,
+        "lng": 17.36697,
+        "population": 19355
+    },
+    {
+        "id": 3058477,
+        "name": "Nové Mesto nad Váhom",
+        "region": "Trenčín Region",
+        "lat": 48.75763,
+        "lng": 17.8309,
+        "population": 19325
+    },
+    {
+        "id": 3058897,
+        "name": "Malacky",
+        "region": "Bratislava Region",
+        "lat": 48.43604,
+        "lng": 17.02188,
+        "population": 18804
+    },
+    {
+        "id": 3060405,
+        "name": "Dolný Kubín",
+        "region": "Žilina Region",
+        "lat": 49.20983,
+        "lng": 19.30341,
+        "population": 17660
+    },
+    {
+        "id": 3077170,
+        "name": "Devínska Nová Ves",
+        "region": "Bratislava Region",
+        "lat": 48.20711,
+        "lng": 16.9786,
+        "population": 17153
+    },
+    {
+        "id": 723713,
+        "name": "Rožňava",
+        "region": "Košice Region",
+        "lat": 48.66009,
+        "lng": 20.53758,
+        "population": 17122
+    },
+    {
+        "id": 3057963,
+        "name": "Púchov",
+        "region": "Trenčín Region",
+        "lat": 49.12494,
+        "lng": 18.32597,
+        "population": 16995
+    },
+    {
+        "id": 3056523,
+        "name": "Žiar nad Hronom",
+        "region": "Banská Bystrica Region",
+        "lat": 48.59184,
+        "lng": 18.84958,
+        "population": 16955
+    },
+    {
+        "id": 3061188,
+        "name": "Bánovce nad Bebravou",
+        "region": "Trenčín Region",
+        "lat": 48.7213,
+        "lng": 18.25754,
+        "population": 16486
+    },
+    {
+        "id": 3060139,
+        "name": "Handlová",
+        "region": "Trenčín Region",
+        "lat": 48.7276,
+        "lng": 18.76012,
+        "population": 15694
+    },
+    {
+        "id": 723505,
+        "name": "Stará Ľubovňa",
+        "region": "Prešov Region",
+        "lat": 49.29859,
+        "lng": 20.6862,
+        "population": 15667
+    },
+    {
+        "id": 3057630,
+        "name": "Skalica",
+        "region": "Trnava Region",
+        "lat": 48.8449,
+        "lng": 17.22635,
+        "population": 15466
+    },
+    {
+        "id": 3060219,
+        "name": "Galanta",
+        "region": "Trnava Region",
+        "lat": 48.19001,
+        "lng": 17.72747,
+        "population": 15277
+    },
+    {
+        "id": 724503,
+        "name": "Kežmarok",
+        "region": "Prešov Region",
+        "lat": 49.13571,
+        "lng": 20.43352,
+        "population": 15271
+    },
+    {
+        "id": 3057685,
+        "name": "Sereď",
+        "region": "Trnava Region",
+        "lat": 48.29117,
+        "lng": 17.73331,
+        "population": 15228
+    }
+]

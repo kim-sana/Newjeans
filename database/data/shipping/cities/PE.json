@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 3936456,
+        "name": "Lima",
+        "region": "Lima Province",
+        "lat": -12.04318,
+        "lng": -77.02824,
+        "population": 7737002
+    },
+    {
+        "id": 3946083,
+        "name": "Callao",
+        "region": "Callao",
+        "lat": -12.05162,
+        "lng": -77.13452,
+        "population": 1226200
+    },
+    {
+        "id": 3947322,
+        "name": "Arequipa",
+        "region": "Arequipa",
+        "lat": -16.39899,
+        "lng": -71.53747,
+        "population": 1195700
+    },
+    {
+        "id": 3691175,
+        "name": "Trujillo",
+        "region": "La Libertad",
+        "lat": -8.11599,
+        "lng": -79.02998,
+        "population": 1067700
+    },
+    {
+        "id": 3693528,
+        "name": "Piura",
+        "region": "Piura",
+        "lat": -5.18192,
+        "lng": -80.65715,
+        "population": 630000
+    },
+    {
+        "id": 3698350,
+        "name": "Chiclayo",
+        "region": "Lambayeque",
+        "lat": -6.77008,
+        "lng": -79.85495,
+        "population": 609400
+    },
+    {
+        "id": 3939459,
+        "name": "Huancayo",
+        "region": "Junin",
+        "lat": -12.06866,
+        "lng": -75.21027,
+        "population": 456250
+    },
+    {
+        "id": 3941584,
+        "name": "Cusco",
+        "region": "Cuzco Department",
+        "lat": -13.53188,
+        "lng": -71.96701,
+        "population": 428450
+    },
+    {
+        "id": 3696183,
+        "name": "Iquitos",
+        "region": "Loreto",
+        "lat": -3.74814,
+        "lng": -73.2529,
+        "population": 377609
+    },
+    {
+        "id": 3693345,
+        "name": "Pucallpa",
+        "region": "Ucayali",
+        "lat": -8.37915,
+        "lng": -74.55387,
+        "population": 326040
+    },
+    {
+        "id": 3698304,
+        "name": "Chimbote",
+        "region": "Ancash",
+        "lat": -9.07508,
+        "lng": -78.59373,
+        "population": 316966
+    },
+    {
+        "id": 3928128,
+        "name": "Tacna",
+        "region": "Tacna",
+        "lat": -18.01465,
+        "lng": -70.25362,
+        "population": 286240
+    },
+    {
+        "id": 3938527,
+        "name": "Ica",
+        "region": "Ica",
+        "lat": -14.07538,
+        "lng": -75.73422,
+        "population": 282407
+    },
+    {
+        "id": 3928245,
+        "name": "Santiago de Surco",
+        "region": "Lima region",
+        "lat": -12.13588,
+        "lng": -77.00742,
+        "population": 251648
+    },
+    {
+        "id": 3937513,
+        "name": "Juliaca",
+        "region": "Puno",
+        "lat": -15.5,
+        "lng": -70.13333,
+        "population": 245675
+    },
+    {
+        "id": 3699088,
+        "name": "Cajamarca",
+        "region": "Cajamarca Department",
+        "lat": -7.16378,
+        "lng": -78.50027,
+        "population": 201329
+    },
+    {
+        "id": 3696417,
+        "name": "Huánuco",
+        "region": "Huánuco Department",
+        "lat": -9.92882,
+        "lng": -76.23989,
+        "population": 196627
+    },
+    {
+        "id": 3934876,
+        "name": "Miraflores",
+        "region": "Lima region",
+        "lat": -12.11331,
+        "lng": -77.03274,
+        "population": 187401
+    },
+    {
+        "id": 12157007,
+        "name": "Santa Anita - Los Ficus",
+        "region": "Lima region",
+        "lat": -12.05048,
+        "lng": -76.97335,
+        "population": 184614
+    },
+    {
+        "id": 3691674,
+        "name": "Sullana",
+        "region": "Piura",
+        "lat": -4.90389,
+        "lng": -80.68528,
+        "population": 160789
+    },
+    {
+        "id": 3943789,
+        "name": "Chincha Alta",
+        "region": "Ica",
+        "lat": -13.40985,
+        "lng": -76.13235,
+        "population": 153076
+    },
+    {
+        "id": 3947019,
+        "name": "Ayacucho",
+        "region": "Ayacucho",
+        "lat": -13.1638,
+        "lng": -74.22345,
+        "population": 140033
+    },
+    {
+        "id": 12157008,
+        "name": "San Martin",
+        "region": "Piura",
+        "lat": -5.18591,
+        "lng": -80.66927,
+        "population": 130000
+    },
+    {
+        "id": 3931276,
+        "name": "Puno",
+        "region": "Puno",
+        "lat": -15.84003,
+        "lng": -70.02198,
+        "population": 128637
+    },
+    {
+        "id": 3696378,
+        "name": "Huaraz",
+        "region": "Ancash",
+        "lat": -9.52614,
+        "lng": -77.52869,
+        "population": 118836
+    },
+    {
+        "id": 12157013,
+        "name": "San Francisco De Borja",
+        "region": "Lima region",
+        "lat": -12.08911,
+        "lng": -76.99876,
+        "population": 105076
+    },
+    {
+        "id": 3691582,
+        "name": "Talara",
+        "region": "Piura",
+        "lat": -4.57722,
+        "lng": -81.27194,
+        "population": 99074
+    },
+    {
+        "id": 3691148,
+        "name": "Tumbes",
+        "region": "Tumbes",
+        "lat": -3.55592,
+        "lng": -80.44258,
+        "population": 96946
+    },
+    {
+        "id": 3943423,
+        "name": "Chosica",
+        "region": "Lima region",
+        "lat": -11.94306,
+        "lng": -76.70944,
+        "population": 88606
+    },
+    {
+        "id": 3931470,
+        "name": "Puerto Maldonado",
+        "region": "Madre de Dios",
+        "lat": -12.58946,
+        "lng": -69.19948,
+        "population": 85024
+    },
+    {
+        "id": 12165736,
+        "name": "Breña",
+        "region": "Lima region",
+        "lat": -12.05605,
+        "lng": -77.05295,
+        "population": 81909
+    },
+    {
+        "id": 3692462,
+        "name": "San Juan",
+        "region": "Loreto",
+        "lat": -3.77611,
+        "lng": -73.28139,
+        "population": 78153
+    },
+    {
+        "id": 12157025,
+        "name": "Ciudad Satelite",
+        "region": "Arequipa",
+        "lat": -16.43085,
+        "lng": -71.52921,
+        "population": 76410
+    },
+    {
+        "id": 12157030,
+        "name": "Chilca",
+        "region": "Junin",
+        "lat": -12.08628,
+        "lng": -75.20827,
+        "population": 73371
+    },
+    {
+        "id": 12157128,
+        "name": "Selva Alegre",
+        "region": "Arequipa",
+        "lat": -16.37057,
+        "lng": -71.52724,
+        "population": 72696
+    },
+    {
+        "id": 3948642,
+        "name": "Abancay",
+        "region": "Apurímac Department",
+        "lat": -13.63426,
+        "lng": -72.8838,
+        "population": 72277
+    },
+    {
+        "id": 3934608,
+        "name": "Moquegua",
+        "region": "Moquegua Department",
+        "lat": -17.19747,
+        "lng": -70.93587,
+        "population": 69882
+    },
+    {
+        "id": 3698105,
+        "name": "Chulucanas",
+        "region": "Piura",
+        "lat": -5.0925,
+        "lng": -80.1625,
+        "population": 68835
+    },
+    {
+        "id": 3929631,
+        "name": "San Isidro",
+        "region": "Lima region",
+        "lat": -12.09655,
+        "lng": -77.04258,
+        "population": 68309
+    },
+    {
+        "id": 12157037,
+        "name": "San Fernando",
+        "region": "Ucayali",
+        "lat": -8.39818,
+        "lng": -74.53774,
+        "population": 67844
+    },
+    {
+        "id": 12157038,
+        "name": "Jesus Maria",
+        "region": "Lima region",
+        "lat": -12.06982,
+        "lng": -77.04495,
+        "population": 66171
+    },
+    {
+        "id": 12157129,
+        "name": "Santiago",
+        "region": "Cuzco Department",
+        "lat": -13.52728,
+        "lng": -71.9843,
+        "population": 64075
+    },
+    {
+        "id": 3939285,
+        "name": "Huaral",
+        "region": "Lima region",
+        "lat": -11.495,
+        "lng": -77.20778,
+        "population": 62174
+    },
+    {
+        "id": 3932145,
+        "name": "Pisco",
+        "region": "Ica",
+        "lat": -13.71029,
+        "lng": -76.20538,
+        "population": 61869
+    },
+    {
+        "id": 3937547,
+        "name": "Villa Poeta José Gálvez Barrenechea",
+        "region": "Lima region",
+        "lat": -12.21312,
+        "lng": -76.90522,
+        "population": 61000
+    },
+    {
+        "id": 13132929,
+        "name": "San Miguel",
+        "region": "Puno",
+        "lat": -15.47798,
+        "lng": -70.12498,
+        "population": 60850
+    },
+    {
+        "id": 12157056,
+        "name": "Wanchaq",
+        "region": "Cuzco Department",
+        "lat": -13.52493,
+        "lng": -71.96531,
+        "population": 59134
+    },
+    {
+        "id": 3944797,
+        "name": "Cerro de Pasco",
+        "region": "Pasco",
+        "lat": -10.66577,
+        "lng": -76.25309,
+        "population": 58899
+    },
+    {
+        "id": 3827811,
+        "name": "Belen",
+        "region": "Loreto",
+        "lat": -3.76016,
+        "lng": -73.2497,
+        "population": 57824
+    },
+    {
+        "id": 3698658,
+        "name": "Catacaos",
+        "region": "Piura",
+        "lat": -5.26667,
+        "lng": -80.68333,
+        "population": 57304
+    },
+    {
+        "id": 3694112,
+        "name": "Paita",
+        "region": "Piura",
+        "lat": -5.08917,
+        "lng": -81.11444,
+        "population": 56151
+    },
+    {
+        "id": 3940002,
+        "name": "Huacho",
+        "region": "Lima region",
+        "lat": -11.11718,
+        "lng": -77.60584,
+        "population": 54545
+    },
+    {
+        "id": 3938415,
+        "name": "Ilo",
+        "region": "Moquegua Department",
+        "lat": -17.63185,
+        "lng": -71.34108,
+        "population": 53476
+    },
+    {
+        "id": 3691348,
+        "name": "Tingo María",
+        "region": "Huánuco Department",
+        "lat": -9.29532,
+        "lng": -75.99574,
+        "population": 53177
+    },
+    {
+        "id": 3696150,
+        "name": "Jaén",
+        "region": "Cajamarca Department",
+        "lat": -5.70729,
+        "lng": -78.80785,
+        "population": 52493
+    },
+    {
+        "id": 3927758,
+        "name": "Tarma",
+        "region": "Junin",
+        "lat": -11.41899,
+        "lng": -75.68992,
+        "population": 51350
+    },
+    {
+        "id": 3694564,
+        "name": "Moyobamba",
+        "region": "San Martín Department",
+        "lat": -6.03441,
+        "lng": -76.97423,
+        "population": 50073
+    },
+    {
+        "id": 3939470,
+        "name": "Huancavelica",
+        "region": "Huancavelica",
+        "lat": -12.78691,
+        "lng": -74.97298,
+        "population": 49570
+    },
+    {
+        "id": 12157064,
+        "name": "Centenario",
+        "region": "Ancash",
+        "lat": -9.51656,
+        "lng": -77.53045,
+        "population": 47581
+    },
+    {
+        "id": 12157065,
+        "name": "Cono Norte",
+        "region": "Arequipa",
+        "lat": -16.32369,
+        "lng": -71.58151,
+        "population": 47347
+    },
+    {
+        "id": 3946820,
+        "name": "Barranca",
+        "region": "Lima region",
+        "lat": -10.75,
+        "lng": -77.76667,
+        "population": 46290
+    },
+    {
+        "id": 3949231,
+        "name": "Jacobo Hunter",
+        "region": "Arequipa",
+        "lat": -16.44083,
+        "lng": -71.55333,
+        "population": 46092
+    },
+    {
+        "id": 3695754,
+        "name": "Lambayeque",
+        "region": "Lambayeque",
+        "lat": -6.70111,
+        "lng": -79.90611,
+        "population": 43710
+    },
+    {
+        "id": 3693645,
+        "name": "Picsi",
+        "region": "Lambayeque",
+        "lat": -6.71778,
+        "lng": -79.76972,
+        "population": 43610
+    },
+    {
+        "id": 3698390,
+        "name": "Chepén",
+        "region": "La Libertad",
+        "lat": -7.22436,
+        "lng": -79.42476,
+        "population": 41992
+    },
+    {
+        "id": 12157070,
+        "name": "Carmen De La Legua Reynoso",
+        "region": "Callao",
+        "lat": -12.05354,
+        "lng": -77.09802,
+        "population": 41863
+    },
+    {
+        "id": 3690654,
+        "name": "Yurimaguas",
+        "region": "Loreto",
+        "lat": -5.90181,
+        "lng": -76.12234,
+        "population": 41827
+    },
+    {
+        "id": 3692667,
+        "name": "Saña",
+        "region": "Lambayeque",
+        "lat": -6.91888,
+        "lng": -79.582,
+        "population": 39200
+    },
+    {
+        "id": 3927942,
+        "name": "Tambopata",
+        "region": "Madre de Dios",
+        "lat": -12.67191,
+        "lng": -69.35547,
+        "population": 38966
+    },
+    {
+        "id": 3696057,
+        "name": "Juanjuí",
+        "region": "San Martín Department",
+        "lat": -7.17697,
+        "lng": -76.72774,
+        "population": 37715
+    },
+    {
+        "id": 3946818,
+        "name": "Barranco",
+        "region": "Lima region",
+        "lat": -12.14297,
+        "lng": -77.01862,
+        "population": 37525
+    },
+    {
+        "id": 3695466,
+        "name": "La Unión",
+        "region": "Piura",
+        "lat": -5.40232,
+        "lng": -80.74224,
+        "population": 34834
+    },
+    {
+        "id": 3697033,
+        "name": "Ferreñafe",
+        "region": "Lambayeque",
+        "lat": -6.63889,
+        "lng": -79.78889,
+        "population": 34357
+    },
+    {
+        "id": 3928679,
+        "name": "Sicuani",
+        "region": "Cuzco Department",
+        "lat": -14.26944,
+        "lng": -71.22611,
+        "population": 33575
+    },
+    {
+        "id": 3936952,
+        "name": "La Oroya",
+        "region": "Junin",
+        "lat": -11.51893,
+        "lng": -75.89935,
+        "population": 33345
+    },
+    {
+        "id": 3698194,
+        "name": "Chocope",
+        "region": "La Libertad",
+        "lat": -7.79139,
+        "lng": -79.22167,
+        "population": 32370
+    },
+    {
+        "id": 3938396,
+        "name": "Imperial",
+        "region": "Lima region",
+        "lat": -13.05927,
+        "lng": -76.35269,
+        "population": 32344
+    },
+    {
+        "id": 3934239,
+        "name": "Nuevo Imperial",
+        "region": "Lima region",
+        "lat": -13.07541,
+        "lng": -76.31719,
+        "population": 32344
+    },
+    {
+        "id": 3698540,
+        "name": "Chachapoyas",
+        "region": "Amazonas",
+        "lat": -6.23169,
+        "lng": -77.86903,
+        "population": 32026
+    },
+    {
+        "id": 3691530,
+        "name": "Tambo Grande",
+        "region": "Piura",
+        "lat": -4.92694,
+        "lng": -80.34472,
+        "population": 30033
+    },
+    {
+        "id": 7626291,
+        "name": "La Rinconada",
+        "region": "Puno",
+        "lat": -14.63126,
+        "lng": -69.44638,
+        "population": 29678
+    },
+    {
+        "id": 3694178,
+        "name": "Pacasmayo",
+        "region": "La Libertad",
+        "lat": -7.40056,
+        "lng": -79.57139,
+        "population": 29165
+    },
+    {
+        "id": 3691324,
+        "name": "Tocache",
+        "region": "San Martín Department",
+        "lat": -8.1877,
+        "lng": -76.52046,
+        "population": 29029
+    },
+    {
+        "id": 3934707,
+        "name": "Mollendo",
+        "region": "Arequipa",
+        "lat": -17.02306,
+        "lng": -72.01472,
+        "population": 28953
+    },
+    {
+        "id": 3944179,
+        "name": "Chaupimarca",
+        "region": "Pasco",
+        "lat": -10.40696,
+        "lng": -76.46168,
+        "population": 28666
+    },
+    {
+        "id": 3933024,
+        "name": "Paramonga",
+        "region": "Lima region",
+        "lat": -10.66667,
+        "lng": -77.83333,
+        "population": 27631
+    },
+    {
+        "id": 3695675,
+        "name": "La Peca",
+        "region": "Amazonas",
+        "lat": -5.61111,
+        "lng": -78.435,
+        "population": 27045
+    },
+    {
+        "id": 3944399,
+        "name": "Chancay",
+        "region": "Lima region",
+        "lat": -11.57139,
+        "lng": -77.26722,
+        "population": 26958
+    },
+    {
+        "id": 3939761,
+        "name": "Hualmay",
+        "region": "Lima region",
+        "lat": -11.09639,
+        "lng": -77.61389,
+        "population": 26658
+    },
+    {
+        "id": 3694666,
+        "name": "Monsefú",
+        "region": "Lambayeque",
+        "lat": -6.87431,
+        "lng": -79.86871,
+        "population": 25707
+    },
+    {
+        "id": 3694939,
+        "name": "Marcavelica",
+        "region": "Piura",
+        "lat": -4.87778,
+        "lng": -80.70528,
+        "population": 25645
+    },
+    {
+        "id": 3928993,
+        "name": "San Vicente de Cañete",
+        "region": "Lima region",
+        "lat": -13.07556,
+        "lng": -76.38528,
+        "population": 25517
+    },
+    {
+        "id": 3693057,
+        "name": "Querecotillo",
+        "region": "Piura",
+        "lat": -4.83778,
+        "lng": -80.64556,
+        "population": 25396
+    },
+    {
+        "id": 3696847,
+        "name": "Guadalupe",
+        "region": "La Libertad",
+        "lat": -7.25,
+        "lng": -79.48333,
+        "population": 25376
+    },
+    {
+        "id": 3930835,
+        "name": "Quillabamba",
+        "region": "Cuzco Department",
+        "lat": -12.86334,
+        "lng": -72.69306,
+        "population": 25300
+    },
+    {
+        "id": 3692895,
+        "name": "Requena",
+        "region": "Loreto",
+        "lat": -5.06083,
+        "lng": -73.85028,
+        "population": 25300
+    },
+    {
+        "id": 3929295,
+        "name": "Santa Ana",
+        "region": "Cuzco Department",
+        "lat": -12.86667,
+        "lng": -72.71667,
+        "population": 25145
+    },
+    {
+        "id": 3692863,
+        "name": "Rioja",
+        "region": "San Martín Department",
+        "lat": -6.05675,
+        "lng": -77.16651,
+        "population": 25057
+    },
+    {
+        "id": 12157074,
+        "name": "La Banda",
+        "region": "San Martín Department",
+        "lat": -6.49265,
+        "lng": -76.34224,
+        "population": 24932
+    },
+    {
+        "id": 3695617,
+        "name": "Laredo",
+        "region": "La Libertad",
+        "lat": -8.08965,
+        "lng": -78.9602,
+        "population": 24691
+    },
+    {
+        "id": 12157091,
+        "name": "Yanacancha",
+        "region": "Pasco",
+        "lat": -10.66585,
+        "lng": -76.25525,
+        "population": 24105
+    },
+    {
+        "id": 3925590,
+        "name": "Yauri",
+        "region": "Cuzco Department",
+        "lat": -14.79083,
+        "lng": -71.40986,
+        "population": 23867
+    },
+    {
+        "id": 3934356,
+        "name": "Nazca",
+        "region": "Ica",
+        "lat": -14.83098,
+        "lng": -74.93895,
+        "population": 23556
+    },
+    {
+        "id": 3925863,
+        "name": "Yanacancha",
+        "region": "Huánuco Department",
+        "lat": -10.24111,
+        "lng": -76.64556,
+        "population": 23175
+    },
+    {
+        "id": 3691954,
+        "name": "Sechura",
+        "region": "Piura",
+        "lat": -5.55694,
+        "lng": -80.82222,
+        "population": 23020
+    },
+    {
+        "id": 3694725,
+        "name": "Moche",
+        "region": "La Libertad",
+        "lat": -8.17111,
+        "lng": -79.00917,
+        "population": 22581
+    },
+    {
+        "id": 3946985,
+        "name": "Ayaviri",
+        "region": "Puno",
+        "lat": -14.88639,
+        "lng": -70.58889,
+        "population": 22247
+    },
+    {
+        "id": 3938451,
+        "name": "Ilave",
+        "region": "Puno",
+        "lat": -16.08333,
+        "lng": -69.66667,
+        "population": 22200
+    },
+    {
+        "id": 3692073,
+        "name": "Santiago de Cao",
+        "region": "La Libertad",
+        "lat": -7.95889,
+        "lng": -79.23917,
+        "population": 21982
+    },
+    {
+        "id": 3696509,
+        "name": "Huamachuco",
+        "region": "La Libertad",
+        "lat": -7.8,
+        "lng": -78.06667,
+        "population": 21768
+    },
+    {
+        "id": 3694119,
+        "name": "Paiján",
+        "region": "La Libertad",
+        "lat": -7.73291,
+        "lng": -79.3015,
+        "population": 21128
+    },
+    {
+        "id": 3937733,
+        "name": "Jauja",
+        "region": "Junin",
+        "lat": -11.77584,
+        "lng": -75.49656,
+        "population": 21057
+    },
+    {
+        "id": 3697838,
+        "name": "Contamana",
+        "region": "Loreto",
+        "lat": -7.33333,
+        "lng": -75.01667,
+        "population": 20900
+    },
+    {
+        "id": 3690875,
+        "name": "Virú",
+        "region": "La Libertad",
+        "lat": -8.41554,
+        "lng": -78.75201,
+        "population": 20774
+    },
+    {
+        "id": 3939023,
+        "name": "Huaura",
+        "region": "Lima region",
+        "lat": -11.07,
+        "lng": -77.59944,
+        "population": 20723
+    },
+    {
+        "id": 3699484,
+        "name": "Bagua Grande",
+        "region": "Amazonas",
+        "lat": -5.75611,
+        "lng": -78.44111,
+        "population": 20382
+    },
+    {
+        "id": 12157092,
+        "name": "El Pedregal",
+        "region": "Arequipa",
+        "lat": -16.36314,
+        "lng": -72.1921,
+        "population": 20063
+    },
+    {
+        "id": 3939386,
+        "name": "Huanta",
+        "region": "Ayacucho",
+        "lat": -12.93333,
+        "lng": -74.25,
+        "population": 18627
+    },
+    {
+        "id": 3699831,
+        "name": "Aguaytía",
+        "region": "Ucayali",
+        "lat": -9.03778,
+        "lng": -75.50906,
+        "population": 18318
+    },
+    {
+        "id": 12157093,
+        "name": "Santa Rosa",
+        "region": "Junin",
+        "lat": -10.91908,
+        "lng": -74.88496,
+        "population": 18057
+    },
+    {
+        "id": 3691094,
+        "name": "Uchiza",
+        "region": "San Martín Department",
+        "lat": -8.45917,
+        "lng": -76.46333,
+        "population": 17742
+    },
+    {
+        "id": 3814568,
+        "name": "La Breita",
+        "region": "Piura",
+        "lat": -4.25691,
+        "lng": -80.88599,
+        "population": 17693
+    },
+    {
+        "id": 3947740,
+        "name": "Andahuaylas",
+        "region": "Apurímac Department",
+        "lat": -13.65556,
+        "lng": -73.38722,
+        "population": 17444
+    },
+    {
+        "id": 3935572,
+        "name": "Mala",
+        "region": "Lima region",
+        "lat": -12.65806,
+        "lng": -76.63083,
+        "population": 17260
+    },
+    {
+        "id": 3818398,
+        "name": "Zarumilla",
+        "region": "Tumbes",
+        "lat": -3.50306,
+        "lng": -80.27306,
+        "population": 16907
+    },
+    {
+        "id": 3947173,
+        "name": "Atalaya",
+        "region": "Ucayali",
+        "lat": -10.73067,
+        "lng": -73.75867,
+        "population": 16700
+    },
+    {
+        "id": 3945985,
+        "name": "Camaná",
+        "region": "Arequipa",
+        "lat": -16.62375,
+        "lng": -72.71055,
+        "population": 16434
+    },
+    {
+        "id": 6395604,
+        "name": "San Martín de Pangoa",
+        "region": "Junin",
+        "lat": -11.42854,
+        "lng": -74.48834,
+        "population": 16262
+    },
+    {
+        "id": 3692310,
+        "name": "San Pedro de Lloc",
+        "region": "La Libertad",
+        "lat": -7.4289,
+        "lng": -79.50416,
+        "population": 16250
+    },
+    {
+        "id": 3939168,
+        "name": "Huarmey",
+        "region": "Ancash",
+        "lat": -10.06806,
+        "lng": -78.15222,
+        "population": 16172
+    },
+    {
+        "id": 3698176,
+        "name": "Chongoyape",
+        "region": "Lambayeque",
+        "lat": -6.64056,
+        "lng": -79.38917,
+        "population": 16061
+    },
+    {
+        "id": 3929768,
+        "name": "San Clemente",
+        "region": "Ica",
+        "lat": -13.66667,
+        "lng": -76.15,
+        "population": 15815
+    },
+    {
+        "id": 12157094,
+        "name": "San Antonio",
+        "region": "Moquegua Department",
+        "lat": -17.21718,
+        "lng": -70.92593,
+        "population": 15633
+    },
+    {
+        "id": 3693584,
+        "name": "Pimentel",
+        "region": "Lambayeque",
+        "lat": -6.83667,
+        "lng": -79.93417,
+        "population": 15552
+    },
+    {
+        "id": 3928924,
+        "name": "Satipo",
+        "region": "Junin",
+        "lat": -11.25222,
+        "lng": -74.63861,
+        "population": 15532
+    },
+    {
+        "id": 3935288,
+        "name": "Minas de Marcona",
+        "region": "Ica",
+        "lat": -15.21194,
+        "lng": -75.11028,
+        "population": 15478
+    },
+    {
+        "id": 3937486,
+        "name": "Junín",
+        "region": "Junin",
+        "lat": -11.15895,
+        "lng": -75.99304,
+        "population": 15320
+    },
+    {
+        "id": 3693826,
+        "name": "Pátapo",
+        "region": "Lambayeque",
+        "lat": -6.73315,
+        "lng": -79.6359,
+        "population": 15270
+    },
+    {
+        "id": 3699364,
+        "name": "Bellavista",
+        "region": "San Martín Department",
+        "lat": -7.05614,
+        "lng": -76.5911,
+        "population": 15231
+    },
+    {
+        "id": 3697990,
+        "name": "Coishco",
+        "region": "Ancash",
+        "lat": -9.02306,
+        "lng": -78.61556,
+        "population": 15083
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1651944,
+        "name": "Vientiane",
+        "region": "Vientiane Prefecture",
+        "lat": 17.96667,
+        "lng": 102.6,
+        "population": 840940
+    },
+    {
+        "id": 1653316,
+        "name": "Savannakhet",
+        "region": "Savannakhet Province",
+        "lat": 16.5703,
+        "lng": 104.7622,
+        "population": 125760
+    },
+    {
+        "id": 1655199,
+        "name": "Thakhèk",
+        "region": "Khammouane Province",
+        "lat": 17.41027,
+        "lng": 104.83068,
+        "population": 90800
+    },
+    {
+        "id": 1654379,
+        "name": "Pakse",
+        "region": "Champasak Province",
+        "lat": 15.12022,
+        "lng": 105.79898,
+        "population": 77900
+    },
+    {
+        "id": 11244752,
+        "name": "Ban Khoan",
+        "region": "Bokeo",
+        "lat": 20.35008,
+        "lng": 100.09022,
+        "population": 65348
+    },
+    {
+        "id": 1652203,
+        "name": "Xam Nua",
+        "region": "Houaphan",
+        "lat": 20.4164,
+        "lng": 104.045,
+        "population": 56900
+    },
+    {
+        "id": 1655559,
+        "name": "Luang Prabang",
+        "region": "Luang Prabang Province",
+        "lat": 19.8933,
+        "lng": 102.1525,
+        "population": 55027
+    },
+    {
+        "id": 1655123,
+        "name": "Muang Phônsavan",
+        "region": "Xiangkhoang",
+        "lat": 19.4494,
+        "lng": 103.1917,
+        "population": 37507
+    },
+    {
+        "id": 1658073,
+        "name": "Ban Xénô",
+        "region": "Savannakhet Province",
+        "lat": 16.6759,
+        "lng": 104.98798,
+        "population": 25135
+    },
+    {
+        "id": 1655078,
+        "name": "Muang Xay",
+        "region": "Oudômxai",
+        "lat": 20.69229,
+        "lng": 101.98368,
+        "population": 25000
+    },
+    {
+        "id": 1655087,
+        "name": "Vang Vieng",
+        "region": "Vientiane",
+        "lat": 18.9235,
+        "lng": 102.44784,
+        "population": 25000
+    },
+    {
+        "id": 1655107,
+        "name": "Muang Sing",
+        "region": "Loungnamtha",
+        "lat": 21.19206,
+        "lng": 101.14789,
+        "population": 23500
+    },
+    {
+        "id": 1655140,
+        "name": "Pakxan",
+        "region": "Bolikhamsai",
+        "lat": 18.3942,
+        "lng": 103.6611,
+        "population": 21967
+    },
+    {
+        "id": 1662589,
+        "name": "Ban Laongam",
+        "region": "Salavan Province",
+        "lat": 15.46549,
+        "lng": 106.16682,
+        "population": 21304
+    },
+    {
+        "id": 9948272,
+        "name": "Sekong",
+        "region": "Xékong",
+        "lat": 15.34582,
+        "lng": 106.72368,
+        "population": 20116
+    },
+    {
+        "id": 1657897,
+        "name": "Borikhan",
+        "region": "Bolikhamsai",
+        "lat": 18.56286,
+        "lng": 103.72671,
+        "population": 18354
+    },
+    {
+        "id": 1663246,
+        "name": "Ban Kèngkok",
+        "region": "Savannakhet Province",
+        "lat": 16.44369,
+        "lng": 105.19798,
+        "population": 15658
+    },
+    {
+        "id": 1904391,
+        "name": "Ban Houakhoua",
+        "region": "Bokeo",
+        "lat": 20.2467,
+        "lng": 100.45401,
+        "population": 15500
+    }
+]

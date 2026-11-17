@@ -1,0 +1,26 @@
+[
+    {
+        "id": 921772,
+        "name": "Moroni",
+        "region": "Grande Comore",
+        "lat": -11.70216,
+        "lng": 43.25506,
+        "population": 74749
+    },
+    {
+        "id": 921753,
+        "name": "Moutsamoudou",
+        "region": "Anjouan",
+        "lat": -12.16672,
+        "lng": 44.39944,
+        "population": 26313
+    },
+    {
+        "id": 921889,
+        "name": "Fomboni",
+        "region": "Mohéli",
+        "lat": -12.28759,
+        "lng": 43.74344,
+        "population": 17291
+    }
+]

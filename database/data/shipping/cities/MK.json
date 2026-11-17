@@ -1,0 +1,306 @@
+[
+    {
+        "id": 785842,
+        "name": "Skopje",
+        "region": "Grad Skopje",
+        "lat": 41.99646,
+        "lng": 21.43141,
+        "population": 474889
+    },
+    {
+        "id": 788886,
+        "name": "Kumanovo",
+        "region": "Kumanovo",
+        "lat": 42.13279,
+        "lng": 21.71585,
+        "population": 75051
+    },
+    {
+        "id": 786735,
+        "name": "Prilep",
+        "region": "Prilep",
+        "lat": 41.34558,
+        "lng": 21.5537,
+        "population": 73814
+    },
+    {
+        "id": 792578,
+        "name": "Bitola",
+        "region": "Bitola",
+        "lat": 41.03226,
+        "lng": 21.33553,
+        "population": 69287
+    },
+    {
+        "id": 833262,
+        "name": "Čair",
+        "region": "Grad Skopje",
+        "lat": 42.01528,
+        "lng": 21.44111,
+        "population": 64773
+    },
+    {
+        "id": 785082,
+        "name": "Tetovo",
+        "region": "Tetovo",
+        "lat": 42.00989,
+        "lng": 20.97138,
+        "population": 63176
+    },
+    {
+        "id": 863675,
+        "name": "Kisela Voda",
+        "region": "Grad Skopje",
+        "lat": 41.94889,
+        "lng": 21.50278,
+        "population": 58216
+    },
+    {
+        "id": 785058,
+        "name": "Veles",
+        "region": "Veles",
+        "lat": 41.71719,
+        "lng": 21.77196,
+        "population": 57873
+    },
+    {
+        "id": 790295,
+        "name": "Gostivar",
+        "region": "Gostivar",
+        "lat": 41.79627,
+        "lng": 20.90799,
+        "population": 50974
+    },
+    {
+        "id": 785482,
+        "name": "Shtip",
+        "region": "Shtip",
+        "lat": 41.74583,
+        "lng": 22.19583,
+        "population": 48279
+    },
+    {
+        "id": 7886881,
+        "name": "Centar Župa",
+        "region": "Centar Zhupa",
+        "lat": 41.47849,
+        "lng": 20.55945,
+        "population": 45412
+    },
+    {
+        "id": 787487,
+        "name": "Ohrid",
+        "region": "Ohrid",
+        "lat": 41.11701,
+        "lng": 20.80175,
+        "population": 42033
+    },
+    {
+        "id": 791149,
+        "name": "Gjorče Petro",
+        "region": "Grad Skopje",
+        "lat": 42.00778,
+        "lng": 21.35306,
+        "population": 41000
+    },
+    {
+        "id": 789541,
+        "name": "Kavadarci",
+        "region": "Kavadarci",
+        "lat": 41.43344,
+        "lng": 22.01218,
+        "population": 38799
+    },
+    {
+        "id": 785387,
+        "name": "Struga",
+        "region": "Struga",
+        "lat": 41.17787,
+        "lng": 20.67894,
+        "population": 37387
+    },
+    {
+        "id": 833260,
+        "name": "Butel",
+        "region": "Grad Skopje",
+        "lat": 42.03083,
+        "lng": 21.44667,
+        "population": 36154
+    },
+    {
+        "id": 789403,
+        "name": "Kochani",
+        "region": "Kochani",
+        "lat": 41.91639,
+        "lng": 22.41278,
+        "population": 34258
+    },
+    {
+        "id": 785380,
+        "name": "Strumica",
+        "region": "Strumica",
+        "lat": 41.43763,
+        "lng": 22.64288,
+        "population": 33825
+    },
+    {
+        "id": 789527,
+        "name": "Kičevo",
+        "region": "Kichevo",
+        "lat": 41.51274,
+        "lng": 20.95867,
+        "population": 31123
+    },
+    {
+        "id": 788654,
+        "name": "Lipkovo",
+        "region": "Lipkovo",
+        "lat": 42.15696,
+        "lng": 21.58559,
+        "population": 28102
+    },
+    {
+        "id": 783926,
+        "name": "Zelino",
+        "region": "Zhelino",
+        "lat": 41.98028,
+        "lng": 21.06417,
+        "population": 25422
+    },
+    {
+        "id": 786093,
+        "name": "Saraj",
+        "region": "Grad Skopje",
+        "lat": 42,
+        "lng": 21.32778,
+        "population": 25379
+    },
+    {
+        "id": 786565,
+        "name": "Radovis",
+        "region": "Radovish",
+        "lat": 41.63833,
+        "lng": 22.46472,
+        "population": 24984
+    },
+    {
+        "id": 785113,
+        "name": "Tearce",
+        "region": "Tearce",
+        "lat": 42.07593,
+        "lng": 21.05179,
+        "population": 23096
+    },
+    {
+        "id": 789045,
+        "name": "Kriva Palanka",
+        "region": "Kriva Palanka",
+        "lat": 42.20197,
+        "lng": 22.33385,
+        "population": 20820
+    },
+    {
+        "id": 833258,
+        "name": "Šuto Orizare",
+        "region": "Grad Skopje",
+        "lat": 42.04,
+        "lng": 21.425,
+        "population": 20800
+    },
+    {
+        "id": 790744,
+        "name": "Gevgelija",
+        "region": "Gevgelija",
+        "lat": 41.14289,
+        "lng": 22.50108,
+        "population": 20664
+    },
+    {
+        "id": 787716,
+        "name": "Negotino",
+        "region": "Negotino",
+        "lat": 41.48456,
+        "lng": 22.09056,
+        "population": 19515
+    },
+    {
+        "id": 785345,
+        "name": "Studeničani",
+        "region": "Studenichani",
+        "lat": 41.92208,
+        "lng": 21.53483,
+        "population": 18219
+    },
+    {
+        "id": 784424,
+        "name": "Vinica",
+        "region": "Vinica",
+        "lat": 41.8812,
+        "lng": 22.51074,
+        "population": 18218
+    },
+    {
+        "id": 791606,
+        "name": "Debar",
+        "region": "Debar",
+        "lat": 41.52286,
+        "lng": 20.52198,
+        "population": 18074
+    },
+    {
+        "id": 787715,
+        "name": "Negotino",
+        "region": "Vrapchishte",
+        "lat": 41.87792,
+        "lng": 20.88389,
+        "population": 17518
+    },
+    {
+        "id": 791559,
+        "name": "Delcevo",
+        "region": "Delchevo",
+        "lat": 41.96722,
+        "lng": 22.76944,
+        "population": 17415
+    },
+    {
+        "id": 786341,
+        "name": "Resen",
+        "region": "Resen",
+        "lat": 41.08999,
+        "lng": 21.00885,
+        "population": 16539
+    },
+    {
+        "id": 833357,
+        "name": "Ilinden",
+        "region": "Ilinden",
+        "lat": 41.99297,
+        "lng": 21.58084,
+        "population": 16406
+    },
+    {
+        "id": 792227,
+        "name": "Brvenica",
+        "region": "Brvenica",
+        "lat": 41.96707,
+        "lng": 20.98091,
+        "population": 16267
+    },
+    {
+        "id": 789611,
+        "name": "Kamenjane",
+        "region": "Bogovinje",
+        "lat": 41.94568,
+        "lng": 20.92894,
+        "population": 15376
+    },
+    {
+        "id": 792501,
+        "name": "Bogovinje",
+        "region": "Bogovinje",
+        "lat": 41.92235,
+        "lng": 20.91533,
+        "population": 15166
+    }
+]

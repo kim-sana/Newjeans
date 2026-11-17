@@ -1,0 +1,818 @@
+[
+    {
+        "id": 658225,
+        "name": "Helsinki",
+        "region": "Uusimaa",
+        "lat": 60.16952,
+        "lng": 24.93545,
+        "population": 658864
+    },
+    {
+        "id": 660158,
+        "name": "Espoo",
+        "region": "Uusimaa",
+        "lat": 60.2052,
+        "lng": 24.6522,
+        "population": 323910
+    },
+    {
+        "id": 634963,
+        "name": "Tampere",
+        "region": "Pirkanmaa",
+        "lat": 61.49911,
+        "lng": 23.78712,
+        "population": 260646
+    },
+    {
+        "id": 632453,
+        "name": "Vantaa",
+        "region": "Uusimaa",
+        "lat": 60.29414,
+        "lng": 25.04099,
+        "population": 252724
+    },
+    {
+        "id": 643492,
+        "name": "Oulu",
+        "region": "North Ostrobothnia",
+        "lat": 65.01236,
+        "lng": 25.46816,
+        "population": 216066
+    },
+    {
+        "id": 633679,
+        "name": "Turku",
+        "region": "Southwest Finland",
+        "lat": 60.45148,
+        "lng": 22.26869,
+        "population": 206655
+    },
+    {
+        "id": 12747032,
+        "name": "East Helsinki",
+        "region": "Uusimaa",
+        "lat": 60.21043,
+        "lng": 25.08289,
+        "population": 170557
+    },
+    {
+        "id": 655194,
+        "name": "Jyväskylä",
+        "region": "Central Finland",
+        "lat": 62.24147,
+        "lng": 25.72088,
+        "population": 148744
+    },
+    {
+        "id": 650224,
+        "name": "Kuopio",
+        "region": "North Savo",
+        "lat": 62.89238,
+        "lng": 27.67703,
+        "population": 125462
+    },
+    {
+        "id": 649360,
+        "name": "Lahti",
+        "region": "Paijat-Hame",
+        "lat": 60.98267,
+        "lng": 25.66151,
+        "population": 121622
+    },
+    {
+        "id": 640999,
+        "name": "Pori",
+        "region": "Satakunta",
+        "lat": 61.48072,
+        "lng": 21.78518,
+        "population": 83157
+    },
+    {
+        "id": 655808,
+        "name": "Joensuu",
+        "region": "North Karelia",
+        "lat": 62.60118,
+        "lng": 29.76316,
+        "population": 78398
+    },
+    {
+        "id": 650859,
+        "name": "Kouvola",
+        "region": "Kymenlaakso",
+        "lat": 60.86667,
+        "lng": 26.7,
+        "population": 78094
+    },
+    {
+        "id": 648900,
+        "name": "Lappeenranta",
+        "region": "South Karelia",
+        "lat": 61.05871,
+        "lng": 28.18871,
+        "population": 72909
+    },
+    {
+        "id": 632978,
+        "name": "Vaasa",
+        "region": "Ostrobothnia",
+        "lat": 63.096,
+        "lng": 21.61577,
+        "population": 69819
+    },
+    {
+        "id": 659180,
+        "name": "Hämeenlinna",
+        "region": "Kanta-Häme",
+        "lat": 60.99596,
+        "lng": 24.46434,
+        "population": 68473
+    },
+    {
+        "id": 637219,
+        "name": "Seinäjoki",
+        "region": "South Ostrobothnia",
+        "lat": 62.79446,
+        "lng": 22.82822,
+        "population": 66848
+    },
+    {
+        "id": 638936,
+        "name": "Rovaniemi",
+        "region": "Lapland",
+        "lat": 66.49897,
+        "lng": 25.68867,
+        "population": 65670
+    },
+    {
+        "id": 660561,
+        "name": "Porvoo",
+        "region": "Uusimaa",
+        "lat": 60.39233,
+        "lng": 25.66507,
+        "population": 51853
+    },
+    {
+        "id": 646005,
+        "name": "Mikkeli",
+        "region": "South Savo",
+        "lat": 61.68857,
+        "lng": 27.27227,
+        "population": 51661
+    },
+    {
+        "id": 637948,
+        "name": "Salo",
+        "region": "Southwest Finland",
+        "lat": 60.38333,
+        "lng": 23.13333,
+        "population": 50794
+    },
+    {
+        "id": 650946,
+        "name": "Kotka",
+        "region": "Kymenlaakso",
+        "lat": 60.4664,
+        "lng": 26.94582,
+        "population": 50157
+    },
+    {
+        "id": 651943,
+        "name": "Kokkola",
+        "region": "Central Ostrobothnia",
+        "lat": 63.83847,
+        "lng": 23.13066,
+        "population": 48361
+    },
+    {
+        "id": 655958,
+        "name": "Järvenpää",
+        "region": "Uusimaa",
+        "lat": 60.47369,
+        "lng": 25.08992,
+        "population": 46942
+    },
+    {
+        "id": 647751,
+        "name": "Lohja",
+        "region": "Uusimaa",
+        "lat": 60.24859,
+        "lng": 24.06534,
+        "population": 45686
+    },
+    {
+        "id": 644171,
+        "name": "Nurmijärvi",
+        "region": "Uusimaa",
+        "lat": 60.46407,
+        "lng": 24.8073,
+        "population": 45356
+    },
+    {
+        "id": 656913,
+        "name": "Hyvinge",
+        "region": "Uusimaa",
+        "lat": 60.63333,
+        "lng": 24.86667,
+        "population": 43515
+    },
+    {
+        "id": 633591,
+        "name": "Tuusula",
+        "region": "Uusimaa",
+        "lat": 60.40368,
+        "lng": 25.02638,
+        "population": 42624
+    },
+    {
+        "id": 649630,
+        "name": "Kirkkonummi",
+        "region": "Uusimaa",
+        "lat": 60.12381,
+        "lng": 24.43853,
+        "population": 41821
+    },
+    {
+        "id": 631077,
+        "name": "Vuosaari",
+        "region": "Uusimaa",
+        "lat": 60.20963,
+        "lng": 25.14195,
+        "population": 38961
+    },
+    {
+        "id": 639734,
+        "name": "Rauma",
+        "region": "Satakunta",
+        "lat": 61.12724,
+        "lng": 21.51127,
+        "population": 38909
+    },
+    {
+        "id": 653185,
+        "name": "Kerava",
+        "region": "Uusimaa",
+        "lat": 60.40338,
+        "lng": 25.105,
+        "population": 38535
+    },
+    {
+        "id": 655130,
+        "name": "Kaarina",
+        "region": "Southwest Finland",
+        "lat": 60.40724,
+        "lng": 22.36904,
+        "population": 36631
+    },
+    {
+        "id": 644450,
+        "name": "Nokia",
+        "region": "Pirkanmaa",
+        "lat": 61.46667,
+        "lng": 23.5,
+        "population": 36486
+    },
+    {
+        "id": 654899,
+        "name": "Kajaani",
+        "region": "Kainuu",
+        "lat": 64.22728,
+        "lng": 27.72846,
+        "population": 36458
+    },
+    {
+        "id": 646218,
+        "name": "Mellunkylä",
+        "region": "Uusimaa",
+        "lat": 60.23355,
+        "lng": 25.09947,
+        "population": 36360
+    },
+    {
+        "id": 654440,
+        "name": "Kangasala",
+        "region": "Pirkanmaa",
+        "lat": 61.46383,
+        "lng": 24.07602,
+        "population": 34315
+    },
+    {
+        "id": 630752,
+        "name": "Ylöjärvi",
+        "region": "Pirkanmaa",
+        "lat": 61.55632,
+        "lng": 23.59606,
+        "population": 33731
+    },
+    {
+        "id": 637292,
+        "name": "Savonlinna",
+        "region": "South Savo",
+        "lat": 61.8699,
+        "lng": 28.87999,
+        "population": 31283
+    },
+    {
+        "id": 11962456,
+        "name": "Vartiokylä",
+        "region": "Uusimaa",
+        "lat": 60.21799,
+        "lng": 25.09569,
+        "population": 30244
+    },
+    {
+        "id": 631707,
+        "name": "Vihti",
+        "region": "Uusimaa",
+        "lat": 60.41699,
+        "lng": 24.31965,
+        "population": 28864
+    },
+    {
+        "id": 639406,
+        "name": "Riihimäki",
+        "region": "Kanta-Häme",
+        "lat": 60.73769,
+        "lng": 24.77726,
+        "population": 28610
+    },
+    {
+        "id": 648232,
+        "name": "Leppävaara",
+        "region": "Uusimaa",
+        "lat": 60.21283,
+        "lng": 24.81348,
+        "population": 28409
+    },
+    {
+        "id": 659717,
+        "name": "Haaga",
+        "region": "Uusimaa",
+        "lat": 60.22132,
+        "lng": 24.89759,
+        "population": 27761
+    },
+    {
+        "id": 654706,
+        "name": "Kallio",
+        "region": "Uusimaa",
+        "lat": 60.18427,
+        "lng": 24.95034,
+        "population": 27051
+    },
+    {
+        "id": 639853,
+        "name": "Raseborg",
+        "region": "Uusimaa",
+        "lat": 59.97735,
+        "lng": 23.43967,
+        "population": 26982
+    },
+    {
+        "id": 655143,
+        "name": "Kaarela",
+        "region": "Uusimaa",
+        "lat": 60.25174,
+        "lng": 24.88111,
+        "population": 26414
+    },
+    {
+        "id": 658132,
+        "name": "Herttoniemi",
+        "region": "Uusimaa",
+        "lat": 60.19471,
+        "lng": 25.03535,
+        "population": 26047
+    },
+    {
+        "id": 640124,
+        "name": "Raisio",
+        "region": "Southwest Finland",
+        "lat": 60.48592,
+        "lng": 22.16895,
+        "population": 25846
+    },
+    {
+        "id": 658120,
+        "name": "Hervanta",
+        "region": "Pirkanmaa",
+        "lat": 61.44792,
+        "lng": 23.85301,
+        "population": 25231
+    },
+    {
+        "id": 648366,
+        "name": "Lempäälä",
+        "region": "Pirkanmaa",
+        "lat": 61.31667,
+        "lng": 23.75,
+        "population": 25036
+    },
+    {
+        "id": 656688,
+        "name": "Imatra",
+        "region": "South Karelia",
+        "lat": 61.17185,
+        "lng": 28.75242,
+        "population": 24581
+    },
+    {
+        "id": 8198723,
+        "name": "Sastamala",
+        "region": "Pirkanmaa",
+        "lat": 61.34942,
+        "lng": 22.90928,
+        "population": 24495
+    },
+    {
+        "id": 643487,
+        "name": "Oulunkylä",
+        "region": "Uusimaa",
+        "lat": 60.22924,
+        "lng": 24.96403,
+        "population": 23854
+    },
+    {
+        "id": 640276,
+        "name": "Raahe",
+        "region": "North Ostrobothnia",
+        "lat": 64.68333,
+        "lng": 24.48333,
+        "population": 23566
+    },
+    {
+        "id": 637067,
+        "name": "Sibbo",
+        "region": "Uusimaa",
+        "lat": 60.37752,
+        "lng": 25.26906,
+        "population": 22903
+    },
+    {
+        "id": 654137,
+        "name": "Karhula",
+        "region": "Kymenlaakso",
+        "lat": 60.52156,
+        "lng": 26.93125,
+        "population": 22867
+    },
+    {
+        "id": 657531,
+        "name": "Hollola",
+        "region": "Paijat-Hame",
+        "lat": 61,
+        "lng": 25.5,
+        "population": 22843
+    },
+    {
+        "id": 646421,
+        "name": "Matinkylä",
+        "region": "Uusimaa",
+        "lat": 60.15885,
+        "lng": 24.74241,
+        "population": 22688
+    },
+    {
+        "id": 660407,
+        "name": "Laajasalo",
+        "region": "Uusimaa",
+        "lat": 60.17521,
+        "lng": 25.03086,
+        "population": 22419
+    },
+    {
+        "id": 636947,
+        "name": "Siilinjärvi",
+        "region": "North Savo",
+        "lat": 63.08333,
+        "lng": 27.66667,
+        "population": 21383
+    },
+    {
+        "id": 641489,
+        "name": "Pirkkala",
+        "region": "Pirkanmaa",
+        "lat": 61.46125,
+        "lng": 23.63228,
+        "population": 21204
+    },
+    {
+        "id": 652305,
+        "name": "Klaukkala",
+        "region": "Uusimaa",
+        "lat": 60.38244,
+        "lng": 24.751,
+        "population": 21019
+    },
+    {
+        "id": 646723,
+        "name": "Mäntsälä",
+        "region": "Uusimaa",
+        "lat": 60.63333,
+        "lng": 25.31667,
+        "population": 20966
+    },
+    {
+        "id": 634093,
+        "name": "Tornio",
+        "region": "Lapland",
+        "lat": 65.84811,
+        "lng": 24.14662,
+        "population": 20932
+    },
+    {
+        "id": 632672,
+        "name": "Valkeakoski",
+        "region": "Pirkanmaa",
+        "lat": 61.26421,
+        "lng": 24.03122,
+        "population": 20859
+    },
+    {
+        "id": 648056,
+        "name": "Lieto",
+        "region": "Southwest Finland",
+        "lat": 60.51032,
+        "lng": 22.46176,
+        "population": 20694
+    },
+    {
+        "id": 656820,
+        "name": "Iisalmi",
+        "region": "North Savo",
+        "lat": 63.55915,
+        "lng": 27.19067,
+        "population": 20330
+    },
+    {
+        "id": 645211,
+        "name": "Naantali",
+        "region": "Southwest Finland",
+        "lat": 60.46744,
+        "lng": 22.02428,
+        "population": 20312
+    },
+    {
+        "id": 648635,
+        "name": "Lauttasaari",
+        "region": "Uusimaa",
+        "lat": 60.15896,
+        "lng": 24.86797,
+        "population": 20000
+    },
+    {
+        "id": 847506,
+        "name": "Suutarila",
+        "region": "Uusimaa",
+        "lat": 60.27996,
+        "lng": 25.01759,
+        "population": 19690
+    },
+    {
+        "id": 656130,
+        "name": "Jakobstad",
+        "region": "Ostrobothnia",
+        "lat": 63.67486,
+        "lng": 22.70256,
+        "population": 19668
+    },
+    {
+        "id": 632370,
+        "name": "Varkaus",
+        "region": "North Savo",
+        "lat": 62.31533,
+        "lng": 27.873,
+        "population": 19603
+    },
+    {
+        "id": 650095,
+        "name": "Kurikka",
+        "region": "South Ostrobothnia",
+        "lat": 62.61667,
+        "lng": 22.41667,
+        "population": 19474
+    },
+    {
+        "id": 653281,
+        "name": "Kemi",
+        "region": "Lapland",
+        "lat": 65.73641,
+        "lng": 24.56371,
+        "population": 19332
+    },
+    {
+        "id": 659169,
+        "name": "Hamina",
+        "region": "Kymenlaakso",
+        "lat": 60.56974,
+        "lng": 27.19794,
+        "population": 19305
+    },
+    {
+        "id": 656083,
+        "name": "Jämsä",
+        "region": "Central Finland",
+        "lat": 61.8642,
+        "lng": 25.19002,
+        "population": 19209
+    },
+    {
+        "id": 648738,
+        "name": "Laukaa",
+        "region": "Central Finland",
+        "lat": 62.41407,
+        "lng": 25.95194,
+        "population": 18876
+    },
+    {
+        "id": 847422,
+        "name": "Myyrmäki",
+        "region": "Uusimaa",
+        "lat": 60.26711,
+        "lng": 24.84713,
+        "population": 18393
+    },
+    {
+        "id": 641374,
+        "name": "Pitäjänmäki",
+        "region": "Uusimaa",
+        "lat": 60.22287,
+        "lng": 24.86103,
+        "population": 18016
+    },
+    {
+        "id": 658288,
+        "name": "Heinola",
+        "region": "Paijat-Hame",
+        "lat": 61.20564,
+        "lng": 26.03811,
+        "population": 17746
+    },
+    {
+        "id": 7521636,
+        "name": "Espoonlahti",
+        "region": "Uusimaa",
+        "lat": 60.15054,
+        "lng": 24.65307,
+        "population": 17697
+    },
+    {
+        "id": 662095,
+        "name": "Äänekoski",
+        "region": "Central Finland",
+        "lat": 62.6,
+        "lng": 25.73333,
+        "population": 17614
+    },
+    {
+        "id": 645691,
+        "name": "Munkkiniemi",
+        "region": "Uusimaa",
+        "lat": 60.19861,
+        "lng": 24.87772,
+        "population": 17334
+    },
+    {
+        "id": 658629,
+        "name": "Haukipudas",
+        "region": "North Ostrobothnia",
+        "lat": 65.17654,
+        "lng": 25.35233,
+        "population": 17298
+    },
+    {
+        "id": 641869,
+        "name": "Pieksämäki",
+        "region": "South Savo",
+        "lat": 62.3,
+        "lng": 27.13333,
+        "population": 17243
+    },
+    {
+        "id": 651299,
+        "name": "Korsholm",
+        "region": "Ostrobothnia",
+        "lat": 63.11418,
+        "lng": 21.68216,
+        "population": 17176
+    },
+    {
+        "id": 843404,
+        "name": "Olari",
+        "region": "Uusimaa",
+        "lat": 60.17239,
+        "lng": 24.72713,
+        "population": 16929
+    },
+    {
+        "id": 661164,
+        "name": "Anjala",
+        "region": "Kymenlaakso",
+        "lat": 60.68333,
+        "lng": 26.83333,
+        "population": 16779
+    },
+    {
+        "id": 632542,
+        "name": "Vammala",
+        "region": "Pirkanmaa",
+        "lat": 61.33333,
+        "lng": 22.9,
+        "population": 16635
+    },
+    {
+        "id": 847507,
+        "name": "Suurmetsä",
+        "region": "Uusimaa",
+        "lat": 60.26961,
+        "lng": 25.05395,
+        "population": 16452
+    },
+    {
+        "id": 659935,
+        "name": "Forssa",
+        "region": "Kanta-Häme",
+        "lat": 60.81462,
+        "lng": 23.62146,
+        "population": 16368
+    },
+    {
+        "id": 6940573,
+        "name": "Pohjois-Hervanta",
+        "region": "Pirkanmaa",
+        "lat": 61.45347,
+        "lng": 23.84744,
+        "population": 16053
+    },
+    {
+        "id": 656073,
+        "name": "Janakkala",
+        "region": "Kanta-Häme",
+        "lat": 60.9,
+        "lng": 24.6,
+        "population": 15995
+    },
+    {
+        "id": 643644,
+        "name": "Orimattila",
+        "region": "Paijat-Hame",
+        "lat": 60.80487,
+        "lng": 25.72964,
+        "population": 15628
+    },
+    {
+        "id": 7911309,
+        "name": "Väståboland",
+        "region": "Southwest Finland",
+        "lat": 60.29972,
+        "lng": 22.3004,
+        "population": 15498
+    },
+    {
+        "id": 630768,
+        "name": "Ylivieska",
+        "region": "North Ostrobothnia",
+        "lat": 64.08333,
+        "lng": 24.55,
+        "population": 15375
+    },
+    {
+        "id": 635080,
+        "name": "Taka-Töölö",
+        "region": "Uusimaa",
+        "lat": 60.18434,
+        "lng": 24.91948,
+        "population": 15343
+    },
+    {
+        "id": 647731,
+        "name": "Loimaa",
+        "region": "Southwest Finland",
+        "lat": 60.84972,
+        "lng": 23.0561,
+        "population": 15248
+    },
+    {
+        "id": 798763,
+        "name": "Viikki",
+        "region": "Uusimaa",
+        "lat": 60.22183,
+        "lng": 25.02386,
+        "population": 15177
+    },
+    {
+        "id": 651659,
+        "name": "Kontiolahti",
+        "region": "North Karelia",
+        "lat": 62.76023,
+        "lng": 29.84711,
+        "population": 15092
+    },
+    {
+        "id": 653616,
+        "name": "Kauhava",
+        "region": "South Ostrobothnia",
+        "lat": 63.10299,
+        "lng": 23.07129,
+        "population": 15066
+    }
+]

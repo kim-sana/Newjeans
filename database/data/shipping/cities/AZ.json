@@ -1,0 +1,522 @@
+[
+    {
+        "id": 587084,
+        "name": "Baku",
+        "region": "Baki",
+        "lat": 40.37767,
+        "lng": 49.89201,
+        "population": 2351300
+    },
+    {
+        "id": 584923,
+        "name": "Sumgayit",
+        "region": "Sumqayit",
+        "lat": 40.58972,
+        "lng": 49.66861,
+        "population": 427000
+    },
+    {
+        "id": 586523,
+        "name": "Ganja",
+        "region": "Gǝncǝ",
+        "lat": 40.68157,
+        "lng": 46.36134,
+        "population": 330663
+    },
+    {
+        "id": 585915,
+        "name": "Khirdalan",
+        "region": "Abşeron",
+        "lat": 40.44808,
+        "lng": 49.75502,
+        "population": 196200
+    },
+    {
+        "id": 584649,
+        "name": "Yevlakh",
+        "region": "Yevlax City",
+        "lat": 40.61832,
+        "lng": 47.15014,
+        "population": 127400
+    },
+    {
+        "id": 585514,
+        "name": "Mingachevir",
+        "region": "Mingacevir City",
+        "lat": 40.76422,
+        "lng": 47.06227,
+        "population": 106048
+    },
+    {
+        "id": 147429,
+        "name": "Naxçıvan",
+        "region": "Nakhchivan",
+        "lat": 39.20889,
+        "lng": 45.41222,
+        "population": 97200
+    },
+    {
+        "id": 147622,
+        "name": "Lankaran",
+        "region": "Lənkəran",
+        "lat": 38.75428,
+        "lng": 48.85062,
+        "population": 89300
+    },
+    {
+        "id": 585103,
+        "name": "Qaraçuxur",
+        "region": "Baki",
+        "lat": 40.39667,
+        "lng": 49.97361,
+        "population": 87349
+    },
+    {
+        "id": 147611,
+        "name": "Lerik",
+        "region": "Lerik District",
+        "lat": 38.77388,
+        "lng": 48.41497,
+        "population": 87000
+    },
+    {
+        "id": 148565,
+        "name": "Şirvan",
+        "region": "Shirvan",
+        "lat": 39.93778,
+        "lng": 48.929,
+        "population": 70220
+    },
+    {
+        "id": 585170,
+        "name": "Sheki",
+        "region": "Shaki City",
+        "lat": 41.19194,
+        "lng": 47.17056,
+        "population": 68400
+    },
+    {
+        "id": 584717,
+        "name": "Xaçmaz",
+        "region": "Xaçmaz",
+        "lat": 41.46426,
+        "lng": 48.80565,
+        "population": 67600
+    },
+    {
+        "id": 824003,
+        "name": "Bakıxanov",
+        "region": "Baki",
+        "lat": 40.41894,
+        "lng": 49.96693,
+        "population": 66686
+    },
+    {
+        "id": 586427,
+        "name": "Göyçay",
+        "region": "Göyçay",
+        "lat": 40.65055,
+        "lng": 47.74219,
+        "population": 42500
+    },
+    {
+        "id": 587078,
+        "name": "Bilajari",
+        "region": "Baki",
+        "lat": 40.4444,
+        "lng": 49.80566,
+        "population": 42194
+    },
+    {
+        "id": 587057,
+        "name": "Barda",
+        "region": "Barda",
+        "lat": 40.37577,
+        "lng": 47.12619,
+        "population": 41600
+    },
+    {
+        "id": 585152,
+        "name": "Shamkhir",
+        "region": "Şǝmkir",
+        "lat": 40.82975,
+        "lng": 46.0178,
+        "population": 41300
+    },
+    {
+        "id": 587384,
+        "name": "Aghjabadi",
+        "region": "Ağcabǝdi",
+        "lat": 40.05015,
+        "lng": 47.45937,
+        "population": 41200
+    },
+    {
+        "id": 585156,
+        "name": "Shamakhi",
+        "region": "Şamaxı",
+        "lat": 40.63141,
+        "lng": 48.64137,
+        "population": 40300
+    },
+    {
+        "id": 585557,
+        "name": "Maştağa",
+        "region": "Baki",
+        "lat": 40.52983,
+        "lng": 50.00616,
+        "population": 40092
+    },
+    {
+        "id": 585145,
+        "name": "Saray",
+        "region": "Abşeron",
+        "lat": 40.53299,
+        "lng": 49.71681,
+        "population": 37800
+    },
+    {
+        "id": 148619,
+        "name": "Aghdam",
+        "region": "Ağdam",
+        "lat": 39.99096,
+        "lng": 46.92736,
+        "population": 37700
+    },
+    {
+        "id": 147271,
+        "name": "Salyan",
+        "region": "Salyan District",
+        "lat": 39.59621,
+        "lng": 48.98479,
+        "population": 36555
+    },
+    {
+        "id": 586429,
+        "name": "Hövsan",
+        "region": "Baki",
+        "lat": 40.37444,
+        "lng": 50.08528,
+        "population": 36293
+    },
+    {
+        "id": 148290,
+        "name": "Jalilabad",
+        "region": "Jalilabad",
+        "lat": 39.20963,
+        "lng": 48.49186,
+        "population": 36259
+    },
+    {
+        "id": 147982,
+        "name": "Imishli",
+        "region": "İmişli",
+        "lat": 39.87095,
+        "lng": 48.05995,
+        "population": 34178
+    },
+    {
+        "id": 584596,
+        "name": "Zaqatala",
+        "region": "Zaqatala District",
+        "lat": 41.6316,
+        "lng": 46.64479,
+        "population": 32171
+    },
+    {
+        "id": 585630,
+        "name": "Lokbatan",
+        "region": "Baki",
+        "lat": 40.3256,
+        "lng": 49.73376,
+        "population": 30694
+    },
+    {
+        "id": 585187,
+        "name": "Sabirabad",
+        "region": "Sabirabad District",
+        "lat": 40.00869,
+        "lng": 48.47701,
+        "population": 30612
+    },
+    {
+        "id": 585379,
+        "name": "Haji Zeynalabdin",
+        "region": "Sumqayit",
+        "lat": 40.62333,
+        "lng": 49.55861,
+        "population": 29900
+    },
+    {
+        "id": 587261,
+        "name": "Amirdzhan",
+        "region": "Baki",
+        "lat": 40.42639,
+        "lng": 49.98361,
+        "population": 28203
+    },
+    {
+        "id": 586318,
+        "name": "Ismayilli",
+        "region": "Ismayilli District",
+        "lat": 40.78485,
+        "lng": 48.15141,
+        "population": 27500
+    },
+    {
+        "id": 584954,
+        "name": "Siyazan",
+        "region": "Siyǝzǝn",
+        "lat": 41.07811,
+        "lng": 49.11564,
+        "population": 25900
+    },
+    {
+        "id": 148106,
+        "name": "Fuzuli",
+        "region": "Fuzuli District",
+        "lat": 39.60094,
+        "lng": 47.14529,
+        "population": 25100
+    },
+    {
+        "id": 586925,
+        "name": "Buzovna",
+        "region": "Baki",
+        "lat": 40.51903,
+        "lng": 50.11438,
+        "population": 24795
+    },
+    {
+        "id": 586968,
+        "name": "Biny Selo",
+        "region": "Baki",
+        "lat": 40.45076,
+        "lng": 50.08686,
+        "population": 24596
+    },
+    {
+        "id": 587378,
+        "name": "Ağdaş",
+        "region": "Ağdaş",
+        "lat": 40.64699,
+        "lng": 47.4738,
+        "population": 23528
+    },
+    {
+        "id": 586763,
+        "name": "Divichibazar",
+        "region": "Shabran",
+        "lat": 41.20117,
+        "lng": 48.98712,
+        "population": 23248
+    },
+    {
+        "id": 585225,
+        "name": "Hacıqabul",
+        "region": "Hacıqabul",
+        "lat": 40.03874,
+        "lng": 48.94286,
+        "population": 23102
+    },
+    {
+        "id": 585221,
+        "name": "Quba",
+        "region": "Quba",
+        "lat": 41.36108,
+        "lng": 48.51341,
+        "population": 22405
+    },
+    {
+        "id": 587361,
+        "name": "Aghsu",
+        "region": "Agsu District",
+        "lat": 40.57028,
+        "lng": 48.40087,
+        "population": 22300
+    },
+    {
+        "id": 584614,
+        "name": "Zabrat",
+        "region": "Baki",
+        "lat": 40.47746,
+        "lng": 49.94174,
+        "population": 21396
+    },
+    {
+        "id": 585184,
+        "name": "Sabunçu",
+        "region": "Baki",
+        "lat": 40.4425,
+        "lng": 49.94806,
+        "population": 20996
+    },
+    {
+        "id": 585226,
+        "name": "Gazakh",
+        "region": "Qazax",
+        "lat": 41.09246,
+        "lng": 45.36561,
+        "population": 20800
+    },
+    {
+        "id": 8572256,
+        "name": "Mehdiabad",
+        "region": "Abşeron",
+        "lat": 40.49691,
+        "lng": 49.8517,
+        "population": 20500
+    },
+    {
+        "id": 584871,
+        "name": "Tartar",
+        "region": "Tartar District",
+        "lat": 40.34201,
+        "lng": 46.93161,
+        "population": 20400
+    },
+    {
+        "id": 147288,
+        "name": "Saatlı",
+        "region": "Saatlı",
+        "lat": 39.93214,
+        "lng": 48.36892,
+        "population": 20300
+    },
+    {
+        "id": 584716,
+        "name": "Goygol",
+        "region": "Goygol Rayon",
+        "lat": 40.58584,
+        "lng": 46.3189,
+        "population": 19800
+    },
+    {
+        "id": 147105,
+        "name": "Shusha",
+        "region": "Shusha",
+        "lat": 39.76006,
+        "lng": 46.74989,
+        "population": 19400
+    },
+    {
+        "id": 585763,
+        "name": "Kyurdarmir",
+        "region": "Kurdamir District",
+        "lat": 40.34257,
+        "lng": 48.15649,
+        "population": 19088
+    },
+    {
+        "id": 147425,
+        "name": "Neftçala",
+        "region": "Neftçala",
+        "lat": 39.3768,
+        "lng": 49.247,
+        "population": 18661
+    },
+    {
+        "id": 586631,
+        "name": "Jorat",
+        "region": "Sumqayit",
+        "lat": 40.57176,
+        "lng": 49.70509,
+        "population": 18500
+    },
+    {
+        "id": 148340,
+        "name": "Pushkino",
+        "region": "Bilasuvar District",
+        "lat": 39.45833,
+        "lng": 48.545,
+        "population": 18182
+    },
+    {
+        "id": 585838,
+        "name": "Gobu",
+        "region": "Abşeron",
+        "lat": 40.40472,
+        "lng": 49.71306,
+        "population": 17600
+    },
+    {
+        "id": 586481,
+        "name": "Hokmali",
+        "region": "Abşeron",
+        "lat": 40.43111,
+        "lng": 49.73722,
+        "population": 17300
+    },
+    {
+        "id": 147059,
+        "name": "Əhmədbəyli",
+        "region": "Saatlı",
+        "lat": 39.88074,
+        "lng": 48.39158,
+        "population": 17242
+    },
+    {
+        "id": 147420,
+        "name": "Nehram",
+        "region": "Nakhchivan",
+        "lat": 39.11597,
+        "lng": 45.46168,
+        "population": 17200
+    },
+    {
+        "id": 586340,
+        "name": "Yeni Suraxanı",
+        "region": "Baki",
+        "lat": 40.43026,
+        "lng": 50.03598,
+        "population": 16127
+    },
+    {
+        "id": 585220,
+        "name": "Qusar",
+        "region": "Qusar District",
+        "lat": 41.4275,
+        "lng": 48.4302,
+        "population": 16022
+    },
+    {
+        "id": 584791,
+        "name": "Ujar",
+        "region": "Ucar",
+        "lat": 40.51902,
+        "lng": 47.65423,
+        "population": 15741
+    },
+    {
+        "id": 585802,
+        "name": "Govlar",
+        "region": "Tovuz District",
+        "lat": 40.94595,
+        "lng": 45.73175,
+        "population": 15600
+    },
+    {
+        "id": 148354,
+        "name": "Beylagan",
+        "region": "Beyləqan",
+        "lat": 39.77556,
+        "lng": 47.61861,
+        "population": 15599
+    },
+    {
+        "id": 585568,
+        "name": "Mardakan",
+        "region": "Baki",
+        "lat": 40.49182,
+        "lng": 50.14292,
+        "population": 15267
+    },
+    {
+        "id": 148445,
+        "name": "Astara",
+        "region": "Astara",
+        "lat": 38.45598,
+        "lng": 48.87498,
+        "population": 15190
+    }
+]

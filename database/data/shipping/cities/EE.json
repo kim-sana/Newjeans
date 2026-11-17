@@ -1,0 +1,122 @@
+[
+    {
+        "id": 588409,
+        "name": "Tallinn",
+        "region": "Harjumaa",
+        "lat": 59.43696,
+        "lng": 24.75353,
+        "population": 394024
+    },
+    {
+        "id": 590775,
+        "name": "Lasnamäe",
+        "region": "Harjumaa",
+        "lat": 59.4336,
+        "lng": 24.86017,
+        "population": 115008
+    },
+    {
+        "id": 588335,
+        "name": "Tartu",
+        "region": "Tartu",
+        "lat": 58.38062,
+        "lng": 26.72509,
+        "population": 91407
+    },
+    {
+        "id": 794965,
+        "name": "Mustamäe",
+        "region": "Harjumaa",
+        "lat": 59.40482,
+        "lng": 24.68119,
+        "population": 67968
+    },
+    {
+        "id": 795155,
+        "name": "Kesklinn",
+        "region": "Harjumaa",
+        "lat": 59.4355,
+        "lng": 24.75748,
+        "population": 67766
+    },
+    {
+        "id": 8435741,
+        "name": "Põhja-Tallinn",
+        "region": "Harjumaa",
+        "lat": 59.44901,
+        "lng": 24.69812,
+        "population": 63240
+    },
+    {
+        "id": 590031,
+        "name": "Narva",
+        "region": "Ida-Virumaa",
+        "lat": 59.37722,
+        "lng": 28.19028,
+        "population": 54409
+    },
+    {
+        "id": 8435738,
+        "name": "Haabersti",
+        "region": "Harjumaa",
+        "lat": 59.42334,
+        "lng": 24.64654,
+        "population": 51423
+    },
+    {
+        "id": 589580,
+        "name": "Pärnu",
+        "region": "Pärnumaa",
+        "lat": 58.38588,
+        "lng": 24.49711,
+        "population": 40228
+    },
+    {
+        "id": 589947,
+        "name": "Nõmme",
+        "region": "Harjumaa",
+        "lat": 59.37757,
+        "lng": 24.68587,
+        "population": 39422
+    },
+    {
+        "id": 591260,
+        "name": "Kohtla-Järve",
+        "region": "Ida-Virumaa",
+        "lat": 59.39861,
+        "lng": 27.27306,
+        "population": 35395
+    },
+    {
+        "id": 8435739,
+        "name": "Kristiine",
+        "region": "Harjumaa",
+        "lat": 59.415,
+        "lng": 24.70915,
+        "population": 34306
+    },
+    {
+        "id": 589426,
+        "name": "Pirita",
+        "region": "Harjumaa",
+        "lat": 59.469,
+        "lng": 24.838,
+        "population": 18310
+    },
+    {
+        "id": 587577,
+        "name": "Viljandi",
+        "region": "Viljandimaa",
+        "lat": 58.36319,
+        "lng": 25.59159,
+        "population": 17407
+    },
+    {
+        "id": 590447,
+        "name": "Maardu",
+        "region": "Harjumaa",
+        "lat": 59.46529,
+        "lng": 24.98215,
+        "population": 16630
+    }
+]

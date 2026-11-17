@@ -1,0 +1,250 @@
+[
+    {
+        "id": 890299,
+        "name": "Harare",
+        "region": "Harare",
+        "lat": -17.82772,
+        "lng": 31.05337,
+        "population": 1542813
+    },
+    {
+        "id": 894701,
+        "name": "Bulawayo",
+        "region": "Bulawayo",
+        "lat": -20.15,
+        "lng": 28.58333,
+        "population": 665952
+    },
+    {
+        "id": 1106542,
+        "name": "Chitungwiza",
+        "region": "Harare",
+        "lat": -18.01274,
+        "lng": 31.07555,
+        "population": 371246
+    },
+    {
+        "id": 884979,
+        "name": "Mutare",
+        "region": "Manicaland",
+        "lat": -18.9707,
+        "lng": 32.67086,
+        "population": 224802
+    },
+    {
+        "id": 1085510,
+        "name": "Epworth",
+        "region": "Harare",
+        "lat": -17.89,
+        "lng": 31.1475,
+        "population": 206365
+    },
+    {
+        "id": 890422,
+        "name": "Gweru",
+        "region": "Midlands Province",
+        "lat": -19.45,
+        "lng": 29.81667,
+        "population": 158200
+    },
+    {
+        "id": 888710,
+        "name": "Kwekwe",
+        "region": "Midlands Province",
+        "lat": -18.92809,
+        "lng": 29.81486,
+        "population": 119863
+    },
+    {
+        "id": 889453,
+        "name": "Kadoma",
+        "region": "Mashonaland West",
+        "lat": -18.33328,
+        "lng": 29.91534,
+        "population": 117381
+    },
+    {
+        "id": 882009,
+        "name": "Ruwa",
+        "region": "Mashonaland East Province",
+        "lat": -17.88972,
+        "lng": 31.24472,
+        "population": 94083
+    },
+    {
+        "id": 893697,
+        "name": "Chinhoyi",
+        "region": "Mashonaland West",
+        "lat": -17.36667,
+        "lng": 30.2,
+        "population": 90800
+    },
+    {
+        "id": 886763,
+        "name": "Masvingo",
+        "region": "Masvingo Province",
+        "lat": -20.06373,
+        "lng": 30.82766,
+        "population": 90286
+    },
+    {
+        "id": 884141,
+        "name": "Norton",
+        "region": "Mashonaland West",
+        "lat": -17.88333,
+        "lng": 30.7,
+        "population": 87039
+    },
+    {
+        "id": 886990,
+        "name": "Marondera",
+        "region": "Mashonaland East Province",
+        "lat": -18.18527,
+        "lng": 31.55193,
+        "population": 66204
+    },
+    {
+        "id": 894239,
+        "name": "Chegutu",
+        "region": "Mashonaland West",
+        "lat": -18.13021,
+        "lng": 30.14074,
+        "population": 65800
+    },
+    {
+        "id": 878549,
+        "name": "Zvishavane",
+        "region": "Masvingo Province",
+        "lat": -20.32674,
+        "lng": 30.06648,
+        "population": 59717
+    },
+    {
+        "id": 895269,
+        "name": "Beitbridge",
+        "region": "Matabeleland South Province",
+        "lat": -22.21667,
+        "lng": 30,
+        "population": 58574
+    },
+    {
+        "id": 895061,
+        "name": "Bindura",
+        "region": "Mashonaland Central",
+        "lat": -17.30192,
+        "lng": 31.33056,
+        "population": 50400
+    },
+    {
+        "id": 882599,
+        "name": "Redcliff",
+        "region": "Midlands Province",
+        "lat": -19.03333,
+        "lng": 29.78333,
+        "population": 41526
+    },
+    {
+        "id": 893485,
+        "name": "Chiredzi",
+        "region": "Masvingo Province",
+        "lat": -21.05,
+        "lng": 31.66667,
+        "population": 40100
+    },
+    {
+        "id": 889942,
+        "name": "Hwange",
+        "region": "Matabeleland North",
+        "lat": -18.36446,
+        "lng": 26.49877,
+        "population": 39750
+    },
+    {
+        "id": 882100,
+        "name": "Rusape",
+        "region": "Manicaland",
+        "lat": -18.52785,
+        "lng": 32.12843,
+        "population": 37906
+    },
+    {
+        "id": 889191,
+        "name": "Karoi",
+        "region": "Mashonaland West",
+        "lat": -16.80993,
+        "lng": 29.69247,
+        "population": 37564
+    },
+    {
+        "id": 879431,
+        "name": "Victoria Falls",
+        "region": "Matabeleland North",
+        "lat": -17.93285,
+        "lng": 25.83066,
+        "population": 35215
+    },
+    {
+        "id": 893549,
+        "name": "Chipinge",
+        "region": "Manicaland",
+        "lat": -20.18833,
+        "lng": 32.62365,
+        "population": 34959
+    },
+    {
+        "id": 890983,
+        "name": "Gokwe",
+        "region": "Midlands Province",
+        "lat": -18.20476,
+        "lng": 28.9349,
+        "population": 33073
+    },
+    {
+        "id": 885792,
+        "name": "Mount Hampden",
+        "region": "Mashonaland East Province",
+        "lat": -17.74167,
+        "lng": 30.93889,
+        "population": 30000
+    },
+    {
+        "id": 889215,
+        "name": "Kariba",
+        "region": "Mashonaland West",
+        "lat": -16.51667,
+        "lng": 28.8,
+        "population": 27600
+    },
+    {
+        "id": 890516,
+        "name": "Gwanda",
+        "region": "Matabeleland South Province",
+        "lat": -20.93622,
+        "lng": 29.00698,
+        "population": 26700
+    },
+    {
+        "id": 881164,
+        "name": "Shurugwi",
+        "region": "Midlands Province",
+        "lat": -19.67016,
+        "lng": 30.00589,
+        "population": 23304
+    },
+    {
+        "id": 884798,
+        "name": "Mvurwi",
+        "region": "Mashonaland Central",
+        "lat": -17.03333,
+        "lng": 30.85,
+        "population": 15646
+    },
+    {
+        "id": 13132735,
+        "name": "Harare Western Suburbs",
+        "region": "Mashonaland West",
+        "lat": -17.8415,
+        "lng": 30.87674,
+        "population": 15556
+    }
+]

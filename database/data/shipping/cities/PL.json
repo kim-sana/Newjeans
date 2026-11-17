@@ -1,0 +1,2906 @@
+[
+    {
+        "id": 756135,
+        "name": "Warsaw",
+        "region": "Mazovia",
+        "lat": 52.22977,
+        "lng": 21.01178,
+        "population": 1702139
+    },
+    {
+        "id": 3094802,
+        "name": "Kraków",
+        "region": "Lesser Poland",
+        "lat": 50.06143,
+        "lng": 19.93658,
+        "population": 816614
+    },
+    {
+        "id": 3081368,
+        "name": "Wrocław",
+        "region": "Lower Silesia",
+        "lat": 51.10286,
+        "lng": 17.03006,
+        "population": 672545
+    },
+    {
+        "id": 3093133,
+        "name": "Łódź",
+        "region": "Łódź Voivodeship",
+        "lat": 51.77058,
+        "lng": 19.47395,
+        "population": 639890
+    },
+    {
+        "id": 3088171,
+        "name": "Poznań",
+        "region": "Greater Poland",
+        "lat": 52.40692,
+        "lng": 16.92993,
+        "population": 536151
+    },
+    {
+        "id": 3099434,
+        "name": "Gdańsk",
+        "region": "Pomerania",
+        "lat": 54.35227,
+        "lng": 18.64912,
+        "population": 487371
+    },
+    {
+        "id": 3083829,
+        "name": "Szczecin",
+        "region": "West Pomerania",
+        "lat": 53.42894,
+        "lng": 14.55302,
+        "population": 395513
+    },
+    {
+        "id": 765876,
+        "name": "Lublin",
+        "region": "Lublin",
+        "lat": 51.25058,
+        "lng": 22.57009,
+        "population": 336339
+    },
+    {
+        "id": 3102014,
+        "name": "Bydgoszcz",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.1235,
+        "lng": 18.00762,
+        "population": 330038
+    },
+    {
+        "id": 776069,
+        "name": "Białystok",
+        "region": "Podlasie",
+        "lat": 53.13333,
+        "lng": 23.16433,
+        "population": 295683
+    },
+    {
+        "id": 3096472,
+        "name": "Katowice",
+        "region": "Silesia",
+        "lat": 50.2597,
+        "lng": 19.02173,
+        "population": 286960
+    },
+    {
+        "id": 3099424,
+        "name": "Gdynia",
+        "region": "Pomerania",
+        "lat": 54.51889,
+        "lng": 18.53188,
+        "population": 257000
+    },
+    {
+        "id": 3100946,
+        "name": "Częstochowa",
+        "region": "Silesia",
+        "lat": 50.79646,
+        "lng": 19.12409,
+        "population": 248125
+    },
+    {
+        "id": 3085128,
+        "name": "Sosnowiec",
+        "region": "Silesia",
+        "lat": 50.28682,
+        "lng": 19.10385,
+        "population": 227295
+    },
+    {
+        "id": 760778,
+        "name": "Radom",
+        "region": "Mazovia",
+        "lat": 51.40253,
+        "lng": 21.14714,
+        "population": 226794
+    },
+    {
+        "id": 764484,
+        "name": "Mokotów",
+        "region": "Mazovia",
+        "lat": 52.1934,
+        "lng": 21.03487,
+        "population": 217683
+    },
+    {
+        "id": 3099230,
+        "name": "Gliwice",
+        "region": "Silesia",
+        "lat": 50.29761,
+        "lng": 18.67658,
+        "population": 198835
+    },
+    {
+        "id": 759734,
+        "name": "Rzeszów",
+        "region": "Subcarpathia",
+        "lat": 50.04132,
+        "lng": 21.99901,
+        "population": 198317
+    },
+    {
+        "id": 3083271,
+        "name": "Toruń",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.01375,
+        "lng": 18.59814,
+        "population": 196935
+    },
+    {
+        "id": 769250,
+        "name": "Kielce",
+        "region": "Świętokrzyskie",
+        "lat": 50.87033,
+        "lng": 20.62752,
+        "population": 192468
+    },
+    {
+        "id": 3080985,
+        "name": "Zabrze",
+        "region": "Silesia",
+        "lat": 50.32492,
+        "lng": 18.78576,
+        "population": 192177
+    },
+    {
+        "id": 3101950,
+        "name": "Bytom",
+        "region": "Silesia",
+        "lat": 50.34802,
+        "lng": 18.93282,
+        "population": 189186
+    },
+    {
+        "id": 6545348,
+        "name": "Praga Południe",
+        "region": "Mazovia",
+        "lat": 52.24424,
+        "lng": 21.08545,
+        "population": 179836
+    },
+    {
+        "id": 3103402,
+        "name": "Bielsko-Biala",
+        "region": "Silesia",
+        "lat": 49.82245,
+        "lng": 19.04686,
+        "population": 176515
+    },
+    {
+        "id": 763166,
+        "name": "Olsztyn",
+        "region": "Warmia-Masuria",
+        "lat": 53.78376,
+        "lng": 20.49272,
+        "population": 169793
+    },
+    {
+        "id": 6545326,
+        "name": "Ursynów",
+        "region": "Mazovia",
+        "lat": 52.15051,
+        "lng": 21.05041,
+        "population": 149775
+    },
+    {
+        "id": 3086800,
+        "name": "Ruda Śląska",
+        "region": "Silesia",
+        "lat": 50.2584,
+        "lng": 18.85632,
+        "population": 146189
+    },
+    {
+        "id": 3086586,
+        "name": "Rybnik",
+        "region": "Silesia",
+        "lat": 50.09713,
+        "lng": 18.54179,
+        "population": 142510
+    },
+    {
+        "id": 755330,
+        "name": "Wola",
+        "region": "Mazovia",
+        "lat": 52.23477,
+        "lng": 20.96004,
+        "population": 140958
+    },
+    {
+        "id": 776029,
+        "name": "Bielany",
+        "region": "Mazovia",
+        "lat": 52.29242,
+        "lng": 20.93531,
+        "population": 131910
+    },
+    {
+        "id": 3082914,
+        "name": "Tychy",
+        "region": "Silesia",
+        "lat": 50.13717,
+        "lng": 18.96641,
+        "population": 130000
+    },
+    {
+        "id": 776103,
+        "name": "Białołeka",
+        "region": "Mazovia",
+        "lat": 52.32127,
+        "lng": 20.97204,
+        "population": 129106
+    },
+    {
+        "id": 3090048,
+        "name": "Opole",
+        "region": "Opole Voivodeship",
+        "lat": 50.67119,
+        "lng": 17.92604,
+        "population": 127676
+    },
+    {
+        "id": 3099759,
+        "name": "Elbląg",
+        "region": "Warmia-Masuria",
+        "lat": 54.1522,
+        "lng": 19.40884,
+        "population": 127558
+    },
+    {
+        "id": 3088825,
+        "name": "Płock",
+        "region": "Mazovia",
+        "lat": 52.54682,
+        "lng": 19.70638,
+        "population": 127474
+    },
+    {
+        "id": 3082707,
+        "name": "Wałbrzych",
+        "region": "Lower Silesia",
+        "lat": 50.77141,
+        "lng": 16.28432,
+        "population": 127431
+    },
+    {
+        "id": 757065,
+        "name": "Targówek",
+        "region": "Mazovia",
+        "lat": 52.29185,
+        "lng": 21.04845,
+        "population": 124279
+    },
+    {
+        "id": 776251,
+        "name": "Bemowo",
+        "region": "Mazovia",
+        "lat": 52.2546,
+        "lng": 20.90844,
+        "population": 123932
+    },
+    {
+        "id": 3081741,
+        "name": "Włocławek",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 52.64817,
+        "lng": 19.0678,
+        "population": 120339
+    },
+    {
+        "id": 3080165,
+        "name": "Zielona Góra",
+        "region": "Lubusz",
+        "lat": 51.93548,
+        "lng": 15.50643,
+        "population": 118433
+    },
+    {
+        "id": 757026,
+        "name": "Tarnów",
+        "region": "Lesser Poland",
+        "lat": 50.01381,
+        "lng": 20.98698,
+        "population": 117799
+    },
+    {
+        "id": 3100796,
+        "name": "Dąbrowa Górnicza",
+        "region": "Silesia",
+        "lat": 50.33394,
+        "lng": 19.20479,
+        "population": 116971
+    },
+    {
+        "id": 3098722,
+        "name": "Gorzów Wielkopolski",
+        "region": "Lubusz",
+        "lat": 52.73371,
+        "lng": 15.22505,
+        "population": 114567
+    },
+    {
+        "id": 3101619,
+        "name": "Chorzów",
+        "region": "Silesia",
+        "lat": 50.30582,
+        "lng": 18.9742,
+        "population": 113430
+    },
+    {
+        "id": 3096880,
+        "name": "Kalisz",
+        "region": "Greater Poland",
+        "lat": 51.76109,
+        "lng": 18.09102,
+        "population": 108759
+    },
+    {
+        "id": 3095049,
+        "name": "Koszalin",
+        "region": "West Pomerania",
+        "lat": 54.19438,
+        "lng": 16.17222,
+        "population": 107450
+    },
+    {
+        "id": 3093692,
+        "name": "Legnica",
+        "region": "Lower Silesia",
+        "lat": 51.21006,
+        "lng": 16.1619,
+        "population": 106033
+    },
+    {
+        "id": 758470,
+        "name": "Śródmieście",
+        "region": "Mazovia",
+        "lat": 52.22904,
+        "lng": 21.01644,
+        "population": 99950
+    },
+    {
+        "id": 13562332,
+        "name": "Śródmieście",
+        "region": "Lower Silesia",
+        "lat": 51.11316,
+        "lng": 17.08145,
+        "population": 99088
+    },
+    {
+        "id": 3085450,
+        "name": "Słupsk",
+        "region": "Pomerania",
+        "lat": 54.46405,
+        "lng": 17.02872,
+        "population": 98608
+    },
+    {
+        "id": 3097333,
+        "name": "Jaworzno",
+        "region": "Silesia",
+        "lat": 50.20528,
+        "lng": 19.27498,
+        "population": 96541
+    },
+    {
+        "id": 3097391,
+        "name": "Jastrzębie Zdrój",
+        "region": "Silesia",
+        "lat": 49.95542,
+        "lng": 18.57479,
+        "population": 95813
+    },
+    {
+        "id": 13562335,
+        "name": "Psie Pole",
+        "region": "Lower Silesia",
+        "lat": 51.14595,
+        "lng": 17.03519,
+        "population": 95615
+    },
+    {
+        "id": 6545347,
+        "name": "Praga Północ",
+        "region": "Mazovia",
+        "lat": 52.25443,
+        "lng": 21.03472,
+        "population": 93192
+    },
+    {
+        "id": 3098218,
+        "name": "Grudziądz",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.48411,
+        "lng": 18.75366,
+        "population": 92552
+    },
+    {
+        "id": 763534,
+        "name": "Nowy Sącz",
+        "region": "Lesser Poland",
+        "lat": 49.62177,
+        "lng": 20.69705,
+        "population": 84376
+    },
+    {
+        "id": 763442,
+        "name": "Ochota",
+        "region": "Mazovia",
+        "lat": 52.22096,
+        "lng": 20.98526,
+        "population": 82774
+    },
+    {
+        "id": 3095321,
+        "name": "Konin",
+        "region": "Greater Poland",
+        "lat": 52.22338,
+        "lng": 18.25121,
+        "population": 81258
+    },
+    {
+        "id": 3088972,
+        "name": "Piotrków Trybunalski",
+        "region": "Łódź Voivodeship",
+        "lat": 51.40547,
+        "lng": 19.70321,
+        "population": 80128
+    },
+    {
+        "id": 3097872,
+        "name": "Inowrocław",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 52.79886,
+        "lng": 18.26387,
+        "population": 77597
+    },
+    {
+        "id": 3092931,
+        "name": "Lubin",
+        "region": "Lower Silesia",
+        "lat": 51.40089,
+        "lng": 16.20149,
+        "population": 77532
+    },
+    {
+        "id": 3097257,
+        "name": "Jelenia Góra",
+        "region": "Lower Silesia",
+        "lat": 50.89973,
+        "lng": 15.72899,
+        "population": 77366
+    },
+    {
+        "id": 756092,
+        "name": "Wawer",
+        "region": "Mazovia",
+        "lat": 52.19656,
+        "lng": 21.17752,
+        "population": 77205
+    },
+    {
+        "id": 759412,
+        "name": "Siedlce",
+        "region": "Mazovia",
+        "lat": 52.16772,
+        "lng": 22.29006,
+        "population": 77185
+    },
+    {
+        "id": 3089033,
+        "name": "Piła",
+        "region": "Greater Poland",
+        "lat": 53.15145,
+        "lng": 16.73782,
+        "population": 75532
+    },
+    {
+        "id": 762863,
+        "name": "Ostrowiec Świętokrzyski",
+        "region": "Świętokrzyskie",
+        "lat": 50.92936,
+        "lng": 21.38525,
+        "population": 73989
+    },
+    {
+        "id": 3086024,
+        "name": "Siemianowice Śląskie",
+        "region": "Silesia",
+        "lat": 50.32738,
+        "lng": 19.02901,
+        "population": 73121
+    },
+    {
+        "id": 3089684,
+        "name": "Ostrów Wielkopolski",
+        "region": "Greater Poland",
+        "lat": 51.65501,
+        "lng": 17.80686,
+        "population": 72898
+    },
+    {
+        "id": 3091232,
+        "name": "Mysłowice",
+        "region": "Silesia",
+        "lat": 50.20745,
+        "lng": 19.16668,
+        "population": 72124
+    },
+    {
+        "id": 3084840,
+        "name": "Stargard",
+        "region": "West Pomerania",
+        "lat": 53.33672,
+        "lng": 15.0499,
+        "population": 71224
+    },
+    {
+        "id": 3089578,
+        "name": "Pabianice",
+        "region": "Łódź Voivodeship",
+        "lat": 51.66446,
+        "lng": 19.35473,
+        "population": 70542
+    },
+    {
+        "id": 3099112,
+        "name": "Gniezno",
+        "region": "Greater Poland",
+        "lat": 52.53481,
+        "lng": 17.58259,
+        "population": 70269
+    },
+    {
+        "id": 3099654,
+        "name": "Fordon",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.14821,
+        "lng": 18.17036,
+        "population": 70000
+    },
+    {
+        "id": 757718,
+        "name": "Suwałki",
+        "region": "Podlasie",
+        "lat": 54.11175,
+        "lng": 22.93087,
+        "population": 69222
+    },
+    {
+        "id": 756867,
+        "name": "Tomaszów Mazowiecki",
+        "region": "Łódź Voivodeship",
+        "lat": 51.53131,
+        "lng": 20.00855,
+        "population": 67197
+    },
+    {
+        "id": 761168,
+        "name": "Przemyśl",
+        "region": "Subcarpathia",
+        "lat": 49.78498,
+        "lng": 22.76728,
+        "population": 67013
+    },
+    {
+        "id": 758445,
+        "name": "Stalowa Wola",
+        "region": "Subcarpathia",
+        "lat": 50.58286,
+        "lng": 22.05334,
+        "population": 66495
+    },
+    {
+        "id": 753866,
+        "name": "Zamość",
+        "region": "Lublin",
+        "lat": 50.72314,
+        "lng": 23.25196,
+        "population": 66034
+    },
+    {
+        "id": 3096372,
+        "name": "Kędzierzyn-Koźle",
+        "region": "Opole Voivodeship",
+        "lat": 50.34984,
+        "lng": 18.22606,
+        "population": 65636
+    },
+    {
+        "id": 3099213,
+        "name": "Głogów",
+        "region": "Lower Silesia",
+        "lat": 51.66361,
+        "lng": 16.0845,
+        "population": 65400
+    },
+    {
+        "id": 3081318,
+        "name": "Wrzeszcz",
+        "region": "Pomerania",
+        "lat": 54.37648,
+        "lng": 18.60753,
+        "population": 65000
+    },
+    {
+        "id": 3093524,
+        "name": "Leszno",
+        "region": "Greater Poland",
+        "lat": 51.84034,
+        "lng": 16.57494,
+        "population": 63565
+    },
+    {
+        "id": 3080004,
+        "name": "Żory",
+        "region": "Silesia",
+        "lat": 50.04523,
+        "lng": 18.70062,
+        "population": 63174
+    },
+    {
+        "id": 3103709,
+        "name": "Bełchatów",
+        "region": "Łódź Voivodeship",
+        "lat": 51.36883,
+        "lng": 19.35671,
+        "population": 62896
+    },
+    {
+        "id": 766027,
+        "name": "Łomża",
+        "region": "Podlasie",
+        "lat": 53.17806,
+        "lng": 22.05935,
+        "population": 62019
+    },
+    {
+        "id": 3083440,
+        "name": "Tarnowskie Góry",
+        "region": "Silesia",
+        "lat": 50.44548,
+        "lng": 18.86147,
+        "population": 60938
+    },
+    {
+        "id": 3084093,
+        "name": "Świdnica",
+        "region": "Lower Silesia",
+        "lat": 50.84378,
+        "lng": 16.48859,
+        "population": 60351
+    },
+    {
+        "id": 774558,
+        "name": "Chełm",
+        "region": "Lublin",
+        "lat": 51.14312,
+        "lng": 23.4716,
+        "population": 60231
+    },
+    {
+        "id": 3083426,
+        "name": "Tczew",
+        "region": "Pomerania",
+        "lat": 54.09242,
+        "lng": 18.77787,
+        "population": 60133
+    },
+    {
+        "id": 3089125,
+        "name": "Piekary Śląskie",
+        "region": "Silesia",
+        "lat": 50.38017,
+        "lng": 18.92653,
+        "population": 59757
+    },
+    {
+        "id": 764849,
+        "name": "Mielec",
+        "region": "Subcarpathia",
+        "lat": 50.28709,
+        "lng": 21.4239,
+        "population": 59509
+    },
+    {
+        "id": 3087584,
+        "name": "Racibórz",
+        "region": "Silesia",
+        "lat": 50.09195,
+        "lng": 18.21928,
+        "population": 58464
+    },
+    {
+        "id": 3103719,
+        "name": "Będzin",
+        "region": "Silesia",
+        "lat": 50.32607,
+        "lng": 19.12565,
+        "population": 58236
+    },
+    {
+        "id": 3080251,
+        "name": "Zgierz",
+        "region": "Łódź Voivodeship",
+        "lat": 51.85561,
+        "lng": 19.40623,
+        "population": 58036
+    },
+    {
+        "id": 776175,
+        "name": "Biała Podlaska",
+        "region": "Lublin",
+        "lat": 52.03238,
+        "lng": 23.11652,
+        "population": 57541
+    },
+    {
+        "id": 772621,
+        "name": "Ełk",
+        "region": "Warmia-Masuria",
+        "lat": 53.82824,
+        "lng": 22.36469,
+        "population": 55769
+    },
+    {
+        "id": 3083988,
+        "name": "Świętochłowice",
+        "region": "Silesia",
+        "lat": 50.29636,
+        "lng": 18.91726,
+        "population": 55600
+    },
+    {
+        "id": 761228,
+        "name": "Pruszków",
+        "region": "Mazovia",
+        "lat": 52.17072,
+        "lng": 20.81214,
+        "population": 55371
+    },
+    {
+        "id": 762909,
+        "name": "Ostrołęka",
+        "region": "Mazovia",
+        "lat": 53.08621,
+        "lng": 21.57566,
+        "population": 53740
+    },
+    {
+        "id": 758390,
+        "name": "Starachowice",
+        "region": "Świętokrzyskie",
+        "lat": 51.0374,
+        "lng": 21.07126,
+        "population": 53739
+    },
+    {
+        "id": 3080526,
+        "name": "Zawiercie",
+        "region": "Silesia",
+        "lat": 50.48766,
+        "lng": 19.41679,
+        "population": 53159
+    },
+    {
+        "id": 753142,
+        "name": "Żoliborz",
+        "region": "Mazovia",
+        "lat": 52.26896,
+        "lng": 20.98644,
+        "population": 50934
+    },
+    {
+        "id": 766555,
+        "name": "Legionowo",
+        "region": "Mazovia",
+        "lat": 52.40149,
+        "lng": 20.92664,
+        "population": 50786
+    },
+    {
+        "id": 757033,
+        "name": "Tarnobrzeg",
+        "region": "Subcarpathia",
+        "lat": 50.57304,
+        "lng": 21.67937,
+        "population": 50459
+    },
+    {
+        "id": 760924,
+        "name": "Puławy",
+        "region": "Lublin",
+        "lat": 51.41655,
+        "lng": 21.96939,
+        "population": 49759
+    },
+    {
+        "id": 3081677,
+        "name": "Wodzisław Śląski",
+        "region": "Silesia",
+        "lat": 50.00377,
+        "lng": 18.47205,
+        "population": 49521
+    },
+    {
+        "id": 759141,
+        "name": "Skarżysko-Kamienna",
+        "region": "Świętokrzyskie",
+        "lat": 51.11311,
+        "lng": 20.87162,
+        "population": 49410
+    },
+    {
+        "id": 759123,
+        "name": "Skierniewice",
+        "region": "Łódź Voivodeship",
+        "lat": 51.95485,
+        "lng": 20.15837,
+        "population": 49042
+    },
+    {
+        "id": 3094170,
+        "name": "Kutno",
+        "region": "Łódź Voivodeship",
+        "lat": 52.23064,
+        "lng": 19.36409,
+        "population": 48323
+    },
+    {
+        "id": 767470,
+        "name": "Krosno",
+        "region": "Subcarpathia",
+        "lat": 49.68866,
+        "lng": 21.77058,
+        "population": 47784
+    },
+    {
+        "id": 773380,
+        "name": "Dębica",
+        "region": "Subcarpathia",
+        "lat": 50.05146,
+        "lng": 21.41141,
+        "population": 47366
+    },
+    {
+        "id": 756320,
+        "name": "Ursus",
+        "region": "Mazovia",
+        "lat": 52.19517,
+        "lng": 20.88419,
+        "population": 47285
+    },
+    {
+        "id": 3090436,
+        "name": "Nysa",
+        "region": "Opole Voivodeship",
+        "lat": 50.47379,
+        "lng": 17.33437,
+        "population": 47283
+    },
+    {
+        "id": 3084826,
+        "name": "Starogard Gdański",
+        "region": "Pomerania",
+        "lat": 53.96396,
+        "lng": 18.52638,
+        "population": 47272
+    },
+    {
+        "id": 3082473,
+        "name": "Wejherowo",
+        "region": "Pomerania",
+        "lat": 54.60568,
+        "lng": 18.23559,
+        "population": 46820
+    },
+    {
+        "id": 774208,
+        "name": "Ciechanów",
+        "region": "Mazovia",
+        "lat": 52.88141,
+        "lng": 20.61996,
+        "population": 46438
+    },
+    {
+        "id": 3086706,
+        "name": "Rumia",
+        "region": "Pomerania",
+        "lat": 54.57092,
+        "lng": 18.38802,
+        "population": 44791
+    },
+    {
+        "id": 3087497,
+        "name": "Radomsko",
+        "region": "Łódź Voivodeship",
+        "lat": 51.06713,
+        "lng": 19.44477,
+        "population": 44700
+    },
+    {
+        "id": 3080414,
+        "name": "Zduńska Wola",
+        "region": "Łódź Voivodeship",
+        "lat": 51.59915,
+        "lng": 18.93974,
+        "population": 44515
+    },
+    {
+        "id": 3085978,
+        "name": "Sieradz",
+        "region": "Łódź Voivodeship",
+        "lat": 51.59584,
+        "lng": 18.73023,
+        "population": 44436
+    },
+    {
+        "id": 3095795,
+        "name": "Kołobrzeg",
+        "region": "West Pomerania",
+        "lat": 54.17565,
+        "lng": 15.58342,
+        "population": 44377
+    },
+    {
+        "id": 12047644,
+        "name": "Rejon placu Świętego Macieja",
+        "region": "Lower Silesia",
+        "lat": 51.12056,
+        "lng": 17.03761,
+        "population": 44090
+    },
+    {
+        "id": 762788,
+        "name": "Otwock",
+        "region": "Mazovia",
+        "lat": 52.10577,
+        "lng": 21.26129,
+        "population": 43388
+    },
+    {
+        "id": 775984,
+        "name": "Bieńczyce",
+        "region": "Lesser Poland",
+        "lat": 50.08809,
+        "lng": 20.02786,
+        "population": 42633
+    },
+    {
+        "id": 752967,
+        "name": "Żyrardów",
+        "region": "Mazovia",
+        "lat": 52.0488,
+        "lng": 20.44599,
+        "population": 41179
+    },
+    {
+        "id": 3083955,
+        "name": "Świnoujście",
+        "region": "West Pomerania",
+        "lat": 53.91053,
+        "lng": 14.24712,
+        "population": 40919
+    },
+    {
+        "id": 3102987,
+        "name": "Bolesławiec",
+        "region": "Lower Silesia",
+        "lat": 51.26418,
+        "lng": 15.5697,
+        "population": 40682
+    },
+    {
+        "id": 3090764,
+        "name": "Nowa Sól",
+        "region": "Lubusz",
+        "lat": 51.80333,
+        "lng": 15.71702,
+        "population": 40354
+    },
+    {
+        "id": 757692,
+        "name": "Świdnik",
+        "region": "Lublin",
+        "lat": 51.21898,
+        "lng": 22.69621,
+        "population": 40050
+    },
+    {
+        "id": 3101547,
+        "name": "Chrzanów",
+        "region": "Lesser Poland",
+        "lat": 50.13546,
+        "lng": 19.40203,
+        "population": 39973
+    },
+    {
+        "id": 3095971,
+        "name": "Knurów",
+        "region": "Silesia",
+        "lat": 50.21971,
+        "lng": 18.65067,
+        "population": 39744
+    },
+    {
+        "id": 759591,
+        "name": "Sanok",
+        "region": "Subcarpathia",
+        "lat": 49.55573,
+        "lng": 22.2056,
+        "population": 39684
+    },
+    {
+        "id": 3091831,
+        "name": "Mikołów",
+        "region": "Silesia",
+        "lat": 50.17103,
+        "lng": 18.9041,
+        "population": 38821
+    },
+    {
+        "id": 3101672,
+        "name": "Chojnice",
+        "region": "Pomerania",
+        "lat": 53.69554,
+        "lng": 17.55701,
+        "population": 38789
+    },
+    {
+        "id": 3080644,
+        "name": "Żary",
+        "region": "Lubusz",
+        "lat": 51.64205,
+        "lng": 15.13727,
+        "population": 38779
+    },
+    {
+        "id": 3083826,
+        "name": "Szczecinek",
+        "region": "West Pomerania",
+        "lat": 53.70791,
+        "lng": 16.69937,
+        "population": 38496
+    },
+    {
+        "id": 758682,
+        "name": "Sochaczew",
+        "region": "Mazovia",
+        "lat": 52.22944,
+        "lng": 20.23838,
+        "population": 38267
+    },
+    {
+        "id": 3102459,
+        "name": "Brzeg",
+        "region": "Opole Voivodeship",
+        "lat": 50.86079,
+        "lng": 17.4674,
+        "population": 38259
+    },
+    {
+        "id": 770293,
+        "name": "Jasło",
+        "region": "Subcarpathia",
+        "lat": 49.74506,
+        "lng": 21.47252,
+        "population": 37851
+    },
+    {
+        "id": 3090146,
+        "name": "Olkusz",
+        "region": "Lesser Poland",
+        "lat": 50.2813,
+        "lng": 19.56503,
+        "population": 37744
+    },
+    {
+        "id": 3094086,
+        "name": "Kwidzyn",
+        "region": "Pomerania",
+        "lat": 53.72495,
+        "lng": 18.93114,
+        "population": 37601
+    },
+    {
+        "id": 764679,
+        "name": "Mińsk Mazowiecki",
+        "region": "Mazovia",
+        "lat": 52.17935,
+        "lng": 21.57251,
+        "population": 37027
+    },
+    {
+        "id": 3090170,
+        "name": "Oleśnica",
+        "region": "Lower Silesia",
+        "lat": 51.21338,
+        "lng": 17.38986,
+        "population": 36956
+    },
+    {
+        "id": 3092472,
+        "name": "Malbork",
+        "region": "Pomerania",
+        "lat": 54.03591,
+        "lng": 19.0266,
+        "population": 36709
+    },
+    {
+        "id": 754800,
+        "name": "Wołomin",
+        "region": "Mazovia",
+        "lat": 52.34006,
+        "lng": 21.24207,
+        "population": 36592
+    },
+    {
+        "id": 762423,
+        "name": "Piaseczno",
+        "region": "Mazovia",
+        "lat": 52.0814,
+        "lng": 21.02397,
+        "population": 36278
+    },
+    {
+        "id": 755475,
+        "name": "Włochy",
+        "region": "Mazovia",
+        "lat": 52.17941,
+        "lng": 20.94612,
+        "population": 36276
+    },
+    {
+        "id": 767623,
+        "name": "Kraśnik",
+        "region": "Lublin",
+        "lat": 50.9236,
+        "lng": 22.22706,
+        "population": 35834
+    },
+    {
+        "id": 3101321,
+        "name": "Cieszyn",
+        "region": "Silesia",
+        "lat": 49.75133,
+        "lng": 18.63213,
+        "population": 35586
+    },
+    {
+        "id": 770380,
+        "name": "Jarosław",
+        "region": "Subcarpathia",
+        "lat": 50.01623,
+        "lng": 22.67776,
+        "population": 35475
+    },
+    {
+        "id": 3093739,
+        "name": "Lębork",
+        "region": "Pomerania",
+        "lat": 54.53921,
+        "lng": 17.75012,
+        "population": 35161
+    },
+    {
+        "id": 3085151,
+        "name": "Sopot",
+        "region": "Pomerania",
+        "lat": 54.4418,
+        "lng": 18.56003,
+        "population": 35049
+    },
+    {
+        "id": 3101076,
+        "name": "Czechowice-Dziedzice",
+        "region": "Silesia",
+        "lat": 49.91342,
+        "lng": 19.00479,
+        "population": 34703
+    },
+    {
+        "id": 3088461,
+        "name": "Police",
+        "region": "West Pomerania",
+        "lat": 53.55214,
+        "lng": 14.57182,
+        "population": 34350
+    },
+    {
+        "id": 3101057,
+        "name": "Czeladź",
+        "region": "Silesia",
+        "lat": 50.31542,
+        "lng": 19.07824,
+        "population": 34308
+    },
+    {
+        "id": 3089658,
+        "name": "Oświęcim",
+        "region": "Lesser Poland",
+        "lat": 50.03437,
+        "lng": 19.21037,
+        "population": 34170
+    },
+    {
+        "id": 3099828,
+        "name": "Dzierżoniów",
+        "region": "Lower Silesia",
+        "lat": 50.7282,
+        "lng": 16.65141,
+        "population": 34168
+    },
+    {
+        "id": 763523,
+        "name": "Nowy Targ",
+        "region": "Lesser Poland",
+        "lat": 49.47783,
+        "lng": 20.03228,
+        "population": 33763
+    },
+    {
+        "id": 3089779,
+        "name": "Ostróda",
+        "region": "Warmia-Masuria",
+        "lat": 53.69671,
+        "lng": 19.96486,
+        "population": 33524
+    },
+    {
+        "id": 3091217,
+        "name": "Myszków",
+        "region": "Silesia",
+        "lat": 50.5752,
+        "lng": 19.32461,
+        "population": 33273
+    },
+    {
+        "id": 3080231,
+        "name": "Zgorzelec",
+        "region": "Lower Silesia",
+        "lat": 51.14942,
+        "lng": 15.00835,
+        "population": 33247
+    },
+    {
+        "id": 3090205,
+        "name": "Oława",
+        "region": "Lower Silesia",
+        "lat": 50.9466,
+        "lng": 17.2926,
+        "population": 33029
+    },
+    {
+        "id": 3097902,
+        "name": "Iława",
+        "region": "Warmia-Masuria",
+        "lat": 53.59601,
+        "lng": 19.56849,
+        "population": 32557
+    },
+    {
+        "id": 3079855,
+        "name": "Żywiec",
+        "region": "Silesia",
+        "lat": 49.68529,
+        "lng": 19.19243,
+        "population": 32132
+    },
+    {
+        "id": 8425978,
+        "name": "Karłowice-Różanka",
+        "region": "Lower Silesia",
+        "lat": 51.13675,
+        "lng": 17.04323,
+        "population": 31813
+    },
+    {
+        "id": 8425966,
+        "name": "Pilczyce-Kozanów-Popowice Północne",
+        "region": "Lower Silesia",
+        "lat": 51.13092,
+        "lng": 16.97654,
+        "population": 31320
+    },
+    {
+        "id": 8425989,
+        "name": "Ołbin",
+        "region": "Lower Silesia",
+        "lat": 51.12132,
+        "lng": 17.05303,
+        "population": 31216
+    },
+    {
+        "id": 8426032,
+        "name": "Chełm",
+        "region": "Pomerania",
+        "lat": 54.34048,
+        "lng": 18.61925,
+        "population": 30743
+    },
+    {
+        "id": 765749,
+        "name": "Łuków",
+        "region": "Lublin",
+        "lat": 51.929,
+        "lng": 22.37956,
+        "population": 30465
+    },
+    {
+        "id": 3085056,
+        "name": "Śrem",
+        "region": "Greater Poland",
+        "lat": 52.08868,
+        "lng": 17.01508,
+        "population": 30404
+    },
+    {
+        "id": 769893,
+        "name": "Kabaty",
+        "region": "Mazovia",
+        "lat": 52.13012,
+        "lng": 21.08148,
+        "population": 30000
+    },
+    {
+        "id": 772195,
+        "name": "Giżycko",
+        "region": "Warmia-Masuria",
+        "lat": 54.03811,
+        "lng": 21.76441,
+        "population": 29972
+    },
+    {
+        "id": 8426046,
+        "name": "Ujeścisko-Łostowice",
+        "region": "Pomerania",
+        "lat": 54.32435,
+        "lng": 18.60269,
+        "population": 29845
+    },
+    {
+        "id": 3093066,
+        "name": "Łowicz",
+        "region": "Łódź Voivodeship",
+        "lat": 52.10714,
+        "lng": 19.94525,
+        "population": 29809
+    },
+    {
+        "id": 776597,
+        "name": "Augustów",
+        "region": "Podlasie",
+        "lat": 53.84321,
+        "lng": 22.97979,
+        "population": 29752
+    },
+    {
+        "id": 8425982,
+        "name": "Psie Pole Zawidawie",
+        "region": "Lower Silesia",
+        "lat": 51.14756,
+        "lng": 17.11438,
+        "population": 29606
+    },
+    {
+        "id": 3082998,
+        "name": "Turek",
+        "region": "Greater Poland",
+        "lat": 52.01548,
+        "lng": 18.50055,
+        "population": 29533
+    },
+    {
+        "id": 764634,
+        "name": "Mława",
+        "region": "Mazovia",
+        "lat": 53.11278,
+        "lng": 20.3841,
+        "population": 29398
+    },
+    {
+        "id": 3103476,
+        "name": "Bielawa",
+        "region": "Lower Silesia",
+        "lat": 50.69075,
+        "lng": 16.623,
+        "population": 29232
+    },
+    {
+        "id": 3094625,
+        "name": "Krotoszyn",
+        "region": "Greater Poland",
+        "lat": 51.69868,
+        "lng": 17.43738,
+        "population": 29231
+    },
+    {
+        "id": 775758,
+        "name": "Bochnia",
+        "region": "Lesser Poland",
+        "lat": 49.96905,
+        "lng": 20.43028,
+        "population": 29184
+    },
+    {
+        "id": 3084130,
+        "name": "Swarzędz",
+        "region": "Greater Poland",
+        "lat": 52.41289,
+        "lng": 17.08503,
+        "population": 29010
+    },
+    {
+        "id": 3098171,
+        "name": "Grzegórzki",
+        "region": "Lesser Poland",
+        "lat": 50.06423,
+        "lng": 19.96761,
+        "population": 28960
+    },
+    {
+        "id": 3100974,
+        "name": "Czerwionka-Leszczyny",
+        "region": "Silesia",
+        "lat": 50.15007,
+        "lng": 18.67762,
+        "population": 28740
+    },
+    {
+        "id": 3081324,
+        "name": "Września",
+        "region": "Greater Poland",
+        "lat": 52.32512,
+        "lng": 17.56519,
+        "population": 28703
+    },
+    {
+        "id": 771804,
+        "name": "Gorlice",
+        "region": "Lesser Poland",
+        "lat": 49.65563,
+        "lng": 21.16035,
+        "population": 28609
+    },
+    {
+        "id": 772227,
+        "name": "Gierłoż",
+        "region": "Warmia-Masuria",
+        "lat": 54.08134,
+        "lng": 21.49551,
+        "population": 28351
+    },
+    {
+        "id": 763556,
+        "name": "Nowy Dwór Mazowiecki",
+        "region": "Mazovia",
+        "lat": 52.43022,
+        "lng": 20.71652,
+        "population": 27633
+    },
+    {
+        "id": 769274,
+        "name": "Kętrzyn",
+        "region": "Warmia-Masuria",
+        "lat": 54.07676,
+        "lng": 21.37527,
+        "population": 27478
+    },
+    {
+        "id": 3102627,
+        "name": "Brodnica",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.25967,
+        "lng": 19.39653,
+        "population": 27341
+    },
+    {
+        "id": 3080866,
+        "name": "Zakopane",
+        "region": "Lesser Poland",
+        "lat": 49.29899,
+        "lng": 19.94885,
+        "population": 27266
+    },
+    {
+        "id": 8426039,
+        "name": "Piecki-Migowo",
+        "region": "Pomerania",
+        "lat": 54.35698,
+        "lng": 18.58174,
+        "population": 27173
+    },
+    {
+        "id": 12047623,
+        "name": "Rejon placu Grunwaldzkiego",
+        "region": "Lower Silesia",
+        "lat": 51.11669,
+        "lng": 17.06126,
+        "population": 27030
+    },
+    {
+        "id": 775922,
+        "name": "Biłgoraj",
+        "region": "Lublin",
+        "lat": 50.54114,
+        "lng": 22.72204,
+        "population": 26987
+    },
+    {
+        "id": 771401,
+        "name": "Grodzisk Mazowiecki",
+        "region": "Mazovia",
+        "lat": 52.10387,
+        "lng": 20.6337,
+        "population": 26684
+    },
+    {
+        "id": 754454,
+        "name": "Wyszków",
+        "region": "Mazovia",
+        "lat": 52.59278,
+        "lng": 21.4584,
+        "population": 26500
+    },
+    {
+        "id": 775986,
+        "name": "Bielsk Podlaski",
+        "region": "Podlasie",
+        "lat": 52.76512,
+        "lng": 23.18647,
+        "population": 26493
+    },
+    {
+        "id": 3092856,
+        "name": "Luboń",
+        "region": "Greater Poland",
+        "lat": 52.34705,
+        "lng": 16.89267,
+        "population": 26431
+    },
+    {
+        "id": 757357,
+        "name": "Szczytno",
+        "region": "Warmia-Masuria",
+        "lat": 53.56259,
+        "lng": 20.98747,
+        "population": 26044
+    },
+    {
+        "id": 3096003,
+        "name": "Kluczbork",
+        "region": "Opole Voivodeship",
+        "lat": 50.97281,
+        "lng": 18.21816,
+        "population": 25978
+    },
+    {
+        "id": 3082704,
+        "name": "Wałcz",
+        "region": "West Pomerania",
+        "lat": 53.27787,
+        "lng": 16.47122,
+        "population": 25971
+    },
+    {
+        "id": 3084074,
+        "name": "Świecie",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.40953,
+        "lng": 18.44742,
+        "population": 25843
+    },
+    {
+        "id": 3080944,
+        "name": "Żagań",
+        "region": "Lubusz",
+        "lat": 51.61759,
+        "lng": 15.31486,
+        "population": 25731
+    },
+    {
+        "id": 3096053,
+        "name": "Kłodzko",
+        "region": "Lower Silesia",
+        "lat": 50.43488,
+        "lng": 16.66145,
+        "population": 25717
+    },
+    {
+        "id": 3082712,
+        "name": "Wągrowiec",
+        "region": "Greater Poland",
+        "lat": 52.80842,
+        "lng": 17.19961,
+        "population": 25648
+    },
+    {
+        "id": 3097528,
+        "name": "Jarocin",
+        "region": "Greater Poland",
+        "lat": 51.97266,
+        "lng": 17.50256,
+        "population": 25582
+    },
+    {
+        "id": 3087705,
+        "name": "Pszczyna",
+        "region": "Silesia",
+        "lat": 49.98037,
+        "lng": 18.95382,
+        "population": 25288
+    },
+    {
+        "id": 759603,
+        "name": "Sandomierz",
+        "region": "Świętokrzyskie",
+        "lat": 50.68265,
+        "lng": 21.74898,
+        "population": 25087
+    },
+    {
+        "id": 3090768,
+        "name": "Nowa Ruda",
+        "region": "Lower Silesia",
+        "lat": 50.58008,
+        "lng": 16.50164,
+        "population": 24753
+    },
+    {
+        "id": 8425959,
+        "name": "Gądów-Popowice Południowe",
+        "region": "Lower Silesia",
+        "lat": 51.1272,
+        "lng": 16.97027,
+        "population": 24508
+    },
+    {
+        "id": 3103556,
+        "name": "Białogard",
+        "region": "West Pomerania",
+        "lat": 54.00696,
+        "lng": 15.98751,
+        "population": 24368
+    },
+    {
+        "id": 8426041,
+        "name": "Przymorze Wielkie",
+        "region": "Pomerania",
+        "lat": 54.41166,
+        "lng": 18.5984,
+        "population": 24368
+    },
+    {
+        "id": 8425974,
+        "name": "Osiedle Powstańców Śląskich",
+        "region": "Lower Silesia",
+        "lat": 51.09289,
+        "lng": 17.02061,
+        "population": 24329
+    },
+    {
+        "id": 3095151,
+        "name": "Kościan",
+        "region": "Greater Poland",
+        "lat": 52.08829,
+        "lng": 16.64866,
+        "population": 24096
+    },
+    {
+        "id": 3097367,
+        "name": "Jawor",
+        "region": "Lower Silesia",
+        "lat": 51.05132,
+        "lng": 16.19347,
+        "population": 23865
+    },
+    {
+        "id": 3092906,
+        "name": "Lubliniec",
+        "region": "Silesia",
+        "lat": 50.66897,
+        "lng": 18.6844,
+        "population": 23784
+    },
+    {
+        "id": 3085807,
+        "name": "Skawina",
+        "region": "Lesser Poland",
+        "lat": 49.97524,
+        "lng": 19.82869,
+        "population": 23647
+    },
+    {
+        "id": 3088034,
+        "name": "Pruszcz Gdański",
+        "region": "Pomerania",
+        "lat": 54.26217,
+        "lng": 18.63625,
+        "population": 23618
+    },
+    {
+        "id": 3095797,
+        "name": "Koło",
+        "region": "Greater Poland",
+        "lat": 52.20024,
+        "lng": 18.63865,
+        "population": 23493
+    },
+    {
+        "id": 776337,
+        "name": "Bartoszyce",
+        "region": "Warmia-Masuria",
+        "lat": 54.25354,
+        "lng": 20.80819,
+        "population": 23482
+    },
+    {
+        "id": 754351,
+        "name": "Ząbki",
+        "region": "Mazovia",
+        "lat": 52.29271,
+        "lng": 21.10539,
+        "population": 23473
+    },
+    {
+        "id": 8426045,
+        "name": "Środmieście",
+        "region": "Pomerania",
+        "lat": 54.35048,
+        "lng": 18.65556,
+        "population": 23364
+    },
+    {
+        "id": 3088065,
+        "name": "Prudnik",
+        "region": "Opole Voivodeship",
+        "lat": 50.32124,
+        "lng": 17.57461,
+        "population": 23343
+    },
+    {
+        "id": 3095126,
+        "name": "Kościerzyna",
+        "region": "Pomerania",
+        "lat": 54.12226,
+        "lng": 17.98119,
+        "population": 23327
+    },
+    {
+        "id": 762381,
+        "name": "Piastów",
+        "region": "Mazovia",
+        "lat": 52.18435,
+        "lng": 20.83952,
+        "population": 23290
+    },
+    {
+        "id": 3084084,
+        "name": "Świebodzice",
+        "region": "Lower Silesia",
+        "lat": 50.85974,
+        "lng": 16.31966,
+        "population": 23228
+    },
+    {
+        "id": 765191,
+        "name": "Marki",
+        "region": "Mazovia",
+        "lat": 52.32065,
+        "lng": 21.10474,
+        "population": 23177
+    },
+    {
+        "id": 8425988,
+        "name": "Nadodrze",
+        "region": "Lower Silesia",
+        "lat": 51.12541,
+        "lng": 17.0307,
+        "population": 23177
+    },
+    {
+        "id": 753895,
+        "name": "Zambrów",
+        "region": "Podlasie",
+        "lat": 52.9855,
+        "lng": 22.24319,
+        "population": 22857
+    },
+    {
+        "id": 765927,
+        "name": "Lubartów",
+        "region": "Lublin",
+        "lat": 51.46026,
+        "lng": 22.60952,
+        "population": 22839
+    },
+    {
+        "id": 771506,
+        "name": "Grajewo",
+        "region": "Podlasie",
+        "lat": 53.64728,
+        "lng": 22.45537,
+        "population": 22803
+    },
+    {
+        "id": 8426082,
+        "name": "Drzetowo-Grabowo",
+        "region": "West Pomerania",
+        "lat": 53.44888,
+        "lng": 14.5792,
+        "population": 22655
+    },
+    {
+        "id": 762850,
+        "name": "Ostrów Mazowiecka",
+        "region": "Mazovia",
+        "lat": 52.80245,
+        "lng": 21.89507,
+        "population": 22653
+    },
+    {
+        "id": 763111,
+        "name": "Opoczno",
+        "region": "Łódź Voivodeship",
+        "lat": 51.37569,
+        "lng": 20.27827,
+        "population": 22592
+    },
+    {
+        "id": 3098966,
+        "name": "Goleniów",
+        "region": "West Pomerania",
+        "lat": 53.56392,
+        "lng": 14.82854,
+        "population": 22505
+    },
+    {
+        "id": 3093040,
+        "name": "Lubań",
+        "region": "Lower Silesia",
+        "lat": 51.12014,
+        "lng": 15.28768,
+        "population": 22245
+    },
+    {
+        "id": 762021,
+        "name": "Płońsk",
+        "region": "Mazovia",
+        "lat": 52.62348,
+        "lng": 20.37552,
+        "population": 22217
+    },
+    {
+        "id": 771158,
+        "name": "Hajnówka",
+        "region": "Podlasie",
+        "lat": 52.74328,
+        "lng": 23.58122,
+        "population": 22157
+    },
+    {
+        "id": 3093785,
+        "name": "Łaziska Górne",
+        "region": "Silesia",
+        "lat": 50.14952,
+        "lng": 18.84215,
+        "population": 21983
+    },
+    {
+        "id": 764312,
+        "name": "Mrągowo",
+        "region": "Warmia-Masuria",
+        "lat": 53.86437,
+        "lng": 21.30507,
+        "population": 21965
+    },
+    {
+        "id": 3104115,
+        "name": "Andrychów",
+        "region": "Lesser Poland",
+        "lat": 49.85497,
+        "lng": 19.33834,
+        "population": 21954
+    },
+    {
+        "id": 760503,
+        "name": "Rembertów",
+        "region": "Mazovia",
+        "lat": 52.26059,
+        "lng": 21.16355,
+        "population": 21893
+    },
+    {
+        "id": 3086531,
+        "name": "Rydułtowy",
+        "region": "Silesia",
+        "lat": 50.05857,
+        "lng": 18.41703,
+        "population": 21887
+    },
+    {
+        "id": 8425958,
+        "name": "Gajowice",
+        "region": "Lower Silesia",
+        "lat": 51.09627,
+        "lng": 17.00195,
+        "population": 21781
+    },
+    {
+        "id": 3085045,
+        "name": "Środa Wielkopolska",
+        "region": "Greater Poland",
+        "lat": 52.22843,
+        "lng": 17.27617,
+        "population": 21757
+    },
+    {
+        "id": 3084062,
+        "name": "Świebodzin",
+        "region": "Lubusz",
+        "lat": 52.24751,
+        "lng": 15.53355,
+        "population": 21757
+    },
+    {
+        "id": 3096779,
+        "name": "Kamienna Góra",
+        "region": "Lower Silesia",
+        "lat": 50.78314,
+        "lng": 16.03037,
+        "population": 21743
+    },
+    {
+        "id": 766583,
+        "name": "Łęczna",
+        "region": "Lublin",
+        "lat": 51.30121,
+        "lng": 22.88135,
+        "population": 21719
+    },
+    {
+        "id": 8426048,
+        "name": "Wrzeszcz Dolny",
+        "region": "Pomerania",
+        "lat": 54.38473,
+        "lng": 18.61273,
+        "population": 21648
+    },
+    {
+        "id": 3082197,
+        "name": "Wieluń",
+        "region": "Łódź Voivodeship",
+        "lat": 51.22097,
+        "lng": 18.56964,
+        "population": 21624
+    },
+    {
+        "id": 3088435,
+        "name": "Polkowice",
+        "region": "Lower Silesia",
+        "lat": 51.50391,
+        "lng": 16.07261,
+        "population": 21565
+    },
+    {
+        "id": 3087307,
+        "name": "Rawicz",
+        "region": "Greater Poland",
+        "lat": 51.60946,
+        "lng": 16.85852,
+        "population": 21380
+    },
+    {
+        "id": 3098200,
+        "name": "Gryfino",
+        "region": "West Pomerania",
+        "lat": 53.25243,
+        "lng": 14.48831,
+        "population": 21270
+    },
+    {
+        "id": 8425972,
+        "name": "Krzyki-Partynice",
+        "region": "Lower Silesia",
+        "lat": 51.06413,
+        "lng": 17.00186,
+        "population": 21233
+    },
+    {
+        "id": 772748,
+        "name": "Działdowo",
+        "region": "Warmia-Masuria",
+        "lat": 53.23958,
+        "lng": 20.17004,
+        "population": 21127
+    },
+    {
+        "id": 8426050,
+        "name": "Wrzeszcz Górny",
+        "region": "Pomerania",
+        "lat": 54.37978,
+        "lng": 18.59539,
+        "population": 20810
+    },
+    {
+        "id": 3098625,
+        "name": "Gostyń",
+        "region": "Greater Poland",
+        "lat": 51.88247,
+        "lng": 17.01225,
+        "population": 20771
+    },
+    {
+        "id": 768218,
+        "name": "Końskie",
+        "region": "Świętokrzyskie",
+        "lat": 51.19166,
+        "lng": 20.40607,
+        "population": 20756
+    },
+    {
+        "id": 12047628,
+        "name": "Rejon ulicy Traugutta",
+        "region": "Lower Silesia",
+        "lat": 51.10247,
+        "lng": 17.04827,
+        "population": 20617
+    },
+    {
+        "id": 3089582,
+        "name": "Ozorków",
+        "region": "Łódź Voivodeship",
+        "lat": 51.96336,
+        "lng": 19.29139,
+        "population": 20608
+    },
+    {
+        "id": 3101795,
+        "name": "Chełmno",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.34855,
+        "lng": 18.4251,
+        "population": 20576
+    },
+    {
+        "id": 8425975,
+        "name": "Przedmieście Oławskie",
+        "region": "Lower Silesia",
+        "lat": 51.10209,
+        "lng": 17.04829,
+        "population": 20316
+    },
+    {
+        "id": 3104132,
+        "name": "Aleksandrów Łódzki",
+        "region": "Łódź Voivodeship",
+        "lat": 51.81965,
+        "lng": 19.30384,
+        "population": 20292
+    },
+    {
+        "id": 756868,
+        "name": "Tomaszów Lubelski",
+        "region": "Lublin",
+        "lat": 50.44767,
+        "lng": 23.41616,
+        "population": 20261
+    },
+    {
+        "id": 3084415,
+        "name": "Strzelce Opolskie",
+        "region": "Opole Voivodeship",
+        "lat": 50.5107,
+        "lng": 18.30056,
+        "population": 20241
+    },
+    {
+        "id": 756004,
+        "name": "Wesoła",
+        "region": "Mazovia",
+        "lat": 52.25451,
+        "lng": 21.22407,
+        "population": 20000
+    },
+    {
+        "id": 762199,
+        "name": "Pionki",
+        "region": "Mazovia",
+        "lat": 51.47604,
+        "lng": 21.44995,
+        "population": 19966
+    },
+    {
+        "id": 8425987,
+        "name": "Biskupin-Sępolno-Dąbie-Bartoszowice",
+        "region": "Lower Silesia",
+        "lat": 51.10833,
+        "lng": 17.09134,
+        "population": 19951
+    },
+    {
+        "id": 13100477,
+        "name": "Orunia Górna-Gdańsk Południe",
+        "region": "Pomerania",
+        "lat": 54.32491,
+        "lng": 18.61567,
+        "population": 19807
+    },
+    {
+        "id": 3101680,
+        "name": "Chodzież",
+        "region": "Greater Poland",
+        "lat": 52.99505,
+        "lng": 16.9198,
+        "population": 19776
+    },
+    {
+        "id": 3103365,
+        "name": "Bieruń",
+        "region": "Silesia",
+        "lat": 50.09,
+        "lng": 19.09291,
+        "population": 19659
+    },
+    {
+        "id": 3091150,
+        "name": "Nakło nad Notecią",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.14214,
+        "lng": 17.60181,
+        "population": 19565
+    },
+    {
+        "id": 767605,
+        "name": "Krasnystaw",
+        "region": "Lublin",
+        "lat": 50.98464,
+        "lng": 23.1742,
+        "population": 19532
+    },
+    {
+        "id": 3096328,
+        "name": "Kęty",
+        "region": "Lesser Poland",
+        "lat": 49.88214,
+        "lng": 19.22333,
+        "population": 19249
+    },
+    {
+        "id": 3082722,
+        "name": "Wadowice",
+        "region": "Lesser Poland",
+        "lat": 49.88335,
+        "lng": 19.49292,
+        "population": 19238
+    },
+    {
+        "id": 762120,
+        "name": "Pisz",
+        "region": "Warmia-Masuria",
+        "lat": 53.62744,
+        "lng": 21.81253,
+        "population": 19232
+    },
+    {
+        "id": 8425969,
+        "name": "Gaj",
+        "region": "Lower Silesia",
+        "lat": 51.08006,
+        "lng": 17.04018,
+        "population": 19136
+    },
+    {
+        "id": 758651,
+        "name": "Sokółka",
+        "region": "Podlasie",
+        "lat": 53.40715,
+        "lng": 23.50228,
+        "population": 19079
+    },
+    {
+        "id": 12047617,
+        "name": "Osiedle Kosmonautów",
+        "region": "Lower Silesia",
+        "lat": 51.12753,
+        "lng": 16.96186,
+        "population": 19048
+    },
+    {
+        "id": 760917,
+        "name": "Pułtusk",
+        "region": "Mazovia",
+        "lat": 52.7025,
+        "lng": 21.08276,
+        "population": 19039
+    },
+    {
+        "id": 3087628,
+        "name": "Pyskowice",
+        "region": "Silesia",
+        "lat": 50.4,
+        "lng": 18.63333,
+        "population": 19018
+    },
+    {
+        "id": 3098619,
+        "name": "Gostynin",
+        "region": "Mazovia",
+        "lat": 52.42938,
+        "lng": 19.46194,
+        "population": 18976
+    },
+    {
+        "id": 3085941,
+        "name": "Sierpc",
+        "region": "Mazovia",
+        "lat": 52.8568,
+        "lng": 19.66913,
+        "population": 18866
+    },
+    {
+        "id": 3083111,
+        "name": "Trzebinia",
+        "region": "Lesser Poland",
+        "lat": 50.15931,
+        "lng": 19.46966,
+        "population": 18828
+    },
+    {
+        "id": 8425970,
+        "name": "Huby",
+        "region": "Lower Silesia",
+        "lat": 51.08928,
+        "lng": 17.04113,
+        "population": 18727
+    },
+    {
+        "id": 755889,
+        "name": "Wieliczka",
+        "region": "Lesser Poland",
+        "lat": 49.98738,
+        "lng": 20.06473,
+        "population": 18677
+    },
+    {
+        "id": 3091969,
+        "name": "Międzyrzecz",
+        "region": "Lubusz",
+        "lat": 52.44461,
+        "lng": 15.57801,
+        "population": 18669
+    },
+    {
+        "id": 770966,
+        "name": "Hrubieszów",
+        "region": "Lublin",
+        "lat": 50.80502,
+        "lng": 23.89251,
+        "population": 18605
+    },
+    {
+        "id": 3083878,
+        "name": "Szamotuły",
+        "region": "Greater Poland",
+        "lat": 52.61201,
+        "lng": 16.57794,
+        "population": 18588
+    },
+    {
+        "id": 3093902,
+        "name": "Łask",
+        "region": "Łódź Voivodeship",
+        "lat": 51.59056,
+        "lng": 19.13278,
+        "population": 18577
+    },
+    {
+        "id": 8425986,
+        "name": "Szczepin",
+        "region": "Lower Silesia",
+        "lat": 51.11614,
+        "lng": 17.01018,
+        "population": 18488
+    },
+    {
+        "id": 3089965,
+        "name": "Orzesze",
+        "region": "Silesia",
+        "lat": 50.15595,
+        "lng": 18.77923,
+        "population": 18438
+    },
+    {
+        "id": 757809,
+        "name": "Sulejówek",
+        "region": "Mazovia",
+        "lat": 52.25221,
+        "lng": 21.26902,
+        "population": 18414
+    },
+    {
+        "id": 3080071,
+        "name": "Złotów",
+        "region": "Greater Poland",
+        "lat": 53.36346,
+        "lng": 17.04082,
+        "population": 18395
+    },
+    {
+        "id": 3102677,
+        "name": "Braniewo",
+        "region": "Warmia-Masuria",
+        "lat": 54.37971,
+        "lng": 19.81959,
+        "population": 18356
+    },
+    {
+        "id": 3095277,
+        "name": "Konstantynów Łódzki",
+        "region": "Łódź Voivodeship",
+        "lat": 51.74776,
+        "lng": 19.32564,
+        "population": 18335
+    },
+    {
+        "id": 3094788,
+        "name": "Krapkowice",
+        "region": "Opole Voivodeship",
+        "lat": 50.47515,
+        "lng": 17.96539,
+        "population": 18275
+    },
+    {
+        "id": 766810,
+        "name": "Łańcut",
+        "region": "Subcarpathia",
+        "lat": 50.06871,
+        "lng": 22.22912,
+        "population": 18266
+    },
+    {
+        "id": 758626,
+        "name": "Sokołów Podlaski",
+        "region": "Mazovia",
+        "lat": 52.40677,
+        "lng": 22.25307,
+        "population": 18241
+    },
+    {
+        "id": 3087281,
+        "name": "Reda",
+        "region": "Pomerania",
+        "lat": 54.60528,
+        "lng": 18.34717,
+        "population": 18116
+    },
+    {
+        "id": 3084241,
+        "name": "Sulechów",
+        "region": "Lubusz",
+        "lat": 52.08362,
+        "lng": 15.62513,
+        "population": 18055
+    },
+    {
+        "id": 3090403,
+        "name": "Oborniki",
+        "region": "Greater Poland",
+        "lat": 52.64739,
+        "lng": 16.81406,
+        "population": 17915
+    },
+    {
+        "id": 769981,
+        "name": "Józefów",
+        "region": "Mazovia",
+        "lat": 52.13707,
+        "lng": 21.23589,
+        "population": 17910
+    },
+    {
+        "id": 3093457,
+        "name": "Libiąż",
+        "region": "Lesser Poland",
+        "lat": 50.10396,
+        "lng": 19.31568,
+        "population": 17834
+    },
+    {
+        "id": 3095057,
+        "name": "Kostrzyn nad Odrą",
+        "region": "Lubusz",
+        "lat": 52.58713,
+        "lng": 14.64953,
+        "population": 17778
+    },
+    {
+        "id": 773357,
+        "name": "Dęblin",
+        "region": "Lublin",
+        "lat": 51.55912,
+        "lng": 21.84829,
+        "population": 17775
+    },
+    {
+        "id": 760584,
+        "name": "Rawa Mazowiecka",
+        "region": "Łódź Voivodeship",
+        "lat": 51.76437,
+        "lng": 20.25493,
+        "population": 17770
+    },
+    {
+        "id": 3091256,
+        "name": "Myślenice",
+        "region": "Lesser Poland",
+        "lat": 49.83383,
+        "lng": 19.9383,
+        "population": 17686
+    },
+    {
+        "id": 768905,
+        "name": "Kobyłka",
+        "region": "Mazovia",
+        "lat": 52.33953,
+        "lng": 21.19589,
+        "population": 17659
+    },
+    {
+        "id": 3088848,
+        "name": "Pleszew",
+        "region": "Greater Poland",
+        "lat": 51.89636,
+        "lng": 17.78549,
+        "population": 17640
+    },
+    {
+        "id": 3085495,
+        "name": "Słubice",
+        "region": "Lubusz",
+        "lat": 52.35088,
+        "lng": 14.56065,
+        "population": 17567
+    },
+    {
+        "id": 753276,
+        "name": "Zielonka",
+        "region": "Mazovia",
+        "lat": 52.30376,
+        "lng": 21.16018,
+        "population": 17518
+    },
+    {
+        "id": 3087529,
+        "name": "Radlin",
+        "region": "Silesia",
+        "lat": 50.0502,
+        "lng": 18.47626,
+        "population": 17479
+    },
+    {
+        "id": 3087418,
+        "name": "Radzionków",
+        "region": "Silesia",
+        "lat": 50.40026,
+        "lng": 18.90232,
+        "population": 17167
+    },
+    {
+        "id": 764862,
+        "name": "Międzyrzec Podlaski",
+        "region": "Lublin",
+        "lat": 51.9864,
+        "lng": 22.78248,
+        "population": 17158
+    },
+    {
+        "id": 774747,
+        "name": "Busko-Zdrój",
+        "region": "Świętokrzyskie",
+        "lat": 50.47078,
+        "lng": 20.71884,
+        "population": 17095
+    },
+    {
+        "id": 767814,
+        "name": "Kozienice",
+        "region": "Mazovia",
+        "lat": 51.58294,
+        "lng": 21.54779,
+        "population": 17075
+    },
+    {
+        "id": 3083185,
+        "name": "Trzcianka",
+        "region": "Greater Poland",
+        "lat": 53.04063,
+        "lng": 16.45629,
+        "population": 16914
+    },
+    {
+        "id": 775183,
+        "name": "Brzesko",
+        "region": "Lesser Poland",
+        "lat": 49.96911,
+        "lng": 20.60606,
+        "population": 16866
+    },
+    {
+        "id": 770157,
+        "name": "Jędrzejów",
+        "region": "Świętokrzyskie",
+        "lat": 50.63945,
+        "lng": 20.30454,
+        "population": 16792
+    },
+    {
+        "id": 3103034,
+        "name": "Boguszów-Gorce",
+        "region": "Lower Silesia",
+        "lat": 50.75514,
+        "lng": 16.20494,
+        "population": 16726
+    },
+    {
+        "id": 3101943,
+        "name": "Bytów",
+        "region": "Pomerania",
+        "lat": 54.17057,
+        "lng": 17.49187,
+        "population": 16724
+    },
+    {
+        "id": 3098201,
+        "name": "Gryfice",
+        "region": "West Pomerania",
+        "lat": 53.9165,
+        "lng": 15.20027,
+        "population": 16720
+    },
+    {
+        "id": 761218,
+        "name": "Przasnysz",
+        "region": "Mazovia",
+        "lat": 53.01907,
+        "lng": 20.88029,
+        "population": 16718
+    },
+    {
+        "id": 3090558,
+        "name": "Nowogard",
+        "region": "West Pomerania",
+        "lat": 53.67437,
+        "lng": 15.1163,
+        "population": 16703
+    },
+    {
+        "id": 3098130,
+        "name": "Gubin",
+        "region": "Lubusz",
+        "lat": 51.94956,
+        "lng": 14.72837,
+        "population": 16629
+    },
+    {
+        "id": 3086511,
+        "name": "Rypin",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.06603,
+        "lng": 19.40941,
+        "population": 16589
+    },
+    {
+        "id": 768216,
+        "name": "Konstancin-Jeziorna",
+        "region": "Mazovia",
+        "lat": 52.0938,
+        "lng": 21.11761,
+        "population": 16548
+    },
+    {
+        "id": 766307,
+        "name": "Lidzbark Warmiński",
+        "region": "Warmia-Masuria",
+        "lat": 54.12588,
+        "lng": 20.57954,
+        "population": 16540
+    },
+    {
+        "id": 3103096,
+        "name": "Bogatynia",
+        "region": "Lower Silesia",
+        "lat": 50.90747,
+        "lng": 14.95634,
+        "population": 16460
+    },
+    {
+        "id": 766783,
+        "name": "Łapy",
+        "region": "Podlasie",
+        "lat": 52.9911,
+        "lng": 22.88422,
+        "population": 16434
+    },
+    {
+        "id": 3091141,
+        "name": "Namysłów",
+        "region": "Opole Voivodeship",
+        "lat": 51.07592,
+        "lng": 17.72284,
+        "population": 16376
+    },
+    {
+        "id": 3093708,
+        "name": "Lędziny",
+        "region": "Silesia",
+        "lat": 50.14264,
+        "lng": 19.13149,
+        "population": 16305
+    },
+    {
+        "id": 3082756,
+        "name": "Ustka",
+        "region": "Pomerania",
+        "lat": 54.58048,
+        "lng": 16.86194,
+        "population": 16250
+    },
+    {
+        "id": 758252,
+        "name": "Staszów",
+        "region": "Świętokrzyskie",
+        "lat": 50.56307,
+        "lng": 21.16593,
+        "population": 16137
+    },
+    {
+        "id": 3084440,
+        "name": "Strzegom",
+        "region": "Lower Silesia",
+        "lat": 50.96264,
+        "lng": 16.35006,
+        "population": 16106
+    },
+    {
+        "id": 760680,
+        "name": "Radzyń Podlaski",
+        "region": "Lublin",
+        "lat": 51.78333,
+        "lng": 22.61667,
+        "population": 16071
+    },
+    {
+        "id": 8426094,
+        "name": "Świerczewo",
+        "region": "West Pomerania",
+        "lat": 53.4273,
+        "lng": 14.51303,
+        "population": 16034
+    },
+    {
+        "id": 3089823,
+        "name": "Osowa",
+        "region": "Pomerania",
+        "lat": 54.43109,
+        "lng": 18.46727,
+        "population": 16021
+    },
+    {
+        "id": 763291,
+        "name": "Olecko",
+        "region": "Warmia-Masuria",
+        "lat": 54.03374,
+        "lng": 22.50704,
+        "population": 15923
+    },
+    {
+        "id": 772339,
+        "name": "Garwolin",
+        "region": "Mazovia",
+        "lat": 51.89747,
+        "lng": 21.61466,
+        "population": 15912
+    },
+    {
+        "id": 12047636,
+        "name": "Kozanów",
+        "region": "Lower Silesia",
+        "lat": 51.14447,
+        "lng": 16.96937,
+        "population": 15901
+    },
+    {
+        "id": 761131,
+        "name": "Przeworsk",
+        "region": "Subcarpathia",
+        "lat": 50.05912,
+        "lng": 22.49408,
+        "population": 15805
+    },
+    {
+        "id": 764749,
+        "name": "Milanówek",
+        "region": "Mazovia",
+        "lat": 52.11879,
+        "lng": 20.67155,
+        "population": 15784
+    },
+    {
+        "id": 12047651,
+        "name": "Różanka-Polanka",
+        "region": "Lower Silesia",
+        "lat": 51.14344,
+        "lng": 17.01987,
+        "population": 15746
+    },
+    {
+        "id": 3101613,
+        "name": "Choszczno",
+        "region": "West Pomerania",
+        "lat": 53.16905,
+        "lng": 15.42054,
+        "population": 15733
+    },
+    {
+        "id": 3084085,
+        "name": "Świdwin",
+        "region": "West Pomerania",
+        "lat": 53.77464,
+        "lng": 15.77671,
+        "population": 15725
+    },
+    {
+        "id": 3082751,
+        "name": "Ustroń",
+        "region": "Silesia",
+        "lat": 49.72153,
+        "lng": 18.80198,
+        "population": 15637
+    },
+    {
+        "id": 763829,
+        "name": "Nisko",
+        "region": "Subcarpathia",
+        "lat": 50.51987,
+        "lng": 22.13968,
+        "population": 15573
+    },
+    {
+        "id": 3080074,
+        "name": "Złotoryja",
+        "region": "Lower Silesia",
+        "lat": 51.12637,
+        "lng": 15.91979,
+        "population": 15564
+    },
+    {
+        "id": 3093726,
+        "name": "Łęczyca",
+        "region": "Łódź Voivodeship",
+        "lat": 52.05959,
+        "lng": 19.19972,
+        "population": 15528
+    },
+    {
+        "id": 759320,
+        "name": "Siemiatycze",
+        "region": "Podlasie",
+        "lat": 52.42719,
+        "lng": 22.86231,
+        "population": 15421
+    },
+    {
+        "id": 3101787,
+        "name": "Chełmża",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.18463,
+        "lng": 18.60466,
+        "population": 15403
+    },
+    {
+        "id": 7303641,
+        "name": "Jelcz Laskowice",
+        "region": "Lower Silesia",
+        "lat": 51.02134,
+        "lng": 17.31649,
+        "population": 15340
+    },
+    {
+        "id": 766042,
+        "name": "Łomianki",
+        "region": "Mazovia",
+        "lat": 52.33413,
+        "lng": 20.88602,
+        "population": 15315
+    },
+    {
+        "id": 3097271,
+        "name": "Jelcz",
+        "region": "Lower Silesia",
+        "lat": 51.02102,
+        "lng": 17.32095,
+        "population": 15308
+    },
+    {
+        "id": 760343,
+        "name": "Ropczyce",
+        "region": "Subcarpathia",
+        "lat": 50.05229,
+        "lng": 21.60891,
+        "population": 15279
+    },
+    {
+        "id": 3090452,
+        "name": "Nowy Tomyśl",
+        "region": "Greater Poland",
+        "lat": 52.3195,
+        "lng": 16.12844,
+        "population": 15179
+    },
+    {
+        "id": 3085172,
+        "name": "Solec Kujawski",
+        "region": "Kujawsko-Pomorskie",
+        "lat": 53.08371,
+        "lng": 18.22572,
+        "population": 15125
+    },
+    {
+        "id": 3099169,
+        "name": "Głuchołazy",
+        "region": "Opole Voivodeship",
+        "lat": 50.31505,
+        "lng": 17.38355,
+        "population": 15120
+    },
+    {
+        "id": 3099180,
+        "name": "Głowno",
+        "region": "Łódź Voivodeship",
+        "lat": 51.96463,
+        "lng": 19.71565,
+        "population": 15103
+    },
+    {
+        "id": 3081046,
+        "name": "Ząbkowice Śląskie",
+        "region": "Lower Silesia",
+        "lat": 50.58969,
+        "lng": 16.81239,
+        "population": 15004
+    },
+    {
+        "id": 3096525,
+        "name": "Kartuzy",
+        "region": "Pomerania",
+        "lat": 54.33424,
+        "lng": 18.19735,
+        "population": 15002
+    }
+]

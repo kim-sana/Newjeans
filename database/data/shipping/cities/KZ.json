@@ -1,0 +1,674 @@
+[
+    {
+        "id": 1526384,
+        "name": "Almaty",
+        "region": "Almaty",
+        "lat": 43.25249,
+        "lng": 76.9115,
+        "population": 1977011
+    },
+    {
+        "id": 1526273,
+        "name": "Astana",
+        "region": "Astana",
+        "lat": 51.1801,
+        "lng": 71.44598,
+        "population": 1544142
+    },
+    {
+        "id": 1518980,
+        "name": "Shymkent",
+        "region": "Shymkent",
+        "lat": 42.30988,
+        "lng": 69.60042,
+        "population": 1200000
+    },
+    {
+        "id": 610611,
+        "name": "Aktobe",
+        "region": "Aktobe",
+        "lat": 50.27969,
+        "lng": 57.20718,
+        "population": 500757
+    },
+    {
+        "id": 609655,
+        "name": "Karagandy",
+        "region": "Karaganda",
+        "lat": 49.80187,
+        "lng": 73.10211,
+        "population": 497777
+    },
+    {
+        "id": 1516905,
+        "name": "Taraz",
+        "region": "Zhambyl",
+        "lat": 42.89799,
+        "lng": 71.37334,
+        "population": 358153
+    },
+    {
+        "id": 1519922,
+        "name": "Kyzylorda",
+        "region": "Kyzylorda",
+        "lat": 44.85278,
+        "lng": 65.50917,
+        "population": 354800
+    },
+    {
+        "id": 608668,
+        "name": "Oral",
+        "region": "West Kazakhstan",
+        "lat": 51.24601,
+        "lng": 51.42558,
+        "population": 330000
+    },
+    {
+        "id": 1520240,
+        "name": "Pavlodar",
+        "region": "Pavlodar Region",
+        "lat": 52.27601,
+        "lng": 76.96881,
+        "population": 329002
+    },
+    {
+        "id": 1520316,
+        "name": "Ust-Kamenogorsk",
+        "region": "East Kazakhstan",
+        "lat": 49.97143,
+        "lng": 82.60586,
+        "population": 319067
+    },
+    {
+        "id": 1519422,
+        "name": "Semey",
+        "region": "Abai Region",
+        "lat": 50.42064,
+        "lng": 80.25025,
+        "population": 292780
+    },
+    {
+        "id": 610529,
+        "name": "Atyrau",
+        "region": "Atyrau Oblisi",
+        "lat": 47.1048,
+        "lng": 51.88427,
+        "population": 290700
+    },
+    {
+        "id": 1517945,
+        "name": "Turkistan",
+        "region": "Turkistan",
+        "lat": 43.29458,
+        "lng": 68.25685,
+        "population": 227098
+    },
+    {
+        "id": 1519928,
+        "name": "Kostanay",
+        "region": "Kostanay",
+        "lat": 53.21435,
+        "lng": 63.62463,
+        "population": 210000
+    },
+    {
+        "id": 1520172,
+        "name": "Petropavl",
+        "region": "North Kazakhstan",
+        "lat": 54.87343,
+        "lng": 69.15065,
+        "population": 200920
+    },
+    {
+        "id": 1518262,
+        "name": "Temirtau",
+        "region": "Karaganda",
+        "lat": 50.05197,
+        "lng": 72.95497,
+        "population": 170600
+    },
+    {
+        "id": 1522203,
+        "name": "Kokshetau",
+        "region": "Aqmola",
+        "lat": 53.28414,
+        "lng": 69.39364,
+        "population": 150649
+    },
+    {
+        "id": 610612,
+        "name": "Aktau",
+        "region": "Mangystau",
+        "lat": 43.66105,
+        "lng": 51.17392,
+        "population": 147443
+    },
+    {
+        "id": 1519843,
+        "name": "Rudnyy",
+        "region": "Kostanay",
+        "lat": 52.97244,
+        "lng": 63.11055,
+        "population": 124000
+    },
+    {
+        "id": 1524325,
+        "name": "Ekibastuz",
+        "region": "Pavlodar Region",
+        "lat": 51.72371,
+        "lng": 75.32287,
+        "population": 121470
+    },
+    {
+        "id": 1518542,
+        "name": "Taldykorgan",
+        "region": "Zhetysu Region",
+        "lat": 45.01556,
+        "lng": 78.37389,
+        "population": 116558
+    },
+    {
+        "id": 1516589,
+        "name": "Zhezqazghan",
+        "region": "Ulytau Region",
+        "lat": 47.79411,
+        "lng": 67.70628,
+        "population": 104357
+    },
+    {
+        "id": 607610,
+        "name": "Zhanaozen",
+        "region": "Mangystau",
+        "lat": 43.34116,
+        "lng": 52.86192,
+        "population": 103598
+    },
+    {
+        "id": 1525798,
+        "name": "Balqash",
+        "region": "Karaganda",
+        "lat": 46.84546,
+        "lng": 74.98213,
+        "population": 81364
+    },
+    {
+        "id": 1519691,
+        "name": "Sarqant",
+        "region": "Zhetysu Region",
+        "lat": 45.41322,
+        "lng": 79.91713,
+        "population": 76919
+    },
+    {
+        "id": 1521368,
+        "name": "Baikonur",
+        "region": "Baikonur",
+        "lat": 45.61667,
+        "lng": 63.31667,
+        "population": 70000
+    },
+    {
+        "id": 1520692,
+        "name": "Satpayev",
+        "region": "Ulytau Region",
+        "lat": 47.90409,
+        "lng": 67.54112,
+        "population": 69782
+    },
+    {
+        "id": 1522751,
+        "name": "Kentau",
+        "region": "Turkistan",
+        "lat": 43.51672,
+        "lng": 68.50463,
+        "population": 57408
+    },
+    {
+        "id": 1521370,
+        "name": "Ridder",
+        "region": "East Kazakhstan",
+        "lat": 50.34524,
+        "lng": 83.51562,
+        "population": 52664
+    },
+    {
+        "id": 609123,
+        "name": "Qulsary",
+        "region": "Atyrau Oblisi",
+        "lat": 46.95307,
+        "lng": 54.01978,
+        "population": 51216
+    },
+    {
+        "id": 1519244,
+        "name": "Shchuchinsk",
+        "region": "Aqmola",
+        "lat": 52.93592,
+        "lng": 70.18895,
+        "population": 47290
+    },
+    {
+        "id": 1537939,
+        "name": "Stepnogorsk",
+        "region": "Aqmola",
+        "lat": 52.35062,
+        "lng": 71.88161,
+        "population": 46736
+    },
+    {
+        "id": 1516438,
+        "name": "Altay",
+        "region": "East Kazakhstan",
+        "lat": 49.73626,
+        "lng": 84.25416,
+        "population": 44929
+    },
+    {
+        "id": 1524298,
+        "name": "Aksu",
+        "region": "Pavlodar Region",
+        "lat": 52.04023,
+        "lng": 76.92748,
+        "population": 44808
+    },
+    {
+        "id": 1516601,
+        "name": "Zhitikara",
+        "region": "Kostanay",
+        "lat": 52.19019,
+        "lng": 61.19894,
+        "population": 43104
+    },
+    {
+        "id": 1519725,
+        "name": "Saran",
+        "region": "Karaganda",
+        "lat": 49.80245,
+        "lng": 72.83186,
+        "population": 42552
+    },
+    {
+        "id": 1518518,
+        "name": "Talghar",
+        "region": "Almaty Region",
+        "lat": 43.30235,
+        "lng": 77.23811,
+        "population": 42194
+    },
+    {
+        "id": 1519948,
+        "name": "Konayev",
+        "region": "Almaty Region",
+        "lat": 43.86681,
+        "lng": 77.06304,
+        "population": 42167
+    },
+    {
+        "id": 1526193,
+        "name": "Arkalyk",
+        "region": "Kostanay",
+        "lat": 50.25031,
+        "lng": 66.90384,
+        "population": 42000
+    },
+    {
+        "id": 1519327,
+        "name": "Shakhtinsk",
+        "region": "Karaganda",
+        "lat": 49.70713,
+        "lng": 72.59321,
+        "population": 41602
+    },
+    {
+        "id": 1521315,
+        "name": "Lisakovsk",
+        "region": "Kostanay",
+        "lat": 52.54488,
+        "lng": 62.49893,
+        "population": 40000
+    },
+    {
+        "id": 1519030,
+        "name": "Shu",
+        "region": "Zhambyl",
+        "lat": 43.60507,
+        "lng": 73.76221,
+        "population": 39785
+    },
+    {
+        "id": 1519938,
+        "name": "Karatau",
+        "region": "Zhambyl",
+        "lat": 43.17959,
+        "lng": 70.4592,
+        "population": 37881
+    },
+    {
+        "id": 1524385,
+        "name": "Zhetysay",
+        "region": "Turkistan",
+        "lat": 40.77631,
+        "lng": 68.32774,
+        "population": 36494
+    },
+    {
+        "id": 1526168,
+        "name": "Arys",
+        "region": "Turkistan",
+        "lat": 42.43015,
+        "lng": 68.8087,
+        "population": 36285
+    },
+    {
+        "id": 1516789,
+        "name": "Novokazalinsk",
+        "region": "Kyzylorda",
+        "lat": 45.84806,
+        "lng": 62.15254,
+        "population": 35883
+    },
+    {
+        "id": 1526970,
+        "name": "Abay",
+        "region": "Karaganda",
+        "lat": 49.63539,
+        "lng": 72.86523,
+        "population": 35454
+    },
+    {
+        "id": 610613,
+        "name": "Aqsay",
+        "region": "West Kazakhstan",
+        "lat": 51.1681,
+        "lng": 52.99782,
+        "population": 34799
+    },
+    {
+        "id": 1526038,
+        "name": "Atbasar",
+        "region": "Aqmola",
+        "lat": 51.80854,
+        "lng": 68.35823,
+        "population": 34797
+    },
+    {
+        "id": 1520253,
+        "name": "Zharkent",
+        "region": "Zhetysu Region",
+        "lat": 44.16619,
+        "lng": 80.00736,
+        "population": 34422
+    },
+    {
+        "id": 1516788,
+        "name": "Zhangatas",
+        "region": "Zhambyl",
+        "lat": 43.56274,
+        "lng": 69.73209,
+        "population": 33492
+    },
+    {
+        "id": 1525988,
+        "name": "Ayagoz",
+        "region": "Abai Region",
+        "lat": 47.96447,
+        "lng": 80.43437,
+        "population": 33479
+    },
+    {
+        "id": 1526265,
+        "name": "Aral",
+        "region": "Kyzylorda",
+        "lat": 46.80174,
+        "lng": 61.66312,
+        "population": 33017
+    },
+    {
+        "id": 1523741,
+        "name": "Esik",
+        "region": "Almaty Region",
+        "lat": 43.3552,
+        "lng": 77.45245,
+        "population": 32995
+    },
+    {
+        "id": 608880,
+        "name": "Mangistau",
+        "region": "Mangystau",
+        "lat": 43.69088,
+        "lng": 51.32237,
+        "population": 31368
+    },
+    {
+        "id": 1524801,
+        "name": "Shiyeli",
+        "region": "Kyzylorda",
+        "lat": 44.17057,
+        "lng": 66.73376,
+        "population": 29832
+    },
+    {
+        "id": 1519230,
+        "name": "Shelek",
+        "region": "Almaty Region",
+        "lat": 43.59623,
+        "lng": 78.25745,
+        "population": 29032
+    },
+    {
+        "id": 608679,
+        "name": "Kandyagash",
+        "region": "Aktobe",
+        "lat": 49.46917,
+        "lng": 57.41865,
+        "population": 28196
+    },
+    {
+        "id": 608359,
+        "name": "Shalqar",
+        "region": "Aktobe",
+        "lat": 47.83154,
+        "lng": 59.61926,
+        "population": 27399
+    },
+    {
+        "id": 608362,
+        "name": "Shalkar",
+        "region": "Atyrau Oblisi",
+        "lat": 48.03333,
+        "lng": 48.9,
+        "population": 27072
+    },
+    {
+        "id": 1518296,
+        "name": "Tekeli",
+        "region": "Zhetysu Region",
+        "lat": 44.8678,
+        "lng": 78.72807,
+        "population": 26678
+    },
+    {
+        "id": 1525462,
+        "name": "Aksu",
+        "region": "Turkistan",
+        "lat": 42.42193,
+        "lng": 69.82709,
+        "population": 26115
+    },
+    {
+        "id": 1524889,
+        "name": "Shardara",
+        "region": "Turkistan",
+        "lat": 41.25832,
+        "lng": 67.96991,
+        "population": 25356
+    },
+    {
+        "id": 1519673,
+        "name": "Saryaghash",
+        "region": "Turkistan",
+        "lat": 41.46042,
+        "lng": 69.16791,
+        "population": 25139
+    },
+    {
+        "id": 1526973,
+        "name": "Abay",
+        "region": "Turkistan",
+        "lat": 41.34682,
+        "lng": 68.9504,
+        "population": 24047
+    },
+    {
+        "id": 609404,
+        "name": "Khromtau",
+        "region": "Aktobe",
+        "lat": 50.25161,
+        "lng": 58.43574,
+        "population": 23715
+    },
+    {
+        "id": 1524245,
+        "name": "Kalbatau",
+        "region": "Abai Region",
+        "lat": 49.33009,
+        "lng": 81.57275,
+        "population": 22047
+    },
+    {
+        "id": 1517323,
+        "name": "Zhangaqorghan",
+        "region": "Kyzylorda",
+        "lat": 43.90652,
+        "lng": 67.24637,
+        "population": 21339
+    },
+    {
+        "id": 1521379,
+        "name": "Lenger",
+        "region": "Turkistan",
+        "lat": 42.18152,
+        "lng": 69.88582,
+        "population": 21238
+    },
+    {
+        "id": 1524958,
+        "name": "Burunday",
+        "region": "Almaty Region",
+        "lat": 43.35567,
+        "lng": 76.85477,
+        "population": 20996
+    },
+    {
+        "id": 1517637,
+        "name": "Ushtobe",
+        "region": "Zhetysu Region",
+        "lat": 45.25258,
+        "lng": 77.98284,
+        "population": 20492
+    },
+    {
+        "id": 1519226,
+        "name": "Shemonaikha",
+        "region": "East Kazakhstan",
+        "lat": 50.62899,
+        "lng": 81.91092,
+        "population": 20087
+    },
+    {
+        "id": 1516519,
+        "name": "Zhosaly",
+        "region": "Kyzylorda",
+        "lat": 45.48778,
+        "lng": 64.07806,
+        "population": 20065
+    },
+    {
+        "id": 610445,
+        "name": "Balykshi",
+        "region": "Atyrau Oblisi",
+        "lat": 47.06667,
+        "lng": 51.86667,
+        "population": 19260
+    },
+    {
+        "id": 1524308,
+        "name": "Otegen Batyra",
+        "region": "Almaty Region",
+        "lat": 43.41845,
+        "lng": 77.02187,
+        "population": 18864
+    },
+    {
+        "id": 609924,
+        "name": "Embi",
+        "region": "Aktobe",
+        "lat": 48.82981,
+        "lng": 58.15042,
+        "population": 18760
+    },
+    {
+        "id": 1521126,
+        "name": "Maqanshy",
+        "region": "Abai Region",
+        "lat": 46.78166,
+        "lng": 82.02258,
+        "population": 18754
+    },
+    {
+        "id": 1517501,
+        "name": "Turar Ryskulov",
+        "region": "Turkistan",
+        "lat": 42.5334,
+        "lng": 70.3496,
+        "population": 18421
+    },
+    {
+        "id": 1521230,
+        "name": "Makinsk",
+        "region": "Aqmola",
+        "lat": 52.6329,
+        "lng": 70.41911,
+        "population": 17711
+    },
+    {
+        "id": 1517060,
+        "name": "Zaysan",
+        "region": "East Kazakhstan",
+        "lat": 47.46657,
+        "lng": 84.87144,
+        "population": 17600
+    },
+    {
+        "id": 1526797,
+        "name": "Akkol’",
+        "region": "Aqmola",
+        "lat": 53.29617,
+        "lng": 69.59997,
+        "population": 16773
+    },
+    {
+        "id": 1518431,
+        "name": "Tasbuget",
+        "region": "Kyzylorda",
+        "lat": 44.77018,
+        "lng": 65.55461,
+        "population": 16455
+    },
+    {
+        "id": 1520969,
+        "name": "Merke",
+        "region": "Zhambyl",
+        "lat": 42.87183,
+        "lng": 73.19648,
+        "population": 15934
+    },
+    {
+        "id": 1520947,
+        "name": "Sarykemer",
+        "region": "Zhambyl",
+        "lat": 43.00929,
+        "lng": 71.5101,
+        "population": 15132
+    }
+]

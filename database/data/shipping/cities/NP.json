@@ -1,0 +1,370 @@
+[
+    {
+        "id": 1283240,
+        "name": "Kathmandu",
+        "region": "Bagmati Province",
+        "lat": 27.70169,
+        "lng": 85.3206,
+        "population": 1442271
+    },
+    {
+        "id": 1282898,
+        "name": "Pokhara",
+        "region": "Gandaki Pradesh",
+        "lat": 28.26689,
+        "lng": 83.96851,
+        "population": 600051
+    },
+    {
+        "id": 1283613,
+        "name": "Bharatpur",
+        "region": "Bagmati Province",
+        "lat": 27.68027,
+        "lng": 84.43647,
+        "population": 369377
+    },
+    {
+        "id": 1282931,
+        "name": "Pātan",
+        "region": "Bagmati Province",
+        "lat": 27.67658,
+        "lng": 85.31417,
+        "population": 299283
+    },
+    {
+        "id": 1283581,
+        "name": "Birgañj",
+        "region": "Madhesh",
+        "lat": 27.01736,
+        "lng": 84.88047,
+        "population": 268273
+    },
+    {
+        "id": 1283582,
+        "name": "Biratnagar",
+        "region": "Koshi",
+        "lat": 26.45505,
+        "lng": 87.27007,
+        "population": 244750
+    },
+    {
+        "id": 1283467,
+        "name": "Dhangaḍhi̇̄",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 28.70159,
+        "lng": 80.58991,
+        "population": 204788
+    },
+    {
+        "id": 1283339,
+        "name": "Hetauda",
+        "region": "Bagmati Province",
+        "lat": 27.42839,
+        "lng": 85.03219,
+        "population": 195951
+    },
+    {
+        "id": 1283318,
+        "name": "Janakpur",
+        "region": "Madhesh",
+        "lat": 26.72882,
+        "lng": 85.92628,
+        "population": 195438
+    },
+    {
+        "id": 1283562,
+        "name": "Butwāl",
+        "region": "Lumbini Province",
+        "lat": 27.69121,
+        "lng": 83.45251,
+        "population": 195054
+    },
+    {
+        "id": 1283460,
+        "name": "Dharān",
+        "region": "Koshi",
+        "lat": 26.81436,
+        "lng": 87.27972,
+        "population": 173096
+    },
+    {
+        "id": 6941099,
+        "name": "Nepalgunj",
+        "region": "Lumbini Province",
+        "lat": 28.05,
+        "lng": 81.61667,
+        "population": 166258
+    },
+    {
+        "id": 6254843,
+        "name": "Birendranagar",
+        "region": "Karnali Pradesh",
+        "lat": 28.59669,
+        "lng": 81.61658,
+        "population": 154886
+    },
+    {
+        "id": 8411054,
+        "name": "Madhyapur Thimi",
+        "region": "Bagmati Province",
+        "lat": 27.68056,
+        "lng": 85.3875,
+        "population": 119955
+    },
+    {
+        "id": 1283161,
+        "name": "Lahān",
+        "region": "Madhesh",
+        "lat": 26.72022,
+        "lng": 86.48258,
+        "population": 102955
+    },
+    {
+        "id": 1283095,
+        "name": "Bhimdatta",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 28.96399,
+        "lng": 80.17715,
+        "population": 88381
+    },
+    {
+        "id": 8410807,
+        "name": "Triyuga",
+        "region": "Koshi",
+        "lat": 26.7919,
+        "lng": 86.699,
+        "population": 71405
+    },
+    {
+        "id": 7997918,
+        "name": "Inaruwa",
+        "region": "Koshi",
+        "lat": 26.60675,
+        "lng": 87.1478,
+        "population": 70093
+    },
+    {
+        "id": 1282884,
+        "name": "Rājbirāj",
+        "region": "Madhesh",
+        "lat": 26.53968,
+        "lng": 86.74796,
+        "population": 69803
+    },
+    {
+        "id": 1283679,
+        "name": "Banepā",
+        "region": "Bagmati Province",
+        "lat": 27.6327,
+        "lng": 85.52201,
+        "population": 67629
+    },
+    {
+        "id": 1283621,
+        "name": "Siddharthanagar",
+        "region": "Lumbini Province",
+        "lat": 27.5,
+        "lng": 83.45,
+        "population": 63367
+    },
+    {
+        "id": 1283368,
+        "name": "Gulariyā",
+        "region": "Lumbini Province",
+        "lat": 28.2058,
+        "lng": 81.34532,
+        "population": 53107
+    },
+    {
+        "id": 1283539,
+        "name": "Chautārā",
+        "region": "Bagmati Province",
+        "lat": 27.7763,
+        "lng": 85.7127,
+        "population": 51347
+    },
+    {
+        "id": 1283329,
+        "name": "Īṭahari̇̄",
+        "region": "Koshi",
+        "lat": 26.66371,
+        "lng": 87.27403,
+        "population": 47984
+    },
+    {
+        "id": 7963596,
+        "name": "Panauti",
+        "region": "Bagmati Province",
+        "lat": 27.58466,
+        "lng": 85.52122,
+        "population": 46595
+    },
+    {
+        "id": 1282666,
+        "name": "Ṭikāpur",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 28.52819,
+        "lng": 81.11828,
+        "population": 44758
+    },
+    {
+        "id": 1283190,
+        "name": "Ki̇̄rtipur",
+        "region": "Bagmati Province",
+        "lat": 27.67851,
+        "lng": 85.27574,
+        "population": 44632
+    },
+    {
+        "id": 1283546,
+        "name": "Chari̇̄koṭ",
+        "region": "Bagmati Province",
+        "lat": 27.66824,
+        "lng": 86.0519,
+        "population": 40000
+    },
+    {
+        "id": 1282635,
+        "name": "Tulsi̇̄pur",
+        "region": "Lumbini Province",
+        "lat": 28.13328,
+        "lng": 82.29803,
+        "population": 39058
+    },
+    {
+        "id": 6254845,
+        "name": "Dipayal",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 29.26083,
+        "lng": 80.94,
+        "population": 33968
+    },
+    {
+        "id": 1282950,
+        "name": "Panauti̇̄",
+        "region": "Bagmati Province",
+        "lat": 27.58447,
+        "lng": 85.51487,
+        "population": 27602
+    },
+    {
+        "id": 1283401,
+        "name": "Gaur",
+        "region": "Madhesh",
+        "lat": 26.76371,
+        "lng": 85.27659,
+        "population": 27325
+    },
+    {
+        "id": 1282770,
+        "name": "Siraha",
+        "region": "Madhesh",
+        "lat": 26.65422,
+        "lng": 86.20795,
+        "population": 24657
+    },
+    {
+        "id": 1282714,
+        "name": "Tānsen",
+        "region": "Lumbini Province",
+        "lat": 27.86655,
+        "lng": 83.54587,
+        "population": 23693
+    },
+    {
+        "id": 1283323,
+        "name": "Jaleshwar",
+        "region": "Madhesh",
+        "lat": 26.64874,
+        "lng": 85.79996,
+        "population": 23573
+    },
+    {
+        "id": 1283711,
+        "name": "Bāgluṅ",
+        "region": "Gandaki Pradesh",
+        "lat": 28.26728,
+        "lng": 83.59956,
+        "population": 23296
+    },
+    {
+        "id": 1283217,
+        "name": "Khā̃dbāri̇̄",
+        "region": "Koshi",
+        "lat": 27.37647,
+        "lng": 87.20773,
+        "population": 22903
+    },
+    {
+        "id": 1283465,
+        "name": "Dhankutā",
+        "region": "Koshi",
+        "lat": 26.98333,
+        "lng": 87.33333,
+        "population": 22084
+    },
+    {
+        "id": 1282616,
+        "name": "Wāliṅ",
+        "region": "Gandaki Pradesh",
+        "lat": 27.9837,
+        "lng": 83.75925,
+        "population": 21867
+    },
+    {
+        "id": 1283496,
+        "name": "Dailekh",
+        "region": "Karnali Pradesh",
+        "lat": 28.84434,
+        "lng": 81.71011,
+        "population": 20908
+    },
+    {
+        "id": 1283082,
+        "name": "Malaṅgawā",
+        "region": "Madhesh",
+        "lat": 26.85622,
+        "lng": 85.56032,
+        "population": 20284
+    },
+    {
+        "id": 1283628,
+        "name": "Bhadrapur",
+        "region": "Koshi",
+        "lat": 26.54404,
+        "lng": 88.09436,
+        "population": 19523
+    },
+    {
+        "id": 1283499,
+        "name": "Amargaḍhi̇̄",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 29.29922,
+        "lng": 80.58333,
+        "population": 19014
+    },
+    {
+        "id": 1283484,
+        "name": "Dārchulā",
+        "region": "Sudurpashchim Pradesh",
+        "lat": 29.83,
+        "lng": 80.55,
+        "population": 18317
+    },
+    {
+        "id": 1283333,
+        "name": "Ilām",
+        "region": "Koshi",
+        "lat": 26.90943,
+        "lng": 87.92824,
+        "population": 17491
+    },
+    {
+        "id": 1283448,
+        "name": "Dhulikhel",
+        "region": "Bagmati Province",
+        "lat": 27.6221,
+        "lng": 85.54281,
+        "population": 16263
+    }
+]

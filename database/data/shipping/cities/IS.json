@@ -1,0 +1,50 @@
+[
+    {
+        "id": 3413829,
+        "name": "Reykjavík",
+        "region": "Capital Region",
+        "lat": 64.13548,
+        "lng": -21.89541,
+        "population": 118918
+    },
+    {
+        "id": 3415212,
+        "name": "Kópavogur",
+        "region": "Capital Region",
+        "lat": 64.11234,
+        "lng": -21.91298,
+        "population": 40040
+    },
+    {
+        "id": 3416706,
+        "name": "Hafnarfjörður",
+        "region": "Capital Region",
+        "lat": 64.0671,
+        "lng": -21.93774,
+        "population": 31525
+    },
+    {
+        "id": 8644037,
+        "name": "Reykjanesbær",
+        "region": "Southern Peninsula",
+        "lat": 63.99813,
+        "lng": -22.56111,
+        "population": 19724
+    },
+    {
+        "id": 2633274,
+        "name": "Akureyri",
+        "region": "Northeast",
+        "lat": 65.68353,
+        "lng": -18.0878,
+        "population": 19219
+    },
+    {
+        "id": 3415496,
+        "name": "Keflavík",
+        "region": "Southern Peninsula",
+        "lat": 64.00492,
+        "lng": -22.56242,
+        "population": 15930
+    }
+]

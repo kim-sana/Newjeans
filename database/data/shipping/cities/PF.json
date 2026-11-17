@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4034561,
+        "name": "Faaa",
+        "region": "Îles du Vent",
+        "lat": -17.55933,
+        "lng": -149.60352,
+        "population": 29851
+    },
+    {
+        "id": 4033936,
+        "name": "Papeete",
+        "region": "Îles du Vent",
+        "lat": -17.5347,
+        "lng": -149.56843,
+        "population": 26357
+    },
+    {
+        "id": 4033779,
+        "name": "Punaauia",
+        "region": "Îles du Vent",
+        "lat": -17.63333,
+        "lng": -149.6,
+        "population": 25750
+    }
+]

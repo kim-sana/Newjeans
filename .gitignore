@@ -29,3 +29,6 @@ public/assets/images/uploads/*
 
 # Knowledge graph
 graphify-out/
+
+# Raw shipping dataset downloads (generated JSON is committed)
+database/data/shipping/raw/

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1820906,
+        "name": "Bandar Seri Begawan",
+        "region": "Brunei-Muara District",
+        "lat": 4.89035,
+        "lng": 114.94006,
+        "population": 64409
+    },
+    {
+        "id": 1820575,
+        "name": "Sengkurong",
+        "region": "Brunei-Muara District",
+        "lat": 4.88333,
+        "lng": 114.83333,
+        "population": 40972
+    },
+    {
+        "id": 1820635,
+        "name": "Mentiri",
+        "region": "Brunei-Muara District",
+        "lat": 4.97058,
+        "lng": 115.02078,
+        "population": 39324
+    },
+    {
+        "id": 1820491,
+        "name": "Kuala Belait",
+        "region": "Belait",
+        "lat": 4.58361,
+        "lng": 114.2312,
+        "population": 31178
+    },
+    {
+        "id": 1820071,
+        "name": "Tutong",
+        "region": "Tutong",
+        "lat": 4.80278,
+        "lng": 114.64917,
+        "population": 19151
+    },
+    {
+        "id": 1820574,
+        "name": "Serasa",
+        "region": "Brunei-Muara District",
+        "lat": 5.01761,
+        "lng": 115.05798,
+        "population": 18569
+    },
+    {
+        "id": 1820557,
+        "name": "Liang",
+        "region": "Belait",
+        "lat": 4.67747,
+        "lng": 114.49587,
+        "population": 16813
+    }
+]

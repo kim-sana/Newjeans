@@ -1,0 +1,18 @@
+[
+    {
+        "id": 3041563,
+        "name": "Andorra la Vella",
+        "region": "Andorra la Vella",
+        "lat": 42.50779,
+        "lng": 1.52109,
+        "population": 20430
+    },
+    {
+        "id": 3040051,
+        "name": "les Escaldes",
+        "region": "Escaldes-Engordany",
+        "lat": 42.50729,
+        "lng": 1.53414,
+        "population": 15853
+    }
+]

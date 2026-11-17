@@ -1,0 +1,194 @@
+[
+    {
+        "id": 2028462,
+        "name": "Ulan Bator",
+        "region": "Ulaanbaatar",
+        "lat": 47.90771,
+        "lng": 106.88324,
+        "population": 844818
+    },
+    {
+        "id": 2031405,
+        "name": "Erdenet",
+        "region": "Orhon",
+        "lat": 49.03333,
+        "lng": 104.08333,
+        "population": 97814
+    },
+    {
+        "id": 2031964,
+        "name": "Darhan",
+        "region": "Darhan Uul",
+        "lat": 49.48667,
+        "lng": 105.92278,
+        "population": 83883
+    },
+    {
+        "id": 2032054,
+        "name": "Choibalsan",
+        "region": "East Aimak",
+        "lat": 48.07257,
+        "lng": 114.53264,
+        "population": 44835
+    },
+    {
+        "id": 2029901,
+        "name": "Nalayh",
+        "region": "Ulaanbaatar",
+        "lat": 47.76667,
+        "lng": 107.28333,
+        "population": 39579
+    },
+    {
+        "id": 2029945,
+        "name": "Mörön",
+        "region": "Khövsgöl Province",
+        "lat": 49.63417,
+        "lng": 100.1625,
+        "population": 39404
+    },
+    {
+        "id": 2032533,
+        "name": "Bayanhongor",
+        "region": "Bayankhongor",
+        "lat": 46.19444,
+        "lng": 100.71806,
+        "population": 30931
+    },
+    {
+        "id": 1515029,
+        "name": "Ulaangom",
+        "region": "Uvs Province",
+        "lat": 49.98111,
+        "lng": 92.06667,
+        "population": 30092
+    },
+    {
+        "id": 1516048,
+        "name": "Khovd",
+        "region": "Hovd",
+        "lat": 48.00556,
+        "lng": 91.64194,
+        "population": 29800
+    },
+    {
+        "id": 2032814,
+        "name": "Arvayheer",
+        "region": "Övörhangay",
+        "lat": 46.26389,
+        "lng": 102.775,
+        "population": 29420
+    },
+    {
+        "id": 1515436,
+        "name": "Ölgii",
+        "region": "Bayan-Ölgii Province",
+        "lat": 48.96833,
+        "lng": 89.9625,
+        "population": 28400
+    },
+    {
+        "id": 2030474,
+        "name": "Bogd",
+        "region": "Övörhangay",
+        "lat": 44.67024,
+        "lng": 102.17491,
+        "population": 27924
+    },
+    {
+        "id": 2032007,
+        "name": "Dalandzadgad",
+        "region": "Ömnögovĭ",
+        "lat": 43.57083,
+        "lng": 104.425,
+        "population": 24863
+    },
+    {
+        "id": 2029156,
+        "name": "Sühbaatar",
+        "region": "Selenge Province",
+        "lat": 50.23139,
+        "lng": 106.20778,
+        "population": 22741
+    },
+    {
+        "id": 2029656,
+        "name": "Undurkhaan",
+        "region": "Hentiy",
+        "lat": 47.31944,
+        "lng": 110.65556,
+        "population": 22741
+    },
+    {
+        "id": 2028606,
+        "name": "Tsetserleg",
+        "region": "Arkhangai Province",
+        "lat": 47.475,
+        "lng": 101.45417,
+        "population": 21620
+    },
+    {
+        "id": 2032081,
+        "name": "Saynshand",
+        "region": "East Gobi Aymag",
+        "lat": 44.88239,
+        "lng": 110.11631,
+        "population": 19891
+    },
+    {
+        "id": 2031533,
+        "name": "Dzüünharaa",
+        "region": "Selenge Province",
+        "lat": 48.85229,
+        "lng": 106.45786,
+        "population": 18830
+    },
+    {
+        "id": 2032614,
+        "name": "Baruun-Urt",
+        "region": "Sühbaatar",
+        "lat": 46.68056,
+        "lng": 113.27917,
+        "population": 18190
+    },
+    {
+        "id": 1516393,
+        "name": "Altai",
+        "region": "Govi-Altai Province",
+        "lat": 46.37222,
+        "lng": 96.25833,
+        "population": 17617
+    },
+    {
+        "id": 2032201,
+        "name": "Bulgan",
+        "region": "Bulgan",
+        "lat": 48.8125,
+        "lng": 103.53472,
+        "population": 17348
+    },
+    {
+        "id": 2031517,
+        "name": "Dzuunmod",
+        "region": "Central Aimak",
+        "lat": 47.70694,
+        "lng": 106.95278,
+        "population": 16953
+    },
+    {
+        "id": 7648817,
+        "name": "Zuunmod",
+        "region": "Central Aimak",
+        "lat": 47.70693,
+        "lng": 106.95276,
+        "population": 16953
+    },
+    {
+        "id": 1515007,
+        "name": "Uliastay",
+        "region": "Dzabkhan",
+        "lat": 47.74167,
+        "lng": 96.84444,
+        "population": 16265
+    }
+]

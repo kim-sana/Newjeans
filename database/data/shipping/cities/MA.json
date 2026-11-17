@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 2553604,
+        "name": "Casablanca",
+        "region": "Casablanca-Settat",
+        "lat": 33.58831,
+        "lng": -7.61138,
+        "population": 3665954
+    },
+    {
+        "id": 2538475,
+        "name": "Rabat",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.01325,
+        "lng": -6.83255,
+        "population": 1655753
+    },
+    {
+        "id": 2548885,
+        "name": "Fes",
+        "region": "Fes-Meknes",
+        "lat": 34.03313,
+        "lng": -5.00028,
+        "population": 1191905
+    },
+    {
+        "id": 2530335,
+        "name": "Tangier",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.76727,
+        "lng": -5.79975,
+        "population": 1035141
+    },
+    {
+        "id": 2542997,
+        "name": "Marrakesh",
+        "region": "Marrakesh-Safi",
+        "lat": 31.63416,
+        "lng": -7.99994,
+        "population": 995871
+    },
+    {
+        "id": 2537763,
+        "name": "Salé",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.0531,
+        "lng": -6.79846,
+        "population": 972299
+    },
+    {
+        "id": 2561668,
+        "name": "Agadir",
+        "region": "Souss-Massa",
+        "lat": 30.42018,
+        "lng": -9.59815,
+        "population": 698310
+    },
+    {
+        "id": 2542715,
+        "name": "Meknes",
+        "region": "Fes-Meknes",
+        "lat": 33.89352,
+        "lng": -5.54727,
+        "population": 568295
+    },
+    {
+        "id": 2540483,
+        "name": "Oujda",
+        "region": "Oriental",
+        "lat": 34.68139,
+        "lng": -1.90858,
+        "population": 539711
+    },
+    {
+        "id": 2544571,
+        "name": "Kenitra",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.26101,
+        "lng": -6.5802,
+        "population": 470949
+    },
+    {
+        "id": 2528910,
+        "name": "Tétouan",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.57845,
+        "lng": -5.36837,
+        "population": 415810
+    },
+    {
+        "id": 2558545,
+        "name": "Al Hoceïma",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.25165,
+        "lng": -3.93723,
+        "population": 395644
+    },
+    {
+        "id": 2529013,
+        "name": "Temara",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.92866,
+        "lng": -6.90656,
+        "population": 342345
+    },
+    {
+        "id": 2537881,
+        "name": "Safi",
+        "region": "Marrakesh-Safi",
+        "lat": 32.29939,
+        "lng": -9.23718,
+        "population": 336883
+    },
+    {
+        "id": 2542051,
+        "name": "Mohammedia",
+        "region": "Casablanca-Settat",
+        "lat": 33.68607,
+        "lng": -7.38298,
+        "population": 227799
+    },
+    {
+        "id": 2544248,
+        "name": "Khouribga",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.88108,
+        "lng": -6.9063,
+        "population": 214241
+    },
+    {
+        "id": 2550078,
+        "name": "El Jadida",
+        "region": "Casablanca-Settat",
+        "lat": 33.25682,
+        "lng": -8.50882,
+        "population": 212863
+    },
+    {
+        "id": 2555745,
+        "name": "Beni Mellal",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.33725,
+        "lng": -6.34983,
+        "population": 210397
+    },
+    {
+        "id": 10920963,
+        "name": "Salé Al Jadida",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.99722,
+        "lng": -6.74047,
+        "population": 200000
+    },
+    {
+        "id": 10374934,
+        "name": "Ait Melloul",
+        "region": "Souss-Massa",
+        "lat": 30.34164,
+        "lng": -9.50356,
+        "population": 187652
+    },
+    {
+        "id": 2541479,
+        "name": "Nador",
+        "region": "Oriental",
+        "lat": 35.16813,
+        "lng": -2.93352,
+        "population": 176600
+    },
+    {
+        "id": 2552615,
+        "name": "Dar Bouazza",
+        "region": "Casablanca-Settat",
+        "lat": 33.51535,
+        "lng": -7.81677,
+        "population": 165295
+    },
+    {
+        "id": 2529317,
+        "name": "Taza",
+        "region": "Fes-Meknes",
+        "lat": 34.21,
+        "lng": -4.01,
+        "population": 162110
+    },
+    {
+        "id": 2548880,
+        "name": "Fès al Bali",
+        "region": "Fes-Meknes",
+        "lat": 34.0701,
+        "lng": -4.95473,
+        "population": 156000
+    },
+    {
+        "id": 2537406,
+        "name": "Settat",
+        "region": "Casablanca-Settat",
+        "lat": 33.00103,
+        "lng": -7.61662,
+        "population": 155333
+    },
+    {
+        "id": 2556272,
+        "name": "Berrechid",
+        "region": "Casablanca-Settat",
+        "lat": 33.26553,
+        "lng": -7.58754,
+        "population": 149201
+    },
+    {
+        "id": 2558470,
+        "name": "Khemisset",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.82404,
+        "lng": -6.06627,
+        "population": 143640
+    },
+    {
+        "id": 2545957,
+        "name": "Inezgane",
+        "region": "Souss-Massa",
+        "lat": 30.35535,
+        "lng": -9.53639,
+        "population": 142320
+    },
+    {
+        "id": 2544001,
+        "name": "Ksar El Kebir",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.00044,
+        "lng": -5.90378,
+        "population": 138262
+    },
+    {
+        "id": 2543549,
+        "name": "Larache",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.19321,
+        "lng": -6.15572,
+        "population": 136505
+    },
+    {
+        "id": 2548526,
+        "name": "Guelmim",
+        "region": "Guelmim-Oued Noun",
+        "lat": 28.98696,
+        "lng": -10.05738,
+        "population": 129200
+    },
+    {
+        "id": 2544333,
+        "name": "Khenifra",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.93492,
+        "lng": -5.66167,
+        "population": 128318
+    },
+    {
+        "id": 2555467,
+        "name": "Berkane",
+        "region": "Oriental",
+        "lat": 34.92,
+        "lng": -2.32,
+        "population": 119284
+    },
+    {
+        "id": 2530048,
+        "name": "Taourirt",
+        "region": "Oriental",
+        "lat": 34.40731,
+        "lng": -2.89732,
+        "population": 112908
+    },
+    {
+        "id": 2554006,
+        "name": "Bouskoura",
+        "region": "Casablanca-Settat",
+        "lat": 33.44976,
+        "lng": -7.65239,
+        "population": 112501
+    },
+    {
+        "id": 2548830,
+        "name": "Al Fqih Ben Çalah",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.50213,
+        "lng": -6.68771,
+        "population": 111402
+    },
+    {
+        "id": 10374906,
+        "name": "Dchira El Jihadia",
+        "region": "Souss-Massa",
+        "lat": 30.37345,
+        "lng": -9.54761,
+        "population": 109564
+    },
+    {
+        "id": 2540689,
+        "name": "Oued Zem",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.8627,
+        "lng": -6.57359,
+        "population": 104029
+    },
+    {
+        "id": 2549979,
+        "name": "El Kelaa des Srarhna",
+        "region": "Marrakesh-Safi",
+        "lat": 32.05121,
+        "lng": -7.41079,
+        "population": 103982
+    },
+    {
+        "id": 2532945,
+        "name": "Sidi Slimane",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.26479,
+        "lng": -5.92598,
+        "population": 101541
+    },
+    {
+        "id": 7280528,
+        "name": "Errachidia",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.9314,
+        "lng": -4.42663,
+        "population": 100870
+    },
+    {
+        "id": 2548489,
+        "name": "Guercif",
+        "region": "Fes-Meknes",
+        "lat": 34.22568,
+        "lng": -3.35361,
+        "population": 99238
+    },
+    {
+        "id": 2539134,
+        "name": "Oulad Teïma",
+        "region": "Souss-Massa",
+        "lat": 30.39467,
+        "lng": -9.20897,
+        "population": 97608
+    },
+    {
+        "id": 2556018,
+        "name": "Ben Guerir",
+        "region": "Marrakesh-Safi",
+        "lat": 32.24088,
+        "lng": -7.95397,
+        "population": 96777
+    },
+    {
+        "id": 12718669,
+        "name": "Ouislane",
+        "region": "Fes-Meknes",
+        "lat": 33.91406,
+        "lng": -5.48969,
+        "population": 95995
+    },
+    {
+        "id": 2528659,
+        "name": "Tiflet",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.89469,
+        "lng": -6.30649,
+        "population": 94684
+    },
+    {
+        "id": 10375044,
+        "name": "Lqoliaa",
+        "region": "Souss-Massa",
+        "lat": 30.29759,
+        "lng": -9.46597,
+        "population": 90890
+    },
+    {
+        "id": 2529649,
+        "name": "Taroudant",
+        "region": "Souss-Massa",
+        "lat": 30.47028,
+        "lng": -8.87695,
+        "population": 87520
+    },
+    {
+        "id": 2537545,
+        "name": "Sefrou",
+        "region": "Fes-Meknes",
+        "lat": 33.83186,
+        "lng": -4.828,
+        "population": 87234
+    },
+    {
+        "id": 2549263,
+        "name": "Essaouira",
+        "region": "Marrakesh-Safi",
+        "lat": 31.5125,
+        "lng": -9.77,
+        "population": 85137
+    },
+    {
+        "id": 2548818,
+        "name": "Fnidek",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.84906,
+        "lng": -5.35747,
+        "population": 84558
+    },
+    {
+        "id": 2533191,
+        "name": "Sidi Kacem",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.22149,
+        "lng": -5.70775,
+        "population": 82632
+    },
+    {
+        "id": 2527089,
+        "name": "Tiznit",
+        "region": "Souss-Massa",
+        "lat": 29.69742,
+        "lng": -9.73162,
+        "population": 81569
+    },
+    {
+        "id": 2530241,
+        "name": "Tan-Tan",
+        "region": "Guelmim-Oued Noun",
+        "lat": 28.43799,
+        "lng": -11.10321,
+        "population": 79942
+    },
+    {
+        "id": 2540850,
+        "name": "Ouarzazate",
+        "region": "Drâa-Tafilalet",
+        "lat": 30.91894,
+        "lng": -6.89341,
+        "population": 77603
+    },
+    {
+        "id": 12718688,
+        "name": "Souk El Arbaa",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.68473,
+        "lng": -6.00344,
+        "population": 75635
+    },
+    {
+        "id": 2526488,
+        "name": "Youssoufia",
+        "region": "Marrakesh-Safi",
+        "lat": 32.24634,
+        "lng": -8.52941,
+        "population": 73848
+    },
+    {
+        "id": 2546917,
+        "name": "Ifrane",
+        "region": "Fes-Meknes",
+        "lat": 33.52666,
+        "lng": -5.11019,
+        "population": 73782
+    },
+    {
+        "id": 12718676,
+        "name": "Lahraouyine",
+        "region": "Casablanca-Settat",
+        "lat": 33.54138,
+        "lng": -7.52848,
+        "population": 70783
+    },
+    {
+        "id": 2542987,
+        "name": "Martil",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.61662,
+        "lng": -5.27522,
+        "population": 70274
+    },
+    {
+        "id": 2560841,
+        "name": "Aïn Harrouda",
+        "region": "Casablanca-Settat",
+        "lat": 33.63737,
+        "lng": -7.44971,
+        "population": 68161
+    },
+    {
+        "id": 2532412,
+        "name": "Souq Sebt Oulad Nemma",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.2973,
+        "lng": -6.70301,
+        "population": 65601
+    },
+    {
+        "id": 2562055,
+        "name": "Skhirate",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.8527,
+        "lng": -7.03171,
+        "population": 65272
+    },
+    {
+        "id": 2540810,
+        "name": "Ouezzane",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 34.79584,
+        "lng": -5.57849,
+        "population": 65088
+    },
+    {
+        "id": 2555519,
+        "name": "Benslimane",
+        "region": "Casablanca-Settat",
+        "lat": 33.61601,
+        "lng": -7.12153,
+        "population": 62352
+    },
+    {
+        "id": 2555882,
+        "name": "Beni Enzar",
+        "region": "Oriental",
+        "lat": 35.26,
+        "lng": -2.93,
+        "population": 61786
+    },
+    {
+        "id": 2542898,
+        "name": "Mdiq",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.68313,
+        "lng": -5.32871,
+        "population": 61398
+    },
+    {
+        "id": 2536074,
+        "name": "Sidi Bennour",
+        "region": "Casablanca-Settat",
+        "lat": 32.65236,
+        "lng": -8.42769,
+        "population": 60948
+    },
+    {
+        "id": 2542227,
+        "name": "Midelt",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.6852,
+        "lng": -4.74512,
+        "population": 60390
+    },
+    {
+        "id": 2556464,
+        "name": "Azrou",
+        "region": "Fes-Meknes",
+        "lat": 33.43443,
+        "lng": -5.22126,
+        "population": 59348
+    },
+    {
+        "id": 2527645,
+        "name": "Tirhanimîne",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.23619,
+        "lng": -3.95453,
+        "population": 55827
+    },
+    {
+        "id": 10375207,
+        "name": "My Drarga",
+        "region": "Souss-Massa",
+        "lat": 30.37733,
+        "lng": -9.47342,
+        "population": 55631
+    },
+    {
+        "id": 8542188,
+        "name": "Dakhla",
+        "region": "Souss-Massa",
+        "lat": 30.41145,
+        "lng": -9.55344,
+        "population": 55618
+    },
+    {
+        "id": 2560939,
+        "name": "Ain El Aouda",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.80333,
+        "lng": -6.79461,
+        "population": 54397
+    },
+    {
+        "id": 2555567,
+        "name": "Ben Jerrar",
+        "region": "Souss-Massa",
+        "lat": 30.26224,
+        "lng": -9.50377,
+        "population": 53026
+    },
+    {
+        "id": 2552292,
+        "name": "Ad Darwa",
+        "region": "Casablanca-Settat",
+        "lat": 33.37487,
+        "lng": -7.5356,
+        "population": 52108
+    },
+    {
+        "id": 2542013,
+        "name": "Al Aaroui",
+        "region": "Oriental",
+        "lat": 35.0109,
+        "lng": -3.00938,
+        "population": 51976
+    },
+    {
+        "id": 2544720,
+        "name": "Kasba Tadla",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.5977,
+        "lng": -6.26844,
+        "population": 51697
+    },
+    {
+        "id": 12718663,
+        "name": "Bejaâd",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.77133,
+        "lng": -6.39231,
+        "population": 51206
+    },
+    {
+        "id": 10797349,
+        "name": "Sidi Taibi",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.18698,
+        "lng": -6.68176,
+        "population": 51050
+    },
+    {
+        "id": 2545017,
+        "name": "Jerada",
+        "region": "Oriental",
+        "lat": 34.31,
+        "lng": -2.16,
+        "population": 47507
+    },
+    {
+        "id": 2553455,
+        "name": "Chefchaouen",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.16878,
+        "lng": -5.2636,
+        "population": 46721
+    },
+    {
+        "id": 2545069,
+        "name": "Mrirt",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 33.16427,
+        "lng": -5.56722,
+        "population": 46660
+    },
+    {
+        "id": 2527915,
+        "name": "Tinghir",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.51472,
+        "lng": -5.53278,
+        "population": 45911
+    },
+    {
+        "id": 2550806,
+        "name": "El Aïoun",
+        "region": "Oriental",
+        "lat": 34.58319,
+        "lng": -2.50612,
+        "population": 45679
+    },
+    {
+        "id": 2556657,
+        "name": "Azemmour",
+        "region": "Casablanca-Settat",
+        "lat": 33.28952,
+        "lng": -8.3425,
+        "population": 44683
+    },
+    {
+        "id": 2532394,
+        "name": "Souq Larb’a al Gharb",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.68664,
+        "lng": -6.00272,
+        "population": 44059
+    },
+    {
+        "id": 2526452,
+        "name": "Zagora",
+        "region": "Drâa-Tafilalet",
+        "lat": 30.33241,
+        "lng": -5.8384,
+        "population": 43752
+    },
+    {
+        "id": 2559217,
+        "name": "Ait Ourir",
+        "region": "Marrakesh-Safi",
+        "lat": 31.56517,
+        "lng": -7.66163,
+        "population": 42705
+    },
+    {
+        "id": 2556570,
+        "name": "Azilal",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 31.96156,
+        "lng": -6.57109,
+        "population": 42062
+    },
+    {
+        "id": 2461874,
+        "name": "Smara",
+        "region": "Laayoune-Sakia El Hamra",
+        "lat": 26.73841,
+        "lng": -11.67194,
+        "population": 42056
+    },
+    {
+        "id": 2532822,
+        "name": "Sidi Yahia El Gharb",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.30494,
+        "lng": -6.30404,
+        "population": 41472
+    },
+    {
+        "id": 10374981,
+        "name": "Tine Biougra",
+        "region": "Souss-Massa",
+        "lat": 30.20942,
+        "lng": -9.37922,
+        "population": 41421
+    },
+    {
+        "id": 2530155,
+        "name": "Taounate",
+        "region": "Fes-Meknes",
+        "lat": 34.53661,
+        "lng": -4.64009,
+        "population": 41075
+    },
+    {
+        "id": 2553751,
+        "name": "Bouznika",
+        "region": "Casablanca-Settat",
+        "lat": 33.78942,
+        "lng": -7.15968,
+        "population": 40663
+    },
+    {
+        "id": 12718675,
+        "name": "Had Soualem",
+        "region": "Casablanca-Settat",
+        "lat": 33.41972,
+        "lng": -7.85237,
+        "population": 40146
+    },
+    {
+        "id": 2550898,
+        "name": "Imzouren",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.14637,
+        "lng": -3.85063,
+        "population": 40000
+    },
+    {
+        "id": 2526435,
+        "name": "Zaïo",
+        "region": "Oriental",
+        "lat": 34.94282,
+        "lng": -2.7329,
+        "population": 39099
+    },
+    {
+        "id": 2557500,
+        "name": "Aourir",
+        "region": "Souss-Massa",
+        "lat": 30.49238,
+        "lng": -9.6355,
+        "population": 38617
+    },
+    {
+        "id": 2550252,
+        "name": "El Hajeb",
+        "region": "Fes-Meknes",
+        "lat": 33.68786,
+        "lng": -5.371,
+        "population": 38527
+    },
+    {
+        "id": 2537538,
+        "name": "Zeghanghane",
+        "region": "Oriental",
+        "lat": 35.15561,
+        "lng": -3.00236,
+        "population": 37154
+    },
+    {
+        "id": 2556076,
+        "name": "Ben Ahmed",
+        "region": "Casablanca-Settat",
+        "lat": 33.06635,
+        "lng": -7.24161,
+        "population": 36149
+    },
+    {
+        "id": 2527271,
+        "name": "Tit Mellil",
+        "region": "Casablanca-Settat",
+        "lat": 33.55808,
+        "lng": -7.48647,
+        "population": 35797
+    },
+    {
+        "id": 2542866,
+        "name": "Mechraa Bel Ksiri",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.57373,
+        "lng": -5.95585,
+        "population": 34393
+    },
+    {
+        "id": 2557055,
+        "name": "Asilah",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.46522,
+        "lng": -6.03415,
+        "population": 34011
+    },
+    {
+        "id": 2532171,
+        "name": "Tabount",
+        "region": "Drâa-Tafilalet",
+        "lat": 30.90321,
+        "lng": -6.91579,
+        "population": 33929
+    },
+    {
+        "id": 12718681,
+        "name": "Laâttaouia",
+        "region": "Marrakesh-Safi",
+        "lat": 31.83532,
+        "lng": -7.31431,
+        "population": 33103
+    },
+    {
+        "id": 12718684,
+        "name": "Sidi Slimane Echcharaa",
+        "region": "Oriental",
+        "lat": 34.90818,
+        "lng": -2.35055,
+        "population": 32979
+    },
+    {
+        "id": 2552317,
+        "name": "Demnate",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 31.73443,
+        "lng": -7.00505,
+        "population": 32217
+    },
+    {
+        "id": 2549356,
+        "name": "Arfoud",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.4353,
+        "lng": -4.23258,
+        "population": 31971
+    },
+    {
+        "id": 2555157,
+        "name": "Bouarfa",
+        "region": "Oriental",
+        "lat": 32.53379,
+        "lng": -1.96209,
+        "population": 31499
+    },
+    {
+        "id": 2532421,
+        "name": "Souk et Tnine Jorf el Mellah",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.49162,
+        "lng": -5.50846,
+        "population": 31318
+    },
+    {
+        "id": 2542768,
+        "name": "Mehdya",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.25596,
+        "lng": -6.67345,
+        "population": 31269
+    },
+    {
+        "id": 2560774,
+        "name": "Aïn Taoujdat",
+        "region": "Fes-Meknes",
+        "lat": 33.93575,
+        "lng": -5.21328,
+        "population": 30889
+    },
+    {
+        "id": 8299790,
+        "name": "Tamesna",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.81809,
+        "lng": -6.91658,
+        "population": 30705
+    },
+    {
+        "id": 10375138,
+        "name": "Oadar Temsia",
+        "region": "Souss-Massa",
+        "lat": 30.36531,
+        "lng": -9.41044,
+        "population": 30526
+    },
+    {
+        "id": 2553303,
+        "name": "Chichaoua",
+        "region": "Marrakesh-Safi",
+        "lat": 31.54351,
+        "lng": -8.76275,
+        "population": 30432
+    },
+    {
+        "id": 2531480,
+        "name": "Tahla",
+        "region": "Fes-Meknes",
+        "lat": 34.04965,
+        "lng": -4.42162,
+        "population": 30279
+    },
+    {
+        "id": 11025266,
+        "name": "Sabaa Aiyoun",
+        "region": "Fes-Meknes",
+        "lat": 33.90331,
+        "lng": -5.36868,
+        "population": 28693
+    },
+    {
+        "id": 2538059,
+        "name": "Rich",
+        "region": "Drâa-Tafilalet",
+        "lat": 32.25644,
+        "lng": -4.50152,
+        "population": 28382
+    },
+    {
+        "id": 2542147,
+        "name": "Missour",
+        "region": "Fes-Meknes",
+        "lat": 33.04893,
+        "lng": -3.98947,
+        "population": 27937
+    },
+    {
+        "id": 2526359,
+        "name": "Zawyat ech Cheïkh",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.64445,
+        "lng": -5.91826,
+        "population": 27723
+    },
+    {
+        "id": 2535530,
+        "name": "Bouknadel",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.11849,
+        "lng": -6.7389,
+        "population": 27577
+    },
+    {
+        "id": 12718687,
+        "name": "Aïn Attig",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.88758,
+        "lng": -6.96807,
+        "population": 27384
+    },
+    {
+        "id": 8504943,
+        "name": "Tamansourt",
+        "region": "Marrakesh-Safi",
+        "lat": 31.755,
+        "lng": -8.11,
+        "population": 27383
+    },
+    {
+        "id": 2553382,
+        "name": "Echemmaia Est",
+        "region": "Marrakesh-Safi",
+        "lat": 32.08102,
+        "lng": -8.62458,
+        "population": 26538
+    },
+    {
+        "id": 2540180,
+        "name": "Oulad Barhil",
+        "region": "Souss-Massa",
+        "lat": 30.64042,
+        "lng": -8.46875,
+        "population": 26521
+    },
+    {
+        "id": 2555342,
+        "name": "Bir Jdid",
+        "region": "Casablanca-Settat",
+        "lat": 33.37362,
+        "lng": -7.99462,
+        "population": 26355
+    },
+    {
+        "id": 2540207,
+        "name": "Oulad Ayad",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.2,
+        "lng": -6.8,
+        "population": 26008
+    },
+    {
+        "id": 2541210,
+        "name": "Zawyat an Nwaçer",
+        "region": "Casablanca-Settat",
+        "lat": 33.37981,
+        "lng": -7.61932,
+        "population": 25991
+    },
+    {
+        "id": 2537368,
+        "name": "Gueznaia",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.70211,
+        "lng": -5.89044,
+        "population": 25771
+    },
+    {
+        "id": 2542826,
+        "name": "Mediouna",
+        "region": "Casablanca-Settat",
+        "lat": 33.45161,
+        "lng": -7.51995,
+        "population": 24506
+    },
+    {
+        "id": 12718664,
+        "name": "Moulay Ali Cherif",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.28244,
+        "lng": -4.26541,
+        "population": 24251
+    },
+    {
+        "id": 2534515,
+        "name": "Sidi Ifni",
+        "region": "Souss-Massa",
+        "lat": 29.37975,
+        "lng": -10.17299,
+        "population": 23606
+    },
+    {
+        "id": 2537469,
+        "name": "Selouane",
+        "region": "Oriental",
+        "lat": 35.07313,
+        "lng": -2.9423,
+        "population": 23553
+    },
+    {
+        "id": 2571932,
+        "name": "Azla",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.55303,
+        "lng": -5.24472,
+        "population": 22985
+    },
+    {
+        "id": 2550419,
+        "name": "El Gara",
+        "region": "Casablanca-Settat",
+        "lat": 33.27732,
+        "lng": -7.23236,
+        "population": 22773
+    },
+    {
+        "id": 2546128,
+        "name": "Imi-n-Tanout",
+        "region": "Marrakesh-Safi",
+        "lat": 31.17213,
+        "lng": -8.84728,
+        "population": 22753
+    },
+    {
+        "id": 2533182,
+        "name": "Sidi Rahal",
+        "region": "Casablanca-Settat",
+        "lat": 33.47739,
+        "lng": -7.93641,
+        "population": 22525
+    },
+    {
+        "id": 2548878,
+        "name": "New Fes",
+        "region": "Fes-Meknes",
+        "lat": 34.05466,
+        "lng": -5.00725,
+        "population": 22451
+    },
+    {
+        "id": 2538401,
+        "name": "Ras el Ma",
+        "region": "Fes-Meknes",
+        "lat": 33.97399,
+        "lng": -5.09613,
+        "population": 22345
+    },
+    {
+        "id": 2526239,
+        "name": "Setti Fatma",
+        "region": "Marrakesh-Safi",
+        "lat": 31.22508,
+        "lng": -7.67751,
+        "population": 22283
+    },
+    {
+        "id": 2549750,
+        "name": "El Ksiba",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.57286,
+        "lng": -6.01947,
+        "population": 21840
+    },
+    {
+        "id": 2558428,
+        "name": "El Mansouria",
+        "region": "Casablanca-Settat",
+        "lat": 33.74643,
+        "lng": -7.30194,
+        "population": 21679
+    },
+    {
+        "id": 2561124,
+        "name": "Ahfir",
+        "region": "Oriental",
+        "lat": 34.95368,
+        "lng": -2.10027,
+        "population": 21435
+    },
+    {
+        "id": 2550547,
+        "name": "Al Brouj",
+        "region": "Casablanca-Settat",
+        "lat": 32.50467,
+        "lng": -7.19238,
+        "population": 21004
+    },
+    {
+        "id": 2546028,
+        "name": "Imouzzer Kandar",
+        "region": "Fes-Meknes",
+        "lat": 33.72871,
+        "lng": -5.01092,
+        "population": 20884
+    },
+    {
+        "id": 2551147,
+        "name": "Douar Toulal",
+        "region": "Fes-Meknes",
+        "lat": 33.88483,
+        "lng": -5.59664,
+        "population": 20831
+    },
+    {
+        "id": 2544821,
+        "name": "Karia Ba Mohamed",
+        "region": "Fes-Meknes",
+        "lat": 34.37094,
+        "lng": -5.2138,
+        "population": 20487
+    },
+    {
+        "id": 2538027,
+        "name": "Reçani",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.28318,
+        "lng": -4.26565,
+        "population": 20469
+    },
+    {
+        "id": 2529362,
+        "name": "Tata",
+        "region": "Souss-Massa",
+        "lat": 29.74409,
+        "lng": -7.973,
+        "population": 20322
+    },
+    {
+        "id": 2537610,
+        "name": "Sebt Gzoula",
+        "region": "Marrakesh-Safi",
+        "lat": 32.10779,
+        "lng": -9.08366,
+        "population": 20248
+    },
+    {
+        "id": 10958491,
+        "name": "Bni Bouayach",
+        "region": "Tanger-Tetouan-Al Hoceima",
+        "lat": 35.10506,
+        "lng": -3.84028,
+        "population": 19951
+    },
+    {
+        "id": 2558436,
+        "name": "Beni Yakhlef",
+        "region": "Casablanca-Settat",
+        "lat": 33.68407,
+        "lng": -7.33924,
+        "population": 19622
+    },
+    {
+        "id": 2538898,
+        "name": "Oulmes",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.42585,
+        "lng": -6.00137,
+        "population": 19014
+    },
+    {
+        "id": 2557533,
+        "name": "Aoulouz",
+        "region": "Souss-Massa",
+        "lat": 30.67307,
+        "lng": -8.18087,
+        "population": 19010
+    },
+    {
+        "id": 2557019,
+        "name": "Asni",
+        "region": "Marrakesh-Safi",
+        "lat": 31.24653,
+        "lng": -7.9789,
+        "population": 18674
+    },
+    {
+        "id": 2549981,
+        "name": "Kelaat Mgouna",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.24573,
+        "lng": -6.1326,
+        "population": 18515
+    },
+    {
+        "id": 12718680,
+        "name": "Méchouar-Kasba",
+        "region": "Marrakesh-Safi",
+        "lat": 31.6008,
+        "lng": -7.98653,
+        "population": 18410
+    },
+    {
+        "id": 2596460,
+        "name": "Ribat Al Khayr",
+        "region": "Fes-Meknes",
+        "lat": 33.81518,
+        "lng": -4.40717,
+        "population": 18278
+    },
+    {
+        "id": 2561358,
+        "name": "Agouraï",
+        "region": "Fes-Meknes",
+        "lat": 33.63,
+        "lng": -5.58,
+        "population": 18182
+    },
+    {
+        "id": 2530704,
+        "name": "Tamallalt",
+        "region": "Marrakesh-Safi",
+        "lat": 31.81897,
+        "lng": -7.51446,
+        "population": 18060
+    },
+    {
+        "id": 2548623,
+        "name": "Goulmima",
+        "region": "Drâa-Tafilalet",
+        "lat": 31.69227,
+        "lng": -4.95256,
+        "population": 17929
+    },
+    {
+        "id": 2538573,
+        "name": "Outat Oulad Al Haj",
+        "region": "Fes-Meknes",
+        "lat": 33.34499,
+        "lng": -3.70387,
+        "population": 17895
+    },
+    {
+        "id": 2560922,
+        "name": "Aïn Beni Mathar",
+        "region": "Oriental",
+        "lat": 34.0097,
+        "lng": -2.03238,
+        "population": 17787
+    },
+    {
+        "id": 6546693,
+        "name": "Boujniba",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.90046,
+        "lng": -6.77464,
+        "population": 17504
+    },
+    {
+        "id": 12718686,
+        "name": "Mers El Kheir",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.86262,
+        "lng": -6.92964,
+        "population": 17352
+    },
+    {
+        "id": 2536392,
+        "name": "Sidi Allal El Bahraoui",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.0077,
+        "lng": -6.53082,
+        "population": 17325
+    },
+    {
+        "id": 2543667,
+        "name": "Lalla Mimouna",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 34.84606,
+        "lng": -6.06645,
+        "population": 17217
+    },
+    {
+        "id": 2554281,
+        "name": "Boumia",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 32.7236,
+        "lng": -5.1025,
+        "population": 17091
+    },
+    {
+        "id": 2550162,
+        "name": "El Harhoura",
+        "region": "Rabat-Salé-Kénitra",
+        "lat": 33.94483,
+        "lng": -6.93106,
+        "population": 16773
+    },
+    {
+        "id": 2542230,
+        "name": "Midar",
+        "region": "Oriental",
+        "lat": 34.94025,
+        "lng": -3.53311,
+        "population": 16402
+    },
+    {
+        "id": 2550985,
+        "name": "Driouch",
+        "region": "Oriental",
+        "lat": 34.97705,
+        "lng": -3.37902,
+        "population": 16096
+    },
+    {
+        "id": 2556996,
+        "name": "Assa",
+        "region": "Guelmim-Oued Noun",
+        "lat": 28.60986,
+        "lng": -9.42986,
+        "population": 15910
+    },
+    {
+        "id": 2558052,
+        "name": "Amizmiz",
+        "region": "Marrakesh-Safi",
+        "lat": 31.21673,
+        "lng": -8.23184,
+        "population": 15685
+    },
+    {
+        "id": 2558844,
+        "name": "Ait Yazza",
+        "region": "Souss-Massa",
+        "lat": 30.50188,
+        "lng": -8.79917,
+        "population": 15570
+    },
+    {
+        "id": 2555504,
+        "name": "Ben Taieb",
+        "region": "Oriental",
+        "lat": 35.04427,
+        "lng": -3.45418,
+        "population": 15568
+    },
+    {
+        "id": 2554594,
+        "name": "Bou Izakarn",
+        "region": "Guelmim-Oued Noun",
+        "lat": 29.17705,
+        "lng": -9.71181,
+        "population": 15536
+    },
+    {
+        "id": 2539139,
+        "name": "Oulad Tayeb",
+        "region": "Fes-Meknes",
+        "lat": 33.94633,
+        "lng": -4.99509,
+        "population": 15491
+    },
+    {
+        "id": 2561290,
+        "name": "Aguelmous",
+        "region": "Beni Mellal-Khenifra",
+        "lat": 33.16139,
+        "lng": -5.84626,
+        "population": 15480
+    }
+]

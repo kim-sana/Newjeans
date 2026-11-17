@@ -1,0 +1,178 @@
+[
+    {
+        "id": 618426,
+        "name": "Chisinau",
+        "region": "Chișinău Municipality",
+        "lat": 47.00902,
+        "lng": 28.85938,
+        "population": 635994
+    },
+    {
+        "id": 617239,
+        "name": "Tiraspol",
+        "region": "Transnistria",
+        "lat": 46.84275,
+        "lng": 29.6284,
+        "population": 157000
+    },
+    {
+        "id": 618605,
+        "name": "Bălţi",
+        "region": "Bălţi",
+        "lat": 47.76291,
+        "lng": 27.92854,
+        "population": 125000
+    },
+    {
+        "id": 618577,
+        "name": "Bender",
+        "region": "Bender Municipality",
+        "lat": 46.83158,
+        "lng": 29.47671,
+        "population": 110175
+    },
+    {
+        "id": 617486,
+        "name": "Rîbniţa",
+        "region": "Transnistria",
+        "lat": 47.76817,
+        "lng": 29.01,
+        "population": 55455
+    },
+    {
+        "id": 618456,
+        "name": "Cahul",
+        "region": "Cahul",
+        "lat": 45.90456,
+        "lng": 28.19516,
+        "population": 34492
+    },
+    {
+        "id": 617180,
+        "name": "Ungheni",
+        "region": "Ungheni",
+        "lat": 47.21023,
+        "lng": 27.80013,
+        "population": 34422
+    },
+    {
+        "id": 617367,
+        "name": "Soroca",
+        "region": "Soroca District",
+        "lat": 48.15659,
+        "lng": 28.28489,
+        "population": 27423
+    },
+    {
+        "id": 618356,
+        "name": "Durleşti",
+        "region": "Chișinău Municipality",
+        "lat": 47.02156,
+        "lng": 28.76303,
+        "population": 26308
+    },
+    {
+        "id": 617638,
+        "name": "Orhei",
+        "region": "Orhei",
+        "lat": 47.38503,
+        "lng": 28.82535,
+        "population": 24918
+    },
+    {
+        "id": 618365,
+        "name": "Dubăsari",
+        "region": "Transnistria",
+        "lat": 47.26562,
+        "lng": 29.16667,
+        "population": 23254
+    },
+    {
+        "id": 618405,
+        "name": "Comrat",
+        "region": "Gagauzia",
+        "lat": 46.29488,
+        "lng": 28.65713,
+        "population": 22911
+    },
+    {
+        "id": 617076,
+        "name": "Edineţ",
+        "region": "Raionul Edineţ",
+        "lat": 48.17319,
+        "lng": 27.30075,
+        "population": 22872
+    },
+    {
+        "id": 618450,
+        "name": "Ceadîr-Lunga",
+        "region": "Gagauzia",
+        "lat": 46.06169,
+        "lng": 28.83078,
+        "population": 22700
+    },
+    {
+        "id": 618120,
+        "name": "Căuşeni",
+        "region": "Căuşeni",
+        "lat": 46.63738,
+        "lng": 29.41087,
+        "population": 21690
+    },
+    {
+        "id": 617302,
+        "name": "Strășeni",
+        "region": "Strășeni",
+        "lat": 47.14216,
+        "lng": 28.60774,
+        "population": 19225
+    },
+    {
+        "id": 617993,
+        "name": "Hînceşti",
+        "region": "Hînceşti",
+        "lat": 46.83089,
+        "lng": 28.58999,
+        "population": 16900
+    },
+    {
+        "id": 618329,
+        "name": "Floreşti",
+        "region": "Floreşti",
+        "lat": 47.89168,
+        "lng": 28.29339,
+        "population": 16759
+    },
+    {
+        "id": 618370,
+        "name": "Drochia",
+        "region": "Drochia",
+        "lat": 48.03686,
+        "lng": 27.81242,
+        "population": 16080
+    },
+    {
+        "id": 618054,
+        "name": "Codru",
+        "region": "Chișinău Municipality",
+        "lat": 46.97648,
+        "lng": 28.819,
+        "population": 15934
+    },
+    {
+        "id": 617345,
+        "name": "Bilicenii Vechi",
+        "region": "Sîngerei",
+        "lat": 47.6558,
+        "lng": 28.04734,
+        "population": 15479
+    },
+    {
+        "id": 617381,
+        "name": "Slobozia",
+        "region": "Transnistria",
+        "lat": 46.72927,
+        "lng": 29.70446,
+        "population": 15356
+    }
+]

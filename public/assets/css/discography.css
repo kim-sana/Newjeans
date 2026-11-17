@@ -549,6 +549,56 @@
   min-width: 108px;
 }
 
+.rr-buy-form {
+  display: contents;
+}
+
+.rr-price {
+  align-self: center;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.rr-availability {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 9px 12px;
+  border: 1.5px dashed var(--silver);
+  border-radius: var(--radius-pill);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  font-size: 0.66rem;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.rr-availability--out {
+  border-color: #f2b8b5;
+  background: #fff1f0;
+  color: #b42318;
+}
+
+.rr-availability--off {
+  border-color: var(--silver);
+  background: var(--blue-tint);
+  color: var(--muted);
+}
+
+.rr-actions .btn:focus-visible,
+.rr-buy-form .btn:focus-visible {
+  outline: 3px solid var(--lime);
+  outline-offset: 3px;
+}
+
 @media (max-width: 900px) {
   .disco-filter-bar {
     grid-template-columns: 1fr 1fr;
@@ -567,10 +617,19 @@
   .rr-actions {
     grid-column: 1 / -1;
     flex-direction: row;
+    align-items: center;
     min-width: 0;
   }
 
+  .rr-price {
+    margin-left: auto;
+  }
+
   .rr-actions .btn {
+    flex: 1;
+  }
+
+  .rr-actions .rr-availability {
     flex: 1;
   }
 }
@@ -636,5 +695,9 @@
 
   .rr-actions {
     flex-direction: column;
+  }
+
+  .rr-price {
+    margin-left: 0;
   }
 }

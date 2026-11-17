@@ -1,0 +1,90 @@
+[
+    {
+        "id": 932505,
+        "name": "Maseru",
+        "region": "Maseru District",
+        "lat": -29.31667,
+        "lng": 27.48333,
+        "population": 359753
+    },
+    {
+        "id": 932521,
+        "name": "Maputsoe",
+        "region": "Leribe",
+        "lat": -28.8866,
+        "lng": 27.89915,
+        "population": 61916
+    },
+    {
+        "id": 932438,
+        "name": "Mohale's Hoek",
+        "region": "Mohale's Hoek District",
+        "lat": -30.15137,
+        "lng": 27.47691,
+        "population": 46593
+    },
+    {
+        "id": 932614,
+        "name": "Mafeteng",
+        "region": "Mafeteng District",
+        "lat": -29.82299,
+        "lng": 27.23744,
+        "population": 45287
+    },
+    {
+        "id": 932698,
+        "name": "Hlotse",
+        "region": "Leribe",
+        "lat": -28.87185,
+        "lng": 28.04501,
+        "population": 43967
+    },
+    {
+        "id": 932886,
+        "name": "Butha-Buthe",
+        "region": "Butha-Buthe",
+        "lat": -28.76659,
+        "lng": 28.24937,
+        "population": 40599
+    },
+    {
+        "id": 11237575,
+        "name": "Mabote",
+        "region": "Berea",
+        "lat": -29.27861,
+        "lng": 27.52417,
+        "population": 38047
+    },
+    {
+        "id": 932183,
+        "name": "Quthing",
+        "region": "Quthing",
+        "lat": -30.40001,
+        "lng": 27.70027,
+        "population": 33910
+    },
+    {
+        "id": 932035,
+        "name": "Teyateyaneng",
+        "region": "Berea",
+        "lat": -29.14719,
+        "lng": 27.74895,
+        "population": 27272
+    },
+    {
+        "id": 932218,
+        "name": "Qacha’s Nek",
+        "region": "Qacha's Nek District",
+        "lat": -30.11537,
+        "lng": 28.68936,
+        "population": 25573
+    },
+    {
+        "id": 1106835,
+        "name": "Thaba-Tseka",
+        "region": "Thaba-Tseka",
+        "lat": -29.52204,
+        "lng": 28.6084,
+        "population": 16765
+    }
+]

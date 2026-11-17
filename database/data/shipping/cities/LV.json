@@ -1,0 +1,122 @@
+[
+    {
+        "id": 456172,
+        "name": "Riga",
+        "region": "Riga",
+        "lat": 56.946,
+        "lng": 24.10589,
+        "population": 742572
+    },
+    {
+        "id": 460413,
+        "name": "Daugavpils",
+        "region": "Daugavpils",
+        "lat": 55.88333,
+        "lng": 26.53333,
+        "population": 78126
+    },
+    {
+        "id": 457954,
+        "name": "Liepāja",
+        "region": "Liepaja",
+        "lat": 56.50474,
+        "lng": 21.01085,
+        "population": 67421
+    },
+    {
+        "id": 459279,
+        "name": "Jelgava",
+        "region": "Jelgava",
+        "lat": 56.65,
+        "lng": 23.71278,
+        "population": 54834
+    },
+    {
+        "id": 459201,
+        "name": "Jūrmala",
+        "region": "Jūrmala",
+        "lat": 56.968,
+        "lng": 23.77038,
+        "population": 52001
+    },
+    {
+        "id": 454310,
+        "name": "Ventspils",
+        "region": "Ventspils",
+        "lat": 57.39485,
+        "lng": 21.56121,
+        "population": 32723
+    },
+    {
+        "id": 456202,
+        "name": "Rēzekne",
+        "region": "Rēzekne",
+        "lat": 56.51028,
+        "lng": 27.34,
+        "population": 26429
+    },
+    {
+        "id": 453754,
+        "name": "Valmiera",
+        "region": "Valmiera",
+        "lat": 57.54108,
+        "lng": 25.42751,
+        "population": 22812
+    },
+    {
+        "id": 457065,
+        "name": "Ogre",
+        "region": "Ogre",
+        "lat": 56.8162,
+        "lng": 24.61401,
+        "population": 22767
+    },
+    {
+        "id": 459283,
+        "name": "Jēkabpils",
+        "region": "Jēkabpils Municipality",
+        "lat": 56.49903,
+        "lng": 25.85735,
+        "population": 21014
+    },
+    {
+        "id": 864723,
+        "name": "Mārupe",
+        "region": "Mārupe",
+        "lat": 56.90544,
+        "lng": 24.05113,
+        "population": 19096
+    },
+    {
+        "id": 455898,
+        "name": "Salaspils",
+        "region": "Salaspils Municipality",
+        "lat": 56.86014,
+        "lng": 24.36544,
+        "population": 17826
+    },
+    {
+        "id": 13192644,
+        "name": "Dārzciems",
+        "region": "Riga",
+        "lat": 56.94563,
+        "lng": 24.17459,
+        "population": 17599
+    },
+    {
+        "id": 454768,
+        "name": "Tukums",
+        "region": "Tukums Municipality",
+        "lat": 56.96764,
+        "lng": 23.15554,
+        "population": 16182
+    },
+    {
+        "id": 460570,
+        "name": "Cēsis",
+        "region": "Cēsis Municipality",
+        "lat": 57.31188,
+        "lng": 25.27456,
+        "population": 15020
+    }
+]

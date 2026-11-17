@@ -1,0 +1,250 @@
+[
+    {
+        "id": 3441575,
+        "name": "Montevideo",
+        "region": "Montevideo Department",
+        "lat": -34.90328,
+        "lng": -56.18816,
+        "population": 1270737
+    },
+    {
+        "id": 3440714,
+        "name": "Salto",
+        "region": "Salto Department",
+        "lat": -31.38811,
+        "lng": -57.95983,
+        "population": 114084
+    },
+    {
+        "id": 3441894,
+        "name": "Maldonado",
+        "region": "Maldonado",
+        "lat": -34.89791,
+        "lng": -54.95021,
+        "population": 102000
+    },
+    {
+        "id": 3440781,
+        "name": "Rivera",
+        "region": "Rivera Department",
+        "lat": -30.90534,
+        "lng": -55.55076,
+        "population": 84775
+    },
+    {
+        "id": 3441243,
+        "name": "Paysandú",
+        "region": "Paysandú Department",
+        "lat": -32.3171,
+        "lng": -58.08072,
+        "population": 81550
+    },
+    {
+        "id": 3442057,
+        "name": "Las Piedras",
+        "region": "Canelones",
+        "lat": -34.7302,
+        "lng": -56.21915,
+        "population": 69682
+    },
+    {
+        "id": 3440034,
+        "name": "Tacuarembó",
+        "region": "Tacuarembó Department",
+        "lat": -31.71882,
+        "lng": -55.97925,
+        "population": 60586
+    },
+    {
+        "id": 3441702,
+        "name": "Melo",
+        "region": "Cerro Largo",
+        "lat": -32.3682,
+        "lng": -54.16409,
+        "population": 56013
+    },
+    {
+        "id": 3443758,
+        "name": "Artigas",
+        "region": "Artigas",
+        "lat": -30.40431,
+        "lng": -56.46926,
+        "population": 43897
+    },
+    {
+        "id": 3441684,
+        "name": "Mercedes",
+        "region": "Soriano",
+        "lat": -33.2524,
+        "lng": -58.03047,
+        "population": 43543
+    },
+    {
+        "id": 3442727,
+        "name": "Durazno",
+        "region": "Durazno Department",
+        "lat": -33.38063,
+        "lng": -56.52312,
+        "population": 40279
+    },
+    {
+        "id": 3441665,
+        "name": "Minas",
+        "region": "Lavalleja",
+        "lat": -34.37589,
+        "lng": -55.23771,
+        "population": 38645
+    },
+    {
+        "id": 3442585,
+        "name": "Florida",
+        "region": "Florida",
+        "lat": -34.10032,
+        "lng": -56.21477,
+        "population": 36471
+    },
+    {
+        "id": 3440639,
+        "name": "San José de Mayo",
+        "region": "San José Department",
+        "lat": -34.33898,
+        "lng": -56.71339,
+        "population": 35883
+    },
+    {
+        "id": 3443013,
+        "name": "Colonia del Sacramento",
+        "region": "Colonia",
+        "lat": -34.46262,
+        "lng": -57.83976,
+        "population": 32164
+    },
+    {
+        "id": 10098279,
+        "name": "Barros Blancos",
+        "region": "Canelones",
+        "lat": -34.7524,
+        "lng": -56.00259,
+        "population": 31650
+    },
+    {
+        "id": 3440696,
+        "name": "San Carlos",
+        "region": "Maldonado",
+        "lat": -34.79123,
+        "lng": -54.91824,
+        "population": 27471
+    },
+    {
+        "id": 3440777,
+        "name": "Rocha",
+        "region": "Rocha Department",
+        "lat": -34.47995,
+        "lng": -54.33064,
+        "population": 26784
+    },
+    {
+        "id": 3442568,
+        "name": "Fray Bentos",
+        "region": "Río Negro Department",
+        "lat": -33.11651,
+        "lng": -58.31067,
+        "population": 26297
+    },
+    {
+        "id": 3439781,
+        "name": "Treinta y Tres",
+        "region": "Treinta y Tres Department",
+        "lat": -33.231,
+        "lng": -54.38577,
+        "population": 25890
+    },
+    {
+        "id": 3443413,
+        "name": "Canelones",
+        "region": "Canelones",
+        "lat": -34.52381,
+        "lng": -56.28215,
+        "population": 24185
+    },
+    {
+        "id": 3441354,
+        "name": "Pando",
+        "region": "Canelones",
+        "lat": -34.71716,
+        "lng": -55.9584,
+        "population": 24047
+    },
+    {
+        "id": 3439748,
+        "name": "Trinidad",
+        "region": "Flores Department",
+        "lat": -33.5165,
+        "lng": -56.89957,
+        "population": 22897
+    },
+    {
+        "id": 3442098,
+        "name": "La Paz",
+        "region": "Canelones",
+        "lat": -34.76031,
+        "lng": -56.2259,
+        "population": 19913
+    },
+    {
+        "id": 3443341,
+        "name": "Carmelo",
+        "region": "Colonia",
+        "lat": -34.00023,
+        "lng": -58.28402,
+        "population": 18041
+    },
+    {
+        "id": 3442778,
+        "name": "Delta del Tigre",
+        "region": "San José Department",
+        "lat": -34.76488,
+        "lng": -56.3645,
+        "population": 17973
+    },
+    {
+        "id": 3442750,
+        "name": "Dolores",
+        "region": "Soriano",
+        "lat": -33.53009,
+        "lng": -58.21701,
+        "population": 17174
+    },
+    {
+        "id": 3439525,
+        "name": "Young",
+        "region": "Río Negro Department",
+        "lat": -32.69844,
+        "lng": -57.62693,
+        "population": 16756
+    },
+    {
+        "id": 3440571,
+        "name": "Santa Lucía",
+        "region": "Canelones",
+        "lat": -34.45333,
+        "lng": -56.39056,
+        "population": 16438
+    },
+    {
+        "id": 3440963,
+        "name": "Progreso",
+        "region": "Canelones",
+        "lat": -34.66737,
+        "lng": -56.21758,
+        "population": 16244
+    },
+    {
+        "id": 3441292,
+        "name": "Paso de Carrasco",
+        "region": "Canelones",
+        "lat": -34.86028,
+        "lng": -56.05222,
+        "population": 15393
+    }
+]

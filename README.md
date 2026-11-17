@@ -21,11 +21,16 @@ Website fan-made bertema NewJeans: beranda, diskografi, jadwal, berita, profil m
 │   ├── Core/                   # Router, Database, Auth, Csrf, Upload, dll.
 │   ├── Controllers/            # controller Public dan Admin
 │   ├── Models/                 # repository PDO per tabel
-│   └── Support/                # helper dan utilitas slug
-├── config/                     # app.php, database.php
+│   ├── Payments/               # PaymentGateway interface + MockPaymentGateway
+│   ├── Services/               # CheckoutService (order & payment)
+│   ├── Shipping/               # DestinationCatalog & ShippingCalculator
+│   └── Support/                # helper, Cart, dan utilitas slug
+├── config/                     # app.php, database.php, shipping.php
 ├── database/
-│   ├── schema.sql              # skema 9 tabel konten
+│   ├── schema.sql              # skema 11 tabel (9 konten + orders, order_items)
 │   ├── seed.php                # seeder data awal
+│   ├── build-shipping-data.php # generator dataset kota GeoNames
+│   ├── data/shipping/          # countries.json, cities/{ISO2}.json, LICENSE, README.md
 │   └── seed-data/news.json     # sumber seed berita
 ├── templates/
 │   ├── layouts/                # layout public dan admin
@@ -63,6 +68,10 @@ Website fan-made bertema NewJeans: beranda, diskografi, jadwal, berita, profil m
    DB_NAME=newjeans
    DB_USER=root
    DB_PASS=
+
+   # Album purchase shipping simulation (kosongkan salah satu untuk menonaktifkan checkout)
+   SHIPPING_BASE_FEE_USD=3.00
+   SHIPPING_FEE_PER_KM_USD=0.0015
    ```
 
 3. Buat database:
@@ -118,13 +127,18 @@ Panel admin tersedia di `http://localhost:8000/admin`.
 | `/news/{slug}` | Detail berita |
 | `/about` | Timeline sejarah + profil member |
 | `/gallery` | Galeri foto |
+| `/cart` | Keranjang belanja sesi (`POST /cart/items`, `/cart/items/{id}`, `/cart/items/{id}/remove`) |
+| `/checkout` | Guest checkout + estimasi ongkir dari Seoul (`GET`, `POST`) |
+| `/shipping/cities`, `/shipping/estimate` | Endpoint JSON kota tujuan dan estimasi ongkir |
+| `/checkout/{token}/payment` | Halaman simulasi pembayaran (`POST /checkout/{token}/pay`) |
+| `/orders/{token}` | Status dan ringkasan pesanan guest |
 
 ### Admin (perlu login)
 
 | Route | Fungsi |
 |---|---|
 | `/login`, `POST /login`, `POST /logout` | Autentikasi sesi |
-| `/admin` | Dashboard + jumlah konten |
+| `/admin` | Dashboard + jumlah konten & pesanan |
 | `/admin/album-types` | CRUD tipe album |
 | `/admin/albums` | CRUD album + upload cover |
 | `/admin/albums/{albumId}/songs` | CRUD lagu per album |
@@ -133,6 +147,7 @@ Panel admin tersedia di `http://localhost:8000/admin`.
 | `/admin/members` | CRUD member + upload foto |
 | `/admin/histories` | CRUD history + upload gambar |
 | `/admin/gallery` | CRUD item galeri + upload gambar |
+| `/admin/orders`, `/admin/orders/{id}` | Daftar & detail pesanan (read-only, 20/halaman) |
 
 Setiap route admin memakai sesi dan token CSRF. Aksi tanpa token yang valid ditolak dengan status `419`.
 
@@ -159,16 +174,32 @@ Semua redirect memakai status `301`.
 
 ## Data dan soft delete
 
-Sembilan tabel konten: `users`, `album_types`, `albums`, `songs`, `news`, `events`, `members`, `histories`, `gallery_items`. Penghapusan konten memakai soft delete (`deleted_at`); query publik selalu memfilter `deleted_at IS NULL`. Tabel e-commerce fase 2 belum dibuat.
+Sebelas tabel database: 9 tabel konten (`users`, `album_types`, `albums`, `songs`, `news`, `events`, `members`, `histories`, `gallery_items`) dengan soft delete (`deleted_at`; query publik selalu memfilter `deleted_at IS NULL`), serta 2 tabel pesanan (`orders`, `order_items`) tanpa soft delete untuk menyimpan snapshot pembelian album.
+
+## Pembelian album & dataset ongkir
+
+- **Guest checkout & mock payment**: Keranjang disimpan di PHP session (`$_SESSION['cart']`) tanpa registrasi customer. Pembayaran memakai `MockPaymentGateway` (`mock`) untuk simulasi `success` dan `failure`.
+- **Tarif ongkir**: Dihitung dari Seoul (`37.5665, 126.9780`) dengan rumus `SHIPPING_BASE_FEE_USD + distance_km * SHIPPING_FEE_PER_KM_USD` (contoh demo: `3.00` + `0.0015`/km). Jika salah satu variabel kosong di `.env`, checkout dinonaktifkan.
+- **Dataset GeoNames**: Data negara dan kota di `database/data/shipping/` bersumber dari GeoNames (`cities15000` + suplemen ibu kota, lisensi **CC BY 4.0** — lihat `database/data/shipping/LICENSE` dan `database/data/shipping/README.md`). Untuk membangun ulang dataset dari file mentah GeoNames:
+
+  ```powershell
+  php database/build-shipping-data.php <cities15000.txt> <countryInfo.txt> <admin1CodesASCII.txt>
+  ```
 
 ## Verifikasi
 
 ```powershell
 # Lint seluruh PHP
-Get-ChildItem -Recurse -File -Include *.php app,config,templates,public,database | ForEach-Object { php -l $_.FullName }
+Get-ChildItem -Recurse -File -Include *.php app,config,templates,public,database,tests | ForEach-Object { php -l $_.FullName }
 
 # Cek sintaks JavaScript
 Get-ChildItem -Recurse -File public/assets/js/*.js | ForEach-Object { node --check $_.FullName }
+
+# Jalankan test unit & service (pastikan NJ_TEST_DB mengarah ke database test disposable)
+php tests/shipping_calculator_test.php
+php tests/cart_test.php
+php tests/checkout_service_test.php
+php tests/payment_service_test.php
 ```
 
 Smoke test manual: buka seluruh route publik, pastikan route tidak dikenal mengembalikan `404`, lalu uji login, CRUD tiap modul, upload, dan logout di panel admin.

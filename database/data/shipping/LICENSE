@@ -1,0 +1,32 @@
+GeoNames shipping dataset
+=========================
+
+The JSON files in this directory are derived from the GeoNames geographical
+database:
+
+  https://www.geonames.org/
+  https://download.geonames.org/export/dump/
+
+Source data is copyright GeoNames contributors and is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+
+  https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the data for any purpose, provided you give
+appropriate credit, provide a link to the license, and indicate if changes
+were made. No additional restrictions may be applied.
+
+Attribution notice:
+  Contains data from GeoNames, licensed under CC BY 4.0.
+
+Modifications made for this project:
+  - Filtered to populated places (feature class P) in officially assigned
+    ISO 3166-1 alpha-2 countries with population greater than zero.
+  - Reduced to GeoNames ID, city name, admin-1 region name, latitude,
+    longitude, and population.
+  - Resolved country and region display names from GeoNames reference files.
+  - Serialized as JSON and sorted deterministically.
+
+No coordinates, city names, or population values were altered.
+See README.md for the source dump date, filter criteria, coverage exceptions,
+and rebuild command.

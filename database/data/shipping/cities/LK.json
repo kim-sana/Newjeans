@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1248991,
+        "name": "Colombo",
+        "region": "Western Province",
+        "lat": 6.93548,
+        "lng": 79.84868,
+        "population": 648034
+    },
+    {
+        "id": 1234569,
+        "name": "Dehiwala-Mount Lavinia",
+        "region": "Western Province",
+        "lat": 6.84019,
+        "lng": 79.87116,
+        "population": 219827
+    },
+    {
+        "id": 1236854,
+        "name": "Maharagama",
+        "region": "Western Province",
+        "lat": 6.848,
+        "lng": 79.9265,
+        "population": 195355
+    },
+    {
+        "id": 1242833,
+        "name": "Jaffna",
+        "region": "Northern Province",
+        "lat": 9.66845,
+        "lng": 80.00742,
+        "population": 169102
+    },
+    {
+        "id": 1234633,
+        "name": "Moratuwa",
+        "region": "Western Province",
+        "lat": 6.773,
+        "lng": 79.8816,
+        "population": 168280
+    },
+    {
+        "id": 1233369,
+        "name": "Negombo",
+        "region": "Western Province",
+        "lat": 7.2083,
+        "lng": 79.8358,
+        "population": 137223
+    },
+    {
+        "id": 1230089,
+        "name": "Pita Kotte",
+        "region": "Western Province",
+        "lat": 6.8905,
+        "lng": 79.9015,
+        "population": 118179
+    },
+    {
+        "id": 1238992,
+        "name": "Sri Jayewardenepura Kotte",
+        "region": "Western Province",
+        "lat": 6.88297,
+        "lng": 79.90708,
+        "population": 115826
+    },
+    {
+        "id": 1241622,
+        "name": "Kandy",
+        "region": "Central Province",
+        "lat": 7.2906,
+        "lng": 80.6336,
+        "population": 111701
+    },
+    {
+        "id": 1226260,
+        "name": "Trincomalee",
+        "region": "Eastern Province",
+        "lat": 8.5778,
+        "lng": 81.2289,
+        "population": 108420
+    },
+    {
+        "id": 1242110,
+        "name": "Kalmunai",
+        "region": "Eastern Province",
+        "lat": 7.40902,
+        "lng": 81.83472,
+        "population": 100171
+    },
+    {
+        "id": 1246294,
+        "name": "Galle",
+        "region": "Southern Province",
+        "lat": 6.0461,
+        "lng": 80.2103,
+        "population": 93118
+    },
+    {
+        "id": 1229989,
+        "name": "Point Pedro",
+        "region": "Northern Province",
+        "lat": 9.81667,
+        "lng": 80.23333,
+        "population": 89810
+    },
+    {
+        "id": 1250161,
+        "name": "Batticaloa",
+        "region": "Eastern Province",
+        "lat": 7.7102,
+        "lng": 81.6924,
+        "population": 86742
+    },
+    {
+        "id": 1240935,
+        "name": "Katunayaka",
+        "region": "Western Province",
+        "lat": 7.16992,
+        "lng": 79.88837,
+        "population": 84643
+    },
+    {
+        "id": 1251568,
+        "name": "Ambalantota",
+        "region": "Southern Province",
+        "lat": 6.1196,
+        "lng": 81.0214,
+        "population": 80506
+    },
+    {
+        "id": 1225142,
+        "name": "Valvedditturai",
+        "region": "Northern Province",
+        "lat": 9.81667,
+        "lng": 80.16667,
+        "population": 78205
+    },
+    {
+        "id": 1235846,
+        "name": "Matara",
+        "region": "Southern Province",
+        "lat": 5.94851,
+        "lng": 80.53528,
+        "population": 76254
+    },
+    {
+        "id": 1250164,
+        "name": "Battaramulla South",
+        "region": "Western Province",
+        "lat": 6.8964,
+        "lng": 79.9181,
+        "population": 75633
+    },
+    {
+        "id": 1248749,
+        "name": "Dambulla",
+        "region": "Central Province",
+        "lat": 7.86,
+        "lng": 80.65167,
+        "population": 66716
+    },
+    {
+        "id": 1239593,
+        "name": "Kolonnawa",
+        "region": "Western Province",
+        "lat": 6.9329,
+        "lng": 79.8848,
+        "population": 64887
+    },
+    {
+        "id": 1239047,
+        "name": "Kotikawatta",
+        "region": "Western Province",
+        "lat": 6.9269,
+        "lng": 79.9095,
+        "population": 64565
+    },
+    {
+        "id": 1251081,
+        "name": "Anuradhapura",
+        "region": "North Central Province",
+        "lat": 8.31223,
+        "lng": 80.41306,
+        "population": 60943
+    },
+    {
+        "id": 1225018,
+        "name": "Vavuniya",
+        "region": "Northern Province",
+        "lat": 8.7514,
+        "lng": 80.4971,
+        "population": 60176
+    },
+    {
+        "id": 1250066,
+        "name": "Beliatta",
+        "region": "Southern Province",
+        "lat": 6.0496,
+        "lng": 80.73252,
+        "population": 58675
+    },
+    {
+        "id": 1244397,
+        "name": "Hendala",
+        "region": "Western Province",
+        "lat": 6.9909,
+        "lng": 79.883,
+        "population": 56978
+    },
+    {
+        "id": 1251574,
+        "name": "Ambalangoda",
+        "region": "Southern Province",
+        "lat": 6.2355,
+        "lng": 80.0538,
+        "population": 56783
+    },
+    {
+        "id": 1228730,
+        "name": "Ratnapura",
+        "region": "Sabaragamuwa Province",
+        "lat": 6.6858,
+        "lng": 80.4036,
+        "population": 47832
+    },
+    {
+        "id": 1250615,
+        "name": "Badulla",
+        "region": "Uva Province",
+        "lat": 6.9802,
+        "lng": 81.0577,
+        "population": 47587
+    },
+    {
+        "id": 1229724,
+        "name": "Pottuvil",
+        "region": "Eastern Province",
+        "lat": 6.8762,
+        "lng": 81.8267,
+        "population": 45727
+    },
+    {
+        "id": 1229293,
+        "name": "Puttalam",
+        "region": "North Western Province",
+        "lat": 8.0362,
+        "lng": 79.8283,
+        "population": 45661
+    },
+    {
+        "id": 1248158,
+        "name": "Devinuwara",
+        "region": "Southern Province",
+        "lat": 5.92825,
+        "lng": 80.5888,
+        "population": 45000
+    },
+    {
+        "id": 1251459,
+        "name": "Ampara",
+        "region": "Eastern Province",
+        "lat": 7.29754,
+        "lng": 81.68202,
+        "population": 43720
+    },
+    {
+        "id": 1223648,
+        "name": "Welisara",
+        "region": "Western Province",
+        "lat": 7.0281,
+        "lng": 79.9014,
+        "population": 41306
+    },
+    {
+        "id": 1241964,
+        "name": "Kalutara",
+        "region": "Western Province",
+        "lat": 6.5831,
+        "lng": 79.9593,
+        "population": 37081
+    },
+    {
+        "id": 1249978,
+        "name": "Bentota",
+        "region": "Southern Province",
+        "lat": 6.42598,
+        "lng": 79.99575,
+        "population": 37000
+    },
+    {
+        "id": 1235855,
+        "name": "Matale",
+        "region": "Central Province",
+        "lat": 7.4698,
+        "lng": 80.6217,
+        "population": 36462
+    },
+    {
+        "id": 1236150,
+        "name": "Mannar",
+        "region": "Northern Province",
+        "lat": 8.98945,
+        "lng": 79.87842,
+        "population": 35817
+    },
+    {
+        "id": 1243936,
+        "name": "Homagama",
+        "region": "Western Province",
+        "lat": 6.844,
+        "lng": 80.0024,
+        "population": 34664
+    },
+    {
+        "id": 1249931,
+        "name": "Beruwala",
+        "region": "Western Province",
+        "lat": 6.4788,
+        "lng": 79.9828,
+        "population": 34250
+    },
+    {
+        "id": 1231410,
+        "name": "Panadura",
+        "region": "Western Province",
+        "lat": 6.7132,
+        "lng": 79.9026,
+        "population": 33735
+    },
+    {
+        "id": 1234378,
+        "name": "Mulleriyawa",
+        "region": "Western Province",
+        "lat": 6.933,
+        "lng": 79.9297,
+        "population": 33540
+    },
+    {
+        "id": 1241750,
+        "name": "Kandana",
+        "region": "Western Province",
+        "lat": 7.048,
+        "lng": 79.8937,
+        "population": 33424
+    },
+    {
+        "id": 1242835,
+        "name": "Ja Ela",
+        "region": "Western Province",
+        "lat": 7.0744,
+        "lng": 79.8919,
+        "population": 32175
+    },
+    {
+        "id": 1224085,
+        "name": "Wattala",
+        "region": "Western Province",
+        "lat": 6.98918,
+        "lng": 79.89167,
+        "population": 30725
+    },
+    {
+        "id": 1234393,
+        "name": "Mullaittivu",
+        "region": "Northern Province",
+        "lat": 9.268,
+        "lng": 80.815,
+        "population": 28973
+    },
+    {
+        "id": 1240622,
+        "name": "Kelaniya",
+        "region": "Western Province",
+        "lat": 6.9553,
+        "lng": 79.922,
+        "population": 28846
+    },
+    {
+        "id": 1230613,
+        "name": "Peliyagoda",
+        "region": "Western Province",
+        "lat": 6.9685,
+        "lng": 79.8836,
+        "population": 28784
+    },
+    {
+        "id": 1237980,
+        "name": "Kurunegala",
+        "region": "North Western Province",
+        "lat": 7.4839,
+        "lng": 80.3683,
+        "population": 28571
+    },
+    {
+        "id": 1232783,
+        "name": "Nuwara Eliya",
+        "region": "Central Province",
+        "lat": 6.97078,
+        "lng": 80.78286,
+        "population": 27500
+    },
+    {
+        "id": 1249145,
+        "name": "Chilaw",
+        "region": "North Western Province",
+        "lat": 7.57583,
+        "lng": 79.79528,
+        "population": 24712
+    },
+    {
+        "id": 1246000,
+        "name": "Gampola",
+        "region": "Central Province",
+        "lat": 7.1643,
+        "lng": 80.5696,
+        "population": 24283
+    },
+    {
+        "id": 1246924,
+        "name": "Eravur Town",
+        "region": "Eastern Province",
+        "lat": 7.7782,
+        "lng": 81.6038,
+        "population": 22982
+    },
+    {
+        "id": 1244773,
+        "name": "Hanwella Ihala",
+        "region": "Western Province",
+        "lat": 6.9012,
+        "lng": 80.0852,
+        "population": 22918
+    },
+    {
+        "id": 1223738,
+        "name": "Weligama",
+        "region": "Southern Province",
+        "lat": 5.97501,
+        "lng": 80.42968,
+        "population": 22179
+    },
+    {
+        "id": 1225187,
+        "name": "Vakarai",
+        "region": "Eastern Province",
+        "lat": 8.13333,
+        "lng": 81.43333,
+        "population": 21000
+    },
+    {
+        "id": 1241076,
+        "name": "Kataragama",
+        "region": "Uva Province",
+        "lat": 6.4134,
+        "lng": 81.3346,
+        "population": 20935
+    },
+    {
+        "id": 1244926,
+        "name": "Hambantota",
+        "region": "Southern Province",
+        "lat": 6.1241,
+        "lng": 81.1185,
+        "population": 19999
+    },
+    {
+        "id": 1240723,
+        "name": "Kegalle",
+        "region": "Sabaragamuwa Province",
+        "lat": 7.2523,
+        "lng": 80.3436,
+        "population": 17962
+    },
+    {
+        "id": 1244596,
+        "name": "Hatton",
+        "region": "Central Province",
+        "lat": 6.8916,
+        "lng": 80.5955,
+        "population": 15073
+    }
+]

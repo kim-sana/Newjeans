@@ -1,0 +1,362 @@
+[
+    {
+        "id": 202061,
+        "name": "Kigali",
+        "region": "Kigali",
+        "lat": -1.94995,
+        "lng": 30.05885,
+        "population": 1132686
+    },
+    {
+        "id": 202905,
+        "name": "Gisenyi",
+        "region": "Western Province",
+        "lat": -1.70278,
+        "lng": 29.25639,
+        "population": 172357
+    },
+    {
+        "id": 201521,
+        "name": "Musanze",
+        "region": "Northern Province",
+        "lat": -1.49984,
+        "lng": 29.63497,
+        "population": 153368
+    },
+    {
+        "id": 201650,
+        "name": "Nyagatare",
+        "region": "Eastern Province",
+        "lat": -1.2952,
+        "lng": 30.3226,
+        "population": 100000
+    },
+    {
+        "id": 202217,
+        "name": "Gitarama",
+        "region": "Southern Province",
+        "lat": -2.07444,
+        "lng": 29.75667,
+        "population": 87613
+    },
+    {
+        "id": 201830,
+        "name": "Muhanga",
+        "region": "Southern Province",
+        "lat": -2.02269,
+        "lng": 29.70691,
+        "population": 82797
+    },
+    {
+        "id": 203112,
+        "name": "Butare",
+        "region": "Southern Province",
+        "lat": -2.59667,
+        "lng": 29.73944,
+        "population": 62823
+    },
+    {
+        "id": 202065,
+        "name": "Kibuye",
+        "region": "Western Province",
+        "lat": -2.06028,
+        "lng": 29.34778,
+        "population": 48024
+    },
+    {
+        "id": 201463,
+        "name": "Rwamagana",
+        "region": "Eastern Province",
+        "lat": -1.9487,
+        "lng": 30.4347,
+        "population": 47203
+    },
+    {
+        "id": 202068,
+        "name": "Kibungo",
+        "region": "Eastern Province",
+        "lat": -2.1597,
+        "lng": 30.5427,
+        "population": 46240
+    },
+    {
+        "id": 202326,
+        "name": "Cyangugu",
+        "region": "Western Province",
+        "lat": -2.4846,
+        "lng": 28.9075,
+        "population": 43866
+    },
+    {
+        "id": 202345,
+        "name": "Shyorongi",
+        "region": "Northern Province",
+        "lat": -1.85439,
+        "lng": 29.96238,
+        "population": 43744
+    },
+    {
+        "id": 203104,
+        "name": "Byumba",
+        "region": "Northern Province",
+        "lat": -1.5763,
+        "lng": 30.0675,
+        "population": 43134
+    },
+    {
+        "id": 202572,
+        "name": "Ndera",
+        "region": "Kigali",
+        "lat": -1.9495,
+        "lng": 30.1697,
+        "population": 41764
+    },
+    {
+        "id": 202769,
+        "name": "Kirambo",
+        "region": "Western Province",
+        "lat": -2.3155,
+        "lng": 29.1415,
+        "population": 40341
+    },
+    {
+        "id": 7021400,
+        "name": "Kagano",
+        "region": "Western Province",
+        "lat": -2.3429,
+        "lng": 29.0912,
+        "population": 39994
+    },
+    {
+        "id": 202557,
+        "name": "Ngororero",
+        "region": "Western Province",
+        "lat": -1.8628,
+        "lng": 29.62541,
+        "population": 38823
+    },
+    {
+        "id": 201865,
+        "name": "Nzega",
+        "region": "Southern Province",
+        "lat": -2.479,
+        "lng": 29.5564,
+        "population": 33832
+    },
+    {
+        "id": 7021270,
+        "name": "Macuba",
+        "region": "Western Province",
+        "lat": -2.2933,
+        "lng": 29.1877,
+        "population": 33319
+    },
+    {
+        "id": 202865,
+        "name": "Karengera",
+        "region": "Western Province",
+        "lat": -2.5169,
+        "lng": 29.0326,
+        "population": 32504
+    },
+    {
+        "id": 7062967,
+        "name": "Nyanza",
+        "region": "Southern Province",
+        "lat": -2.35187,
+        "lng": 29.75089,
+        "population": 32016
+    },
+    {
+        "id": 203141,
+        "name": "Bugarama",
+        "region": "Western Province",
+        "lat": -2.6924,
+        "lng": 29.0077,
+        "population": 31086
+    },
+    {
+        "id": 7662752,
+        "name": "Gihombo",
+        "region": "Western Province",
+        "lat": -2.21896,
+        "lng": 29.2343,
+        "population": 29843
+    },
+    {
+        "id": 7021332,
+        "name": "Karambi",
+        "region": "Western Province",
+        "lat": -2.31695,
+        "lng": 29.24413,
+        "population": 29726
+    },
+    {
+        "id": 203046,
+        "name": "Bushekeri",
+        "region": "Western Province",
+        "lat": -2.4195,
+        "lng": 29.0908,
+        "population": 29680
+    },
+    {
+        "id": 7021426,
+        "name": "Nyabitekeli",
+        "region": "Western Province",
+        "lat": -2.3541,
+        "lng": 29.0298,
+        "population": 29293
+    },
+    {
+        "id": 203119,
+        "name": "Busogo",
+        "region": "Northern Province",
+        "lat": -1.5584,
+        "lng": 29.5434,
+        "population": 28264
+    },
+    {
+        "id": 202352,
+        "name": "Shangi",
+        "region": "Western Province",
+        "lat": -2.4036,
+        "lng": 29.0059,
+        "population": 28064
+    },
+    {
+        "id": 384535,
+        "name": "Kayonza",
+        "region": "Eastern Province",
+        "lat": -1.9509,
+        "lng": 30.5205,
+        "population": 27059
+    },
+    {
+        "id": 7021499,
+        "name": "Cyato",
+        "region": "Western Province",
+        "lat": -2.3871,
+        "lng": 29.1929,
+        "population": 26996
+    },
+    {
+        "id": 202048,
+        "name": "Kirimbi",
+        "region": "Western Province",
+        "lat": -2.26469,
+        "lng": 29.19644,
+        "population": 25647
+    },
+    {
+        "id": 384181,
+        "name": "Gitesi",
+        "region": "Western Province",
+        "lat": -2.1139,
+        "lng": 29.4022,
+        "population": 24859
+    },
+    {
+        "id": 7032689,
+        "name": "Bushenge",
+        "region": "Western Province",
+        "lat": -2.4421,
+        "lng": 28.9824,
+        "population": 22624
+    },
+    {
+        "id": 7656357,
+        "name": "Nyamata",
+        "region": "Eastern Province",
+        "lat": -2.20419,
+        "lng": 30.14494,
+        "population": 21509
+    },
+    {
+        "id": 201524,
+        "name": "Ruhango",
+        "region": "Southern Province",
+        "lat": -2.2246,
+        "lng": 29.79088,
+        "population": 21478
+    },
+    {
+        "id": 202239,
+        "name": "Gikongoro",
+        "region": "Southern Province",
+        "lat": -2.46397,
+        "lng": 29.57389,
+        "population": 21029
+    },
+    {
+        "id": 7662813,
+        "name": "Mahembe",
+        "region": "Western Province",
+        "lat": -2.2386,
+        "lng": 29.2929,
+        "population": 20043
+    },
+    {
+        "id": 384311,
+        "name": "Mukamira",
+        "region": "Western Province",
+        "lat": -1.61112,
+        "lng": 29.49687,
+        "population": 19021
+    },
+    {
+        "id": 201841,
+        "name": "Mugina",
+        "region": "Southern Province",
+        "lat": -2.1057,
+        "lng": 29.9417,
+        "population": 18586
+    },
+    {
+        "id": 12718710,
+        "name": "Umutara",
+        "region": "Eastern Province",
+        "lat": -1.29547,
+        "lng": 30.32297,
+        "population": 18038
+    },
+    {
+        "id": 384104,
+        "name": "Rangiro",
+        "region": "Western Province",
+        "lat": -2.4045,
+        "lng": 29.1606,
+        "population": 17967
+    },
+    {
+        "id": 12718709,
+        "name": "Kamuhanda / Ruyenzi",
+        "region": "Southern Province",
+        "lat": -1.96571,
+        "lng": 29.98462,
+        "population": 16369
+    },
+    {
+        "id": 12718708,
+        "name": "Bugaragara",
+        "region": "Eastern Province",
+        "lat": -1.29289,
+        "lng": 30.40766,
+        "population": 15732
+    },
+    {
+        "id": 384320,
+        "name": "Mukingo",
+        "region": "Northern Province",
+        "lat": -1.5394,
+        "lng": 29.5558,
+        "population": 15695
+    },
+    {
+        "id": 384266,
+        "name": "Kora",
+        "region": "Western Province",
+        "lat": -1.6101,
+        "lng": 29.445,
+        "population": 15134
+    }
+]

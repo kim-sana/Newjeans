@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1821274,
+        "name": "Macau",
+        "region": null,
+        "lat": 22.20056,
+        "lng": 113.54611,
+        "population": 649335
+    },
+    {
+        "id": 1821263,
+        "name": "Taipa",
+        "region": "Our Lady of Carmo",
+        "lat": 22.15583,
+        "lng": 113.55694,
+        "population": 112051
+    },
+    {
+        "id": 13527317,
+        "name": "Sé",
+        "region": null,
+        "lat": 22.19089,
+        "lng": 113.54733,
+        "population": 52200
+    },
+    {
+        "id": 1821292,
+        "name": "Luhuan",
+        "region": "Saint Francis Xavier",
+        "lat": 22.11806,
+        "lng": 113.55194,
+        "population": 36384
+    },
+    {
+        "id": 1821294,
+        "name": "Zhuojiacun",
+        "region": "Our Lady of Carmo",
+        "lat": 22.16139,
+        "lng": 113.55639,
+        "population": 24000
+    },
+    {
+        "id": 1821279,
+        "name": "Lai Chi Van",
+        "region": "Saint Francis Xavier",
+        "lat": 22.11972,
+        "lng": 113.55111,
+        "population": 22125
+    }
+]

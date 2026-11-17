@@ -1,0 +1,210 @@
+[
+    {
+        "id": 2377450,
+        "name": "Nouakchott",
+        "region": null,
+        "lat": 18.08581,
+        "lng": -15.9785,
+        "population": 1184530
+    },
+    {
+        "id": 2377457,
+        "name": "Nouadhibou",
+        "region": "Dakhlet Nouadhibou",
+        "lat": 20.94188,
+        "lng": -17.03842,
+        "population": 146048
+    },
+    {
+        "id": 2378538,
+        "name": "Kiffa",
+        "region": "Assaba",
+        "lat": 16.62073,
+        "lng": -11.40208,
+        "population": 62051
+    },
+    {
+        "id": 11496397,
+        "name": "Dar Naim",
+        "region": "Nouakchott North",
+        "lat": 18.10808,
+        "lng": -15.92666,
+        "population": 61089
+    },
+    {
+        "id": 2377539,
+        "name": "Néma",
+        "region": "Hodh Ech Chargi",
+        "lat": 16.61702,
+        "lng": -7.25649,
+        "population": 60000
+    },
+    {
+        "id": 12718654,
+        "name": "Mbera",
+        "region": "Hodh Ech Chargi",
+        "lat": 15.85615,
+        "lng": -5.79067,
+        "population": 58985
+    },
+    {
+        "id": 2595352,
+        "name": "Ksar",
+        "region": "Nouakchott West",
+        "lat": 18.0995,
+        "lng": -15.9574,
+        "population": 57758
+    },
+    {
+        "id": 2378736,
+        "name": "Kaédi",
+        "region": "Gorgol",
+        "lat": 16.15071,
+        "lng": -13.50582,
+        "population": 56283
+    },
+    {
+        "id": 2375558,
+        "name": "Zouérat",
+        "region": "Tiris Zemmour",
+        "lat": 22.73542,
+        "lng": -12.47134,
+        "population": 55183
+    },
+    {
+        "id": 11009418,
+        "name": "Tevragh Zeina",
+        "region": "Nouakchott West",
+        "lat": 18.09894,
+        "lng": -15.98848,
+        "population": 48093
+    },
+    {
+        "id": 2380817,
+        "name": "Bougadoum",
+        "region": "Hodh Ech Chargi",
+        "lat": 15.86702,
+        "lng": -7.36924,
+        "population": 40341
+    },
+    {
+        "id": 2376719,
+        "name": "Sélibaby",
+        "region": "Guidimaka",
+        "lat": 15.15846,
+        "lng": -12.1843,
+        "population": 32653
+    },
+    {
+        "id": 2381334,
+        "name": "Atar",
+        "region": "Adrar",
+        "lat": 20.51875,
+        "lng": -13.04637,
+        "population": 31133
+    },
+    {
+        "id": 2381291,
+        "name": "Ayoun El Atrous",
+        "region": "Hodh El Gharbi",
+        "lat": 16.6614,
+        "lng": -9.6149,
+        "population": 28174
+    },
+    {
+        "id": 12718653,
+        "name": "Guerou",
+        "region": "Assaba",
+        "lat": 17.07754,
+        "lng": -12.03869,
+        "population": 27590
+    },
+    {
+        "id": 2380670,
+        "name": "Boutilimitt",
+        "region": "Trarza",
+        "lat": 17.54584,
+        "lng": -14.69777,
+        "population": 27170
+    },
+    {
+        "id": 2380066,
+        "name": "El ’Ayoûn",
+        "region": "Assaba",
+        "lat": 15.55791,
+        "lng": -11.18004,
+        "population": 22896
+    },
+    {
+        "id": 2376189,
+        "name": "Tékane",
+        "region": "Trarza",
+        "lat": 16.60175,
+        "lng": -15.34866,
+        "population": 22041
+    },
+    {
+        "id": 2380954,
+        "name": "Bogué",
+        "region": "Brakna",
+        "lat": 16.59153,
+        "lng": -14.26309,
+        "population": 20291
+    },
+    {
+        "id": 2381659,
+        "name": "Aleg",
+        "region": "Brakna",
+        "lat": 17.05314,
+        "lng": -13.91312,
+        "population": 19183
+    },
+    {
+        "id": 2376115,
+        "name": "Tembedgha",
+        "region": "Hodh Ech Chargi",
+        "lat": 16.24137,
+        "lng": -8.17321,
+        "population": 17465
+    },
+    {
+        "id": 2376898,
+        "name": "Rosso",
+        "region": "Trarza",
+        "lat": 16.51378,
+        "lng": -15.80503,
+        "population": 15870
+    },
+    {
+        "id": 2381690,
+        "name": "Akjoujt",
+        "region": "Inchiri",
+        "lat": 19.74163,
+        "lng": -14.38534,
+        "population": 15851
+    },
+    {
+        "id": 6911696,
+        "name": "Ṭinṭâne",
+        "region": "Hodh El Gharbi",
+        "lat": 16.3946,
+        "lng": -10.1737,
+        "population": 15684
+    },
+    {
+        "id": 2376976,
+        "name": "Elghabra",
+        "region": "Assaba",
+        "lat": 16.64713,
+        "lng": -12.67113,
+        "population": 15480
+    },
+    {
+        "id": 2378160,
+        "name": "Magṭa‘ Laḥjar",
+        "region": "Brakna",
+        "lat": 17.506,
+        "lng": -13.0927,
+        "population": 15446
+    }
+]

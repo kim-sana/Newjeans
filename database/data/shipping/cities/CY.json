@@ -1,0 +1,122 @@
+[
+    {
+        "id": 146268,
+        "name": "Nicosia",
+        "region": "Nicosia",
+        "lat": 35.17284,
+        "lng": 33.35397,
+        "population": 200452
+    },
+    {
+        "id": 146384,
+        "name": "Limassol",
+        "region": "Limassol",
+        "lat": 34.68406,
+        "lng": 33.03794,
+        "population": 154000
+    },
+    {
+        "id": 146400,
+        "name": "Larnaca",
+        "region": "Larnaka",
+        "lat": 34.9221,
+        "lng": 33.62794,
+        "population": 72000
+    },
+    {
+        "id": 146054,
+        "name": "Stróvolos",
+        "region": "Nicosia",
+        "lat": 35.14867,
+        "lng": 33.33384,
+        "population": 67904
+    },
+    {
+        "id": 146617,
+        "name": "Famagusta",
+        "region": "Ammochostos",
+        "lat": 35.12489,
+        "lng": 33.94135,
+        "population": 42526
+    },
+    {
+        "id": 146523,
+        "name": "Káto Lakatámeia",
+        "region": "Nicosia",
+        "lat": 35.11755,
+        "lng": 33.32539,
+        "population": 40000
+    },
+    {
+        "id": 146214,
+        "name": "Paphos",
+        "region": "Pafos",
+        "lat": 34.77679,
+        "lng": 32.42451,
+        "population": 35961
+    },
+    {
+        "id": 146412,
+        "name": "Kyrenia",
+        "region": "Keryneia",
+        "lat": 35.33634,
+        "lng": 33.31729,
+        "population": 26701
+    },
+    {
+        "id": 146286,
+        "name": "Mórfou",
+        "region": "Nicosia",
+        "lat": 35.19869,
+        "lng": 32.99338,
+        "population": 24070
+    },
+    {
+        "id": 146516,
+        "name": "Káto Polemídia",
+        "region": "Limassol",
+        "lat": 34.69721,
+        "lng": 32.99324,
+        "population": 23231
+    },
+    {
+        "id": 146796,
+        "name": "Aradíppou",
+        "region": "Larnaka",
+        "lat": 34.94779,
+        "lng": 33.58813,
+        "population": 22934
+    },
+    {
+        "id": 146619,
+        "name": "Aglantziá",
+        "region": "Nicosia",
+        "lat": 35.15422,
+        "lng": 33.39643,
+        "population": 21543
+    },
+    {
+        "id": 146638,
+        "name": "Égkomi",
+        "region": "Ammochostos",
+        "lat": 35.16272,
+        "lng": 33.88322,
+        "population": 20502
+    },
+    {
+        "id": 18918,
+        "name": "Protaras",
+        "region": "Ammochostos",
+        "lat": 35.0125,
+        "lng": 34.05833,
+        "population": 20230
+    },
+    {
+        "id": 145963,
+        "name": "Germasógeia",
+        "region": "Limassol",
+        "lat": 34.72073,
+        "lng": 33.08447,
+        "population": 17325
+    }
+]

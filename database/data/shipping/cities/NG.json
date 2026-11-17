@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 2332459,
+        "name": "Lagos",
+        "region": "Lagos",
+        "lat": 6.45407,
+        "lng": 3.39467,
+        "population": 15388000
+    },
+    {
+        "id": 2335204,
+        "name": "Kano",
+        "region": "Kano State",
+        "lat": 12.00012,
+        "lng": 8.51672,
+        "population": 4910000
+    },
+    {
+        "id": 2339354,
+        "name": "Ibadan",
+        "region": "Oyo State",
+        "lat": 7.37756,
+        "lng": 3.90591,
+        "population": 3649000
+    },
+    {
+        "id": 2352778,
+        "name": "Abuja",
+        "region": "FCT",
+        "lat": 9.05785,
+        "lng": 7.49508,
+        "population": 2690000
+    },
+    {
+        "id": 2324774,
+        "name": "Port Harcourt",
+        "region": "Rivers State",
+        "lat": 4.77742,
+        "lng": 7.0134,
+        "population": 2120000
+    },
+    {
+        "id": 2335727,
+        "name": "Kaduna",
+        "region": "Kaduna State",
+        "lat": 10.52641,
+        "lng": 7.43879,
+        "population": 1850000
+    },
+    {
+        "id": 2347283,
+        "name": "Benin City",
+        "region": "Edo State",
+        "lat": 6.33815,
+        "lng": 5.62575,
+        "population": 1782000
+    },
+    {
+        "id": 2326016,
+        "name": "Onitsha",
+        "region": "Anambra",
+        "lat": 6.14978,
+        "lng": 6.78569,
+        "population": 1553000
+    },
+    {
+        "id": 2353151,
+        "name": "Aba",
+        "region": "Abia State",
+        "lat": 5.10658,
+        "lng": 7.36667,
+        "population": 1160000
+    },
+    {
+        "id": 2331447,
+        "name": "Maiduguri",
+        "region": "Borno State",
+        "lat": 11.84692,
+        "lng": 13.15712,
+        "population": 1110000
+    },
+    {
+        "id": 2337639,
+        "name": "Ilorin",
+        "region": "Kwara State",
+        "lat": 8.49664,
+        "lng": 4.54214,
+        "population": 1080000
+    },
+    {
+        "id": 2335953,
+        "name": "Jos",
+        "region": "Plateau State",
+        "lat": 9.92849,
+        "lng": 8.89212,
+        "population": 1040000
+    },
+    {
+        "id": 2322911,
+        "name": "Sokoto",
+        "region": "Sokoto",
+        "lat": 13.06269,
+        "lng": 5.24322,
+        "population": 1040000
+    },
+    {
+        "id": 2317765,
+        "name": "Zaria",
+        "region": "Kaduna State",
+        "lat": 11.11128,
+        "lng": 7.7227,
+        "population": 980000
+    },
+    {
+        "id": 2343279,
+        "name": "Enugu",
+        "region": "Enugu State",
+        "lat": 6.44132,
+        "lng": 7.49883,
+        "population": 950000
+    },
+    {
+        "id": 2319133,
+        "name": "Warri",
+        "region": "Delta",
+        "lat": 5.51737,
+        "lng": 5.75006,
+        "population": 910000
+    },
+    {
+        "id": 2325200,
+        "name": "Oyo",
+        "region": "Oyo State",
+        "lat": 7.85367,
+        "lng": 3.93235,
+        "population": 736072
+    },
+    {
+        "id": 2352947,
+        "name": "Abeokuta",
+        "region": "Ogun State",
+        "lat": 7.15571,
+        "lng": 3.34509,
+        "population": 735000
+    },
+    {
+        "id": 2350841,
+        "name": "Akure",
+        "region": "Ondo State",
+        "lat": 7.25256,
+        "lng": 5.19312,
+        "population": 730000
+    },
+    {
+        "id": 2347470,
+        "name": "Bauchi",
+        "region": "Bauchi",
+        "lat": 10.31032,
+        "lng": 9.84388,
+        "population": 693700
+    },
+    {
+        "id": 2351943,
+        "name": "Agege",
+        "region": "Lagos",
+        "lat": 6.61563,
+        "lng": 3.33337,
+        "population": 683600
+    },
+    {
+        "id": 2334802,
+        "name": "Katsina",
+        "region": "Katsina State",
+        "lat": 12.99082,
+        "lng": 7.60177,
+        "population": 670000
+    },
+    {
+        "id": 2325590,
+        "name": "Osogbo",
+        "region": "Osun State",
+        "lat": 7.77104,
+        "lng": 4.55698,
+        "population": 645000
+    },
+    {
+        "id": 2340451,
+        "name": "Gombe",
+        "region": "Gombe State",
+        "lat": 10.28969,
+        "lng": 11.16729,
+        "population": 560000
+    },
+    {
+        "id": 2338900,
+        "name": "Ile-Ife",
+        "region": "Osun State",
+        "lat": 7.4824,
+        "lng": 4.56032,
+        "population": 560000
+    },
+    {
+        "id": 2566636,
+        "name": "Ajegunle",
+        "region": "Lagos",
+        "lat": 6.45197,
+        "lng": 3.33115,
+        "population": 550000
+    },
+    {
+        "id": 10276592,
+        "name": "Ogbia",
+        "region": "Bayelsa State",
+        "lat": 4.68836,
+        "lng": 6.31525,
+        "population": 549774
+    },
+    {
+        "id": 2325330,
+        "name": "Owerri",
+        "region": "Imo State",
+        "lat": 5.48363,
+        "lng": 7.03325,
+        "population": 545000
+    },
+    {
+        "id": 2346229,
+        "name": "Calabar",
+        "region": "Cross River State",
+        "lat": 4.95893,
+        "lng": 8.32695,
+        "population": 540000
+    },
+    {
+        "id": 2344082,
+        "name": "Ebute Ikorodu",
+        "region": "Lagos",
+        "lat": 6.60086,
+        "lng": 3.48818,
+        "population": 535619
+    },
+    {
+        "id": 2327220,
+        "name": "Okene",
+        "region": "Kogi State",
+        "lat": 7.55122,
+        "lng": 6.23589,
+        "population": 479178
+    },
+    {
+        "id": 2338325,
+        "name": "Ikare",
+        "region": "Ondo State",
+        "lat": 7.52591,
+        "lng": 5.75342,
+        "population": 465000
+    },
+    {
+        "id": 2318044,
+        "name": "Yola",
+        "region": "Adamawa",
+        "lat": 9.20839,
+        "lng": 12.48146,
+        "population": 460000
+    },
+    {
+        "id": 2319480,
+        "name": "Uyo",
+        "region": "Akwa Ibom State",
+        "lat": 5.05127,
+        "lng": 7.9335,
+        "population": 436606
+    },
+    {
+        "id": 2352379,
+        "name": "Ado-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.62329,
+        "lng": 5.22087,
+        "population": 435000
+    },
+    {
+        "id": 2327735,
+        "name": "Ogbomoso",
+        "region": "Oyo State",
+        "lat": 8.13373,
+        "lng": 4.24014,
+        "population": 433030
+    },
+    {
+        "id": 2330100,
+        "name": "Minna",
+        "region": "Niger State",
+        "lat": 9.61524,
+        "lng": 6.54776,
+        "population": 425000
+    },
+    {
+        "id": 7732748,
+        "name": "Lekki",
+        "region": "Lagos",
+        "lat": 6.44632,
+        "lng": 3.47717,
+        "population": 401272
+    },
+    {
+        "id": 2347209,
+        "name": "Bida",
+        "region": "Niger State",
+        "lat": 9.08044,
+        "lng": 6.0099,
+        "population": 400000
+    },
+    {
+        "id": 2331140,
+        "name": "Makurdi",
+        "region": "Benue State",
+        "lat": 7.73375,
+        "lng": 8.52139,
+        "population": 390000
+    },
+    {
+        "id": 2326171,
+        "name": "Ondo",
+        "region": "Ondo State",
+        "lat": 7.09316,
+        "lng": 4.83528,
+        "population": 375000
+    },
+    {
+        "id": 2320576,
+        "name": "Umuahia",
+        "region": "Abia State",
+        "lat": 5.52491,
+        "lng": 7.49461,
+        "population": 370000
+    },
+    {
+        "id": 2337181,
+        "name": "Iseyin",
+        "region": "Oyo State",
+        "lat": 7.97022,
+        "lng": 3.59626,
+        "population": 365300
+    },
+    {
+        "id": 2341374,
+        "name": "Gboko",
+        "region": "Benue State",
+        "lat": 7.32275,
+        "lng": 9.00108,
+        "population": 365000
+    },
+    {
+        "id": 2318123,
+        "name": "Yenagoa",
+        "region": "Bayelsa State",
+        "lat": 4.92675,
+        "lng": 6.26764,
+        "population": 365000
+    },
+    {
+        "id": 2338400,
+        "name": "Ijebu Ode",
+        "region": "Ogun State",
+        "lat": 6.81944,
+        "lng": 3.91731,
+        "population": 360000
+    },
+    {
+        "id": 2566633,
+        "name": "Obalende",
+        "region": "Lagos",
+        "lat": 6.44694,
+        "lng": 3.41528,
+        "population": 342000
+    },
+    {
+        "id": 2337704,
+        "name": "Ilesa",
+        "region": "Osun State",
+        "lat": 7.62789,
+        "lng": 4.74161,
+        "population": 325000
+    },
+    {
+        "id": 2338313,
+        "name": "Ikeja",
+        "region": "Lagos",
+        "lat": 6.59651,
+        "lng": 3.34205,
+        "population": 313196
+    },
+    {
+        "id": 2566696,
+        "name": "Akowonjo",
+        "region": "Lagos",
+        "lat": 6.61012,
+        "lng": 3.30968,
+        "population": 308900
+    },
+    {
+        "id": 2566676,
+        "name": "Alimosho",
+        "region": "Lagos",
+        "lat": 6.60656,
+        "lng": 3.30235,
+        "population": 308290
+    },
+    {
+        "id": 2323675,
+        "name": "Sapele",
+        "region": "Delta",
+        "lat": 5.89405,
+        "lng": 5.67666,
+        "population": 305000
+    },
+    {
+        "id": 2343983,
+        "name": "Efon-Alaaye",
+        "region": "Ekiti State",
+        "lat": 7.65649,
+        "lng": 4.92235,
+        "population": 279319
+    },
+    {
+        "id": 2325314,
+        "name": "Owo",
+        "region": "Ondo State",
+        "lat": 7.1962,
+        "lng": 5.58681,
+        "population": 276574
+    },
+    {
+        "id": 2338106,
+        "name": "Ikot Ekpene",
+        "region": "Akwa Ibom State",
+        "lat": 5.18194,
+        "lng": 7.71481,
+        "population": 254806
+    },
+    {
+        "id": 2325457,
+        "name": "Ota",
+        "region": "Ogun State",
+        "lat": 6.68867,
+        "lng": 3.23202,
+        "population": 251546
+    },
+    {
+        "id": 2336905,
+        "name": "Iwo",
+        "region": "Osun State",
+        "lat": 7.63527,
+        "lng": 4.18156,
+        "population": 250443
+    },
+    {
+        "id": 2336056,
+        "name": "Jimeta",
+        "region": "Adamawa",
+        "lat": 9.27949,
+        "lng": 12.45819,
+        "population": 248148
+    },
+    {
+        "id": 2349019,
+        "name": "Atani",
+        "region": "Anambra",
+        "lat": 6.01277,
+        "lng": 6.74768,
+        "population": 230000
+    },
+    {
+        "id": 2350434,
+        "name": "Aliayabiagba",
+        "region": "Lagos",
+        "lat": 6.45,
+        "lng": 3.33333,
+        "population": 228000
+    },
+    {
+        "id": 2339937,
+        "name": "Gusau",
+        "region": "Zamfara State",
+        "lat": 12.17024,
+        "lng": 6.66412,
+        "population": 226857
+    },
+    {
+        "id": 2329821,
+        "name": "Mubi",
+        "region": "Adamawa",
+        "lat": 10.26858,
+        "lng": 13.26701,
+        "population": 225705
+    },
+    {
+        "id": 2338273,
+        "name": "Ikire",
+        "region": "Osun State",
+        "lat": 7.36983,
+        "lng": 4.1863,
+        "population": 222160
+    },
+    {
+        "id": 2323411,
+        "name": "Shagamu",
+        "region": "Ogun State",
+        "lat": 6.8485,
+        "lng": 3.64633,
+        "population": 214558
+    },
+    {
+        "id": 2320831,
+        "name": "Ugep",
+        "region": "Cross River State",
+        "lat": 5.80865,
+        "lng": 8.08098,
+        "population": 200276
+    },
+    {
+        "id": 12129605,
+        "name": "Chakwama",
+        "region": "Jigawa State",
+        "lat": 11.55965,
+        "lng": 9.66407,
+        "population": 200000
+    },
+    {
+        "id": 2329660,
+        "name": "Mushin",
+        "region": "Lagos",
+        "lat": 6.52799,
+        "lng": 3.35411,
+        "population": 199000
+    },
+    {
+        "id": 2328765,
+        "name": "Nnewi",
+        "region": "Anambra",
+        "lat": 6.01962,
+        "lng": 6.91729,
+        "population": 193987
+    },
+    {
+        "id": 2322733,
+        "name": "Surulere",
+        "region": "Lagos",
+        "lat": 6.50153,
+        "lng": 3.35808,
+        "population": 191920
+    },
+    {
+        "id": 2337207,
+        "name": "Ise-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.46478,
+        "lng": 5.42333,
+        "population": 190063
+    },
+    {
+        "id": 2337765,
+        "name": "Ila Orangun",
+        "region": "Osun State",
+        "lat": 8.01714,
+        "lng": 4.90421,
+        "population": 179192
+    },
+    {
+        "id": 2323390,
+        "name": "Saki",
+        "region": "Oyo State",
+        "lat": 8.66762,
+        "lng": 3.39393,
+        "population": 178677
+    },
+    {
+        "id": 2325592,
+        "name": "Oshodi",
+        "region": "Lagos",
+        "lat": 6.55504,
+        "lng": 3.34363,
+        "population": 170870
+    },
+    {
+        "id": 2348773,
+        "name": "Awka",
+        "region": "Anambra",
+        "lat": 6.21269,
+        "lng": 7.07199,
+        "population": 167738
+    },
+    {
+        "id": 2338385,
+        "name": "Ijero-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.81514,
+        "lng": 5.06716,
+        "population": 167632
+    },
+    {
+        "id": 2337490,
+        "name": "Inisa",
+        "region": "Osun State",
+        "lat": 7.84855,
+        "lng": 4.32981,
+        "population": 164161
+    },
+    {
+        "id": 2322794,
+        "name": "Suleja",
+        "region": "Niger State",
+        "lat": 9.18059,
+        "lng": 7.17939,
+        "population": 162135
+    },
+    {
+        "id": 2344053,
+        "name": "Ede",
+        "region": "Osun State",
+        "lat": 7.73635,
+        "lng": 4.43536,
+        "population": 159866
+    },
+    {
+        "id": 2334327,
+        "name": "Kisi",
+        "region": "Oyo State",
+        "lat": 9.08297,
+        "lng": 3.85196,
+        "population": 155510
+    },
+    {
+        "id": 2323090,
+        "name": "Shomolu",
+        "region": "Lagos",
+        "lat": 6.53891,
+        "lng": 3.3742,
+        "population": 154390
+    },
+    {
+        "id": 2337313,
+        "name": "Irewe",
+        "region": "Lagos",
+        "lat": 6.41692,
+        "lng": 3.14058,
+        "population": 139494
+    },
+    {
+        "id": 2341355,
+        "name": "Gbongan",
+        "region": "Osun State",
+        "lat": 7.47734,
+        "lng": 4.35351,
+        "population": 139485
+    },
+    {
+        "id": 2343784,
+        "name": "Ejigbo",
+        "region": "Osun State",
+        "lat": 7.90303,
+        "lng": 4.31364,
+        "population": 138357
+    },
+    {
+        "id": 2342490,
+        "name": "Funtua",
+        "region": "Katsina State",
+        "lat": 11.52351,
+        "lng": 7.31174,
+        "population": 136811
+    },
+    {
+        "id": 2338711,
+        "name": "Igboho",
+        "region": "Oyo State",
+        "lat": 8.83784,
+        "lng": 3.75628,
+        "population": 136764
+    },
+    {
+        "id": 2346615,
+        "name": "Buguma",
+        "region": "Rivers State",
+        "lat": 4.73614,
+        "lng": 6.86236,
+        "population": 135404
+    },
+    {
+        "id": 2338269,
+        "name": "Ikirun",
+        "region": "Osun State",
+        "lat": 7.91283,
+        "lng": 4.66741,
+        "population": 134240
+    },
+    {
+        "id": 2353099,
+        "name": "Abakaliki",
+        "region": "Ebonyi State",
+        "lat": 6.32485,
+        "lng": 8.11368,
+        "population": 134102
+    },
+    {
+        "id": 2326899,
+        "name": "Okrika",
+        "region": "Rivers State",
+        "lat": 4.74215,
+        "lng": 7.08368,
+        "population": 133271
+    },
+    {
+        "id": 2350249,
+        "name": "Amaigbo",
+        "region": "Abia State",
+        "lat": 5.78917,
+        "lng": 7.83829,
+        "population": 127300
+    },
+    {
+        "id": 2332515,
+        "name": "Lafia",
+        "region": "Nasarawa State",
+        "lat": 8.4939,
+        "lng": 8.51532,
+        "population": 127236
+    },
+    {
+        "id": 2341656,
+        "name": "Gashua",
+        "region": "Yobe State",
+        "lat": 12.87398,
+        "lng": 11.04057,
+        "population": 125817
+    },
+    {
+        "id": 2330028,
+        "name": "Modakeke",
+        "region": "Osun State",
+        "lat": 7.38299,
+        "lng": 4.26031,
+        "population": 119529
+    },
+    {
+        "id": 2347954,
+        "name": "Bama",
+        "region": "Borno State",
+        "lat": 11.52134,
+        "lng": 13.68952,
+        "population": 118121
+    },
+    {
+        "id": 2337659,
+        "name": "Ilobu",
+        "region": "Osun State",
+        "lat": 7.83879,
+        "lng": 4.48672,
+        "population": 118089
+    },
+    {
+        "id": 2336589,
+        "name": "Jalingo",
+        "region": "Taraba State",
+        "lat": 8.89367,
+        "lng": 11.3596,
+        "population": 117757
+    },
+    {
+        "id": 2327143,
+        "name": "Okigwe",
+        "region": "Imo State",
+        "lat": 5.82917,
+        "lng": 7.35056,
+        "population": 115499
+    },
+    {
+        "id": 2327879,
+        "name": "Offa",
+        "region": "Kwara State",
+        "lat": 8.14911,
+        "lng": 4.72074,
+        "population": 113830
+    },
+    {
+        "id": 2343093,
+        "name": "Esuk Oron",
+        "region": "Akwa Ibom State",
+        "lat": 4.80293,
+        "lng": 8.25341,
+        "population": 112033
+    },
+    {
+        "id": 2328684,
+        "name": "Nsukka",
+        "region": "Enugu State",
+        "lat": 6.85783,
+        "lng": 7.39577,
+        "population": 111017
+    },
+    {
+        "id": 2328952,
+        "name": "Nguru",
+        "region": "Yobe State",
+        "lat": 12.87695,
+        "lng": 10.45536,
+        "population": 111014
+    },
+    {
+        "id": 2339631,
+        "name": "Hadejia",
+        "region": "Jigawa State",
+        "lat": 12.45347,
+        "lng": 10.04115,
+        "population": 110753
+    },
+    {
+        "id": 2338403,
+        "name": "Ijebu-Igbo",
+        "region": "Ogun State",
+        "lat": 6.97198,
+        "lng": 3.99938,
+        "population": 109261
+    },
+    {
+        "id": 2319668,
+        "name": "Uromi",
+        "region": "Edo State",
+        "lat": 6.7,
+        "lng": 6.33333,
+        "population": 108608
+    },
+    {
+        "id": 2347059,
+        "name": "Birnin Kebbi",
+        "region": "Kebbi",
+        "lat": 12.45389,
+        "lng": 4.1975,
+        "population": 108164
+    },
+    {
+        "id": 2324857,
+        "name": "Pindiga",
+        "region": "Gombe State",
+        "lat": 9.98433,
+        "lng": 10.95229,
+        "population": 106322
+    },
+    {
+        "id": 2348595,
+        "name": "Azare",
+        "region": "Bauchi",
+        "lat": 11.67478,
+        "lng": 10.19069,
+        "population": 105687
+    },
+    {
+        "id": 2328811,
+        "name": "Nkpor",
+        "region": "Anambra",
+        "lat": 6.15038,
+        "lng": 6.83042,
+        "population": 103733
+    },
+    {
+        "id": 2338287,
+        "name": "Ikere-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.49748,
+        "lng": 5.23041,
+        "population": 103054
+    },
+    {
+        "id": 2332504,
+        "name": "Lafiagi",
+        "region": "Kwara State",
+        "lat": 8.85299,
+        "lng": 5.41641,
+        "population": 102779
+    },
+    {
+        "id": 2350523,
+        "name": "Alasia",
+        "region": "Lagos",
+        "lat": 6.47489,
+        "lng": 3.16914,
+        "population": 100000
+    },
+    {
+        "id": 2334008,
+        "name": "Kontagora",
+        "region": "Niger State",
+        "lat": 10.40319,
+        "lng": 5.4708,
+        "population": 98754
+    },
+    {
+        "id": 2333604,
+        "name": "Kuje",
+        "region": "FCT",
+        "lat": 8.87952,
+        "lng": 7.22756,
+        "population": 97367
+    },
+    {
+        "id": 2346995,
+        "name": "Biu",
+        "region": "Borno State",
+        "lat": 10.61285,
+        "lng": 12.19458,
+        "population": 95005
+    },
+    {
+        "id": 2326302,
+        "name": "Olupona",
+        "region": "Osun State",
+        "lat": 7.60039,
+        "lng": 4.19264,
+        "population": 95002
+    },
+    {
+        "id": 2332079,
+        "name": "Lere",
+        "region": "Kaduna State",
+        "lat": 10.38584,
+        "lng": 8.57286,
+        "population": 93290
+    },
+    {
+        "id": 2318921,
+        "name": "Wukari",
+        "region": "Taraba State",
+        "lat": 7.87139,
+        "lng": 9.77786,
+        "population": 92933
+    },
+    {
+        "id": 2338669,
+        "name": "Igbo-Ora",
+        "region": "Oyo State",
+        "lat": 7.43383,
+        "lng": 3.28788,
+        "population": 92719
+    },
+    {
+        "id": 2343299,
+        "name": "Emure-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.43636,
+        "lng": 5.45925,
+        "population": 90645
+    },
+    {
+        "id": 2337148,
+        "name": "Isieke",
+        "region": "Ebonyi State",
+        "lat": 6.38186,
+        "lng": 8.03736,
+        "population": 89990
+    },
+    {
+        "id": 2338876,
+        "name": "Ifo",
+        "region": "Ogun State",
+        "lat": 6.81491,
+        "lng": 3.19518,
+        "population": 88272
+    },
+    {
+        "id": 2338630,
+        "name": "Igede-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.6685,
+        "lng": 5.12627,
+        "population": 87282
+    },
+    {
+        "id": 2343985,
+        "name": "Effium",
+        "region": "Ebonyi State",
+        "lat": 6.63105,
+        "lng": 8.05814,
+        "population": 86945
+    },
+    {
+        "id": 2339150,
+        "name": "Idanre",
+        "region": "Ondo State",
+        "lat": 7.1127,
+        "lng": 5.1159,
+        "population": 86468
+    },
+    {
+        "id": 2324767,
+        "name": "Potiskum",
+        "region": "Yobe State",
+        "lat": 11.71391,
+        "lng": 11.08108,
+        "population": 86002
+    },
+    {
+        "id": 2334652,
+        "name": "Keffi",
+        "region": "Nasarawa State",
+        "lat": 8.84651,
+        "lng": 7.87354,
+        "population": 85911
+    },
+    {
+        "id": 2331158,
+        "name": "Makoko",
+        "region": "Lagos",
+        "lat": 6.49611,
+        "lng": 3.38778,
+        "population": 85840
+    },
+    {
+        "id": 2343252,
+        "name": "Epe",
+        "region": "Lagos",
+        "lat": 6.58412,
+        "lng": 3.98336,
+        "population": 84711
+    },
+    {
+        "id": 2342192,
+        "name": "Gamboru",
+        "region": "Borno State",
+        "lat": 12.37299,
+        "lng": 14.2069,
+        "population": 84672
+    },
+    {
+        "id": 2327827,
+        "name": "Ogaminana",
+        "region": "Kogi State",
+        "lat": 7.59383,
+        "lng": 6.21798,
+        "population": 84373
+    },
+    {
+        "id": 2338497,
+        "name": "Ihiala",
+        "region": "Anambra",
+        "lat": 5.85475,
+        "lng": 6.85944,
+        "population": 83265
+    },
+    {
+        "id": 2337352,
+        "name": "Ipoti",
+        "region": "Ekiti State",
+        "lat": 7.87377,
+        "lng": 5.07691,
+        "population": 82113
+    },
+    {
+        "id": 2332357,
+        "name": "Lalupon",
+        "region": "Oyo State",
+        "lat": 7.46791,
+        "lng": 4.06594,
+        "population": 81130
+    },
+    {
+        "id": 2320829,
+        "name": "Ughelli",
+        "region": "Delta",
+        "lat": 5.48956,
+        "lng": 6.00407,
+        "population": 79986
+    },
+    {
+        "id": 2347303,
+        "name": "Bende",
+        "region": "Abia State",
+        "lat": 5.55874,
+        "lng": 7.63359,
+        "population": 79618
+    },
+    {
+        "id": 2327223,
+        "name": "Oke Mesi",
+        "region": "Osun State",
+        "lat": 7.81667,
+        "lng": 4.91667,
+        "population": 79563
+    },
+    {
+        "id": 2335713,
+        "name": "Kafanchan",
+        "region": "Kaduna State",
+        "lat": 9.58126,
+        "lng": 8.2926,
+        "population": 79522
+    },
+    {
+        "id": 2338242,
+        "name": "Ikom",
+        "region": "Cross River State",
+        "lat": 5.96669,
+        "lng": 8.70632,
+        "population": 79103
+    },
+    {
+        "id": 2351740,
+        "name": "Agulu",
+        "region": "Anambra",
+        "lat": 6.10045,
+        "lng": 7.061,
+        "population": 79021
+    },
+    {
+        "id": 2345096,
+        "name": "Daura",
+        "region": "Yobe State",
+        "lat": 11.5541,
+        "lng": 11.406,
+        "population": 78277
+    },
+    {
+        "id": 2328617,
+        "name": "Numan",
+        "region": "Adamawa",
+        "lat": 9.46374,
+        "lng": 12.03062,
+        "population": 77617
+    },
+    {
+        "id": 2335614,
+        "name": "Kagoro",
+        "region": "Kaduna State",
+        "lat": 9.60776,
+        "lng": 8.39043,
+        "population": 77008
+    },
+    {
+        "id": 2328090,
+        "name": "Ode",
+        "region": "Ondo State",
+        "lat": 7.7899,
+        "lng": 5.7117,
+        "population": 75463
+    },
+    {
+        "id": 2338640,
+        "name": "Igbo-Ukwu",
+        "region": "Anambra",
+        "lat": 6.01798,
+        "lng": 7.02027,
+        "population": 75224
+    },
+    {
+        "id": 2349529,
+        "name": "Aramoko-Ekiti",
+        "region": "Ekiti State",
+        "lat": 7.70483,
+        "lng": 5.04054,
+        "population": 74491
+    },
+    {
+        "id": 2338810,
+        "name": "Igbara-Odo",
+        "region": "Ekiti State",
+        "lat": 7.50251,
+        "lng": 5.06258,
+        "population": 74121
+    },
+    {
+        "id": 2325161,
+        "name": "Ozubulu",
+        "region": "Anambra",
+        "lat": 5.95753,
+        "lng": 6.85305,
+        "population": 73812
+    },
+    {
+        "id": 2350886,
+        "name": "Aku",
+        "region": "Enugu State",
+        "lat": 6.70902,
+        "lng": 7.31826,
+        "population": 73742
+    },
+    {
+        "id": 2325249,
+        "name": "Oyan",
+        "region": "Osun State",
+        "lat": 8.05,
+        "lng": 4.76667,
+        "population": 73622
+    },
+    {
+        "id": 2336237,
+        "name": "Jega",
+        "region": "Kebbi",
+        "lat": 12.22336,
+        "lng": 4.37971,
+        "population": 73495
+    },
+    {
+        "id": 2349276,
+        "name": "Asaba",
+        "region": "Delta",
+        "lat": 6.19824,
+        "lng": 6.73187,
+        "population": 73374
+    },
+    {
+        "id": 2327494,
+        "name": "Ohafia-Ifigh",
+        "region": "Abia State",
+        "lat": 5.61455,
+        "lng": 7.81191,
+        "population": 73355
+    },
+    {
+        "id": 2352250,
+        "name": "Afikpo",
+        "region": "Ebonyi State",
+        "lat": 5.89258,
+        "lng": 7.93534,
+        "population": 71866
+    },
+    {
+        "id": 2349558,
+        "name": "Apomu",
+        "region": "Osun State",
+        "lat": 7.35156,
+        "lng": 4.18335,
+        "population": 71656
+    },
+    {
+        "id": 2342628,
+        "name": "Fiditi",
+        "region": "Oyo State",
+        "lat": 7.71393,
+        "lng": 3.91665,
+        "population": 71461
+    },
+    {
+        "id": 2325733,
+        "name": "Orita-Eruwa",
+        "region": "Oyo State",
+        "lat": 7.55632,
+        "lng": 3.44107,
+        "population": 71027
+    },
+    {
+        "id": 2343822,
+        "name": "Eha Amufu",
+        "region": "Enugu State",
+        "lat": 6.65915,
+        "lng": 7.75961,
+        "population": 70779
+    },
+    {
+        "id": 2331005,
+        "name": "Malumfashi",
+        "region": "Katsina State",
+        "lat": 11.78935,
+        "lng": 7.62061,
+        "population": 70709
+    },
+    {
+        "id": 2334756,
+        "name": "Kaura Namoda",
+        "region": "Zamfara State",
+        "lat": 12.59371,
+        "lng": 6.58648,
+        "population": 69725
+    },
+    {
+        "id": 2343270,
+        "name": "Enugu-Ukwu",
+        "region": "Anambra",
+        "lat": 6.17146,
+        "lng": 7.00525,
+        "population": 68785
+    },
+    {
+        "id": 2339156,
+        "name": "Idah",
+        "region": "Kogi State",
+        "lat": 7.11345,
+        "lng": 6.73866,
+        "population": 68703
+    },
+    {
+        "id": 2328185,
+        "name": "Obonoma",
+        "region": "Rivers State",
+        "lat": 4.71131,
+        "lng": 6.79084,
+        "population": 68584
+    },
+    {
+        "id": 2351979,
+        "name": "Agbor",
+        "region": "Delta",
+        "lat": 6.25375,
+        "lng": 6.1942,
+        "population": 67610
+    },
+    {
+        "id": 2342883,
+        "name": "Ezza-Ohu",
+        "region": "Ebonyi State",
+        "lat": 6.44094,
+        "lng": 8.08432,
+        "population": 67414
+    },
+    {
+        "id": 2320920,
+        "name": "Uga",
+        "region": "Anambra",
+        "lat": 5.93576,
+        "lng": 7.0793,
+        "population": 64179
+    },
+    {
+        "id": 2328790,
+        "name": "Nkwerre",
+        "region": "Imo State",
+        "lat": 5.75917,
+        "lng": 7.10384,
+        "population": 62973
+    },
+    {
+        "id": 2348892,
+        "name": "Auchi",
+        "region": "Edo State",
+        "lat": 7.06756,
+        "lng": 6.2636,
+        "population": 62907
+    },
+    {
+        "id": 2331939,
+        "name": "Lokoja",
+        "region": "Kogi State",
+        "lat": 7.79688,
+        "lng": 6.74048,
+        "population": 60579
+    },
+    {
+        "id": 2343641,
+        "name": "Ekpoma",
+        "region": "Edo State",
+        "lat": 6.743,
+        "lng": 6.14029,
+        "population": 59618
+    },
+    {
+        "id": 2338401,
+        "name": "Ijebu-Jesa",
+        "region": "Osun State",
+        "lat": 7.68287,
+        "lng": 4.81769,
+        "population": 51730
+    },
+    {
+        "id": 2335843,
+        "name": "Kabba",
+        "region": "Kogi State",
+        "lat": 7.82719,
+        "lng": 6.07502,
+        "population": 49869
+    },
+    {
+        "id": 2337759,
+        "name": "Ilaro",
+        "region": "Ogun State",
+        "lat": 6.88901,
+        "lng": 3.01416,
+        "population": 46999
+    },
+    {
+        "id": 2345521,
+        "name": "Damaturu",
+        "region": "Yobe State",
+        "lat": 11.74697,
+        "lng": 11.96083,
+        "population": 46000
+    },
+    {
+        "id": 2349431,
+        "name": "Argungu",
+        "region": "Kebbi",
+        "lat": 12.74482,
+        "lng": 4.52514,
+        "population": 45584
+    },
+    {
+        "id": 2340091,
+        "name": "Gumel",
+        "region": "Jigawa State",
+        "lat": 12.6269,
+        "lng": 9.38807,
+        "population": 42742
+    },
+    {
+        "id": 2341294,
+        "name": "Geidam",
+        "region": "Yobe State",
+        "lat": 12.89439,
+        "lng": 11.92649,
+        "population": 41367
+    },
+    {
+        "id": 2322529,
+        "name": "Talata Mafara",
+        "region": "Zamfara State",
+        "lat": 12.56841,
+        "lng": 6.06225,
+        "population": 39045
+    },
+    {
+        "id": 2340086,
+        "name": "Gummi",
+        "region": "Zamfara State",
+        "lat": 12.14484,
+        "lng": 5.11776,
+        "population": 38744
+    },
+    {
+        "id": 2325506,
+        "name": "Otan Ayegbaju",
+        "region": "Osun State",
+        "lat": 7.94783,
+        "lng": 4.78836,
+        "population": 37783
+    },
+    {
+        "id": 2327650,
+        "name": "Ogoja",
+        "region": "Cross River State",
+        "lat": 6.6584,
+        "lng": 8.79923,
+        "population": 37466
+    },
+    {
+        "id": 2334801,
+        "name": "Katsina-Ala",
+        "region": "Benue State",
+        "lat": 7.16938,
+        "lng": 9.28465,
+        "population": 36722
+    },
+    {
+        "id": 2338855,
+        "name": "Igangan",
+        "region": "Oyo State",
+        "lat": 7.6807,
+        "lng": 3.18413,
+        "population": 36447
+    },
+    {
+        "id": 2336985,
+        "name": "Itu",
+        "region": "Akwa Ibom State",
+        "lat": 5.20131,
+        "lng": 7.98373,
+        "population": 36358
+    },
+    {
+        "id": 2333451,
+        "name": "Kumo",
+        "region": "Gombe State",
+        "lat": 10.04807,
+        "lng": 11.21055,
+        "population": 35712
+    },
+    {
+        "id": 2327233,
+        "name": "Oke Ila",
+        "region": "Ekiti State",
+        "lat": 7.95,
+        "lng": 4.98333,
+        "population": 35000
+    },
+    {
+        "id": 2343144,
+        "name": "Eruwa",
+        "region": "Oyo State",
+        "lat": 7.53906,
+        "lng": 3.42453,
+        "population": 34802
+    },
+    {
+        "id": 2325060,
+        "name": "Pankshin",
+        "region": "Plateau State",
+        "lat": 9.32541,
+        "lng": 9.4352,
+        "population": 31516
+    },
+    {
+        "id": 2329451,
+        "name": "Nasarawa",
+        "region": "Nasarawa State",
+        "lat": 8.53895,
+        "lng": 7.70821,
+        "population": 30949
+    },
+    {
+        "id": 2335798,
+        "name": "Kachia",
+        "region": "Kaduna State",
+        "lat": 9.87342,
+        "lng": 7.95407,
+        "population": 30893
+    },
+    {
+        "id": 2344854,
+        "name": "Dikwa",
+        "region": "Borno State",
+        "lat": 12.03609,
+        "lng": 13.91815,
+        "population": 29026
+    },
+    {
+        "id": 2329920,
+        "name": "Moriki",
+        "region": "Zamfara State",
+        "lat": 12.87405,
+        "lng": 6.48754,
+        "population": 28735
+    },
+    {
+        "id": 2324960,
+        "name": "Patigi",
+        "region": "Kwara State",
+        "lat": 8.72851,
+        "lng": 5.75561,
+        "population": 28285
+    },
+    {
+        "id": 2319257,
+        "name": "Wamba",
+        "region": "Nasarawa State",
+        "lat": 8.94153,
+        "lng": 8.60315,
+        "population": 27137
+    },
+    {
+        "id": 2347592,
+        "name": "Baro",
+        "region": "Niger State",
+        "lat": 8.61565,
+        "lng": 6.4185,
+        "population": 26821
+    },
+    {
+        "id": 2326811,
+        "name": "Okuta",
+        "region": "Kwara State",
+        "lat": 9.21866,
+        "lng": 3.20117,
+        "population": 26589
+    },
+    {
+        "id": 2347057,
+        "name": "Birnin Kudu",
+        "region": "Jigawa State",
+        "lat": 11.45207,
+        "lng": 9.47856,
+        "population": 26565
+    },
+    {
+        "id": 2348395,
+        "name": "Badagry",
+        "region": "Lagos",
+        "lat": 6.41502,
+        "lng": 2.88132,
+        "population": 26383
+    },
+    {
+        "id": 2327513,
+        "name": "Ogwashi-Uku",
+        "region": "Delta",
+        "lat": 6.17811,
+        "lng": 6.52461,
+        "population": 26137
+    },
+    {
+        "id": 2343720,
+        "name": "Eket",
+        "region": "Akwa Ibom State",
+        "lat": 4.64231,
+        "lng": 7.92438,
+        "population": 25569
+    },
+    {
+        "id": 2335333,
+        "name": "Kamba",
+        "region": "Kebbi",
+        "lat": 11.85172,
+        "lng": 3.65478,
+        "population": 25568
+    },
+    {
+        "id": 2345094,
+        "name": "Daura",
+        "region": "Katsina State",
+        "lat": 13.03299,
+        "lng": 8.32351,
+        "population": 25289
+    },
+    {
+        "id": 2322552,
+        "name": "Takum",
+        "region": "Benue State",
+        "lat": 7.26667,
+        "lng": 9.98333,
+        "population": 24822
+    },
+    {
+        "id": 2338772,
+        "name": "Igbeti",
+        "region": "Oyo State",
+        "lat": 8.74921,
+        "lng": 4.13113,
+        "population": 24690
+    },
+    {
+        "id": 2317569,
+        "name": "Zungeru",
+        "region": "Niger State",
+        "lat": 9.80726,
+        "lng": 6.15238,
+        "population": 24447
+    },
+    {
+        "id": 2317548,
+        "name": "Zuru",
+        "region": "Kebbi",
+        "lat": 11.43522,
+        "lng": 5.23494,
+        "population": 24338
+    },
+    {
+        "id": 2322263,
+        "name": "Tegina",
+        "region": "Niger State",
+        "lat": 10.0706,
+        "lng": 6.1906,
+        "population": 24037
+    },
+    {
+        "id": 2348783,
+        "name": "Awgu",
+        "region": "Enugu State",
+        "lat": 6.07278,
+        "lng": 7.47739,
+        "population": 23175
+    },
+    {
+        "id": 2318933,
+        "name": "Wudil",
+        "region": "Kano State",
+        "lat": 11.80937,
+        "lng": 8.84422,
+        "population": 23066
+    },
+    {
+        "id": 2329562,
+        "name": "Nafada",
+        "region": "Gombe State",
+        "lat": 11.09596,
+        "lng": 11.33261,
+        "population": 22920
+    },
+    {
+        "id": 2339287,
+        "name": "Ibi",
+        "region": "Taraba State",
+        "lat": 8.18122,
+        "lng": 9.74431,
+        "population": 22757
+    },
+    {
+        "id": 2347061,
+        "name": "Sofo-Birnin-Gwari",
+        "region": "Kaduna State",
+        "lat": 11.01537,
+        "lng": 6.78036,
+        "population": 22380
+    },
+    {
+        "id": 2344229,
+        "name": "Dutsen Wai",
+        "region": "Kaduna State",
+        "lat": 10.85009,
+        "lng": 8.199,
+        "population": 22062
+    },
+    {
+        "id": 2335596,
+        "name": "Kaiama",
+        "region": "Kwara State",
+        "lat": 9.6053,
+        "lng": 3.94101,
+        "population": 21897
+    },
+    {
+        "id": 2321031,
+        "name": "Ubiaja",
+        "region": "Edo State",
+        "lat": 6.65581,
+        "lng": 6.38494,
+        "population": 21782
+    },
+    {
+        "id": 2325437,
+        "name": "Otukpa",
+        "region": "Benue State",
+        "lat": 7.10168,
+        "lng": 7.65945,
+        "population": 21686
+    },
+    {
+        "id": 2327521,
+        "name": "Oguta",
+        "region": "Imo State",
+        "lat": 5.71044,
+        "lng": 6.80936,
+        "population": 21639
+    },
+    {
+        "id": 2345498,
+        "name": "Damboa",
+        "region": "Borno State",
+        "lat": 11.15534,
+        "lng": 12.75638,
+        "population": 21571
+    },
+    {
+        "id": 2336251,
+        "name": "Jebba",
+        "region": "Kwara State",
+        "lat": 9.11972,
+        "lng": 4.8236,
+        "population": 21488
+    },
+    {
+        "id": 2341758,
+        "name": "Garko",
+        "region": "Gombe State",
+        "lat": 10.17506,
+        "lng": 11.16458,
+        "population": 21141
+    },
+    {
+        "id": 2329981,
+        "name": "Mokwa",
+        "region": "Niger State",
+        "lat": 9.29482,
+        "lng": 5.05412,
+        "population": 21128
+    },
+    {
+        "id": 2341580,
+        "name": "Gaya",
+        "region": "Kano State",
+        "lat": 11.86064,
+        "lng": 9.0027,
+        "population": 20959
+    },
+    {
+        "id": 2322495,
+        "name": "Tambuwal",
+        "region": "Sokoto",
+        "lat": 12.40592,
+        "lng": 4.64605,
+        "population": 20932
+    },
+    {
+        "id": 2343512,
+        "name": "Elele",
+        "region": "Rivers State",
+        "lat": 5.1009,
+        "lng": 6.81411,
+        "population": 20620
+    },
+    {
+        "id": 2329946,
+        "name": "Monguno",
+        "region": "Borno State",
+        "lat": 12.67059,
+        "lng": 13.61224,
+        "population": 20297
+    },
+    {
+        "id": 2332871,
+        "name": "Kwale",
+        "region": "Delta",
+        "lat": 5.70773,
+        "lng": 6.43402,
+        "population": 20226
+    },
+    {
+        "id": 2341275,
+        "name": "Gembu",
+        "region": "Taraba State",
+        "lat": 6.72556,
+        "lng": 11.25652,
+        "population": 19881
+    },
+    {
+        "id": 2328151,
+        "name": "Obudu",
+        "region": "Cross River State",
+        "lat": 6.66819,
+        "lng": 9.16453,
+        "population": 19668
+    },
+    {
+        "id": 2340446,
+        "name": "Gombi",
+        "region": "Adamawa",
+        "lat": 10.16756,
+        "lng": 12.73684,
+        "population": 19616
+    },
+    {
+        "id": 2331528,
+        "name": "Magumeri",
+        "region": "Borno State",
+        "lat": 12.11451,
+        "lng": 12.8262,
+        "population": 19363
+    },
+    {
+        "id": 2591159,
+        "name": "Degema Hulk",
+        "region": "Rivers State",
+        "lat": 4.76145,
+        "lng": 6.74957,
+        "population": 19223
+    },
+    {
+        "id": 2343273,
+        "name": "Enugu-Ezike",
+        "region": "Enugu State",
+        "lat": 6.9827,
+        "lng": 7.45534,
+        "population": 18989
+    },
+    {
+        "id": 2335015,
+        "name": "Kari",
+        "region": "Bauchi",
+        "lat": 11.2471,
+        "lng": 10.561,
+        "population": 18812
+    },
+    {
+        "id": 2345152,
+        "name": "Darazo",
+        "region": "Bauchi",
+        "lat": 10.9992,
+        "lng": 10.41062,
+        "population": 18415
+    },
+    {
+        "id": 2324575,
+        "name": "Rano",
+        "region": "Kano State",
+        "lat": 11.55684,
+        "lng": 8.58065,
+        "population": 17972
+    },
+    {
+        "id": 2334306,
+        "name": "Kiyawa",
+        "region": "Jigawa State",
+        "lat": 11.78442,
+        "lng": 9.6069,
+        "population": 17704
+    },
+    {
+        "id": 2345029,
+        "name": "Deba",
+        "region": "Gombe State",
+        "lat": 10.21187,
+        "lng": 11.3871,
+        "population": 17671
+    },
+    {
+        "id": 2338660,
+        "name": "Igbor",
+        "region": "Benue State",
+        "lat": 7.45123,
+        "lng": 8.60805,
+        "population": 17666
+    },
+    {
+        "id": 2348507,
+        "name": "Babana",
+        "region": "Niger State",
+        "lat": 10.42949,
+        "lng": 3.81495,
+        "population": 17617
+    },
+    {
+        "id": 2343943,
+        "name": "Egbe",
+        "region": "Kogi State",
+        "lat": 8.21896,
+        "lng": 5.50757,
+        "population": 17612
+    },
+    {
+        "id": 2339892,
+        "name": "Gwadabawa",
+        "region": "Sokoto",
+        "lat": 13.35819,
+        "lng": 5.23812,
+        "population": 17486
+    },
+    {
+        "id": 2347330,
+        "name": "Beli",
+        "region": "Taraba State",
+        "lat": 7.85868,
+        "lng": 10.97187,
+        "population": 17467
+    },
+    {
+        "id": 2337680,
+        "name": "Illela",
+        "region": "Sokoto",
+        "lat": 13.73064,
+        "lng": 5.29777,
+        "population": 17461
+    },
+    {
+        "id": 2336798,
+        "name": "Iyesi",
+        "region": "Ogun State",
+        "lat": 6.66056,
+        "lng": 3.1798,
+        "population": 17220
+    },
+    {
+        "id": 2344245,
+        "name": "Dutse",
+        "region": "Jigawa State",
+        "lat": 11.75618,
+        "lng": 9.33896,
+        "population": 17129
+    },
+    {
+        "id": 2344418,
+        "name": "Dukku",
+        "region": "Gombe State",
+        "lat": 10.82379,
+        "lng": 10.77221,
+        "population": 16961
+    },
+    {
+        "id": 2346812,
+        "name": "Bonny",
+        "region": "Rivers State",
+        "lat": 4.4516,
+        "lng": 7.17074,
+        "population": 16868
+    },
+    {
+        "id": 2346951,
+        "name": "Bode Saadu",
+        "region": "Kwara State",
+        "lat": 8.939,
+        "lng": 4.78227,
+        "population": 16619
+    },
+    {
+        "id": 2324504,
+        "name": "Rijau",
+        "region": "Niger State",
+        "lat": 11.10389,
+        "lng": 5.25556,
+        "population": 16613
+    },
+    {
+        "id": 2333490,
+        "name": "Kumagunnam",
+        "region": "Yobe State",
+        "lat": 13.15498,
+        "lng": 10.63468,
+        "population": 16557
+    },
+    {
+        "id": 2338371,
+        "name": "Ijoko",
+        "region": "Ogun State",
+        "lat": 6.74241,
+        "lng": 3.26217,
+        "population": 16529
+    },
+    {
+        "id": 2332249,
+        "name": "Lapai",
+        "region": "Niger State",
+        "lat": 9.04439,
+        "lng": 6.57089,
+        "population": 16442
+    },
+    {
+        "id": 2346317,
+        "name": "Burutu",
+        "region": "Delta",
+        "lat": 5.35328,
+        "lng": 5.50826,
+        "population": 16410
+    },
+    {
+        "id": 2339756,
+        "name": "Gwarzo",
+        "region": "Kano State",
+        "lat": 11.91597,
+        "lng": 7.9337,
+        "population": 16303
+    },
+    {
+        "id": 2333563,
+        "name": "Kukawa",
+        "region": "Borno State",
+        "lat": 12.92475,
+        "lng": 13.56617,
+        "population": 16077
+    },
+    {
+        "id": 2350806,
+        "name": "Akwanga",
+        "region": "Nasarawa State",
+        "lat": 8.91077,
+        "lng": 8.40655,
+        "population": 15985
+    },
+    {
+        "id": 2347155,
+        "name": "Biliri",
+        "region": "Gombe State",
+        "lat": 9.86709,
+        "lng": 11.22594,
+        "population": 15976
+    },
+    {
+        "id": 2338356,
+        "name": "River Atuwara",
+        "region": "Ogun State",
+        "lat": 6.68194,
+        "lng": 3.14306,
+        "population": 15937
+    },
+    {
+        "id": 2337379,
+        "name": "Iperu",
+        "region": "Ogun State",
+        "lat": 6.91002,
+        "lng": 3.66557,
+        "population": 15935
+    },
+    {
+        "id": 2339786,
+        "name": "Gwaram",
+        "region": "Jigawa State",
+        "lat": 11.27727,
+        "lng": 9.88385,
+        "population": 15806
+    },
+    {
+        "id": 2322957,
+        "name": "Soba",
+        "region": "Kaduna State",
+        "lat": 10.98133,
+        "lng": 8.05749,
+        "population": 15715
+    },
+    {
+        "id": 2330719,
+        "name": "Marte",
+        "region": "Borno State",
+        "lat": 12.36532,
+        "lng": 13.8293,
+        "population": 15707
+    },
+    {
+        "id": 2339293,
+        "name": "Ibeto",
+        "region": "Niger State",
+        "lat": 10.48536,
+        "lng": 5.14501,
+        "population": 15565
+    },
+    {
+        "id": 2346561,
+        "name": "Bukuru",
+        "region": "Plateau State",
+        "lat": 9.79399,
+        "lng": 8.86397,
+        "population": 15540
+    },
+    {
+        "id": 2349951,
+        "name": "Anchau",
+        "region": "Kaduna State",
+        "lat": 10.96245,
+        "lng": 8.39233,
+        "population": 15538
+    },
+    {
+        "id": 2352356,
+        "name": "Ado-Odo",
+        "region": "Ogun State",
+        "lat": 6.59546,
+        "lng": 2.94176,
+        "population": 15442
+    },
+    {
+        "id": 2341955,
+        "name": "Ganye",
+        "region": "Adamawa",
+        "lat": 8.43497,
+        "lng": 12.05107,
+        "population": 15178
+    },
+    {
+        "id": 2339665,
+        "name": "Gwoza",
+        "region": "Borno State",
+        "lat": 11.08313,
+        "lng": 13.69595,
+        "population": 15176
+    },
+    {
+        "id": 2351470,
+        "name": "Ajaokuta",
+        "region": "Kogi State",
+        "lat": 7.56229,
+        "lng": 6.65497,
+        "population": 15144
+    },
+    {
+        "id": 2344600,
+        "name": "Doma",
+        "region": "Nasarawa State",
+        "lat": 8.39307,
+        "lng": 8.35544,
+        "population": 15097
+    },
+    {
+        "id": 2337235,
+        "name": "Isanlu-Itedoijowa",
+        "region": "Kogi State",
+        "lat": 8.27338,
+        "lng": 5.83526,
+        "population": 15087
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 935264,
+        "name": "Saint-Denis",
+        "region": "Reunion",
+        "lat": -20.88231,
+        "lng": 55.4504,
+        "population": 154765
+    },
+    {
+        "id": 935221,
+        "name": "Saint-Paul",
+        "region": "Reunion",
+        "lat": -21.00961,
+        "lng": 55.27134,
+        "population": 105240
+    },
+    {
+        "id": 935214,
+        "name": "Saint-Pierre",
+        "region": "Reunion",
+        "lat": -21.3393,
+        "lng": 55.47811,
+        "population": 84077
+    },
+    {
+        "id": 935582,
+        "name": "Le Tampon",
+        "region": "Reunion",
+        "lat": -21.2766,
+        "lng": 55.51766,
+        "population": 81943
+    },
+    {
+        "id": 935268,
+        "name": "Saint-André",
+        "region": "Reunion",
+        "lat": -20.96333,
+        "lng": 55.65031,
+        "population": 57150
+    },
+    {
+        "id": 935223,
+        "name": "Saint-Louis",
+        "region": "Reunion",
+        "lat": -21.28585,
+        "lng": 55.41124,
+        "population": 53935
+    },
+    {
+        "id": 935227,
+        "name": "Saint-Joseph",
+        "region": "Reunion",
+        "lat": -21.3777,
+        "lng": 55.61691,
+        "population": 38807
+    },
+    {
+        "id": 935267,
+        "name": "Saint-Benoît",
+        "region": "Reunion",
+        "lat": -21.03795,
+        "lng": 55.71546,
+        "population": 37023
+    },
+    {
+        "id": 935691,
+        "name": "La Possession",
+        "region": "Reunion",
+        "lat": -20.92909,
+        "lng": 55.3348,
+        "population": 35245
+    },
+    {
+        "id": 935225,
+        "name": "Saint-Leu",
+        "region": "Reunion",
+        "lat": -21.17059,
+        "lng": 55.28824,
+        "population": 34893
+    },
+    {
+        "id": 935255,
+        "name": "Sainte-Marie",
+        "region": "Reunion",
+        "lat": -20.89686,
+        "lng": 55.55056,
+        "population": 34344
+    },
+    {
+        "id": 935616,
+        "name": "Le Port",
+        "region": "Reunion",
+        "lat": -20.93752,
+        "lng": 55.29415,
+        "population": 33336
+    },
+    {
+        "id": 7932385,
+        "name": "Piton Saint-Leu",
+        "region": "Reunion",
+        "lat": -21.21962,
+        "lng": 55.31513,
+        "population": 29278
+    },
+    {
+        "id": 935248,
+        "name": "Sainte-Suzanne",
+        "region": "Reunion",
+        "lat": -20.90616,
+        "lng": 55.60788,
+        "population": 24293
+    }
+]

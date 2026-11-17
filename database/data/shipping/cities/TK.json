@@ -1,0 +1,26 @@
+[
+    {
+        "id": 7522181,
+        "name": "Nukunonu",
+        "region": "Nukunonu",
+        "lat": -9.20045,
+        "lng": -171.84804,
+        "population": 531
+    },
+    {
+        "id": 7522183,
+        "name": "Atafu Village",
+        "region": "Atafu",
+        "lat": -8.54212,
+        "lng": -172.51591,
+        "population": 524
+    },
+    {
+        "id": 4031110,
+        "name": "Fale old settlement",
+        "region": "Fakaofo",
+        "lat": -9.38516,
+        "lng": -171.24675,
+        "population": 120
+    }
+]

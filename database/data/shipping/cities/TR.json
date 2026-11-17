@@ -1,0 +1,3498 @@
+[
+    {
+        "id": 745044,
+        "name": "Istanbul",
+        "region": "Istanbul",
+        "lat": 41.01384,
+        "lng": 28.94966,
+        "population": 15701602
+    },
+    {
+        "id": 323786,
+        "name": "Ankara",
+        "region": "Ankara",
+        "lat": 39.91987,
+        "lng": 32.85427,
+        "population": 3517182
+    },
+    {
+        "id": 750269,
+        "name": "Bursa",
+        "region": "Bursa Province",
+        "lat": 40.19559,
+        "lng": 29.06013,
+        "population": 3101833
+    },
+    {
+        "id": 311046,
+        "name": "İzmir",
+        "region": "İzmir Province",
+        "lat": 38.41273,
+        "lng": 27.13838,
+        "population": 2938292
+    },
+    {
+        "id": 314830,
+        "name": "Gaziantep",
+        "region": "Gaziantep",
+        "lat": 37.05944,
+        "lng": 37.3825,
+        "population": 2222415
+    },
+    {
+        "id": 316541,
+        "name": "Diyarbakır",
+        "region": "Diyarbakır Province",
+        "lat": 37.91363,
+        "lng": 40.21721,
+        "population": 1833684
+    },
+    {
+        "id": 325363,
+        "name": "Adana",
+        "region": "Adana",
+        "lat": 36.98615,
+        "lng": 35.32531,
+        "population": 1816750
+    },
+    {
+        "id": 308464,
+        "name": "Kayseri",
+        "region": "Kayseri",
+        "lat": 38.73222,
+        "lng": 35.48528,
+        "population": 1452458
+    },
+    {
+        "id": 306571,
+        "name": "Konya",
+        "region": "Konya",
+        "lat": 37.87135,
+        "lng": 32.48464,
+        "population": 1433861
+    },
+    {
+        "id": 323777,
+        "name": "Antalya",
+        "region": "Antalya",
+        "lat": 36.90812,
+        "lng": 30.69556,
+        "population": 1335002
+    },
+    {
+        "id": 747323,
+        "name": "Esenyurt",
+        "region": "Istanbul",
+        "lat": 41.02697,
+        "lng": 28.67732,
+        "population": 983571
+    },
+    {
+        "id": 315202,
+        "name": "Eskişehir",
+        "region": "Eskişehir",
+        "lat": 39.77667,
+        "lng": 30.52056,
+        "population": 921630
+    },
+    {
+        "id": 6955677,
+        "name": "Çankaya",
+        "region": "Ankara",
+        "lat": 39.9179,
+        "lng": 32.86268,
+        "population": 792189
+    },
+    {
+        "id": 742394,
+        "name": "Küçükçekmece",
+        "region": "Istanbul",
+        "lat": 40.99104,
+        "lng": 28.77123,
+        "population": 792030
+    },
+    {
+        "id": 315368,
+        "name": "Erzurum",
+        "region": "Erzurum",
+        "lat": 39.90861,
+        "lng": 41.27694,
+        "population": 767848
+    },
+    {
+        "id": 304922,
+        "name": "Malatya",
+        "region": "Malatya",
+        "lat": 38.35018,
+        "lng": 38.31667,
+        "population": 750491
+    },
+    {
+        "id": 751324,
+        "name": "Bağcılar",
+        "region": "Istanbul",
+        "lat": 41.03903,
+        "lng": 28.85671,
+        "population": 740069
+    },
+    {
+        "id": 7627067,
+        "name": "Bahçelievler",
+        "region": "Istanbul",
+        "lat": 41.00231,
+        "lng": 28.8598,
+        "population": 576799
+    },
+    {
+        "id": 738377,
+        "name": "Ümraniye",
+        "region": "Istanbul",
+        "lat": 41.01643,
+        "lng": 29.12476,
+        "population": 573265
+    },
+    {
+        "id": 304531,
+        "name": "Mersin",
+        "region": "Mersin",
+        "lat": 36.81196,
+        "lng": 34.63886,
+        "population": 537842
+    },
+    {
+        "id": 10346824,
+        "name": "Nilüfer",
+        "region": "Bursa Province",
+        "lat": 40.21401,
+        "lng": 28.91567,
+        "population": 536365
+    },
+    {
+        "id": 298117,
+        "name": "Van",
+        "region": "Van",
+        "lat": 38.49457,
+        "lng": 43.38323,
+        "population": 525016
+    },
+    {
+        "id": 738329,
+        "name": "Üsküdar",
+        "region": "Istanbul",
+        "lat": 41.02274,
+        "lng": 29.01366,
+        "population": 524452
+    },
+    {
+        "id": 747340,
+        "name": "Esenler",
+        "region": "Istanbul",
+        "lat": 41.0435,
+        "lng": 28.87619,
+        "population": 520235
+    },
+    {
+        "id": 7628420,
+        "name": "Sancaktepe",
+        "region": "Istanbul",
+        "lat": 41.00244,
+        "lng": 29.23187,
+        "population": 489848
+    },
+    {
+        "id": 7701384,
+        "name": "Karabağlar",
+        "region": "İzmir Province",
+        "lat": 38.382,
+        "lng": 27.132,
+        "population": 479338
+    },
+    {
+        "id": 320857,
+        "name": "Bornova",
+        "region": "İzmir Province",
+        "lat": 38.47921,
+        "lng": 27.2399,
+        "population": 452479
+    },
+    {
+        "id": 321836,
+        "name": "Batman",
+        "region": "Batman",
+        "lat": 37.88738,
+        "lng": 41.13221,
+        "population": 452157
+    },
+    {
+        "id": 8074174,
+        "name": "Muratpaşa",
+        "region": "Antalya",
+        "lat": 36.89157,
+        "lng": 30.76498,
+        "population": 450000
+    },
+    {
+        "id": 298333,
+        "name": "Şanlıurfa",
+        "region": "Şanlıurfa",
+        "lat": 37.16708,
+        "lng": 38.79392,
+        "population": 449549
+    },
+    {
+        "id": 315808,
+        "name": "Elazığ",
+        "region": "Elazığ",
+        "lat": 38.67431,
+        "lng": 39.22321,
+        "population": 443363
+    },
+    {
+        "id": 7628416,
+        "name": "Sultangazi",
+        "region": "Istanbul",
+        "lat": 41.10652,
+        "lng": 28.86847,
+        "population": 436935
+    },
+    {
+        "id": 741763,
+        "name": "Maltepe",
+        "region": "Istanbul",
+        "lat": 40.93567,
+        "lng": 29.15507,
+        "population": 427040
+    },
+    {
+        "id": 6947640,
+        "name": "Beylikdüzü",
+        "region": "Istanbul",
+        "lat": 40.982,
+        "lng": 28.6399,
+        "population": 415290
+    },
+    {
+        "id": 323779,
+        "name": "Antakya",
+        "region": "Hatay",
+        "lat": 36.20655,
+        "lng": 36.15722,
+        "population": 399045
+    },
+    {
+        "id": 740264,
+        "name": "Samsun",
+        "region": "Samsun",
+        "lat": 41.27976,
+        "lng": 36.3361,
+        "population": 394050
+    },
+    {
+        "id": 310859,
+        "name": "Kahramanmaraş",
+        "region": "Kahramanmaraş",
+        "lat": 37.5847,
+        "lng": 36.92641,
+        "population": 384953
+    },
+    {
+        "id": 298299,
+        "name": "Uşak",
+        "region": "Uşak",
+        "lat": 38.67351,
+        "lng": 29.4058,
+        "population": 369433
+    },
+    {
+        "id": 324190,
+        "name": "Alanya",
+        "region": "Antalya",
+        "lat": 36.54375,
+        "lng": 31.99982,
+        "population": 364180
+    },
+    {
+        "id": 6947637,
+        "name": "Ataşehir",
+        "region": "Istanbul",
+        "lat": 40.9833,
+        "lng": 29.1167,
+        "population": 361615
+    },
+    {
+        "id": 7628419,
+        "name": "Sultanbeyli",
+        "region": "Istanbul",
+        "lat": 40.96072,
+        "lng": 29.27067,
+        "population": 358201
+    },
+    {
+        "id": 747158,
+        "name": "Fatih",
+        "region": "Istanbul",
+        "lat": 41.0225,
+        "lng": 28.94083,
+        "population": 356025
+    },
+    {
+        "id": 299817,
+        "name": "Tarsus",
+        "region": "Mersin",
+        "lat": 36.91766,
+        "lng": 34.89277,
+        "population": 350732
+    },
+    {
+        "id": 308988,
+        "name": "Karşıyaka",
+        "region": "İzmir Province",
+        "lat": 38.45772,
+        "lng": 27.1142,
+        "population": 339624
+    },
+    {
+        "id": 306641,
+        "name": "Konak",
+        "region": "İzmir Province",
+        "lat": 38.4,
+        "lng": 27.1,
+        "population": 332277
+    },
+    {
+        "id": 324496,
+        "name": "Aksaray",
+        "region": "Aksaray",
+        "lat": 38.37255,
+        "lng": 34.02537,
+        "population": 327575
+    },
+    {
+        "id": 739549,
+        "name": "Şişli",
+        "region": "Istanbul",
+        "lat": 41.06046,
+        "lng": 28.98717,
+        "population": 314684
+    },
+    {
+        "id": 317109,
+        "name": "Denizli",
+        "region": "Denizli",
+        "lat": 37.77417,
+        "lng": 29.0875,
+        "population": 313238
+    },
+    {
+        "id": 442301,
+        "name": "Batikent",
+        "region": "Ankara",
+        "lat": 39.96833,
+        "lng": 32.73083,
+        "population": 300000
+    },
+    {
+        "id": 325330,
+        "name": "Adıyaman",
+        "region": "Adıyaman Province",
+        "lat": 37.76441,
+        "lng": 38.27629,
+        "population": 290883
+    },
+    {
+        "id": 752850,
+        "name": "Adapazarı",
+        "region": "Sakarya",
+        "lat": 40.78056,
+        "lng": 30.40333,
+        "population": 286787
+    },
+    {
+        "id": 747014,
+        "name": "Gebze",
+        "region": "Kocaeli",
+        "lat": 40.80276,
+        "lng": 29.43068,
+        "population": 281436
+    },
+    {
+        "id": 737071,
+        "name": "Zeytinburnu",
+        "region": "Istanbul",
+        "lat": 40.99441,
+        "lng": 28.90417,
+        "population": 280896
+    },
+    {
+        "id": 11238838,
+        "name": "Merkezefendi",
+        "region": "Denizli",
+        "lat": 37.80544,
+        "lng": 29.04236,
+        "population": 280341
+    },
+    {
+        "id": 748879,
+        "name": "Çorum",
+        "region": "Çorum",
+        "lat": 40.54889,
+        "lng": 34.95333,
+        "population": 269595
+    },
+    {
+        "id": 300619,
+        "name": "Sivas",
+        "region": "Sivas",
+        "lat": 39.74833,
+        "lng": 37.01611,
+        "population": 264022
+    },
+    {
+        "id": 325303,
+        "name": "Afyonkarahisar",
+        "region": "Afyonkarahisar Province",
+        "lat": 38.75667,
+        "lng": 30.54333,
+        "population": 251799
+    },
+    {
+        "id": 311111,
+        "name": "İskenderun",
+        "region": "Hatay",
+        "lat": 36.58718,
+        "lng": 36.17347,
+        "population": 251682
+    },
+    {
+        "id": 738648,
+        "name": "Trabzon",
+        "region": "Trabzon",
+        "lat": 41.005,
+        "lng": 39.72694,
+        "population": 244083
+    },
+    {
+        "id": 304827,
+        "name": "Manisa",
+        "region": "Manisa",
+        "lat": 38.61202,
+        "lng": 27.42647,
+        "population": 243971
+    },
+    {
+        "id": 322165,
+        "name": "Balıkesir",
+        "region": "Balıkesir",
+        "lat": 39.64917,
+        "lng": 27.88611,
+        "population": 238151
+    },
+    {
+        "id": 741100,
+        "name": "Ordu",
+        "region": "Ordu",
+        "lat": 40.97782,
+        "lng": 37.89047,
+        "population": 229214
+    },
+    {
+        "id": 320257,
+        "name": "Çiğli",
+        "region": "İzmir Province",
+        "lat": 38.49645,
+        "lng": 27.07029,
+        "population": 214065
+    },
+    {
+        "id": 303195,
+        "name": "Osmaniye",
+        "region": "Osmaniye",
+        "lat": 37.07417,
+        "lng": 36.24778,
+        "population": 202837
+    },
+    {
+        "id": 748893,
+        "name": "Çorlu",
+        "region": "Tekirdağ",
+        "lat": 41.16069,
+        "lng": 27.80093,
+        "population": 202578
+    },
+    {
+        "id": 751868,
+        "name": "Arnavutköy",
+        "region": "Istanbul",
+        "lat": 41.18355,
+        "lng": 28.7402,
+        "population": 198165
+    },
+    {
+        "id": 745028,
+        "name": "İzmit",
+        "region": "Kocaeli",
+        "lat": 40.76499,
+        "lng": 29.92928,
+        "population": 196571
+    },
+    {
+        "id": 747764,
+        "name": "Düzce",
+        "region": "Düzce",
+        "lat": 40.83889,
+        "lng": 31.16389,
+        "population": 194097
+    },
+    {
+        "id": 6947639,
+        "name": "Başakşehir",
+        "region": "Istanbul",
+        "lat": 41.106,
+        "lng": 28.791,
+        "population": 193750
+    },
+    {
+        "id": 307654,
+        "name": "Kırıkkale",
+        "region": "Kırıkkale",
+        "lat": 39.84528,
+        "lng": 33.50639,
+        "population": 186960
+    },
+    {
+        "id": 305268,
+        "name": "Kütahya",
+        "region": "Kütahya",
+        "lat": 39.42417,
+        "lng": 29.98333,
+        "population": 185008
+    },
+    {
+        "id": 750516,
+        "name": "Bolu",
+        "region": "Bolu",
+        "lat": 40.73583,
+        "lng": 31.60611,
+        "population": 184682
+    },
+    {
+        "id": 747712,
+        "name": "Edirne",
+        "region": "Edirne",
+        "lat": 41.67719,
+        "lng": 26.55597,
+        "population": 180002
+    },
+    {
+        "id": 309527,
+        "name": "Karaman",
+        "region": "Karaman",
+        "lat": 37.18111,
+        "lng": 33.215,
+        "population": 175390
+    },
+    {
+        "id": 300614,
+        "name": "Siverek",
+        "region": "Şanlıurfa",
+        "lat": 37.75503,
+        "lng": 39.31667,
+        "population": 175341
+    },
+    {
+        "id": 311073,
+        "name": "Isparta",
+        "region": "Isparta",
+        "lat": 37.76444,
+        "lng": 30.55222,
+        "population": 172334
+    },
+    {
+        "id": 314133,
+        "name": "Gölbaşı",
+        "region": "Ankara",
+        "lat": 39.79043,
+        "lng": 32.80903,
+        "population": 165201
+    },
+    {
+        "id": 6947641,
+        "name": "Büyükçekmece",
+        "region": "Istanbul",
+        "lat": 41.02072,
+        "lng": 28.58502,
+        "population": 163140
+    },
+    {
+        "id": 322830,
+        "name": "Aydın",
+        "region": "Aydın",
+        "lat": 37.84501,
+        "lng": 27.83963,
+        "population": 163022
+    },
+    {
+        "id": 315498,
+        "name": "Ereğli",
+        "region": "Konya",
+        "lat": 37.51333,
+        "lng": 34.04672,
+        "population": 156253
+    },
+    {
+        "id": 298033,
+        "name": "Viranşehir",
+        "region": "Şanlıurfa",
+        "lat": 37.22349,
+        "lng": 39.75519,
+        "population": 154163
+    },
+    {
+        "id": 315373,
+        "name": "Erzincan",
+        "region": "Erzincan",
+        "lat": 39.73919,
+        "lng": 39.49015,
+        "population": 150714
+    },
+    {
+        "id": 307515,
+        "name": "Kırşehir",
+        "region": "Kırşehir",
+        "lat": 39.14583,
+        "lng": 34.16389,
+        "population": 150700
+    },
+    {
+        "id": 307084,
+        "name": "Kızıltepe",
+        "region": "Mardin",
+        "lat": 37.18836,
+        "lng": 40.57723,
+        "population": 150174
+    },
+    {
+        "id": 749780,
+        "name": "Çanakkale",
+        "region": "Canakkale",
+        "lat": 40.15552,
+        "lng": 26.41271,
+        "population": 143622
+    },
+    {
+        "id": 318253,
+        "name": "Cizre",
+        "region": "Şırnak",
+        "lat": 37.33024,
+        "lng": 42.18484,
+        "population": 134041
+    },
+    {
+        "id": 745169,
+        "name": "İnegol",
+        "region": "Bursa Province",
+        "lat": 40.07806,
+        "lng": 29.51333,
+        "population": 133959
+    },
+    {
+        "id": 300808,
+        "name": "Silifke",
+        "region": "Mersin",
+        "lat": 36.37778,
+        "lng": 33.93444,
+        "population": 132665
+    },
+    {
+        "id": 304797,
+        "name": "Mardin",
+        "region": "Mardin",
+        "lat": 37.31309,
+        "lng": 40.74357,
+        "population": 129864
+    },
+    {
+        "id": 738743,
+        "name": "Tokat",
+        "region": "Tokat Province",
+        "lat": 40.31389,
+        "lng": 36.55444,
+        "population": 129702
+    },
+    {
+        "id": 321082,
+        "name": "Bingöl",
+        "region": "Bingöl",
+        "lat": 38.88472,
+        "lng": 40.49389,
+        "population": 128935
+    },
+    {
+        "id": 746881,
+        "name": "Giresun",
+        "region": "Giresun",
+        "lat": 40.91698,
+        "lng": 38.38741,
+        "population": 125682
+    },
+    {
+        "id": 743882,
+        "name": "Kastamonu",
+        "region": "Kastamonu",
+        "lat": 41.37805,
+        "lng": 33.77528,
+        "population": 125622
+    },
+    {
+        "id": 748208,
+        "name": "Derince",
+        "region": "Kocaeli",
+        "lat": 40.75694,
+        "lng": 29.81472,
+        "population": 125485
+    },
+    {
+        "id": 744562,
+        "name": "Karabük",
+        "region": "Karabük Province",
+        "lat": 41.20488,
+        "lng": 32.62768,
+        "population": 125403
+    },
+    {
+        "id": 309647,
+        "name": "Ağrı",
+        "region": "Ağrı",
+        "lat": 39.71467,
+        "lng": 43.04015,
+        "population": 124483
+    },
+    {
+        "id": 301975,
+        "name": "Samandağ",
+        "region": "Hatay",
+        "lat": 36.08012,
+        "lng": 35.97603,
+        "population": 123447
+    },
+    {
+        "id": 738927,
+        "name": "Tekirdağ",
+        "region": "Tekirdağ",
+        "lat": 40.9781,
+        "lng": 27.51101,
+        "population": 122287
+    },
+    {
+        "id": 740483,
+        "name": "Rize",
+        "region": "Rize Province",
+        "lat": 41.02083,
+        "lng": 40.52194,
+        "population": 119828
+    },
+    {
+        "id": 303873,
+        "name": "Nazilli",
+        "region": "Aydın",
+        "lat": 37.91631,
+        "lng": 28.32225,
+        "population": 119370
+    },
+    {
+        "id": 302043,
+        "name": "Salihli",
+        "region": "Manisa",
+        "lat": 38.48258,
+        "lng": 28.14774,
+        "population": 119311
+    },
+    {
+        "id": 752015,
+        "name": "Amasya",
+        "region": "Amasya",
+        "lat": 40.65333,
+        "lng": 35.83306,
+        "population": 114921
+    },
+    {
+        "id": 300797,
+        "name": "Silopi",
+        "region": "Şırnak",
+        "lat": 37.24379,
+        "lng": 42.46345,
+        "population": 114645
+    },
+    {
+        "id": 300822,
+        "name": "Siirt",
+        "region": "Siirt",
+        "lat": 37.9293,
+        "lng": 41.94134,
+        "population": 114034
+    },
+    {
+        "id": 307864,
+        "name": "Kilis",
+        "region": "Kilis",
+        "lat": 36.71611,
+        "lng": 37.115,
+        "population": 111648
+    },
+    {
+        "id": 738618,
+        "name": "Turhal",
+        "region": "Tokat Province",
+        "lat": 40.3875,
+        "lng": 36.08111,
+        "population": 110884
+    },
+    {
+        "id": 298435,
+        "name": "Arsuz",
+        "region": "Hatay",
+        "lat": 36.41305,
+        "lng": 35.89033,
+        "population": 109550
+    },
+    {
+        "id": 751077,
+        "name": "Bandırma",
+        "region": "Balıkesir",
+        "lat": 40.35222,
+        "lng": 27.97667,
+        "population": 107631
+    },
+    {
+        "id": 298806,
+        "name": "Turgutlu",
+        "region": "Manisa",
+        "lat": 38.49533,
+        "lng": 27.6997,
+        "population": 103292
+    },
+    {
+        "id": 737022,
+        "name": "Zonguldak",
+        "region": "Zonguldak Province",
+        "lat": 41.45139,
+        "lng": 31.79305,
+        "population": 101749
+    },
+    {
+        "id": 311665,
+        "name": "Iğdır",
+        "region": "Iğdır",
+        "lat": 39.92371,
+        "lng": 44.045,
+        "population": 101700
+    },
+    {
+        "id": 741385,
+        "name": "Mustafakemalpaşa",
+        "region": "Bursa Province",
+        "lat": 40.03815,
+        "lng": 28.40866,
+        "population": 101412
+    },
+    {
+        "id": 300075,
+        "name": "Suruç",
+        "region": "Şanlıurfa",
+        "lat": 36.97612,
+        "lng": 38.42533,
+        "population": 101178
+    },
+    {
+        "id": 304854,
+        "name": "Manavgat",
+        "region": "Antalya",
+        "lat": 36.78672,
+        "lng": 31.44086,
+        "population": 99254
+    },
+    {
+        "id": 300371,
+        "name": "Soma",
+        "region": "Manisa",
+        "lat": 39.18554,
+        "lng": 27.60945,
+        "population": 98714
+    },
+    {
+        "id": 310855,
+        "name": "Kâhta",
+        "region": "Adıyaman Province",
+        "lat": 37.78552,
+        "lng": 38.6237,
+        "population": 97875
+    },
+    {
+        "id": 743952,
+        "name": "Kars",
+        "region": "Kars Province",
+        "lat": 40.59825,
+        "lng": 43.08548,
+        "population": 96915
+    },
+    {
+        "id": 318675,
+        "name": "Ceyhan",
+        "region": "Adana",
+        "lat": 37.02472,
+        "lng": 35.8175,
+        "population": 96303
+    },
+    {
+        "id": 320392,
+        "name": "Burdur",
+        "region": "Burdur",
+        "lat": 37.72028,
+        "lng": 30.29083,
+        "population": 95436
+    },
+    {
+        "id": 302525,
+        "name": "Polatlı",
+        "region": "Ankara",
+        "lat": 39.57715,
+        "lng": 32.14132,
+        "population": 93262
+    },
+    {
+        "id": 751335,
+        "name": "Bafra",
+        "region": "Samsun",
+        "lat": 41.56787,
+        "lng": 35.90311,
+        "population": 92944
+    },
+    {
+        "id": 304184,
+        "name": "Muğla",
+        "region": "Muğla",
+        "lat": 37.21807,
+        "lng": 28.3665,
+        "population": 92328
+    },
+    {
+        "id": 315530,
+        "name": "Erciş",
+        "region": "Van",
+        "lat": 39.02587,
+        "lng": 43.35964,
+        "population": 91915
+    },
+    {
+        "id": 303827,
+        "name": "Niğde",
+        "region": "Niğde Province",
+        "lat": 37.96583,
+        "lng": 34.67935,
+        "population": 91039
+    },
+    {
+        "id": 741855,
+        "name": "Lüleburgaz",
+        "region": "Kırklareli",
+        "lat": 41.40173,
+        "lng": 27.35746,
+        "population": 90899
+    },
+    {
+        "id": 737961,
+        "name": "Körfez",
+        "region": "Kocaeli",
+        "lat": 40.76704,
+        "lng": 29.78275,
+        "population": 90580
+    },
+    {
+        "id": 749748,
+        "name": "Çankırı",
+        "region": "Çankırı",
+        "lat": 40.59995,
+        "lng": 33.6153,
+        "population": 90564
+    },
+    {
+        "id": 303750,
+        "name": "Nusaybin",
+        "region": "Mardin",
+        "lat": 37.07028,
+        "lng": 41.21465,
+        "population": 88977
+    },
+    {
+        "id": 747471,
+        "name": "Ereğli",
+        "region": "Zonguldak Province",
+        "lat": 41.28261,
+        "lng": 31.41806,
+        "population": 88848
+    },
+    {
+        "id": 306112,
+        "name": "Kozan",
+        "region": "Adana",
+        "lat": 37.45517,
+        "lng": 35.81573,
+        "population": 88115
+    },
+    {
+        "id": 296562,
+        "name": "Yozgat",
+        "region": "Yozgat",
+        "lat": 39.82,
+        "lng": 34.80444,
+        "population": 87881
+    },
+    {
+        "id": 324698,
+        "name": "Akhisar",
+        "region": "Manisa",
+        "lat": 38.91852,
+        "lng": 27.84006,
+        "population": 84659
+    },
+    {
+        "id": 324859,
+        "name": "Akçapınar",
+        "region": "Tunceli",
+        "lat": 38.94728,
+        "lng": 38.9423,
+        "population": 84366
+    },
+    {
+        "id": 749274,
+        "name": "Çerkezköy",
+        "region": "Tekirdağ",
+        "lat": 41.28629,
+        "lng": 27.99939,
+        "population": 84234
+    },
+    {
+        "id": 304081,
+        "name": "Muş",
+        "region": "Muş",
+        "lat": 38.73163,
+        "lng": 41.48482,
+        "population": 82536
+    },
+    {
+        "id": 303798,
+        "name": "Nizip",
+        "region": "Gaziantep",
+        "lat": 37.00972,
+        "lng": 37.79417,
+        "population": 82308
+    },
+    {
+        "id": 747155,
+        "name": "Fatsa",
+        "region": "Ordu",
+        "lat": 41.02886,
+        "lng": 37.49977,
+        "population": 82160
+    },
+    {
+        "id": 751057,
+        "name": "Bartın",
+        "region": "Bartın",
+        "lat": 41.63583,
+        "lng": 32.3375,
+        "population": 81692
+    },
+    {
+        "id": 316411,
+        "name": "Doğubayazıt",
+        "region": "Ağrı",
+        "lat": 39.54694,
+        "lng": 44.08417,
+        "population": 81136
+    },
+    {
+        "id": 315795,
+        "name": "Elbistan",
+        "region": "Kahramanmaraş",
+        "lat": 38.20591,
+        "lng": 37.1983,
+        "population": 80456
+    },
+    {
+        "id": 318137,
+        "name": "Hakkâri",
+        "region": "Hakkâri",
+        "lat": 37.57444,
+        "lng": 43.74083,
+        "population": 77699
+    },
+    {
+        "id": 738349,
+        "name": "Ünye",
+        "region": "Ordu",
+        "lat": 41.14049,
+        "lng": 37.28851,
+        "population": 77585
+    },
+    {
+        "id": 304382,
+        "name": "Midyat",
+        "region": "Mardin",
+        "lat": 37.41908,
+        "lng": 41.33909,
+        "population": 76268
+    },
+    {
+        "id": 303831,
+        "name": "Nevşehir",
+        "region": "Nevşehir Province",
+        "lat": 38.625,
+        "lng": 34.71222,
+        "population": 75527
+    },
+    {
+        "id": 321031,
+        "name": "Bismil",
+        "region": "Diyarbakır Province",
+        "lat": 37.84514,
+        "lng": 40.65931,
+        "population": 74493
+    },
+    {
+        "id": 750598,
+        "name": "Bilecik",
+        "region": "Bilecik",
+        "lat": 40.14192,
+        "lng": 29.97932,
+        "population": 74457
+    },
+    {
+        "id": 321580,
+        "name": "Belek",
+        "region": "Antalya",
+        "lat": 36.8631,
+        "lng": 31.06541,
+        "population": 73260
+    },
+    {
+        "id": 299582,
+        "name": "Tatvan",
+        "region": "Bitlis",
+        "lat": 38.49221,
+        "lng": 42.28269,
+        "population": 73222
+    },
+    {
+        "id": 296173,
+        "name": "Yüksekova",
+        "region": "Hakkâri",
+        "lat": 37.57362,
+        "lng": 44.28716,
+        "population": 71729
+    },
+    {
+        "id": 738025,
+        "name": "Yalova",
+        "region": "Yalova",
+        "lat": 40.65501,
+        "lng": 29.27693,
+        "population": 71289
+    },
+    {
+        "id": 746958,
+        "name": "Gemlik",
+        "region": "Bursa Province",
+        "lat": 40.43094,
+        "lng": 29.15969,
+        "population": 71063
+    },
+    {
+        "id": 310892,
+        "name": "Kadirli",
+        "region": "Osmaniye",
+        "lat": 37.37389,
+        "lng": 36.09611,
+        "population": 70248
+    },
+    {
+        "id": 322673,
+        "name": "Ayvalık",
+        "region": "Balıkesir",
+        "lat": 39.31927,
+        "lng": 26.69341,
+        "population": 70002
+    },
+    {
+        "id": 300399,
+        "name": "Söke",
+        "region": "Aydın",
+        "lat": 37.7482,
+        "lng": 27.40614,
+        "population": 68230
+    },
+    {
+        "id": 751949,
+        "name": "Ardeşen",
+        "region": "Rize Province",
+        "lat": 41.19064,
+        "lng": 40.97935,
+        "population": 67965
+    },
+    {
+        "id": 300640,
+        "name": "Şırnak",
+        "region": "Şırnak",
+        "lat": 37.51393,
+        "lng": 42.45432,
+        "population": 67662
+    },
+    {
+        "id": 303700,
+        "name": "Ödemiş",
+        "region": "İzmir Province",
+        "lat": 38.2278,
+        "lng": 27.96955,
+        "population": 67153
+    },
+    {
+        "id": 300796,
+        "name": "Silvan",
+        "region": "Diyarbakır Province",
+        "lat": 38.13708,
+        "lng": 41.00817,
+        "population": 65956
+    },
+    {
+        "id": 325103,
+        "name": "Ahlat",
+        "region": "Bitlis",
+        "lat": 38.7489,
+        "lng": 42.48007,
+        "population": 64695
+    },
+    {
+        "id": 324490,
+        "name": "Akşehir",
+        "region": "Konya",
+        "lat": 38.3575,
+        "lng": 31.41639,
+        "population": 64446
+    },
+    {
+        "id": 305359,
+        "name": "Kuşadası",
+        "region": "Aydın",
+        "lat": 37.86014,
+        "lng": 27.25713,
+        "population": 63177
+    },
+    {
+        "id": 298316,
+        "name": "Urla",
+        "region": "İzmir Province",
+        "lat": 38.32292,
+        "lng": 26.76403,
+        "population": 62989
+    },
+    {
+        "id": 300352,
+        "name": "Sorgun",
+        "region": "Yozgat",
+        "lat": 39.81012,
+        "lng": 35.18596,
+        "population": 62862
+    },
+    {
+        "id": 748870,
+        "name": "Çubuk",
+        "region": "Ankara",
+        "lat": 40.23861,
+        "lng": 33.03222,
+        "population": 62602
+    },
+    {
+        "id": 750605,
+        "name": "Biga",
+        "region": "Canakkale",
+        "lat": 40.22806,
+        "lng": 27.24222,
+        "population": 61066
+    },
+    {
+        "id": 307657,
+        "name": "Kırıkhan",
+        "region": "Hatay",
+        "lat": 36.49939,
+        "lng": 36.35755,
+        "population": 60916
+    },
+    {
+        "id": 314967,
+        "name": "Fethiye",
+        "region": "Muğla",
+        "lat": 36.64038,
+        "lng": 29.12758,
+        "population": 60437
+    },
+    {
+        "id": 743166,
+        "name": "Kırklareli",
+        "region": "Kırklareli",
+        "lat": 41.73508,
+        "lng": 27.22521,
+        "population": 58223
+    },
+    {
+        "id": 302819,
+        "name": "Patnos",
+        "region": "Ağrı",
+        "lat": 39.22493,
+        "lng": 42.85693,
+        "population": 57933
+    },
+    {
+        "id": 321426,
+        "name": "Bergama",
+        "region": "İzmir Province",
+        "lat": 39.12074,
+        "lng": 27.18052,
+        "population": 57200
+    },
+    {
+        "id": 323828,
+        "name": "Anamur",
+        "region": "Mersin",
+        "lat": 36.07508,
+        "lng": 32.83691,
+        "population": 57128
+    },
+    {
+        "id": 302355,
+        "name": "Reyhanlı",
+        "region": "Hatay",
+        "lat": 36.26791,
+        "lng": 36.56747,
+        "population": 56995
+    },
+    {
+        "id": 316284,
+        "name": "Dörtyol",
+        "region": "Hatay",
+        "lat": 36.83917,
+        "lng": 36.23025,
+        "population": 56513
+    },
+    {
+        "id": 746666,
+        "name": "Gölcük",
+        "region": "Kocaeli",
+        "lat": 40.71501,
+        "lng": 29.81824,
+        "population": 56189
+    },
+    {
+        "id": 320879,
+        "name": "Bolvadin",
+        "region": "Afyonkarahisar Province",
+        "lat": 38.71111,
+        "lng": 31.04861,
+        "population": 55870
+    },
+    {
+        "id": 737054,
+        "name": "Zile",
+        "region": "Tokat Province",
+        "lat": 40.30306,
+        "lng": 35.88639,
+        "population": 55680
+    },
+    {
+        "id": 747538,
+        "name": "Eminönü",
+        "region": "Istanbul",
+        "lat": 41.01754,
+        "lng": 28.97101,
+        "population": 55548
+    },
+    {
+        "id": 320557,
+        "name": "Bozüyük",
+        "region": "Bilecik",
+        "lat": 39.90778,
+        "lng": 30.03667,
+        "population": 55365
+    },
+    {
+        "id": 304612,
+        "name": "Menemen",
+        "region": "İzmir Province",
+        "lat": 38.60754,
+        "lng": 27.06938,
+        "population": 53489
+    },
+    {
+        "id": 739634,
+        "name": "Silivri",
+        "region": "Istanbul",
+        "lat": 41.07393,
+        "lng": 28.24644,
+        "population": 53167
+    },
+    {
+        "id": 321025,
+        "name": "Bitlis",
+        "region": "Bitlis",
+        "lat": 38.40115,
+        "lng": 42.10784,
+        "population": 53023
+    },
+    {
+        "id": 325336,
+        "name": "Adilcevaz",
+        "region": "Bitlis",
+        "lat": 38.79911,
+        "lng": 42.73159,
+        "population": 52781
+    },
+    {
+        "id": 315468,
+        "name": "Ergani",
+        "region": "Diyarbakır Province",
+        "lat": 38.26899,
+        "lng": 39.75446,
+        "population": 52684
+    },
+    {
+        "id": 747489,
+        "name": "Erbaa",
+        "region": "Tokat Province",
+        "lat": 40.66889,
+        "lng": 36.5675,
+        "population": 52185
+    },
+    {
+        "id": 299545,
+        "name": "Tavşanlı",
+        "region": "Kütahya",
+        "lat": 39.54237,
+        "lng": 29.49866,
+        "population": 52182
+    },
+    {
+        "id": 741045,
+        "name": "Orhangazi",
+        "region": "Bursa Province",
+        "lat": 40.48917,
+        "lng": 29.30889,
+        "population": 51792
+    },
+    {
+        "id": 301010,
+        "name": "Seydişehir",
+        "region": "Konya",
+        "lat": 37.41926,
+        "lng": 31.84527,
+        "population": 51089
+    },
+    {
+        "id": 741609,
+        "name": "Merzifon",
+        "region": "Amasya",
+        "lat": 40.87333,
+        "lng": 35.46306,
+        "population": 50658
+    },
+    {
+        "id": 743818,
+        "name": "Kavaklı",
+        "region": "Istanbul",
+        "lat": 41.09258,
+        "lng": 28.33172,
+        "population": 50502
+    },
+    {
+        "id": 749704,
+        "name": "Çarşamba",
+        "region": "Samsun",
+        "lat": 41.19889,
+        "lng": 36.72194,
+        "population": 50459
+    },
+    {
+        "id": 298935,
+        "name": "Torbalı",
+        "region": "İzmir Province",
+        "lat": 38.182,
+        "lng": 27.335,
+        "population": 50303
+    },
+    {
+        "id": 6354985,
+        "name": "Güngören Merter",
+        "region": "Istanbul",
+        "lat": 41.00711,
+        "lng": 28.88795,
+        "population": 50000
+    },
+    {
+        "id": 6354984,
+        "name": "Merter Keresteciler",
+        "region": "Istanbul",
+        "lat": 41.01295,
+        "lng": 28.88593,
+        "population": 50000
+    },
+    {
+        "id": 741304,
+        "name": "Niksar",
+        "region": "Tokat Province",
+        "lat": 40.59167,
+        "lng": 36.95167,
+        "population": 49865
+    },
+    {
+        "id": 308024,
+        "name": "Keskin",
+        "region": "Kırıkkale",
+        "lat": 39.67306,
+        "lng": 33.61361,
+        "population": 49679
+    },
+    {
+        "id": 309415,
+        "name": "Karapınar",
+        "region": "Konya",
+        "lat": 37.71596,
+        "lng": 33.55064,
+        "population": 49509
+    },
+    {
+        "id": 304013,
+        "name": "Mut",
+        "region": "Mersin",
+        "lat": 36.64389,
+        "lng": 33.43885,
+        "population": 49397
+    },
+    {
+        "id": 324172,
+        "name": "Alaşehir",
+        "region": "Manisa",
+        "lat": 38.35083,
+        "lng": 28.51718,
+        "population": 48147
+    },
+    {
+        "id": 750938,
+        "name": "Bayburt",
+        "region": "Bayburt Province",
+        "lat": 40.25631,
+        "lng": 40.22289,
+        "population": 48036
+    },
+    {
+        "id": 739251,
+        "name": "Suluova",
+        "region": "Amasya",
+        "lat": 40.83129,
+        "lng": 35.64788,
+        "population": 47572
+    },
+    {
+        "id": 739914,
+        "name": "Şebin Karahisar",
+        "region": "Giresun",
+        "lat": 40.28833,
+        "lng": 38.42361,
+        "population": 47360
+    },
+    {
+        "id": 299137,
+        "name": "Tire",
+        "region": "İzmir Province",
+        "lat": 38.08877,
+        "lng": 27.73508,
+        "population": 47220
+    },
+    {
+        "id": 305742,
+        "name": "Kulu",
+        "region": "Konya",
+        "lat": 39.09513,
+        "lng": 33.07989,
+        "population": 47037
+    },
+    {
+        "id": 315515,
+        "name": "Erdemli",
+        "region": "Mersin",
+        "lat": 36.60498,
+        "lng": 34.30836,
+        "population": 46570
+    },
+    {
+        "id": 317844,
+        "name": "Çumra",
+        "region": "Konya",
+        "lat": 37.5732,
+        "lng": 32.77446,
+        "population": 45657
+    },
+    {
+        "id": 307677,
+        "name": "Kireçocağı",
+        "region": "Adana",
+        "lat": 37.05,
+        "lng": 35.23333,
+        "population": 45476
+    },
+    {
+        "id": 752627,
+        "name": "Akçaabat",
+        "region": "Trabzon",
+        "lat": 41.02121,
+        "lng": 39.57146,
+        "population": 45105
+    },
+    {
+        "id": 324106,
+        "name": "Aliağa",
+        "region": "İzmir Province",
+        "lat": 38.79975,
+        "lng": 26.97203,
+        "population": 44883
+    },
+    {
+        "id": 743439,
+        "name": "Keşan",
+        "region": "Edirne",
+        "lat": 40.85525,
+        "lng": 26.63266,
+        "population": 44644
+    },
+    {
+        "id": 321191,
+        "name": "Beyşehir",
+        "region": "Konya",
+        "lat": 37.67735,
+        "lng": 31.72458,
+        "population": 44460
+    },
+    {
+        "id": 321062,
+        "name": "Birecik",
+        "region": "Şanlıurfa",
+        "lat": 37.02577,
+        "lng": 37.97841,
+        "population": 44284
+    },
+    {
+        "id": 744537,
+        "name": "Karacabey",
+        "region": "Bursa Province",
+        "lat": 40.21323,
+        "lng": 28.3612,
+        "population": 44256
+    },
+    {
+        "id": 301116,
+        "name": "Şereflikoçhisar",
+        "region": "Ankara",
+        "lat": 38.93925,
+        "lng": 33.5386,
+        "population": 44101
+    },
+    {
+        "id": 750317,
+        "name": "Bulancak",
+        "region": "Giresun",
+        "lat": 40.93805,
+        "lng": 38.23148,
+        "population": 43635
+    },
+    {
+        "id": 304355,
+        "name": "Milas",
+        "region": "Muğla",
+        "lat": 37.31639,
+        "lng": 27.78389,
+        "population": 43193
+    },
+    {
+        "id": 301911,
+        "name": "Sandıklı",
+        "region": "Afyonkarahisar Province",
+        "lat": 38.46472,
+        "lng": 30.26946,
+        "population": 42981
+    },
+    {
+        "id": 321337,
+        "name": "Besni",
+        "region": "Adıyaman Province",
+        "lat": 37.69278,
+        "lng": 37.86111,
+        "population": 41892
+    },
+    {
+        "id": 315985,
+        "name": "Edremit",
+        "region": "Balıkesir",
+        "lat": 39.59611,
+        "lng": 27.02444,
+        "population": 40777
+    },
+    {
+        "id": 746574,
+        "name": "Gönen",
+        "region": "Balıkesir",
+        "lat": 40.1049,
+        "lng": 27.65399,
+        "population": 40763
+    },
+    {
+        "id": 749644,
+        "name": "Çatalca",
+        "region": "Istanbul",
+        "lat": 41.14073,
+        "lng": 28.45967,
+        "population": 39678
+    },
+    {
+        "id": 325304,
+        "name": "Afşin",
+        "region": "Kahramanmaraş",
+        "lat": 38.24769,
+        "lng": 36.91399,
+        "population": 39613
+    },
+    {
+        "id": 298230,
+        "name": "Uzumlu",
+        "region": "Erzincan",
+        "lat": 39.70947,
+        "lng": 39.70015,
+        "population": 39591
+    },
+    {
+        "id": 744093,
+        "name": "Karasu Mahallesi",
+        "region": "Sakarya",
+        "lat": 41.07096,
+        "lng": 30.78543,
+        "population": 39508
+    },
+    {
+        "id": 320995,
+        "name": "Bodrum",
+        "region": "Muğla",
+        "lat": 37.03833,
+        "lng": 27.42917,
+        "population": 39317
+    },
+    {
+        "id": 746425,
+        "name": "Gümüşhane",
+        "region": "Gümüşhane Province",
+        "lat": 40.46001,
+        "lng": 39.47176,
+        "population": 39214
+    },
+    {
+        "id": 297789,
+        "name": "Yalvaç",
+        "region": "Isparta",
+        "lat": 38.29556,
+        "lng": 31.17778,
+        "population": 39145
+    },
+    {
+        "id": 750637,
+        "name": "Beypazarı",
+        "region": "Ankara",
+        "lat": 40.1675,
+        "lng": 31.92111,
+        "population": 38769
+    },
+    {
+        "id": 320369,
+        "name": "Burhaniye",
+        "region": "Balıkesir",
+        "lat": 39.50041,
+        "lng": 26.97269,
+        "population": 38083
+    },
+    {
+        "id": 738228,
+        "name": "Vakfıkebir",
+        "region": "Trabzon",
+        "lat": 41.04583,
+        "lng": 39.27639,
+        "population": 37728
+    },
+    {
+        "id": 739236,
+        "name": "Sungurlu",
+        "region": "Çorum",
+        "lat": 40.1675,
+        "lng": 34.37389,
+        "population": 37526
+    },
+    {
+        "id": 750735,
+        "name": "Beşikdüzü",
+        "region": "Trabzon",
+        "lat": 41.05202,
+        "lng": 39.23294,
+        "population": 36987
+    },
+    {
+        "id": 301101,
+        "name": "Serik",
+        "region": "Antalya",
+        "lat": 36.91748,
+        "lng": 31.10463,
+        "population": 36925
+    },
+    {
+        "id": 299900,
+        "name": "Talas",
+        "region": "Kayseri",
+        "lat": 38.6908,
+        "lng": 35.5538,
+        "population": 36890
+    },
+    {
+        "id": 738251,
+        "name": "Uzunköprü",
+        "region": "Edirne",
+        "lat": 41.26914,
+        "lng": 26.68598,
+        "population": 36470
+    },
+    {
+        "id": 740883,
+        "name": "Osmancık",
+        "region": "Çorum",
+        "lat": 40.97818,
+        "lng": 34.8047,
+        "population": 36443
+    },
+    {
+        "id": 743404,
+        "name": "Kestel",
+        "region": "Bursa Province",
+        "lat": 40.19828,
+        "lng": 29.21237,
+        "population": 36185
+    },
+    {
+        "id": 746552,
+        "name": "Görükle",
+        "region": "Bursa Province",
+        "lat": 40.23114,
+        "lng": 28.84017,
+        "population": 35882
+    },
+    {
+        "id": 316795,
+        "name": "Develi",
+        "region": "Kayseri",
+        "lat": 38.39056,
+        "lng": 35.49222,
+        "population": 35868
+    },
+    {
+        "id": 312114,
+        "name": "Hınıs",
+        "region": "Erzurum",
+        "lat": 39.35766,
+        "lng": 41.69253,
+        "population": 35472
+    },
+    {
+        "id": 316634,
+        "name": "Dinar",
+        "region": "Afyonkarahisar Province",
+        "lat": 38.065,
+        "lng": 30.16557,
+        "population": 35359
+    },
+    {
+        "id": 296895,
+        "name": "Yerköy",
+        "region": "Yozgat",
+        "lat": 39.63806,
+        "lng": 34.46722,
+        "population": 35294
+    },
+    {
+        "id": 745664,
+        "name": "Hendek",
+        "region": "Sakarya",
+        "lat": 40.79944,
+        "lng": 30.74806,
+        "population": 35257
+    },
+    {
+        "id": 740430,
+        "name": "Safranbolu",
+        "region": "Karabük Province",
+        "lat": 41.25083,
+        "lng": 32.69417,
+        "population": 35242
+    },
+    {
+        "id": 298846,
+        "name": "Tunceli",
+        "region": "Tunceli",
+        "lat": 39.09921,
+        "lng": 39.54351,
+        "population": 35161
+    },
+    {
+        "id": 752584,
+        "name": "Akçakoca",
+        "region": "Düzce",
+        "lat": 41.08935,
+        "lng": 31.12362,
+        "population": 35151
+    },
+    {
+        "id": 300791,
+        "name": "Simav",
+        "region": "Kütahya",
+        "lat": 39.0882,
+        "lng": 28.97767,
+        "population": 34909
+    },
+    {
+        "id": 739600,
+        "name": "Sinop",
+        "region": "Sinop",
+        "lat": 42.02683,
+        "lng": 35.16253,
+        "population": 34834
+    },
+    {
+        "id": 314188,
+        "name": "Göksun",
+        "region": "Kahramanmaraş",
+        "lat": 38.02096,
+        "lng": 36.4973,
+        "population": 34243
+    },
+    {
+        "id": 319104,
+        "name": "Çay",
+        "region": "Afyonkarahisar Province",
+        "lat": 38.59167,
+        "lng": 31.02861,
+        "population": 34215
+    },
+    {
+        "id": 304782,
+        "name": "Marmaris",
+        "region": "Muğla",
+        "lat": 36.855,
+        "lng": 28.27417,
+        "population": 33731
+    },
+    {
+        "id": 318755,
+        "name": "Çeşme",
+        "region": "İzmir Province",
+        "lat": 38.32614,
+        "lng": 26.30574,
+        "population": 33259
+    },
+    {
+        "id": 301539,
+        "name": "Şarkîkaraağaç",
+        "region": "Isparta",
+        "lat": 38.07944,
+        "lng": 31.36639,
+        "population": 32771
+    },
+    {
+        "id": 320871,
+        "name": "Bor",
+        "region": "Niğde Province",
+        "lat": 37.89056,
+        "lng": 34.55889,
+        "population": 32435
+    },
+    {
+        "id": 742238,
+        "name": "Kumru",
+        "region": "Ordu",
+        "lat": 40.87444,
+        "lng": 37.26389,
+        "population": 32174
+    },
+    {
+        "id": 315153,
+        "name": "Etlik",
+        "region": "Ankara",
+        "lat": 39.98205,
+        "lng": 32.82459,
+        "population": 32156
+    },
+    {
+        "id": 324944,
+        "name": "Akçakale",
+        "region": "Şanlıurfa",
+        "lat": 36.71111,
+        "lng": 38.9475,
+        "population": 32114
+    },
+    {
+        "id": 305532,
+        "name": "Kurtalan",
+        "region": "Siirt",
+        "lat": 37.92533,
+        "lng": 41.68493,
+        "population": 32114
+    },
+    {
+        "id": 296832,
+        "name": "Yeşilli",
+        "region": "Mardin",
+        "lat": 37.33813,
+        "lng": 40.81739,
+        "population": 32072
+    },
+    {
+        "id": 741240,
+        "name": "Of",
+        "region": "Trabzon",
+        "lat": 40.94055,
+        "lng": 40.25918,
+        "population": 31951
+    },
+    {
+        "id": 311453,
+        "name": "İmamoğlu",
+        "region": "Adana",
+        "lat": 37.26506,
+        "lng": 35.65717,
+        "population": 31916
+    },
+    {
+        "id": 318668,
+        "name": "Ceylanpınar",
+        "region": "Şanlıurfa",
+        "lat": 36.84722,
+        "lng": 40.05,
+        "population": 31488
+    },
+    {
+        "id": 320448,
+        "name": "Bulanık",
+        "region": "Muş",
+        "lat": 39.08656,
+        "lng": 42.27158,
+        "population": 31430
+    },
+    {
+        "id": 303290,
+        "name": "Ortaköy",
+        "region": "Aksaray",
+        "lat": 38.73728,
+        "lng": 34.03866,
+        "population": 31144
+    },
+    {
+        "id": 305810,
+        "name": "Kula",
+        "region": "Manisa",
+        "lat": 38.54726,
+        "lng": 28.64976,
+        "population": 31100
+    },
+    {
+        "id": 741529,
+        "name": "Mimarsinan",
+        "region": "Istanbul",
+        "lat": 41.01488,
+        "lng": 28.56085,
+        "population": 31002
+    },
+    {
+        "id": 744092,
+        "name": "Karasu",
+        "region": "Sakarya",
+        "lat": 41.10442,
+        "lng": 30.69664,
+        "population": 30746
+    },
+    {
+        "id": 744168,
+        "name": "Karamürsel",
+        "region": "Kocaeli",
+        "lat": 40.69129,
+        "lng": 29.61649,
+        "population": 30525
+    },
+    {
+        "id": 7926667,
+        "name": "İncirli",
+        "region": "Ankara",
+        "lat": 39.98431,
+        "lng": 32.84317,
+        "population": 30440
+    },
+    {
+        "id": 308224,
+        "name": "Kemalpaşa",
+        "region": "İzmir Province",
+        "lat": 38.42621,
+        "lng": 27.41731,
+        "population": 30411
+    },
+    {
+        "id": 746565,
+        "name": "Görele",
+        "region": "Giresun",
+        "lat": 41.03083,
+        "lng": 39.00306,
+        "population": 30381
+    },
+    {
+        "id": 305680,
+        "name": "Beykonak",
+        "region": "Antalya",
+        "lat": 36.32573,
+        "lng": 30.30302,
+        "population": 30339
+    },
+    {
+        "id": 751971,
+        "name": "Araklı",
+        "region": "Trabzon",
+        "lat": 40.93854,
+        "lng": 40.05842,
+        "population": 29917
+    },
+    {
+        "id": 9888792,
+        "name": "Bostanlı",
+        "region": "İzmir Province",
+        "lat": 38.45921,
+        "lng": 27.09732,
+        "population": 29842
+    },
+    {
+        "id": 309663,
+        "name": "Karakoçan",
+        "region": "Elazığ",
+        "lat": 38.95178,
+        "lng": 40.02706,
+        "population": 29735
+    },
+    {
+        "id": 306041,
+        "name": "Kozluk",
+        "region": "Batman",
+        "lat": 38.19118,
+        "lng": 41.47775,
+        "population": 29502
+    },
+    {
+        "id": 746234,
+        "name": "Gürpınar",
+        "region": "Istanbul",
+        "lat": 40.992,
+        "lng": 28.603,
+        "population": 29411
+    },
+    {
+        "id": 9888806,
+        "name": "Şemikler",
+        "region": "İzmir Province",
+        "lat": 38.47497,
+        "lng": 27.09591,
+        "population": 29321
+    },
+    {
+        "id": 320533,
+        "name": "Bucak",
+        "region": "Burdur",
+        "lat": 37.45917,
+        "lng": 30.595,
+        "population": 29234
+    },
+    {
+        "id": 301256,
+        "name": "Selçuk",
+        "region": "İzmir Province",
+        "lat": 37.95137,
+        "lng": 27.36849,
+        "population": 29101
+    },
+    {
+        "id": 13715598,
+        "name": "Fırat",
+        "region": "Ağrı",
+        "lat": 39.71514,
+        "lng": 43.03404,
+        "population": 29007
+    },
+    {
+        "id": 9888776,
+        "name": "Ataşehir",
+        "region": "İzmir Province",
+        "lat": 38.48855,
+        "lng": 27.06132,
+        "population": 28864
+    },
+    {
+        "id": 8068982,
+        "name": "Oba",
+        "region": "Antalya",
+        "lat": 36.55013,
+        "lng": 32.0596,
+        "population": 28864
+    },
+    {
+        "id": 738064,
+        "name": "Yakuplu",
+        "region": "Istanbul",
+        "lat": 40.98894,
+        "lng": 28.67582,
+        "population": 28811
+    },
+    {
+        "id": 737611,
+        "name": "Yenişehir",
+        "region": "Bursa Province",
+        "lat": 40.26444,
+        "lng": 29.65306,
+        "population": 28656
+    },
+    {
+        "id": 310641,
+        "name": "Kaman",
+        "region": "Kırşehir",
+        "lat": 39.3575,
+        "lng": 33.72389,
+        "population": 28605
+    },
+    {
+        "id": 314903,
+        "name": "Foça",
+        "region": "İzmir Province",
+        "lat": 38.6703,
+        "lng": 26.75656,
+        "population": 28594
+    },
+    {
+        "id": 746940,
+        "name": "Gerede",
+        "region": "Bolu",
+        "lat": 40.80083,
+        "lng": 32.19694,
+        "population": 28582
+    },
+    {
+        "id": 320552,
+        "name": "Bozyazı",
+        "region": "Mersin",
+        "lat": 36.1082,
+        "lng": 32.96113,
+        "population": 28456
+    },
+    {
+        "id": 738803,
+        "name": "Terme",
+        "region": "Samsun",
+        "lat": 41.20917,
+        "lng": 36.97389,
+        "population": 28397
+    },
+    {
+        "id": 13731653,
+        "name": "Sursuru",
+        "region": "Elazığ",
+        "lat": 38.66175,
+        "lng": 39.19621,
+        "population": 28211
+    },
+    {
+        "id": 314136,
+        "name": "Gölbaşı",
+        "region": "Adıyaman Province",
+        "lat": 37.78361,
+        "lng": 37.63667,
+        "population": 28078
+    },
+    {
+        "id": 750468,
+        "name": "Boyabat",
+        "region": "Sinop",
+        "lat": 41.46889,
+        "lng": 34.76667,
+        "population": 27717
+    },
+    {
+        "id": 741771,
+        "name": "Malkara",
+        "region": "Tekirdağ",
+        "lat": 40.89105,
+        "lng": 26.90201,
+        "population": 27427
+    },
+    {
+        "id": 311553,
+        "name": "Ilgın",
+        "region": "Konya",
+        "lat": 38.27917,
+        "lng": 31.91389,
+        "population": 27423
+    },
+    {
+        "id": 312156,
+        "name": "Hıdırbey",
+        "region": "Hatay",
+        "lat": 36.20802,
+        "lng": 36.12787,
+        "population": 27057
+    },
+    {
+        "id": 752278,
+        "name": "Alaca",
+        "region": "Çorum",
+        "lat": 40.16833,
+        "lng": 34.8425,
+        "population": 27019
+    },
+    {
+        "id": 751371,
+        "name": "Babaeski",
+        "region": "Kırklareli",
+        "lat": 41.42809,
+        "lng": 27.0966,
+        "population": 26724
+    },
+    {
+        "id": 752284,
+        "name": "Akyurt",
+        "region": "Ankara",
+        "lat": 40.13512,
+        "lng": 33.08614,
+        "population": 26572
+    },
+    {
+        "id": 305750,
+        "name": "Kulp",
+        "region": "Diyarbakır Province",
+        "lat": 38.49754,
+        "lng": 41.00668,
+        "population": 26569
+    },
+    {
+        "id": 296852,
+        "name": "Erzin",
+        "region": "Hatay",
+        "lat": 36.95348,
+        "lng": 36.19839,
+        "population": 26316
+    },
+    {
+        "id": 314716,
+        "name": "Gediz",
+        "region": "Kütahya",
+        "lat": 38.99389,
+        "lng": 29.39131,
+        "population": 26253
+    },
+    {
+        "id": 749795,
+        "name": "Çan",
+        "region": "Canakkale",
+        "lat": 40.03328,
+        "lng": 27.05236,
+        "population": 26201
+    },
+    {
+        "id": 13591680,
+        "name": "Altınşehir",
+        "region": "Adıyaman Province",
+        "lat": 37.74121,
+        "lng": 38.22897,
+        "population": 26153
+    },
+    {
+        "id": 304916,
+        "name": "Malazgirt",
+        "region": "Muş",
+        "lat": 39.1465,
+        "lng": 42.53536,
+        "population": 26108
+    },
+    {
+        "id": 297090,
+        "name": "Didim",
+        "region": "Aydın",
+        "lat": 37.38496,
+        "lng": 27.25643,
+        "population": 26000
+    },
+    {
+        "id": 751817,
+        "name": "Artvin",
+        "region": "Artvin",
+        "lat": 41.18161,
+        "lng": 41.82172,
+        "population": 25841
+    },
+    {
+        "id": 313331,
+        "name": "Güroymak",
+        "region": "Bitlis",
+        "lat": 38.5758,
+        "lng": 42.01558,
+        "population": 25826
+    },
+    {
+        "id": 739209,
+        "name": "Suşehri",
+        "region": "Sivas",
+        "lat": 40.16005,
+        "lng": 38.08413,
+        "population": 25820
+    },
+    {
+        "id": 315720,
+        "name": "Elmadağ",
+        "region": "Ankara",
+        "lat": 39.92083,
+        "lng": 33.23083,
+        "population": 25394
+    },
+    {
+        "id": 740230,
+        "name": "Sapanca",
+        "region": "Sakarya",
+        "lat": 40.69141,
+        "lng": 30.26738,
+        "population": 25224
+    },
+    {
+        "id": 746983,
+        "name": "Gelibolu",
+        "region": "Canakkale",
+        "lat": 40.40836,
+        "lng": 26.67174,
+        "population": 25178
+    },
+    {
+        "id": 738167,
+        "name": "Vezirköprü",
+        "region": "Samsun",
+        "lat": 41.14361,
+        "lng": 35.45472,
+        "population": 25155
+    },
+    {
+        "id": 752288,
+        "name": "Akyazı",
+        "region": "Sakarya",
+        "lat": 40.685,
+        "lng": 30.62222,
+        "population": 25068
+    },
+    {
+        "id": 297917,
+        "name": "Yahyalı",
+        "region": "Kayseri",
+        "lat": 38.10228,
+        "lng": 35.35704,
+        "population": 25019
+    },
+    {
+        "id": 300058,
+        "name": "Susurluk",
+        "region": "Balıkesir",
+        "lat": 39.91361,
+        "lng": 28.15778,
+        "population": 24816
+    },
+    {
+        "id": 748167,
+        "name": "Devrek",
+        "region": "Zonguldak Province",
+        "lat": 41.21917,
+        "lng": 31.95583,
+        "population": 24559
+    },
+    {
+        "id": 749502,
+        "name": "Çayeli",
+        "region": "Rize Province",
+        "lat": 41.08609,
+        "lng": 40.72213,
+        "population": 24556
+    },
+    {
+        "id": 302824,
+        "name": "Pasinler",
+        "region": "Erzurum",
+        "lat": 39.97975,
+        "lng": 41.66997,
+        "population": 24553
+    },
+    {
+        "id": 746232,
+        "name": "Gürsu",
+        "region": "Bursa Province",
+        "lat": 40.21876,
+        "lng": 29.19487,
+        "population": 24510
+    },
+    {
+        "id": 304964,
+        "name": "Mahmutlar",
+        "region": "Antalya",
+        "lat": 36.49463,
+        "lng": 32.09085,
+        "population": 24227
+    },
+    {
+        "id": 738662,
+        "name": "Tosya",
+        "region": "Kastamonu",
+        "lat": 41.01545,
+        "lng": 34.04013,
+        "population": 24013
+    },
+    {
+        "id": 743615,
+        "name": "Kahramankazan",
+        "region": "Ankara",
+        "lat": 40.23167,
+        "lng": 32.68389,
+        "population": 23889
+    },
+    {
+        "id": 743537,
+        "name": "Kelkit",
+        "region": "Gümüşhane Province",
+        "lat": 40.12682,
+        "lng": 39.43424,
+        "population": 23870
+    },
+    {
+        "id": 302800,
+        "name": "Pazarcık",
+        "region": "Kahramanmaraş",
+        "lat": 37.48685,
+        "lng": 37.29961,
+        "population": 23850
+    },
+    {
+        "id": 315639,
+        "name": "Emet",
+        "region": "Kütahya",
+        "lat": 39.343,
+        "lng": 29.25847,
+        "population": 23812
+    },
+    {
+        "id": 301537,
+        "name": "Şarkışla",
+        "region": "Sivas",
+        "lat": 39.35186,
+        "lng": 36.40976,
+        "population": 23800
+    },
+    {
+        "id": 747135,
+        "name": "Ferizli",
+        "region": "Sakarya",
+        "lat": 40.94082,
+        "lng": 30.48583,
+        "population": 23740
+    },
+    {
+        "id": 741160,
+        "name": "Oltu",
+        "region": "Erzurum",
+        "lat": 40.53945,
+        "lng": 41.98722,
+        "population": 23504
+    },
+    {
+        "id": 741487,
+        "name": "Mudanya",
+        "region": "Bursa Province",
+        "lat": 40.37524,
+        "lng": 28.8838,
+        "population": 23161
+    },
+    {
+        "id": 7458188,
+        "name": "Yakınca",
+        "region": "Malatya",
+        "lat": 38.30533,
+        "lng": 38.23828,
+        "population": 23063
+    },
+    {
+        "id": 324768,
+        "name": "Akdağmadeni",
+        "region": "Yozgat",
+        "lat": 39.66028,
+        "lng": 35.88361,
+        "population": 23048
+    },
+    {
+        "id": 306207,
+        "name": "Kovancılar",
+        "region": "Elazığ",
+        "lat": 38.71882,
+        "lng": 39.86268,
+        "population": 22976
+    },
+    {
+        "id": 311704,
+        "name": "İdil",
+        "region": "Şırnak",
+        "lat": 37.33481,
+        "lng": 41.88944,
+        "population": 22960
+    },
+    {
+        "id": 751952,
+        "name": "Ardahan",
+        "region": "Ardahan",
+        "lat": 41.10871,
+        "lng": 42.70222,
+        "population": 22927
+    },
+    {
+        "id": 747482,
+        "name": "Erdek",
+        "region": "Balıkesir",
+        "lat": 40.3996,
+        "lng": 27.79348,
+        "population": 22678
+    },
+    {
+        "id": 737081,
+        "name": "Zekeriya",
+        "region": "Istanbul",
+        "lat": 41.19806,
+        "lng": 29.03028,
+        "population": 22558
+    },
+    {
+        "id": 314648,
+        "name": "Genç",
+        "region": "Bingöl",
+        "lat": 38.74773,
+        "lng": 40.55343,
+        "population": 22493
+    },
+    {
+        "id": 745026,
+        "name": "İznik",
+        "region": "Bursa Province",
+        "lat": 40.42861,
+        "lng": 29.72111,
+        "population": 22230
+    },
+    {
+        "id": 317851,
+        "name": "Menderes",
+        "region": "İzmir Province",
+        "lat": 38.24963,
+        "lng": 27.13429,
+        "population": 21965
+    },
+    {
+        "id": 307623,
+        "name": "Kırkağaç",
+        "region": "Manisa",
+        "lat": 39.10638,
+        "lng": 27.66925,
+        "population": 21789
+    },
+    {
+        "id": 305969,
+        "name": "Küçükçiğli",
+        "region": "İzmir Province",
+        "lat": 38.502,
+        "lng": 27.053,
+        "population": 21784
+    },
+    {
+        "id": 749508,
+        "name": "Çaycuma",
+        "region": "Zonguldak Province",
+        "lat": 41.42639,
+        "lng": 32.07556,
+        "population": 21773
+    },
+    {
+        "id": 738858,
+        "name": "Tepecik",
+        "region": "Istanbul",
+        "lat": 41.02931,
+        "lng": 28.54978,
+        "population": 21699
+    },
+    {
+        "id": 744873,
+        "name": "Kağızman",
+        "region": "Kars Province",
+        "lat": 40.15669,
+        "lng": 43.13424,
+        "population": 21666
+    },
+    {
+        "id": 320581,
+        "name": "Bozova",
+        "region": "Şanlıurfa",
+        "lat": 37.3625,
+        "lng": 38.52667,
+        "population": 21502
+    },
+    {
+        "id": 745714,
+        "name": "Havza",
+        "region": "Samsun",
+        "lat": 40.97056,
+        "lng": 35.66222,
+        "population": 21500
+    },
+    {
+        "id": 8069036,
+        "name": "Cikcilli",
+        "region": "Antalya",
+        "lat": 36.55403,
+        "lng": 32.02962,
+        "population": 21449
+    },
+    {
+        "id": 317241,
+        "name": "Demirci",
+        "region": "Manisa",
+        "lat": 39.04607,
+        "lng": 28.65889,
+        "population": 21378
+    },
+    {
+        "id": 318372,
+        "name": "Çine",
+        "region": "Aydın",
+        "lat": 37.61266,
+        "lng": 28.05912,
+        "population": 21327
+    },
+    {
+        "id": 313013,
+        "name": "Hacılar",
+        "region": "Kayseri",
+        "lat": 38.64386,
+        "lng": 35.45127,
+        "population": 21167
+    },
+    {
+        "id": 318766,
+        "name": "Çermik",
+        "region": "Diyarbakır Province",
+        "lat": 38.13538,
+        "lng": 39.445,
+        "population": 20975
+    },
+    {
+        "id": 13713184,
+        "name": "Yenişehir",
+        "region": "Kars Province",
+        "lat": 40.58334,
+        "lng": 43.09487,
+        "population": 20924
+    },
+    {
+        "id": 752184,
+        "name": "Alaplı",
+        "region": "Zonguldak Province",
+        "lat": 41.1814,
+        "lng": 31.38514,
+        "population": 20890
+    },
+    {
+        "id": 317587,
+        "name": "Dargeçit",
+        "region": "Mardin",
+        "lat": 37.54616,
+        "lng": 41.71652,
+        "population": 20793
+    },
+    {
+        "id": 8623183,
+        "name": "Çubuklu",
+        "region": "Istanbul",
+        "lat": 41.10419,
+        "lng": 29.08331,
+        "population": 20698
+    },
+    {
+        "id": 9921442,
+        "name": "Evka-Üç",
+        "region": "İzmir Province",
+        "lat": 38.47071,
+        "lng": 27.25094,
+        "population": 20600
+    },
+    {
+        "id": 310004,
+        "name": "Karaçoban",
+        "region": "Erzurum",
+        "lat": 39.34364,
+        "lng": 42.09918,
+        "population": 20467
+    },
+    {
+        "id": 306474,
+        "name": "Korkuteli",
+        "region": "Antalya",
+        "lat": 37.06498,
+        "lng": 30.19565,
+        "population": 20465
+    },
+    {
+        "id": 317588,
+        "name": "Darende",
+        "region": "Malatya",
+        "lat": 38.54583,
+        "lng": 37.50583,
+        "population": 20388
+    },
+    {
+        "id": 743624,
+        "name": "Kaynaşlı",
+        "region": "Düzce",
+        "lat": 40.76917,
+        "lng": 31.32211,
+        "population": 20379
+    },
+    {
+        "id": 746898,
+        "name": "Geyve",
+        "region": "Sakarya",
+        "lat": 40.5075,
+        "lng": 30.2925,
+        "population": 20199
+    },
+    {
+        "id": 321572,
+        "name": "Belen",
+        "region": "Hatay",
+        "lat": 36.48866,
+        "lng": 36.19489,
+        "population": 20113
+    },
+    {
+        "id": 312899,
+        "name": "Hadim",
+        "region": "Konya",
+        "lat": 36.98776,
+        "lng": 32.45674,
+        "population": 20110
+    },
+    {
+        "id": 315621,
+        "name": "Emirdağ",
+        "region": "Afyonkarahisar Province",
+        "lat": 39.01972,
+        "lng": 31.15,
+        "population": 20063
+    },
+    {
+        "id": 739215,
+        "name": "Sürmene",
+        "region": "Trabzon",
+        "lat": 40.90588,
+        "lng": 40.12792,
+        "population": 20039
+    },
+    {
+        "id": 745076,
+        "name": "İskilip",
+        "region": "Çorum",
+        "lat": 40.73528,
+        "lng": 34.47389,
+        "population": 19829
+    },
+    {
+        "id": 745697,
+        "name": "Hayrabolu",
+        "region": "Tekirdağ",
+        "lat": 41.21311,
+        "lng": 27.10688,
+        "population": 19793
+    },
+    {
+        "id": 739636,
+        "name": "Şile",
+        "region": "Istanbul",
+        "lat": 41.17891,
+        "lng": 29.61085,
+        "population": 19778
+    },
+    {
+        "id": 737421,
+        "name": "Yomra",
+        "region": "Trabzon",
+        "lat": 40.95326,
+        "lng": 39.85546,
+        "population": 19770
+    },
+    {
+        "id": 303354,
+        "name": "Ortaca",
+        "region": "Muğla",
+        "lat": 36.83915,
+        "lng": 28.76457,
+        "population": 19741
+    },
+    {
+        "id": 301350,
+        "name": "Seferihisar",
+        "region": "İzmir Province",
+        "lat": 38.1975,
+        "lng": 26.83881,
+        "population": 19596
+    },
+    {
+        "id": 447273,
+        "name": "Dalaman",
+        "region": "Muğla",
+        "lat": 36.76591,
+        "lng": 28.8028,
+        "population": 19292
+    },
+    {
+        "id": 739015,
+        "name": "Taşova",
+        "region": "Amasya",
+        "lat": 40.75972,
+        "lng": 36.3225,
+        "population": 19253
+    },
+    {
+        "id": 741347,
+        "name": "Nallıhan",
+        "region": "Ankara",
+        "lat": 40.18593,
+        "lng": 31.35179,
+        "population": 19106
+    },
+    {
+        "id": 322212,
+        "name": "Balatçık",
+        "region": "İzmir Province",
+        "lat": 38.51626,
+        "lng": 27.04752,
+        "population": 19082
+    },
+    {
+        "id": 297564,
+        "name": "Yatağan",
+        "region": "Muğla",
+        "lat": 37.34025,
+        "lng": 28.14279,
+        "population": 19020
+    },
+    {
+        "id": 301209,
+        "name": "Şemdinli",
+        "region": "Hakkâri",
+        "lat": 37.30514,
+        "lng": 44.5742,
+        "population": 18978
+    },
+    {
+        "id": 301827,
+        "name": "Sarayköy",
+        "region": "Denizli",
+        "lat": 37.92448,
+        "lng": 28.92516,
+        "population": 18937
+    },
+    {
+        "id": 316542,
+        "name": "Diyadin",
+        "region": "Ağrı",
+        "lat": 39.54056,
+        "lng": 43.67135,
+        "population": 18936
+    },
+    {
+        "id": 746252,
+        "name": "Gürgentepe",
+        "region": "Ordu",
+        "lat": 40.78995,
+        "lng": 37.60073,
+        "population": 18771
+    },
+    {
+        "id": 298088,
+        "name": "Varto",
+        "region": "Muş",
+        "lat": 39.17375,
+        "lng": 41.45402,
+        "population": 18691
+    },
+    {
+        "id": 311314,
+        "name": "İncirliova",
+        "region": "Aydın",
+        "lat": 37.85222,
+        "lng": 27.72361,
+        "population": 18572
+    },
+    {
+        "id": 438055,
+        "name": "Narlıca",
+        "region": "Hatay",
+        "lat": 36.23533,
+        "lng": 36.21458,
+        "population": 18445
+    },
+    {
+        "id": 314812,
+        "name": "Gazipaşa",
+        "region": "Antalya",
+        "lat": 36.26942,
+        "lng": 32.31792,
+        "population": 18371
+    },
+    {
+        "id": 743051,
+        "name": "Kızılcahamam",
+        "region": "Ankara",
+        "lat": 40.46972,
+        "lng": 32.65056,
+        "population": 17975
+    },
+    {
+        "id": 306626,
+        "name": "Konaklı",
+        "region": "Antalya",
+        "lat": 36.59251,
+        "lng": 31.89539,
+        "population": 17966
+    },
+    {
+        "id": 739110,
+        "name": "Tarabya",
+        "region": "Istanbul",
+        "lat": 41.13361,
+        "lng": 29.04639,
+        "population": 17852
+    },
+    {
+        "id": 749279,
+        "name": "Çerkeş",
+        "region": "Çankırı",
+        "lat": 40.81164,
+        "lng": 32.89358,
+        "population": 17802
+    },
+    {
+        "id": 296137,
+        "name": "Yumurtalık",
+        "region": "Adana",
+        "lat": 36.76863,
+        "lng": 35.78938,
+        "population": 17654
+    },
+    {
+        "id": 316102,
+        "name": "Dursunbey",
+        "region": "Balıkesir",
+        "lat": 39.58596,
+        "lng": 28.62568,
+        "population": 17532
+    },
+    {
+        "id": 745530,
+        "name": "Hopa",
+        "region": "Artvin",
+        "lat": 41.39046,
+        "lng": 41.41966,
+        "population": 17519
+    },
+    {
+        "id": 13697165,
+        "name": "Bağlar Mahallesi",
+        "region": "Iğdır",
+        "lat": 39.92775,
+        "lng": 44.04055,
+        "population": 17505
+    },
+    {
+        "id": 438400,
+        "name": "Denizciler",
+        "region": "Hatay",
+        "lat": 36.6411,
+        "lng": 36.21418,
+        "population": 17495
+    },
+    {
+        "id": 739061,
+        "name": "Taşköprü",
+        "region": "Kastamonu",
+        "lat": 41.5098,
+        "lng": 34.21414,
+        "population": 17491
+    },
+    {
+        "id": 13713185,
+        "name": "Şehitler",
+        "region": "Kars Province",
+        "lat": 40.59332,
+        "lng": 43.08745,
+        "population": 17325
+    },
+    {
+        "id": 308220,
+        "name": "Kemer",
+        "region": "Antalya",
+        "lat": 36.59778,
+        "lng": 30.56056,
+        "population": 17300
+    },
+    {
+        "id": 738907,
+        "name": "Tekkeköy",
+        "region": "Samsun",
+        "lat": 41.21167,
+        "lng": 36.46,
+        "population": 17226
+    },
+    {
+        "id": 307211,
+        "name": "Serinhisar",
+        "region": "Denizli",
+        "lat": 37.58105,
+        "lng": 29.26639,
+        "population": 17169
+    },
+    {
+        "id": 738753,
+        "name": "Tirebolu",
+        "region": "Giresun",
+        "lat": 41.00694,
+        "lng": 38.81389,
+        "population": 17124
+    },
+    {
+        "id": 322051,
+        "name": "Banaz",
+        "region": "Uşak",
+        "lat": 38.73707,
+        "lng": 29.75194,
+        "population": 17080
+    },
+    {
+        "id": 745527,
+        "name": "Horasan",
+        "region": "Erzurum",
+        "lat": 40.03885,
+        "lng": 42.16366,
+        "population": 17067
+    },
+    {
+        "id": 312134,
+        "name": "Hilvan",
+        "region": "Şanlıurfa",
+        "lat": 37.58687,
+        "lng": 38.95505,
+        "population": 16990
+    },
+    {
+        "id": 315401,
+        "name": "Ermenek",
+        "region": "Karaman",
+        "lat": 36.64043,
+        "lng": 32.89179,
+        "population": 16986
+    },
+    {
+        "id": 314665,
+        "name": "Gemerek",
+        "region": "Sivas",
+        "lat": 39.18342,
+        "lng": 36.07189,
+        "population": 16916
+    },
+    {
+        "id": 315905,
+        "name": "Eğirdir",
+        "region": "Isparta",
+        "lat": 37.87462,
+        "lng": 30.85042,
+        "population": 16891
+    },
+    {
+        "id": 321786,
+        "name": "Bayındır",
+        "region": "İzmir Province",
+        "lat": 38.21741,
+        "lng": 27.64744,
+        "population": 16850
+    },
+    {
+        "id": 301089,
+        "name": "Serinyol",
+        "region": "Hatay",
+        "lat": 36.36139,
+        "lng": 36.21361,
+        "population": 16753
+    },
+    {
+        "id": 742658,
+        "name": "Korgan",
+        "region": "Ordu",
+        "lat": 40.82472,
+        "lng": 37.34667,
+        "population": 16733
+    },
+    {
+        "id": 298326,
+        "name": "Ürgüp",
+        "region": "Nevşehir Province",
+        "lat": 38.6296,
+        "lng": 34.91199,
+        "population": 16642
+    },
+    {
+        "id": 315697,
+        "name": "Elmalı",
+        "region": "Antalya",
+        "lat": 36.73583,
+        "lng": 29.91775,
+        "population": 16587
+    },
+    {
+        "id": 304196,
+        "name": "Mucur",
+        "region": "Kırşehir",
+        "lat": 39.06147,
+        "lng": 34.38286,
+        "population": 16522
+    },
+    {
+        "id": 6620290,
+        "name": "Turgutreis",
+        "region": "Muğla",
+        "lat": 37.01667,
+        "lng": 27.26667,
+        "population": 16490
+    },
+    {
+        "id": 305089,
+        "name": "Lice",
+        "region": "Diyarbakır Province",
+        "lat": 38.45821,
+        "lng": 40.63888,
+        "population": 16336
+    },
+    {
+        "id": 744716,
+        "name": "Kandıra",
+        "region": "Kocaeli",
+        "lat": 41.07,
+        "lng": 30.15262,
+        "population": 16264
+    },
+    {
+        "id": 751931,
+        "name": "Arhavi",
+        "region": "Artvin",
+        "lat": 41.35121,
+        "lng": 41.30456,
+        "population": 16217
+    },
+    {
+        "id": 751838,
+        "name": "Arsin",
+        "region": "Trabzon",
+        "lat": 40.95271,
+        "lng": 39.92674,
+        "population": 16148
+    },
+    {
+        "id": 6692524,
+        "name": "Sarigerme",
+        "region": "Muğla",
+        "lat": 36.71549,
+        "lng": 28.70436,
+        "population": 16000
+    },
+    {
+        "id": 321929,
+        "name": "Baskil",
+        "region": "Elazığ",
+        "lat": 38.56866,
+        "lng": 38.81634,
+        "population": 15922
+    },
+    {
+        "id": 301172,
+        "name": "Senirkent",
+        "region": "Isparta",
+        "lat": 38.10444,
+        "lng": 30.54861,
+        "population": 15919
+    },
+    {
+        "id": 745039,
+        "name": "İstinye",
+        "region": "Istanbul",
+        "lat": 41.11008,
+        "lng": 29.05094,
+        "population": 15721
+    },
+    {
+        "id": 740881,
+        "name": "Osmaneli",
+        "region": "Bilecik",
+        "lat": 40.35722,
+        "lng": 30.01417,
+        "population": 15708
+    },
+    {
+        "id": 315061,
+        "name": "Ezine",
+        "region": "Canakkale",
+        "lat": 39.78561,
+        "lng": 26.34083,
+        "population": 15677
+    },
+    {
+        "id": 319357,
+        "name": "Çat",
+        "region": "Erzurum",
+        "lat": 39.61398,
+        "lng": 40.97824,
+        "population": 15556
+    },
+    {
+        "id": 320004,
+        "name": "Çağlayancerit",
+        "region": "Kahramanmaraş",
+        "lat": 37.74523,
+        "lng": 37.28618,
+        "population": 15530
+    },
+    {
+        "id": 323094,
+        "name": "Aşkale",
+        "region": "Erzurum",
+        "lat": 39.92083,
+        "lng": 40.695,
+        "population": 15462
+    },
+    {
+        "id": 13713176,
+        "name": "Şahindere",
+        "region": "Kars Province",
+        "lat": 40.14153,
+        "lng": 43.11934,
+        "population": 15457
+    },
+    {
+        "id": 319528,
+        "name": "Kestel",
+        "region": "Antalya",
+        "lat": 36.50861,
+        "lng": 32.08278,
+        "population": 15445
+    },
+    {
+        "id": 740088,
+        "name": "Sarıkamış",
+        "region": "Kars Province",
+        "lat": 40.32769,
+        "lng": 42.58705,
+        "population": 15433
+    },
+    {
+        "id": 300377,
+        "name": "Solhan",
+        "region": "Bingöl",
+        "lat": 38.96525,
+        "lng": 41.05443,
+        "population": 15303
+    },
+    {
+        "id": 312024,
+        "name": "Hizan",
+        "region": "Bitlis",
+        "lat": 38.22498,
+        "lng": 42.4183,
+        "population": 15302
+    },
+    {
+        "id": 310907,
+        "name": "Kadınhanı",
+        "region": "Konya",
+        "lat": 38.23972,
+        "lng": 32.21139,
+        "population": 15301
+    },
+    {
+        "id": 321136,
+        "name": "Bigadiç",
+        "region": "Balıkesir",
+        "lat": 39.3925,
+        "lng": 28.13111,
+        "population": 15242
+    },
+    {
+        "id": 296829,
+        "name": "Yeşilova",
+        "region": "Adana",
+        "lat": 38.15566,
+        "lng": 36.25758,
+        "population": 15242
+    },
+    {
+        "id": 752489,
+        "name": "Akhisar",
+        "region": "Bursa Province",
+        "lat": 40.11825,
+        "lng": 29.46623,
+        "population": 15198
+    },
+    {
+        "id": 299643,
+        "name": "Taşucu",
+        "region": "Mersin",
+        "lat": 36.3214,
+        "lng": 33.88165,
+        "population": 15184
+    },
+    {
+        "id": 742902,
+        "name": "Kocaali",
+        "region": "Sakarya",
+        "lat": 41.05336,
+        "lng": 30.85278,
+        "population": 15076
+    },
+    {
+        "id": 831432,
+        "name": "Espiye",
+        "region": "Giresun",
+        "lat": 40.94705,
+        "lng": 38.70299,
+        "population": 15058
+    }
+]

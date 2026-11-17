@@ -1,0 +1,1178 @@
+[
+    {
+        "id": 3871336,
+        "name": "Santiago",
+        "region": "Santiago Metropolitan",
+        "lat": -33.45694,
+        "lng": -70.64827,
+        "population": 4837295
+    },
+    {
+        "id": 3875024,
+        "name": "Puente Alto",
+        "region": "Santiago Metropolitan",
+        "lat": -33.61169,
+        "lng": -70.57577,
+        "population": 568106
+    },
+    {
+        "id": 3880980,
+        "name": "Maipú",
+        "region": "Santiago Metropolitan",
+        "lat": -33.51421,
+        "lng": -70.7651,
+        "population": 503635
+    },
+    {
+        "id": 3899539,
+        "name": "Antofagasta",
+        "region": "Antofagasta",
+        "lat": -23.65094,
+        "lng": -70.39752,
+        "population": 401096
+    },
+    {
+        "id": 3868121,
+        "name": "Viña del Mar",
+        "region": "Valparaiso",
+        "lat": -33.02457,
+        "lng": -71.55183,
+        "population": 334248
+    },
+    {
+        "id": 3868626,
+        "name": "Valparaíso",
+        "region": "Valparaiso",
+        "lat": -33.036,
+        "lng": -71.62963,
+        "population": 282448
+    },
+    {
+        "id": 3878431,
+        "name": "Ñuñoa",
+        "region": "Santiago Metropolitan",
+        "lat": -33.44735,
+        "lng": -70.58279,
+        "population": 255823
+    },
+    {
+        "id": 3872348,
+        "name": "San Bernardo",
+        "region": "Santiago Metropolitan",
+        "lat": -33.59217,
+        "lng": -70.6996,
+        "population": 249858
+    },
+    {
+        "id": 3874960,
+        "name": "Puerto Montt",
+        "region": "Los Lagos Region",
+        "lat": -41.4693,
+        "lng": -72.94237,
+        "population": 245902
+    },
+    {
+        "id": 3899361,
+        "name": "Arica",
+        "region": "Arica y Parinacota Region",
+        "lat": -18.47552,
+        "lng": -70.30058,
+        "population": 241653
+    },
+    {
+        "id": 3876682,
+        "name": "Peñalolén",
+        "region": "Santiago Metropolitan",
+        "lat": -33.46836,
+        "lng": -70.53411,
+        "population": 241599
+    },
+    {
+        "id": 3870011,
+        "name": "Temuco",
+        "region": "Araucania",
+        "lat": -38.73628,
+        "lng": -72.59738,
+        "population": 238129
+    },
+    {
+        "id": 3893894,
+        "name": "Concepción",
+        "region": "Biobio",
+        "lat": -36.82699,
+        "lng": -73.04977,
+        "population": 223574
+    },
+    {
+        "id": 3873775,
+        "name": "Rancagua",
+        "region": "O'Higgins Region",
+        "lat": -34.1691,
+        "lng": -70.74053,
+        "population": 212695
+    },
+    {
+        "id": 3874212,
+        "name": "Quilicura",
+        "region": "Santiago Metropolitan",
+        "lat": -33.36799,
+        "lng": -70.71388,
+        "population": 210410
+    },
+    {
+        "id": 7281017,
+        "name": "La Pintana",
+        "region": "Santiago Metropolitan",
+        "lat": -33.58331,
+        "lng": -70.63419,
+        "population": 201178
+    },
+    {
+        "id": 3887127,
+        "name": "Iquique",
+        "region": "Tarapacá",
+        "lat": -20.21326,
+        "lng": -70.15027,
+        "population": 199587
+    },
+    {
+        "id": 3870294,
+        "name": "Talca",
+        "region": "Maule Region",
+        "lat": -35.4232,
+        "lng": -71.64974,
+        "population": 197479
+    },
+    {
+        "id": 3897347,
+        "name": "Calama",
+        "region": "Antofagasta",
+        "lat": -22.45667,
+        "lng": -68.92371,
+        "population": 166334
+    },
+    {
+        "id": 3893629,
+        "name": "Coquimbo",
+        "region": "Coquimbo Region",
+        "lat": -29.95332,
+        "lng": -71.33947,
+        "population": 161317
+    },
+    {
+        "id": 3884373,
+        "name": "La Serena",
+        "region": "Coquimbo Region",
+        "lat": -29.90591,
+        "lng": -71.25014,
+        "population": 154521
+    },
+    {
+        "id": 3870282,
+        "name": "Talcahuano",
+        "region": "Biobio",
+        "lat": -36.72494,
+        "lng": -73.11684,
+        "population": 150499
+    },
+    {
+        "id": 3895088,
+        "name": "Chillán",
+        "region": "Ñuble",
+        "lat": -36.60664,
+        "lng": -72.10344,
+        "population": 150396
+    },
+    {
+        "id": 3873454,
+        "name": "Renca",
+        "region": "Santiago Metropolitan",
+        "lat": -33.4019,
+        "lng": -70.70619,
+        "population": 147151
+    },
+    {
+        "id": 3894242,
+        "name": "Colina",
+        "region": "Santiago Metropolitan",
+        "lat": -33.20443,
+        "lng": -70.67474,
+        "population": 146207
+    },
+    {
+        "id": 3899887,
+        "name": "Alto Hospicio",
+        "region": "Tarapacá",
+        "lat": -20.26871,
+        "lng": -70.1049,
+        "population": 142086
+    },
+    {
+        "id": 3877949,
+        "name": "Osorno",
+        "region": "Los Lagos Region",
+        "lat": -40.57395,
+        "lng": -73.13348,
+        "population": 135773
+    },
+    {
+        "id": 3868707,
+        "name": "Valdivia",
+        "region": "Los Ríos Region",
+        "lat": -39.81422,
+        "lng": -73.24589,
+        "population": 133419
+    },
+    {
+        "id": 11947989,
+        "name": "Villa Mercedes",
+        "region": "Biobio",
+        "lat": -37.40421,
+        "lng": -71.97949,
+        "population": 131936
+    },
+    {
+        "id": 3874096,
+        "name": "Quilpué",
+        "region": "Valparaiso",
+        "lat": -33.04752,
+        "lng": -71.44249,
+        "population": 130263
+    },
+    {
+        "id": 3893656,
+        "name": "Copiapó",
+        "region": "Atacama",
+        "lat": -27.36737,
+        "lng": -70.33219,
+        "population": 129280
+    },
+    {
+        "id": 3882428,
+        "name": "Los Ángeles",
+        "region": "Biobio",
+        "lat": -37.46973,
+        "lng": -72.35366,
+        "population": 125430
+    },
+    {
+        "id": 6693576,
+        "name": "San Pedro de la Paz",
+        "region": "Biobio",
+        "lat": -36.83897,
+        "lng": -73.10028,
+        "population": 121631
+    },
+    {
+        "id": 3874787,
+        "name": "Punta Arenas",
+        "region": "Region of Magallanes",
+        "lat": -53.16282,
+        "lng": -70.90922,
+        "population": 117430
+    },
+    {
+        "id": 3893532,
+        "name": "Coronel",
+        "region": "Biobio",
+        "lat": -37.03386,
+        "lng": -73.14019,
+        "population": 107759
+    },
+    {
+        "id": 7281020,
+        "name": "Lo Prado",
+        "region": "Santiago Metropolitan",
+        "lat": -33.4443,
+        "lng": -70.72552,
+        "population": 104316
+    },
+    {
+        "id": 3892870,
+        "name": "Curicó",
+        "region": "Maule Region",
+        "lat": -34.98279,
+        "lng": -71.23943,
+        "population": 102438
+    },
+    {
+        "id": 3885273,
+        "name": "Lampa",
+        "region": "Santiago Metropolitan",
+        "lat": -33.2863,
+        "lng": -70.87561,
+        "population": 102234
+    },
+    {
+        "id": 3868192,
+        "name": "Villa Alemana",
+        "region": "Valparaiso",
+        "lat": -33.04823,
+        "lng": -71.3729,
+        "population": 97320
+    },
+    {
+        "id": 3872395,
+        "name": "San Antonio",
+        "region": "Valparaiso",
+        "lat": -33.59473,
+        "lng": -71.60746,
+        "population": 87675
+    },
+    {
+        "id": 3887781,
+        "name": "Hualpén",
+        "region": "Biobio",
+        "lat": -36.78908,
+        "lng": -73.10165,
+        "population": 86639
+    },
+    {
+        "id": 3876685,
+        "name": "Peñaflor",
+        "region": "Santiago Metropolitan",
+        "lat": -33.60627,
+        "lng": -70.87649,
+        "population": 85671
+    },
+    {
+        "id": 3895138,
+        "name": "Chiguayante",
+        "region": "Biobio",
+        "lat": -36.9256,
+        "lng": -73.02841,
+        "population": 84718
+    },
+    {
+        "id": 3877918,
+        "name": "Ovalle",
+        "region": "Coquimbo Region",
+        "lat": -30.60106,
+        "lng": -71.19901,
+        "population": 77138
+    },
+    {
+        "id": 3877793,
+        "name": "Padre Las Casas",
+        "region": "Araucania",
+        "lat": -38.76081,
+        "lng": -72.5982,
+        "population": 72892
+    },
+    {
+        "id": 3877739,
+        "name": "Paine",
+        "region": "Santiago Metropolitan",
+        "lat": -33.80796,
+        "lng": -70.74109,
+        "population": 72759
+    },
+    {
+        "id": 3883167,
+        "name": "Linares",
+        "region": "Maule Region",
+        "lat": -35.84667,
+        "lng": -71.59308,
+        "population": 69535
+    },
+    {
+        "id": 3874119,
+        "name": "Quillota",
+        "region": "Valparaiso",
+        "lat": -32.88341,
+        "lng": -71.24882,
+        "population": 67779
+    },
+    {
+        "id": 3897774,
+        "name": "Buin",
+        "region": "Santiago Metropolitan",
+        "lat": -33.73257,
+        "lng": -70.74281,
+        "population": 63419
+    },
+    {
+        "id": 3877794,
+        "name": "Padre Hurtado",
+        "region": "Santiago Metropolitan",
+        "lat": -33.56839,
+        "lng": -70.80584,
+        "population": 63250
+    },
+    {
+        "id": 3880107,
+        "name": "Melipilla",
+        "region": "Santiago Metropolitan",
+        "lat": -33.68909,
+        "lng": -71.21528,
+        "population": 63100
+    },
+    {
+        "id": 3882434,
+        "name": "Los Andes",
+        "region": "Valparaiso",
+        "lat": -32.83369,
+        "lng": -70.59827,
+        "population": 63009
+    },
+    {
+        "id": 3872255,
+        "name": "San Felipe",
+        "region": "Valparaiso",
+        "lat": -32.74976,
+        "lng": -70.72584,
+        "population": 59294
+    },
+    {
+        "id": 3870306,
+        "name": "Talagante",
+        "region": "Santiago Metropolitan",
+        "lat": -33.66386,
+        "lng": -70.92734,
+        "population": 57323
+    },
+    {
+        "id": 3869657,
+        "name": "Tomé",
+        "region": "Biobio",
+        "lat": -36.61756,
+        "lng": -72.95593,
+        "population": 53219
+    },
+    {
+        "id": 3886405,
+        "name": "La Calera",
+        "region": "Valparaiso",
+        "lat": -32.78676,
+        "lng": -71.19795,
+        "population": 50221
+    },
+    {
+        "id": 3868158,
+        "name": "Villarrica",
+        "region": "Araucania",
+        "lat": -39.28569,
+        "lng": -72.2279,
+        "population": 49184
+    },
+    {
+        "id": 3888214,
+        "name": "Hacienda La Calera",
+        "region": "Valparaiso",
+        "lat": -32.78333,
+        "lng": -71.21667,
+        "population": 49106
+    },
+    {
+        "id": 3881276,
+        "name": "Lota",
+        "region": "Biobio",
+        "lat": -37.08994,
+        "lng": -73.1577,
+        "population": 47339
+    },
+    {
+        "id": 3883214,
+        "name": "Limache",
+        "region": "Valparaiso",
+        "lat": -33.01327,
+        "lng": -71.26084,
+        "population": 46121
+    },
+    {
+        "id": 3876664,
+        "name": "Penco",
+        "region": "Biobio",
+        "lat": -36.74075,
+        "lng": -72.99528,
+        "population": 46091
+    },
+    {
+        "id": 3894426,
+        "name": "Coyhaique",
+        "region": "Aysén",
+        "lat": -45.57524,
+        "lng": -72.06619,
+        "population": 45787
+    },
+    {
+        "id": 3868633,
+        "name": "Vallenar",
+        "region": "Atacama",
+        "lat": -28.57617,
+        "lng": -70.75938,
+        "population": 44895
+    },
+    {
+        "id": 3899629,
+        "name": "Angol",
+        "region": "Araucania",
+        "lat": -37.79519,
+        "lng": -72.71636,
+        "population": 44856
+    },
+    {
+        "id": 3871276,
+        "name": "San Vicente de Tagua Tagua",
+        "region": "O'Higgins Region",
+        "lat": -34.43859,
+        "lng": -71.07751,
+        "population": 44046
+    },
+    {
+        "id": 3881102,
+        "name": "Machalí",
+        "region": "O'Higgins Region",
+        "lat": -34.18082,
+        "lng": -70.64933,
+        "population": 42572
+    },
+    {
+        "id": 3893865,
+        "name": "Concón",
+        "region": "Valparaiso",
+        "lat": -32.92203,
+        "lng": -71.51619,
+        "population": 42152
+    },
+    {
+        "id": 3896218,
+        "name": "Castro",
+        "region": "Los Lagos Region",
+        "lat": -42.4721,
+        "lng": -73.77319,
+        "population": 41667
+    },
+    {
+        "id": 3893726,
+        "name": "Constitución",
+        "region": "Maule Region",
+        "lat": -35.33321,
+        "lng": -72.41156,
+        "population": 41207
+    },
+    {
+        "id": 3899695,
+        "name": "Ancud",
+        "region": "Los Lagos Region",
+        "lat": -41.8707,
+        "lng": -73.81622,
+        "population": 40819
+    },
+    {
+        "id": 3879627,
+        "name": "Molina",
+        "region": "Maule Region",
+        "lat": -35.11428,
+        "lng": -71.28232,
+        "population": 40329
+    },
+    {
+        "id": 3872154,
+        "name": "San Javier",
+        "region": "Maule Region",
+        "lat": -35.5952,
+        "lng": -71.72924,
+        "population": 40189
+    },
+    {
+        "id": 3872306,
+        "name": "San Clemente",
+        "region": "Maule Region",
+        "lat": -35.53777,
+        "lng": -71.487,
+        "population": 39538
+    },
+    {
+        "id": 3875684,
+        "name": "Placilla",
+        "region": "Valparaiso",
+        "lat": -33.1144,
+        "lng": -71.56806,
+        "population": 39344
+    },
+    {
+        "id": 3896105,
+        "name": "Cauquenes",
+        "region": "Maule Region",
+        "lat": -35.9671,
+        "lng": -72.32248,
+        "population": 38522
+    },
+    {
+        "id": 3873441,
+        "name": "Rengo",
+        "region": "O'Higgins Region",
+        "lat": -34.40639,
+        "lng": -70.85834,
+        "population": 38100
+    },
+    {
+        "id": 3874930,
+        "name": "Puerto Varas",
+        "region": "Los Lagos Region",
+        "lat": -41.31946,
+        "lng": -72.98538,
+        "population": 37561
+    },
+    {
+        "id": 3886460,
+        "name": "Labranza",
+        "region": "Araucania",
+        "lat": -38.76523,
+        "lng": -72.75296,
+        "population": 35893
+    },
+    {
+        "id": 3871616,
+        "name": "Santa Cruz",
+        "region": "O'Higgins Region",
+        "lat": -34.63881,
+        "lng": -71.36576,
+        "population": 34914
+    },
+    {
+        "id": 3883615,
+        "name": "Lautaro",
+        "region": "Araucania",
+        "lat": -38.53066,
+        "lng": -72.43652,
+        "population": 34268
+    },
+    {
+        "id": 3895061,
+        "name": "Chimbarongo",
+        "region": "O'Higgins Region",
+        "lat": -34.71247,
+        "lng": -71.0434,
+        "population": 33446
+    },
+    {
+        "id": 3897334,
+        "name": "Calbuco",
+        "region": "Los Lagos Region",
+        "lat": -41.77338,
+        "lng": -73.13049,
+        "population": 32963
+    },
+    {
+        "id": 3877348,
+        "name": "Panguipulli",
+        "region": "Los Ríos Region",
+        "lat": -39.64355,
+        "lng": -72.33269,
+        "population": 32525
+    },
+    {
+        "id": 3868326,
+        "name": "Victoria",
+        "region": "Araucania",
+        "lat": -38.23291,
+        "lng": -72.33292,
+        "population": 32448
+    },
+    {
+        "id": 3885456,
+        "name": "La Ligua",
+        "region": "Valparaiso",
+        "lat": -32.45242,
+        "lng": -71.23106,
+        "population": 32131
+    },
+    {
+        "id": 3892892,
+        "name": "Curanilahue",
+        "region": "Biobio",
+        "lat": -37.47793,
+        "lng": -73.34495,
+        "population": 32000
+    },
+    {
+        "id": 3950116,
+        "name": "Cañete",
+        "region": "Biobio",
+        "lat": -37.8,
+        "lng": -73.38333,
+        "population": 31805
+    },
+    {
+        "id": 3872326,
+        "name": "San Carlos",
+        "region": "Ñuble",
+        "lat": -36.42477,
+        "lng": -71.958,
+        "population": 31517
+    },
+    {
+        "id": 3873145,
+        "name": "Río Bueno",
+        "region": "Los Ríos Region",
+        "lat": -40.33494,
+        "lng": -72.95564,
+        "population": 31366
+    },
+    {
+        "id": 6458708,
+        "name": "Las Animas",
+        "region": "Los Ríos Region",
+        "lat": -39.80867,
+        "lng": -73.21821,
+        "population": 30000
+    },
+    {
+        "id": 3878456,
+        "name": "Nueva Imperial",
+        "region": "Araucania",
+        "lat": -38.74451,
+        "lng": -72.95025,
+        "population": 29366
+    },
+    {
+        "id": 3895079,
+        "name": "Chillán Viejo",
+        "region": "Ñuble",
+        "lat": -36.62297,
+        "lng": -72.13194,
+        "population": 28735
+    },
+    {
+        "id": 3882559,
+        "name": "Longaví",
+        "region": "Maule Region",
+        "lat": -35.96496,
+        "lng": -71.6836,
+        "population": 28499
+    },
+    {
+        "id": 3868308,
+        "name": "Vicuña",
+        "region": "Coquimbo Region",
+        "lat": -30.03541,
+        "lng": -70.71274,
+        "population": 27771
+    },
+    {
+        "id": 3897557,
+        "name": "Cabrero",
+        "region": "Biobio",
+        "lat": -37.03394,
+        "lng": -72.40468,
+        "population": 27595
+    },
+    {
+        "id": 3879200,
+        "name": "Mulchén",
+        "region": "Biobio",
+        "lat": -37.71893,
+        "lng": -72.24099,
+        "population": 27557
+    },
+    {
+        "id": 3875070,
+        "name": "Pucón",
+        "region": "Araucania",
+        "lat": -39.28223,
+        "lng": -71.95427,
+        "population": 26953
+    },
+    {
+        "id": 3877146,
+        "name": "Parral",
+        "region": "Maule Region",
+        "lat": -36.14311,
+        "lng": -71.82605,
+        "population": 26904
+    },
+    {
+        "id": 3879123,
+        "name": "Nacimiento",
+        "region": "Biobio",
+        "lat": -37.50253,
+        "lng": -72.67307,
+        "population": 26523
+    },
+    {
+        "id": 3890949,
+        "name": "El Monte",
+        "region": "Santiago Metropolitan",
+        "lat": -33.67969,
+        "lng": -70.98482,
+        "population": 26459
+    },
+    {
+        "id": 3883629,
+        "name": "La Unión",
+        "region": "Los Ríos Region",
+        "lat": -40.29313,
+        "lng": -73.08167,
+        "population": 26298
+    },
+    {
+        "id": 3869716,
+        "name": "Tocopilla",
+        "region": "Antofagasta",
+        "lat": -22.09198,
+        "lng": -70.19792,
+        "population": 25400
+    },
+    {
+        "id": 3894406,
+        "name": "Coihueco",
+        "region": "Ñuble",
+        "lat": -36.62785,
+        "lng": -71.83068,
+        "population": 25159
+    },
+    {
+        "id": 3899462,
+        "name": "Arauco",
+        "region": "Biobio",
+        "lat": -37.2463,
+        "lng": -73.31752,
+        "population": 24659
+    },
+    {
+        "id": 3896410,
+        "name": "Casablanca",
+        "region": "Valparaiso",
+        "lat": -33.31712,
+        "lng": -71.40311,
+        "population": 24537
+    },
+    {
+        "id": 3896774,
+        "name": "Carahue",
+        "region": "Araucania",
+        "lat": -38.71122,
+        "lng": -73.16101,
+        "population": 24377
+    },
+    {
+        "id": 3888523,
+        "name": "Hualqui",
+        "region": "Biobio",
+        "lat": -36.97266,
+        "lng": -72.93559,
+        "population": 24333
+    },
+    {
+        "id": 3894177,
+        "name": "Collipulli",
+        "region": "Araucania",
+        "lat": -37.95453,
+        "lng": -72.43438,
+        "population": 23321
+    },
+    {
+        "id": 3888749,
+        "name": "Graneros",
+        "region": "O'Higgins Region",
+        "lat": -34.06863,
+        "lng": -70.72747,
+        "population": 23301
+    },
+    {
+        "id": 3887344,
+        "name": "Illapel",
+        "region": "Coquimbo Region",
+        "lat": -31.63349,
+        "lng": -71.16967,
+        "population": 22816
+    },
+    {
+        "id": 3883035,
+        "name": "Llaillay",
+        "region": "Valparaiso",
+        "lat": -32.84043,
+        "lng": -70.95623,
+        "population": 22659
+    },
+    {
+        "id": 3871286,
+        "name": "San Vicente",
+        "region": "O'Higgins Region",
+        "lat": -34.43333,
+        "lng": -71.08333,
+        "population": 22572
+    },
+    {
+        "id": 3868210,
+        "name": "Vilcún",
+        "region": "Araucania",
+        "lat": -38.66875,
+        "lng": -72.22565,
+        "population": 22499
+    },
+    {
+        "id": 3889322,
+        "name": "Freire",
+        "region": "Araucania",
+        "lat": -38.95252,
+        "lng": -72.62653,
+        "population": 22390
+    },
+    {
+        "id": 3883457,
+        "name": "Lebu",
+        "region": "Biobio",
+        "lat": -37.60825,
+        "lng": -73.65356,
+        "population": 22345
+    },
+    {
+        "id": 3873983,
+        "name": "Quintero",
+        "region": "Valparaiso",
+        "lat": -32.78588,
+        "lng": -71.53222,
+        "population": 22174
+    },
+    {
+        "id": 3875746,
+        "name": "Pitrufquén",
+        "region": "Araucania",
+        "lat": -38.98635,
+        "lng": -72.63721,
+        "population": 21981
+    },
+    {
+        "id": 3874943,
+        "name": "Quellón",
+        "region": "Los Lagos Region",
+        "lat": -43.11819,
+        "lng": -73.61661,
+        "population": 21823
+    },
+    {
+        "id": 3882582,
+        "name": "Loncoche",
+        "region": "Araucania",
+        "lat": -39.36708,
+        "lng": -72.63087,
+        "population": 21458
+    },
+    {
+        "id": 3874579,
+        "name": "Purranque",
+        "region": "Los Lagos Region",
+        "lat": -40.91305,
+        "lng": -73.15913,
+        "population": 20705
+    },
+    {
+        "id": 3896924,
+        "name": "Cañete",
+        "region": "Biobio",
+        "lat": -37.80128,
+        "lng": -73.39616,
+        "population": 20158
+    },
+    {
+        "id": 3882460,
+        "name": "Los Álamos",
+        "region": "Biobio",
+        "lat": -37.62797,
+        "lng": -73.46008,
+        "population": 19494
+    },
+    {
+        "id": 3897595,
+        "name": "Cabildo",
+        "region": "Valparaiso",
+        "lat": -32.43134,
+        "lng": -71.07167,
+        "population": 19315
+    },
+    {
+        "id": 3877744,
+        "name": "Paillaco",
+        "region": "Los Ríos Region",
+        "lat": -40.06822,
+        "lng": -72.87935,
+        "population": 19088
+    },
+    {
+        "id": 3874958,
+        "name": "Puerto Natales",
+        "region": "Region of Magallanes",
+        "lat": -51.72987,
+        "lng": -72.50603,
+        "population": 18505
+    },
+    {
+        "id": 3892934,
+        "name": "Curacaví",
+        "region": "Santiago Metropolitan",
+        "lat": -33.39762,
+        "lng": -71.12708,
+        "population": 18378
+    },
+    {
+        "id": 3881285,
+        "name": "Los Vilos",
+        "region": "Coquimbo Region",
+        "lat": -31.91292,
+        "lng": -71.50045,
+        "population": 18275
+    },
+    {
+        "id": 3896433,
+        "name": "Cartagena",
+        "region": "Valparaiso",
+        "lat": -33.55384,
+        "lng": -71.60761,
+        "population": 17978
+    },
+    {
+        "id": 3894319,
+        "name": "Colbún",
+        "region": "Maule Region",
+        "lat": -35.69494,
+        "lng": -71.40568,
+        "population": 17619
+    },
+    {
+        "id": 3872648,
+        "name": "Sagrada Familia",
+        "region": "Maule Region",
+        "lat": -34.99919,
+        "lng": -71.38424,
+        "population": 17569
+    },
+    {
+        "id": 3874122,
+        "name": "Quillón",
+        "region": "Ñuble",
+        "lat": -36.74553,
+        "lng": -72.47481,
+        "population": 17485
+    },
+    {
+        "id": 3886176,
+        "name": "La Cruz",
+        "region": "Valparaiso",
+        "lat": -32.82748,
+        "lng": -71.22634,
+        "population": 17310
+    },
+    {
+        "id": 3869381,
+        "name": "Traiguén",
+        "region": "Araucania",
+        "lat": -38.2496,
+        "lng": -72.67027,
+        "population": 17164
+    },
+    {
+        "id": 3872264,
+        "name": "San Esteban",
+        "region": "Valparaiso",
+        "lat": -32.79871,
+        "lng": -70.5807,
+        "population": 17090
+    },
+    {
+        "id": 3890596,
+        "name": "El Quisco",
+        "region": "Valparaiso",
+        "lat": -33.39772,
+        "lng": -71.69388,
+        "population": 16967
+    },
+    {
+        "id": 3874997,
+        "name": "Puerto Aysén",
+        "region": "Aysén",
+        "lat": -45.40303,
+        "lng": -72.69184,
+        "population": 16936
+    },
+    {
+        "id": 3875235,
+        "name": "Pozo Almonte",
+        "region": "Tarapacá",
+        "lat": -20.25585,
+        "lng": -69.7863,
+        "population": 16878
+    },
+    {
+        "id": 3898597,
+        "name": "Batuco",
+        "region": "Santiago Metropolitan",
+        "lat": -33.23283,
+        "lng": -70.80922,
+        "population": 16784
+    },
+    {
+        "id": 3895165,
+        "name": "Chicureo",
+        "region": "Santiago Metropolitan",
+        "lat": -33.28379,
+        "lng": -70.65333,
+        "population": 16520
+    },
+    {
+        "id": 3882957,
+        "name": "Llanquihue",
+        "region": "Los Lagos Region",
+        "lat": -41.25603,
+        "lng": -73.00649,
+        "population": 16249
+    },
+    {
+        "id": 3897322,
+        "name": "Caldera",
+        "region": "Atacama",
+        "lat": -27.06812,
+        "lng": -70.81921,
+        "population": 16150
+    },
+    {
+        "id": 3894446,
+        "name": "Coelemu",
+        "region": "Ñuble",
+        "lat": -36.48741,
+        "lng": -72.7032,
+        "population": 15711
+    },
+    {
+        "id": 3892981,
+        "name": "Cunco",
+        "region": "Araucania",
+        "lat": -38.93181,
+        "lng": -72.03151,
+        "population": 15628
+    },
+    {
+        "id": 3880302,
+        "name": "Maullín",
+        "region": "Los Lagos Region",
+        "lat": -41.61778,
+        "lng": -73.59833,
+        "population": 15580
+    },
+    {
+        "id": 3869967,
+        "name": "Teodoro Schmidt",
+        "region": "Araucania",
+        "lat": -38.99442,
+        "lng": -73.08927,
+        "population": 15504
+    },
+    {
+        "id": 3874570,
+        "name": "Putaendo",
+        "region": "Valparaiso",
+        "lat": -32.62642,
+        "lng": -70.7184,
+        "population": 15361
+    },
+    {
+        "id": 3889262,
+        "name": "Frutillar",
+        "region": "Los Lagos Region",
+        "lat": -41.12162,
+        "lng": -73.0581,
+        "population": 15034
+    }
+]

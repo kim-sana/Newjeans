@@ -1,0 +1,778 @@
+[
+    {
+        "id": 1871859,
+        "name": "Pyongyang",
+        "region": "Pyongyang",
+        "lat": 39.03385,
+        "lng": 125.75432,
+        "population": 3222000
+    },
+    {
+        "id": 1877449,
+        "name": "Hamhŭng",
+        "region": "South Hamgyong",
+        "lat": 39.91833,
+        "lng": 127.53639,
+        "population": 559056
+    },
+    {
+        "id": 1873757,
+        "name": "Namp’o",
+        "region": "Nampo",
+        "lat": 38.7375,
+        "lng": 125.40778,
+        "population": 455000
+    },
+    {
+        "id": 1869012,
+        "name": "Sunch’ŏn",
+        "region": "South Pyongan",
+        "lat": 39.43167,
+        "lng": 125.93278,
+        "population": 437000
+    },
+    {
+        "id": 1877030,
+        "name": "Hŭngnam",
+        "region": "South Hamgyong",
+        "lat": 39.84198,
+        "lng": 127.63206,
+        "population": 346082
+    },
+    {
+        "id": 1876373,
+        "name": "Kaesŏng",
+        "region": "Kaesong",
+        "lat": 37.97083,
+        "lng": 126.55444,
+        "population": 338155
+    },
+    {
+        "id": 1866923,
+        "name": "Wŏnsan",
+        "region": "Kangwŏn-do",
+        "lat": 39.15278,
+        "lng": 127.44361,
+        "population": 329207
+    },
+    {
+        "id": 2044757,
+        "name": "Chongjin",
+        "region": "North Hamgyong",
+        "lat": 41.79556,
+        "lng": 129.77583,
+        "population": 327000
+    },
+    {
+        "id": 1874533,
+        "name": "Man’gyŏngdae-ri",
+        "region": "Pyongyang",
+        "lat": 38.99182,
+        "lng": 125.65871,
+        "population": 321690
+    },
+    {
+        "id": 1876401,
+        "name": "Kaech’ŏn",
+        "region": "South Pyongan",
+        "lat": 39.70056,
+        "lng": 125.89333,
+        "population": 319554
+    },
+    {
+        "id": 1870883,
+        "name": "Sariwŏn-si",
+        "region": "North Hwanghae",
+        "lat": 38.50722,
+        "lng": 125.75583,
+        "population": 310100
+    },
+    {
+        "id": 2040893,
+        "name": "Sinŭiju",
+        "region": "P'yŏngan-bukto",
+        "lat": 40.10056,
+        "lng": 124.39806,
+        "population": 288112
+    },
+    {
+        "id": 1868144,
+        "name": "Tŏkch’ŏn",
+        "region": "South Pyongan",
+        "lat": 39.75261,
+        "lng": 126.25798,
+        "population": 237133
+    },
+    {
+        "id": 1877615,
+        "name": "Haeju",
+        "region": "South Hwanghae",
+        "lat": 38.04056,
+        "lng": 125.71472,
+        "population": 222396
+    },
+    {
+        "id": 2043572,
+        "name": "Kanggye",
+        "region": "Chagang",
+        "lat": 40.96946,
+        "lng": 126.58523,
+        "population": 209530
+    },
+    {
+        "id": 2045220,
+        "name": "Changam-ch’on",
+        "region": "South Hamgyong",
+        "lat": 40.60611,
+        "lng": 128.78194,
+        "population": 207299
+    },
+    {
+        "id": 2043837,
+        "name": "Hyesan",
+        "region": "Yanggang-do",
+        "lat": 41.40167,
+        "lng": 128.17778,
+        "population": 192680
+    },
+    {
+        "id": 1873014,
+        "name": "Paech’ŏn-ŭp",
+        "region": "South Hwanghae",
+        "lat": 37.99306,
+        "lng": 126.30139,
+        "population": 159825
+    },
+    {
+        "id": 2040959,
+        "name": "Sinp’o",
+        "region": "South Hamgyong",
+        "lat": 40.03971,
+        "lng": 128.1943,
+        "population": 152759
+    },
+    {
+        "id": 1869446,
+        "name": "Songnim-ni",
+        "region": "North Hwanghae",
+        "lat": 38.76349,
+        "lng": 125.64096,
+        "population": 152425
+    },
+    {
+        "id": 1878458,
+        "name": "Ch’ŏngdan-ŭp",
+        "region": "South Hwanghae",
+        "lat": 37.97028,
+        "lng": 125.9375,
+        "population": 142607
+    },
+    {
+        "id": 1870648,
+        "name": "Sinch’ŏn-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.35323,
+        "lng": 125.48423,
+        "population": 141407
+    },
+    {
+        "id": 1950953,
+        "name": "Paek'ak",
+        "region": "South Pyongan",
+        "lat": 39.46275,
+        "lng": 125.60594,
+        "population": 125924
+    },
+    {
+        "id": 1879490,
+        "name": "Chaeryŏng-ni",
+        "region": "South Pyongan",
+        "lat": 38.73583,
+        "lng": 125.23083,
+        "population": 125631
+    },
+    {
+        "id": 2042893,
+        "name": "Manp’o",
+        "region": "Chagang",
+        "lat": 41.15472,
+        "lng": 126.28944,
+        "population": 116760
+    },
+    {
+        "id": 1867429,
+        "name": "Ŭllyul",
+        "region": "South Hwanghae",
+        "lat": 38.51389,
+        "lng": 125.18972,
+        "population": 107997
+    },
+    {
+        "id": 1876124,
+        "name": "Kangnyŏng",
+        "region": "South Hwanghae",
+        "lat": 37.9075,
+        "lng": 125.51,
+        "population": 106827
+    },
+    {
+        "id": 1876105,
+        "name": "Kangsŏn",
+        "region": "South Pyongan",
+        "lat": 38.93639,
+        "lng": 125.58111,
+        "population": 102436
+    },
+    {
+        "id": 1871871,
+        "name": "P’yŏngsŏng",
+        "region": "South Pyongan",
+        "lat": 39.24639,
+        "lng": 125.87194,
+        "population": 100000
+    },
+    {
+        "id": 2042709,
+        "name": "Hwasŏng",
+        "region": "North Hamgyong",
+        "lat": 41.25556,
+        "lng": 129.49278,
+        "population": 99557
+    },
+    {
+        "id": 2055401,
+        "name": "Myŏnggan-dong",
+        "region": "North Hamgyong",
+        "lat": 41.13722,
+        "lng": 129.49472,
+        "population": 99557
+    },
+    {
+        "id": 2043835,
+        "name": "Hyesan-dong",
+        "region": "Yanggang-do",
+        "lat": 41.3953,
+        "lng": 128.18727,
+        "population": 97794
+    },
+    {
+        "id": 1867377,
+        "name": "Ŭnch’ŏn-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.56556,
+        "lng": 125.42722,
+        "population": 95597
+    },
+    {
+        "id": 1875060,
+        "name": "Kwail-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.44611,
+        "lng": 125.01861,
+        "population": 89895
+    },
+    {
+        "id": 2039589,
+        "name": "Ŭndŏk",
+        "region": "North Hamgyong",
+        "lat": 42.51878,
+        "lng": 130.33479,
+        "population": 89244
+    },
+    {
+        "id": 2042255,
+        "name": "Ŏrang",
+        "region": "North Hamgyong",
+        "lat": 41.44778,
+        "lng": 129.65556,
+        "population": 87757
+    },
+    {
+        "id": 1871537,
+        "name": "Samch’ŏn",
+        "region": "South Hwanghae",
+        "lat": 38.35944,
+        "lng": 125.32586,
+        "population": 86042
+    },
+    {
+        "id": 1870277,
+        "name": "Sinwŏn-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.23532,
+        "lng": 125.76244,
+        "population": 83161
+    },
+    {
+        "id": 1871932,
+        "name": "Pongch’ŏn-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.12389,
+        "lng": 126.20472,
+        "population": 79740
+    },
+    {
+        "id": 2038854,
+        "name": "Yuktae-dong",
+        "region": "South Hamgyong",
+        "lat": 40.02472,
+        "lng": 128.15972,
+        "population": 76427
+    },
+    {
+        "id": 2044050,
+        "name": "Hongwŏn",
+        "region": "South Hamgyong",
+        "lat": 40.02528,
+        "lng": 127.95583,
+        "population": 70923
+    },
+    {
+        "id": 2043962,
+        "name": "Hwadae",
+        "region": "North Hamgyong",
+        "lat": 40.83806,
+        "lng": 129.49694,
+        "population": 67677
+    },
+    {
+        "id": 2042645,
+        "name": "Rajin",
+        "region": "Rason",
+        "lat": 42.25559,
+        "lng": 130.28308,
+        "population": 66224
+    },
+    {
+        "id": 2042500,
+        "name": "Namyang-nodongjagu",
+        "region": "North Hamgyong",
+        "lat": 42.95389,
+        "lng": 129.85722,
+        "population": 65956
+    },
+    {
+        "id": 2042718,
+        "name": "Myŏngch’ŏn",
+        "region": "North Hamgyong",
+        "lat": 41.07056,
+        "lng": 129.42917,
+        "population": 65797
+    },
+    {
+        "id": 1868578,
+        "name": "T’aet’an-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.08822,
+        "lng": 125.2983,
+        "population": 64258
+    },
+    {
+        "id": 1873172,
+        "name": "Ongjin",
+        "region": "South Hwanghae",
+        "lat": 37.93472,
+        "lng": 125.36194,
+        "population": 64247
+    },
+    {
+        "id": 2043484,
+        "name": "Kilju",
+        "region": "North Hamgyong",
+        "lat": 40.96417,
+        "lng": 129.32778,
+        "population": 63652
+    },
+    {
+        "id": 1879487,
+        "name": "Chaeryŏng-ŭp",
+        "region": "South Hwanghae",
+        "lat": 38.39917,
+        "lng": 125.61556,
+        "population": 53330
+    },
+    {
+        "id": 1879613,
+        "name": "Anju",
+        "region": "South Pyongan",
+        "lat": 39.61778,
+        "lng": 125.66472,
+        "population": 50196
+    },
+    {
+        "id": 2039623,
+        "name": "Uiju",
+        "region": "P'yŏngan-bukto",
+        "lat": 40.19944,
+        "lng": 124.53167,
+        "population": 50081
+    },
+    {
+        "id": 2041702,
+        "name": "Puryŏng-ŭp",
+        "region": "North Hamgyong",
+        "lat": 42.06224,
+        "lng": 129.70457,
+        "population": 48958
+    },
+    {
+        "id": 2055638,
+        "name": "Yŏch’im-dong",
+        "region": "Chagang",
+        "lat": 40.36174,
+        "lng": 126.65852,
+        "population": 47460
+    },
+    {
+        "id": 1869577,
+        "name": "Songhwa",
+        "region": "South Hwanghae",
+        "lat": 38.36028,
+        "lng": 125.13722,
+        "population": 44274
+    },
+    {
+        "id": 2044091,
+        "name": "Hoeryŏng",
+        "region": "North Hamgyong",
+        "lat": 42.44113,
+        "lng": 129.74601,
+        "population": 43831
+    },
+    {
+        "id": 1889792,
+        "name": "Ch’ŏsal-li",
+        "region": "South Pyongan",
+        "lat": 39.40333,
+        "lng": 125.50889,
+        "population": 43614
+    },
+    {
+        "id": 2041137,
+        "name": "Sijung",
+        "region": "Chagang",
+        "lat": 41.07889,
+        "lng": 126.375,
+        "population": 41842
+    },
+    {
+        "id": 2044489,
+        "name": "Chunggang",
+        "region": "Chagang",
+        "lat": 41.77722,
+        "lng": 126.87361,
+        "population": 41022
+    },
+    {
+        "id": 1868998,
+        "name": "Sŭngho 1-tong",
+        "region": "Pyongyang",
+        "lat": 38.99139,
+        "lng": 125.97778,
+        "population": 39841
+    },
+    {
+        "id": 1879029,
+        "name": "Changyŏn",
+        "region": "South Hwanghae",
+        "lat": 38.25083,
+        "lng": 125.09611,
+        "population": 39368
+    },
+    {
+        "id": 2040480,
+        "name": "Songwŏn",
+        "region": "Chagang",
+        "lat": 40.37704,
+        "lng": 125.87867,
+        "population": 38051
+    },
+    {
+        "id": 2042704,
+        "name": "Songwŏn-ŭp",
+        "region": "Chagang",
+        "lat": 40.37278,
+        "lng": 126.30833,
+        "population": 38051
+    },
+    {
+        "id": 2038902,
+        "name": "Yŏnsa-ŭp",
+        "region": "North Hamgyong",
+        "lat": 41.90806,
+        "lng": 129.01111,
+        "population": 37876
+    },
+    {
+        "id": 1869021,
+        "name": "Sunan",
+        "region": "Pyongyang",
+        "lat": 39.20323,
+        "lng": 125.69312,
+        "population": 36671
+    },
+    {
+        "id": 1876873,
+        "name": "Hwangju-ŭp",
+        "region": "North Hwanghae",
+        "lat": 38.67028,
+        "lng": 125.77611,
+        "population": 35641
+    },
+    {
+        "id": 2042987,
+        "name": "Kyŏngsŏng",
+        "region": "North Hamgyong",
+        "lat": 41.58778,
+        "lng": 129.60611,
+        "population": 35604
+    },
+    {
+        "id": 2045311,
+        "name": "Aoji-ri",
+        "region": "North Hamgyong",
+        "lat": 42.52182,
+        "lng": 130.39572,
+        "population": 34248
+    },
+    {
+        "id": 2042498,
+        "name": "Ranam",
+        "region": "North Hamgyong",
+        "lat": 41.71361,
+        "lng": 129.68444,
+        "population": 34055
+    },
+    {
+        "id": 1879672,
+        "name": "Anbyŏn-ŭp",
+        "region": "Kangwŏn-do",
+        "lat": 39.0425,
+        "lng": 127.52389,
+        "population": 31845
+    },
+    {
+        "id": 2043335,
+        "name": "Kop’ung",
+        "region": "Chagang",
+        "lat": 40.60389,
+        "lng": 125.94667,
+        "population": 31572
+    },
+    {
+        "id": 2041442,
+        "name": "Samjiyŏn-ŭp",
+        "region": "Yanggang-do",
+        "lat": 41.80356,
+        "lng": 128.31886,
+        "population": 31471
+    },
+    {
+        "id": 1875107,
+        "name": "Kusŏng-si",
+        "region": "P'yŏngan-bukto",
+        "lat": 39.97969,
+        "lng": 125.2529,
+        "population": 30902
+    },
+    {
+        "id": 1878389,
+        "name": "Chŏngju-si",
+        "region": "P'yŏngan-bukto",
+        "lat": 39.69252,
+        "lng": 125.21355,
+        "population": 29065
+    },
+    {
+        "id": 1876153,
+        "name": "Kangdong-ŭp",
+        "region": "Pyongyang",
+        "lat": 39.1425,
+        "lng": 126.09611,
+        "population": 28922
+    },
+    {
+        "id": 2040674,
+        "name": "Sŏnbong",
+        "region": "Rason",
+        "lat": 42.35118,
+        "lng": 130.38307,
+        "population": 27331
+    },
+    {
+        "id": 13446724,
+        "name": "Unggi",
+        "region": "Rason",
+        "lat": 42.34166,
+        "lng": 130.41081,
+        "population": 27331
+    },
+    {
+        "id": 2043677,
+        "name": "Iwŏn-ŭp",
+        "region": "South Hamgyong",
+        "lat": 40.32306,
+        "lng": 128.65528,
+        "population": 26364
+    },
+    {
+        "id": 1877046,
+        "name": "Hŭkkyo-ri",
+        "region": "North Hwanghae",
+        "lat": 38.79861,
+        "lng": 125.79194,
+        "population": 25437
+    },
+    {
+        "id": 1875632,
+        "name": "Kosan",
+        "region": "Kangwŏn-do",
+        "lat": 38.85583,
+        "lng": 127.41806,
+        "population": 24822
+    },
+    {
+        "id": 1866569,
+        "name": "Yŏnan-ŭp",
+        "region": "South Hwanghae",
+        "lat": 37.90889,
+        "lng": 126.16111,
+        "population": 22665
+    },
+    {
+        "id": 2042503,
+        "name": "Namyang",
+        "region": "North Hamgyong",
+        "lat": 42.95044,
+        "lng": 129.85571,
+        "population": 22218
+    },
+    {
+        "id": 2042249,
+        "name": "Yŏnggwang-ŭp",
+        "region": "South Hamgyong",
+        "lat": 40.01833,
+        "lng": 127.45472,
+        "population": 21882
+    },
+    {
+        "id": 2042738,
+        "name": "Musan-ŭp",
+        "region": "North Hamgyong",
+        "lat": 42.22609,
+        "lng": 129.20776,
+        "population": 21739
+    },
+    {
+        "id": 1875588,
+        "name": "Kowŏn-ŭp",
+        "region": "South Hamgyong",
+        "lat": 39.43806,
+        "lng": 127.24306,
+        "population": 21490
+    },
+    {
+        "id": 1877148,
+        "name": "Hoeyang",
+        "region": "Kangwŏn-do",
+        "lat": 38.71028,
+        "lng": 127.59833,
+        "population": 21111
+    },
+    {
+        "id": 1867927,
+        "name": "T’ongch’ŏn-ŭp",
+        "region": "Kangwŏn-do",
+        "lat": 38.95389,
+        "lng": 127.89167,
+        "population": 20575
+    },
+    {
+        "id": 2043531,
+        "name": "Kapsan-ŭp",
+        "region": "Yanggang-do",
+        "lat": 41.09028,
+        "lng": 128.29333,
+        "population": 20406
+    },
+    {
+        "id": 1879682,
+        "name": "Anak",
+        "region": "North Hwanghae",
+        "lat": 38.51083,
+        "lng": 125.49417,
+        "population": 19995
+    },
+    {
+        "id": 2042267,
+        "name": "Onsŏng",
+        "region": "North Hamgyong",
+        "lat": 42.95722,
+        "lng": 129.99333,
+        "population": 19806
+    },
+    {
+        "id": 1875506,
+        "name": "Kujang-ŭp",
+        "region": "P'yŏngan-bukto",
+        "lat": 39.86722,
+        "lng": 126.03028,
+        "population": 19522
+    },
+    {
+        "id": 1870413,
+        "name": "Sil-li",
+        "region": "South Pyongan",
+        "lat": 39.49472,
+        "lng": 125.47361,
+        "population": 19463
+    },
+    {
+        "id": 1877872,
+        "name": "Chunghwa",
+        "region": "Pyongyang",
+        "lat": 38.86389,
+        "lng": 125.8,
+        "population": 19346
+    },
+    {
+        "id": 1871484,
+        "name": "Samho-rodongjagu",
+        "region": "South Hamgyong",
+        "lat": 39.9475,
+        "lng": 127.87111,
+        "population": 19025
+    },
+    {
+        "id": 1870434,
+        "name": "Sinmak",
+        "region": "North Hwanghae",
+        "lat": 38.41667,
+        "lng": 126.23333,
+        "population": 18669
+    },
+    {
+        "id": 2041533,
+        "name": "Sakchu-ŭp",
+        "region": "P'yŏngan-bukto",
+        "lat": 40.38944,
+        "lng": 125.04667,
+        "population": 18001
+    },
+    {
+        "id": 1879544,
+        "name": "Ayang-ni",
+        "region": "South Hwanghae",
+        "lat": 38.24719,
+        "lng": 125.79476,
+        "population": 16104
+    },
+    {
+        "id": 1870742,
+        "name": "Sinanju",
+        "region": "South Pyongan",
+        "lat": 39.59806,
+        "lng": 125.60972,
+        "population": 15693
+    }
+]
