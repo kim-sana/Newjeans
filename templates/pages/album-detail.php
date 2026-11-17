@@ -126,7 +126,7 @@ $discAlt = $cover !== '' ? $name . ' album cover' : '';
                     <?php if ($isForSale): ?>
                         <div class="album-info-row">
                             <dt>Price</dt>
-                            <dd><?= e(number_format($price, 2)) ?></dd>
+                            <dd><?= e(money($price)) ?></dd>
                         </div>
                         <div class="album-info-row">
                             <dt>Stock</dt>

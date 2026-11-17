@@ -55,16 +55,20 @@ final class PaymentController
 
         $items = $this->orders->items((int) $order['id']);
 
-        return $this->withSecurityHeaders($this->renderPublic('pages/payment', [
-            'order' => $order,
-            'items' => $items,
-            'token' => $token,
-        ], [
-            'title' => 'Payment — ' . (string) ($order['invoice_number'] ?? 'Order') . ' — NewJeans',
-            'description' => 'Complete your simulated album order payment.',
-            'active' => 'cart',
-            'styles' => ['css/purchase.css'],
-        ]));
+        return $this->withSecurityHeaders($this->renderPage(
+            'pages/payment',
+            [
+                'order' => $order,
+                'items' => $items,
+                'token' => $token,
+            ],
+            [
+                'title' => 'Payment — ' . (string) ($order['invoice_number'] ?? 'Order') . ' — NewJeans',
+                'description' => 'Complete your simulated album order payment.',
+            ],
+            'cart',
+            ['purchase.css']
+        ));
     }
 
     public function pay(Request $request, array $params = []): Response
@@ -164,16 +168,20 @@ final class PaymentController
 
         $items = $this->orders->items((int) $order['id']);
 
-        return $this->withSecurityHeaders($this->renderPublic('pages/order-status', [
-            'order' => $order,
-            'items' => $items,
-            'token' => $token,
-        ], [
-            'title' => 'Order ' . (string) ($order['invoice_number'] ?? '') . ' — NewJeans',
-            'description' => 'Order summary and payment status.',
-            'active' => 'cart',
-            'styles' => ['css/purchase.css'],
-        ]));
+        return $this->withSecurityHeaders($this->renderPage(
+            'pages/order-status',
+            [
+                'order' => $order,
+                'items' => $items,
+                'token' => $token,
+            ],
+            [
+                'title' => 'Order ' . (string) ($order['invoice_number'] ?? '') . ' — NewJeans',
+                'description' => 'Order summary and payment status.',
+            ],
+            'cart',
+            ['purchase.css']
+        ));
     }
 
     private function validToken(mixed $token): ?string
