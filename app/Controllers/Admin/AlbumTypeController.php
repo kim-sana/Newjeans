@@ -38,7 +38,6 @@ final class AlbumTypeController
         return $this->renderForm([
             'id' => null,
             'name' => '',
-            'slug' => '',
         ]);
     }
 
@@ -58,7 +57,7 @@ final class AlbumTypeController
         try {
             $this->types->insert([
                 'name' => $input['name'],
-                'slug' => Slug::unique('album_types', $this->slugSource($input), null, 80),
+                'slug' => Slug::unique('album_types', $input['name'], null, 80),
             ]);
         } catch (Throwable $exception) {
             error_log('Album type create failed: ' . $exception->getMessage());
@@ -107,7 +106,7 @@ final class AlbumTypeController
         try {
             $this->types->update($id, [
                 'name' => $input['name'],
-                'slug' => Slug::unique('album_types', $this->slugSource($input), $id, 80),
+                'slug' => Slug::unique('album_types', $input['name'], $id, 80),
             ]);
         } catch (Throwable $exception) {
             error_log('Album type update failed: ' . $exception->getMessage());
@@ -169,30 +168,23 @@ final class AlbumTypeController
     }
 
     /**
-     * @return array{name: string, slug: string}
+     * @return array{name: string}
      */
     private function input(Request $request): array
     {
         return [
             'name' => trim((string) $request->post('name', '')),
-            'slug' => trim((string) $request->post('slug', '')),
         ];
     }
 
-    private function slugSource(array $input): string
-    {
-        return $input['slug'] !== '' ? $input['slug'] : $input['name'];
-    }
-
     /**
-     * @param array{name: string, slug: string} $input
+     * @param array{name: string} $input
      * @return array<string, string>
      */
     private function validateInput(array $input, ?int $ignoreId = null): array
     {
         $errors = Validator::make($input, [
             'name' => 'required|max:80',
-            'slug' => 'nullable|max:80',
         ]);
 
         if (!isset($errors['name']) && $this->types->existsByName($input['name'], $ignoreId)) {

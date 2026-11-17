@@ -5,7 +5,6 @@ $typeModel = is_array($model ?? null) ? $model : [];
 $typeId = isset($typeModel['id']) ? (int) $typeModel['id'] : 0;
 $isEdit = $typeId > 0;
 $nameValue = (string) old('name', $typeModel['name'] ?? '');
-$slugValue = (string) old('slug', $typeModel['slug'] ?? '');
 $action = $isEdit ? url('/admin/album-types/' . $typeId) : url('/admin/album-types');
 ?>
 <div class="card admin-form-card">
@@ -32,23 +31,6 @@ $action = $isEdit ? url('/admin/album-types/' . $typeId) : url('/admin/album-typ
                 <?php if (isset($errors['name'])): ?>
                     <div class="invalid-feedback"><?= e($errors['name']) ?></div>
                 <?php endif; ?>
-            </div>
-
-            <div class="mb-3">
-                <label for="typeSlug" class="form-label">Slug</label>
-                <input
-                    type="text"
-                    id="typeSlug"
-                    name="slug"
-                    value="<?= e($slugValue) ?>"
-                    class="form-control<?= isset($errors['slug']) ? ' is-invalid' : '' ?>"
-                    maxlength="80"
-                    placeholder="mini-album"
-                >
-                <?php if (isset($errors['slug'])): ?>
-                    <div class="invalid-feedback"><?= e($errors['slug']) ?></div>
-                <?php endif; ?>
-                <div class="form-text">Leave blank to generate from the name. Slugs are kept unique automatically.</div>
             </div>
 
             <div class="d-flex gap-2">

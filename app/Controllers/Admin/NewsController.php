@@ -176,8 +176,6 @@ final class NewsController
             'content' => '',
             'status' => 'draft',
             'published_at' => '',
-            'source_name' => '',
-            'source_url' => '',
         ];
     }
 
@@ -193,8 +191,6 @@ final class NewsController
             'content' => trim((string) $request->post('content', '')),
             'status' => trim((string) $request->post('status', 'draft')),
             'published_at' => trim((string) $request->post('published_at', '')),
-            'source_name' => trim((string) $request->post('source_name', '')),
-            'source_url' => trim((string) $request->post('source_url', '')),
         ];
     }
 
@@ -210,8 +206,6 @@ final class NewsController
             'content' => 'required',
             'status' => 'required|in:draft,published,archived',
             'published_at' => 'nullable|date',
-            'source_name' => 'nullable|max:120',
-            'source_url' => 'nullable|url|max:255',
         ]);
     }
 
@@ -228,8 +222,8 @@ final class NewsController
             'content' => (string) $input['content'],
             'status' => (string) $input['status'],
             'published_at' => $this->resolvePublishedAt($input),
-            'source_name' => $input['source_name'] !== '' ? (string) $input['source_name'] : null,
-            'source_url' => $input['source_url'] !== '' ? (string) $input['source_url'] : null,
+            'source_name' => null,
+            'source_url' => null,
         ];
     }
 

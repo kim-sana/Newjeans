@@ -10,14 +10,12 @@ $titleValue = (string) old('title', $newsModel['title'] ?? '');
 $thumbnailValue = (string) old('thumbnail', $newsModel['thumbnail'] ?? '');
 $contentValue = (string) old('content', $newsModel['content'] ?? '');
 $statusValue = (string) old('status', $newsModel['status'] ?? 'draft');
-$sourceNameValue = (string) old('source_name', $newsModel['source_name'] ?? '');
-$sourceUrlValue = (string) old('source_url', $newsModel['source_url'] ?? '');
 
 $publishedRaw = (string) old('published_at', $newsModel['published_at'] ?? '');
 $publishedValue = '';
 if ($publishedRaw !== '') {
     $publishedTimestamp = strtotime($publishedRaw);
-    $publishedValue = $publishedTimestamp === false ? $publishedRaw : date('Y-m-d\TH:i', $publishedTimestamp);
+    $publishedValue = $publishedTimestamp === false ? $publishedRaw : date('Y-m-d', $publishedTimestamp);
 }
 
 $statusOptions = [
@@ -94,7 +92,7 @@ $action = $isEdit ? url('/admin/news/' . $newsId) : url('/admin/news');
                 <div class="col-md-4">
                     <label for="newsPublished" class="form-label">Published at</label>
                     <input
-                        type="datetime-local"
+                        type="date"
                         id="newsPublished"
                         name="published_at"
                         value="<?= e($publishedValue) ?>"
@@ -128,38 +126,6 @@ $action = $isEdit ? url('/admin/news/' . $newsId) : url('/admin/news');
                     ><?= e($contentValue) ?></textarea>
                     <?php if (isset($errors['content'])): ?>
                         <div class="invalid-feedback"><?= e($errors['content']) ?></div>
-                    <?php endif; ?>
-                </div>
-
-                <div class="col-md-6">
-                    <label for="newsSourceName" class="form-label">Source name</label>
-                    <input
-                        type="text"
-                        id="newsSourceName"
-                        name="source_name"
-                        value="<?= e($sourceNameValue) ?>"
-                        class="form-control<?= isset($errors['source_name']) ? ' is-invalid' : '' ?>"
-                        maxlength="120"
-                        placeholder="Korea Herald"
-                    >
-                    <?php if (isset($errors['source_name'])): ?>
-                        <div class="invalid-feedback"><?= e($errors['source_name']) ?></div>
-                    <?php endif; ?>
-                </div>
-
-                <div class="col-md-6">
-                    <label for="newsSourceUrl" class="form-label">Source URL</label>
-                    <input
-                        type="url"
-                        id="newsSourceUrl"
-                        name="source_url"
-                        value="<?= e($sourceUrlValue) ?>"
-                        class="form-control<?= isset($errors['source_url']) ? ' is-invalid' : '' ?>"
-                        maxlength="255"
-                        placeholder="https://example.com/article"
-                    >
-                    <?php if (isset($errors['source_url'])): ?>
-                        <div class="invalid-feedback"><?= e($errors['source_url']) ?></div>
                     <?php endif; ?>
                 </div>
             </div>

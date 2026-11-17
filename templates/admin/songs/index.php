@@ -46,9 +46,7 @@ $albumRelease = $albumRow['release_date'] ?? null;
                 <table class="table table-striped table-hover align-middle mb-0 admin-table">
                     <thead>
                         <tr>
-                            <th class="text-center">#</th>
                             <th>Title</th>
-                            <th class="text-center">Title track</th>
                             <th class="text-center">Featured</th>
                             <th>Audio</th>
                             <th class="text-end">Actions</th>
@@ -58,20 +56,11 @@ $albumRelease = $albumRow['release_date'] ?? null;
                         <?php foreach ($songRows as $songRow): ?>
                             <?php
                             $songId = (int) ($songRow['id'] ?? 0);
-                            $isTitleTrack = (int) ($songRow['is_title'] ?? 0) === 1;
                             $isFeatured = (int) ($songRow['is_featured'] ?? 0) === 1;
                             $audioUrl = (string) ($songRow['audio_url'] ?? '');
                             ?>
                             <tr>
-                                <td class="text-center"><?= (int) ($songRow['track_number'] ?? 0) ?></td>
                                 <td class="fw-semibold"><?= e($songRow['title'] ?? '') ?></td>
-                                <td class="text-center">
-                                    <?php if ($isTitleTrack): ?>
-                                        <span class="badge text-bg-primary">Title</span>
-                                    <?php else: ?>
-                                        <span class="text-secondary">&mdash;</span>
-                                    <?php endif; ?>
-                                </td>
                                 <td class="text-center">
                                     <?php if ($isFeatured): ?>
                                         <span class="badge text-bg-success">Featured</span>

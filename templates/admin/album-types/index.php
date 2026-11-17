@@ -18,7 +18,6 @@ $typeRows = is_array($types ?? null) ? $types : [];
                     <thead>
                         <tr>
                             <th>Name</th>
-                            <th>Slug</th>
                             <th class="text-center">Albums</th>
                             <th class="text-end">Actions</th>
                         </tr>
@@ -28,7 +27,6 @@ $typeRows = is_array($types ?? null) ? $types : [];
                             <?php $typeId = (int) ($typeRow['id'] ?? 0); ?>
                             <tr>
                                 <td class="fw-semibold"><?= e($typeRow['name'] ?? '') ?></td>
-                                <td><code><?= e($typeRow['slug'] ?? '') ?></code></td>
                                 <td class="text-center"><?= (int) ($typeRow['album_count'] ?? 0) ?></td>
                                 <td class="text-end admin-actions">
                                     <a

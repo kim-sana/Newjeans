@@ -171,7 +171,6 @@ final class GalleryController
             'id' => null,
             'image' => '',
             'alt_text' => '',
-            'caption' => '',
             'sort_order' => '',
         ];
     }
@@ -184,7 +183,6 @@ final class GalleryController
         return [
             'image' => (string) ($model['image'] ?? ''),
             'alt_text' => trim((string) $request->post('alt_text', '')),
-            'caption' => trim((string) $request->post('caption', '')),
             'sort_order' => trim((string) $request->post('sort_order', '')),
         ];
     }
@@ -197,7 +195,6 @@ final class GalleryController
     {
         return Validator::make($input, [
             'alt_text' => 'nullable|max:200',
-            'caption' => 'nullable|max:200',
             'sort_order' => 'nullable|integer|min:0',
         ]);
     }
@@ -220,7 +217,7 @@ final class GalleryController
         return [
             'image' => (string) $input['image'],
             'alt_text' => $input['alt_text'] !== '' ? (string) $input['alt_text'] : null,
-            'caption' => $input['caption'] !== '' ? (string) $input['caption'] : null,
+            'caption' => null,
             'sort_order' => $sortOrder,
         ];
     }

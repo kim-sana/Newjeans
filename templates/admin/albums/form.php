@@ -19,7 +19,7 @@ $releaseRaw = (string) old('release_date', $albumModel['release_date'] ?? '');
 $releaseValue = '';
 if ($releaseRaw !== '') {
     $releaseTimestamp = strtotime($releaseRaw);
-    $releaseValue = $releaseTimestamp === false ? $releaseRaw : date('Y-m-d\TH:i', $releaseTimestamp);
+    $releaseValue = $releaseTimestamp === false ? $releaseRaw : date('Y-m-d', $releaseTimestamp);
 }
 
 $action = $isEdit ? url('/admin/albums/' . $albumId) : url('/admin/albums');
@@ -86,7 +86,7 @@ $action = $isEdit ? url('/admin/albums/' . $albumId) : url('/admin/albums');
                 <div class="col-md-6">
                     <label for="albumRelease" class="form-label">Release date</label>
                     <input
-                        type="datetime-local"
+                        type="date"
                         id="albumRelease"
                         name="release_date"
                         value="<?= e($releaseValue) ?>"

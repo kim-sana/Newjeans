@@ -89,17 +89,13 @@ $discAlt = $cover !== '' ? $name . ' album cover' : '';
                 <ol class="album-tracklist">
                     <?php foreach ($songs as $song): ?>
                         <li class="album-track">
-                            <span class="album-track-num"><?= e(sprintf('%02d', (int) ($song['track_number'] ?? 0))) ?></span>
                             <div class="album-track-body">
                                 <span class="album-track-title"><?= e((string) ($song['title'] ?? '')) ?></span>
-                                <span class="album-track-flags">
-                                    <?php if ((int) ($song['is_title'] ?? 0) === 1): ?>
-                                        <span class="album-flag album-flag--title">Title</span>
-                                    <?php endif; ?>
-                                    <?php if ((int) ($song['is_featured'] ?? 0) === 1): ?>
+                                <?php if ((int) ($song['is_featured'] ?? 0) === 1): ?>
+                                    <span class="album-track-flags">
                                         <span class="album-flag album-flag--featured">Featured</span>
-                                    <?php endif; ?>
-                                </span>
+                                    </span>
+                                <?php endif; ?>
                             </div>
                         </li>
                     <?php endforeach; ?>

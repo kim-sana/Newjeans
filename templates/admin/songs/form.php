@@ -8,9 +8,7 @@ $songId = isset($songModel['id']) ? (int) $songModel['id'] : 0;
 $isEdit = $songId > 0;
 
 $titleValue = (string) old('title', $songModel['title'] ?? '');
-$trackValue = (string) old('track_number', $songModel['track_number'] ?? '0');
 $audioValue = (string) old('audio_url', $songModel['audio_url'] ?? '');
-$isTitleTrack = (int) old('is_title', $songModel['is_title'] ?? 0) === 1;
 $isFeatured = (int) old('is_featured', $songModel['is_featured'] ?? 0) === 1;
 
 $basePath = '/admin/albums/' . $albumId . '/songs';
@@ -30,7 +28,7 @@ $action = $isEdit ? url($basePath . '/' . $songId) : url($basePath);
             <?= \App\Core\Csrf::field() ?>
 
             <div class="row g-3">
-                <div class="col-md-9">
+                <div class="col-12">
                     <label for="songTitle" class="form-label">Title</label>
                     <input
                         type="text"
@@ -43,23 +41,6 @@ $action = $isEdit ? url($basePath . '/' . $songId) : url($basePath);
                     >
                     <?php if (isset($errors['title'])): ?>
                         <div class="invalid-feedback"><?= e($errors['title']) ?></div>
-                    <?php endif; ?>
-                </div>
-
-                <div class="col-md-3">
-                    <label for="songTrack" class="form-label">Track number</label>
-                    <input
-                        type="number"
-                        id="songTrack"
-                        name="track_number"
-                        value="<?= e($trackValue) ?>"
-                        class="form-control<?= isset($errors['track_number']) ? ' is-invalid' : '' ?>"
-                        min="0"
-                        step="1"
-                        required
-                    >
-                    <?php if (isset($errors['track_number'])): ?>
-                        <div class="invalid-feedback"><?= e($errors['track_number']) ?></div>
                     <?php endif; ?>
                 </div>
 
@@ -81,29 +62,17 @@ $action = $isEdit ? url($basePath . '/' . $songId) : url($basePath);
                 </div>
 
                 <div class="col-12">
-                    <div class="d-flex flex-wrap gap-4">
-                        <div class="form-check">
-                            <input
-                                type="checkbox"
-                                id="songIsTitle"
-                                name="is_title"
-                                value="1"
-                                class="form-check-input"
-                                <?= $isTitleTrack ? 'checked' : '' ?>
-                            >
-                            <label for="songIsTitle" class="form-check-label">Title track</label>
-                        </div>
-                        <div class="form-check">
-                            <input
-                                type="checkbox"
-                                id="songIsFeatured"
-                                name="is_featured"
-                                value="1"
-                                class="form-check-input"
-                                <?= $isFeatured ? 'checked' : '' ?>
-                            >
-                            <label for="songIsFeatured" class="form-check-label">Featured on home page</label>
-                        </div>
+                    <div class="form-check form-switch">
+                        <input
+                            type="checkbox"
+                            role="switch"
+                            id="songIsFeatured"
+                            name="is_featured"
+                            value="1"
+                            class="form-check-input"
+                            <?= $isFeatured ? 'checked' : '' ?>
+                        >
+                        <label for="songIsFeatured" class="form-check-label">Featured</label>
                     </div>
                 </div>
             </div>

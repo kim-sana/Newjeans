@@ -7,7 +7,6 @@ $isEdit = $itemId > 0;
 
 $imageValue = (string) old('image', $itemModel['image'] ?? '');
 $altTextValue = (string) old('alt_text', $itemModel['alt_text'] ?? '');
-$captionValue = (string) old('caption', $itemModel['caption'] ?? '');
 $sortOrderValue = (string) old('sort_order', $itemModel['sort_order'] ?? '');
 
 $action = $isEdit ? url('/admin/gallery/' . $itemId) : url('/admin/gallery');
@@ -68,21 +67,6 @@ $action = $isEdit ? url('/admin/gallery/' . $itemId) : url('/admin/gallery');
                     <div class="form-text">
                         Lower numbers appear first.<?= $isEdit ? ' Leave blank to keep the current order.' : ' Leave blank to append at the end.' ?>
                     </div>
-                </div>
-
-                <div class="col-12">
-                    <label for="galleryCaption" class="form-label">Caption</label>
-                    <input
-                        type="text"
-                        id="galleryCaption"
-                        name="caption"
-                        value="<?= e($captionValue) ?>"
-                        class="form-control<?= isset($errors['caption']) ? ' is-invalid' : '' ?>"
-                        maxlength="200"
-                    >
-                    <?php if (isset($errors['caption'])): ?>
-                        <div class="invalid-feedback"><?= e($errors['caption']) ?></div>
-                    <?php endif; ?>
                 </div>
             </div>
 

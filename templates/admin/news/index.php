@@ -21,7 +21,6 @@ $newsRows = is_array($newsItems ?? null) ? $newsItems : [];
                             <th>Title</th>
                             <th>Status</th>
                             <th>Published</th>
-                            <th>Source</th>
                             <th class="text-end">Actions</th>
                         </tr>
                     </thead>
@@ -32,7 +31,6 @@ $newsRows = is_array($newsItems ?? null) ? $newsItems : [];
                             $thumbnail = (string) ($newsRow['thumbnail'] ?? '');
                             $status = (string) ($newsRow['status'] ?? 'draft');
                             $publishedAt = $newsRow['published_at'] ?? null;
-                            $sourceName = (string) ($newsRow['source_name'] ?? '');
                             $statusTheme = match ($status) {
                                 'published' => 'success',
                                 'archived' => 'warning',
@@ -54,11 +52,6 @@ $newsRows = is_array($newsItems ?? null) ? $newsItems : [];
                                 <td>
                                     <?= is_string($publishedAt) && $publishedAt !== ''
                                         ? e(date('M j, Y', (int) strtotime($publishedAt)))
-                                        : '<span class="text-secondary">&mdash;</span>' ?>
-                                </td>
-                                <td>
-                                    <?= $sourceName !== ''
-                                        ? e($sourceName)
                                         : '<span class="text-secondary">&mdash;</span>' ?>
                                 </td>
                                 <td class="text-end admin-actions">

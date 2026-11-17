@@ -199,8 +199,6 @@ final class SongController
         return [
             'id' => null,
             'title' => '',
-            'track_number' => '0',
-            'is_title' => 0,
             'is_featured' => 0,
             'audio_url' => '',
         ];
@@ -213,8 +211,6 @@ final class SongController
     {
         return [
             'title' => trim((string) $request->post('title', '')),
-            'track_number' => trim((string) $request->post('track_number', '')),
-            'is_title' => in_array((string) $request->post('is_title', ''), ['1', 'on', 'true'], true) ? 1 : 0,
             'is_featured' => in_array((string) $request->post('is_featured', ''), ['1', 'on', 'true'], true) ? 1 : 0,
             'audio_url' => trim((string) $request->post('audio_url', '')),
         ];
@@ -228,7 +224,6 @@ final class SongController
     {
         $errors = Validator::make($input, [
             'title' => 'required|max:160',
-            'track_number' => 'required|integer|min:0',
             'audio_url' => 'nullable|max:255',
         ]);
 
@@ -248,8 +243,8 @@ final class SongController
         return [
             'album_id' => $albumId,
             'title' => (string) $input['title'],
-            'track_number' => (int) $input['track_number'],
-            'is_title' => (int) $input['is_title'],
+            'track_number' => 0,
+            'is_title' => 0,
             'is_featured' => (int) $input['is_featured'],
             'audio_url' => $input['audio_url'] !== '' ? (string) $input['audio_url'] : null,
         ];

@@ -19,7 +19,6 @@ $itemRows = is_array($items ?? null) ? $items : [];
                         <tr>
                             <th>Image</th>
                             <th>Alt text</th>
-                            <th>Caption</th>
                             <th class="text-center">Sort order</th>
                             <th class="text-end">Actions</th>
                         </tr>
@@ -39,7 +38,6 @@ $itemRows = is_array($items ?? null) ? $items : [];
                                     <?php endif; ?>
                                 </td>
                                 <td><?= e($itemRow['alt_text'] ?? '') ?></td>
-                                <td class="text-secondary"><?= e($itemRow['caption'] ?? '') ?></td>
                                 <td class="text-center"><?= (int) ($itemRow['sort_order'] ?? 0) ?></td>
                                 <td class="text-end admin-actions">
                                     <a

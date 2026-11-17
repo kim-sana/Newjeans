@@ -13,7 +13,7 @@ $eventDateRaw = (string) old('event_date', $historyModel['event_date'] ?? '');
 $eventDateValue = '';
 if ($eventDateRaw !== '') {
     $eventTimestamp = strtotime($eventDateRaw);
-    $eventDateValue = $eventTimestamp === false ? $eventDateRaw : date('Y-m-d\TH:i', $eventTimestamp);
+    $eventDateValue = $eventTimestamp === false ? $eventDateRaw : date('Y-m-d', $eventTimestamp);
 }
 
 $action = $isEdit ? url('/admin/histories/' . $historyId) : url('/admin/histories');
@@ -48,7 +48,7 @@ $action = $isEdit ? url('/admin/histories/' . $historyId) : url('/admin/historie
                 <div class="col-md-4">
                     <label for="historyDate" class="form-label">Event date</label>
                     <input
-                        type="datetime-local"
+                        type="date"
                         id="historyDate"
                         name="event_date"
                         value="<?= e($eventDateValue) ?>"
